@@ -1,19 +1,19 @@
-# Awesome-Rust-Robotics
+# Awesome-Rust-Iot-Robotics
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-🔥🔥🔥 This repository lists some awesome public Rust projects for robotics.
+🔥🔥🔥 This repository lists some awesome public Rust projects for iot and robotics.
 
 ## Contents
-- [Awesome-Rust-Robotics](#awesome-rust-robotics)
+- [Awesome-Rust-Iot-Robotics](#awesome-rust-robotics)
   - [Summary](#summary)
     - [Awesome List](#awesome-list)
     - [Code Overview](#code-overview)
   - [Robot Operating System](#robot-operating-system)
   - [Linear Algebra](#linear-algebra)
   - [Numerical Optimization](#numerical-optimization)
-  - [Filter](#filter)
-  - [Sensor](#sensor)
-  - [SLAM](#slam)
+  - [Signal Processing](#signal-processing)
+  - [Sensor API](#sensor-api)
+  - [Localization and Mapping](#localization-and-mapping)
   - [Path Planning](#path-planning)
   - [Motion Control](#motion-control)
 
@@ -22,14 +22,14 @@
 
   - ### Awesome List
 
+    - [rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) <img src="https://img.shields.io/github/stars/rust-embedded/awesome-embedded-rust?style=social"/> : Curated list of resources for Embedded and Low-level development in the Rust programming language.
+
     - [robotics-rs/robotics.rs](https://github.com/robotics-rs/robotics.rs) <img src="https://img.shields.io/github/stars/robotics-rs/robotics.rs?style=social"/> : List of (awesome) Rust libraries for Robotics. 
 
 
   - ### Code Overview
 
     - [rsasaki0109/RustRobotics](https://github.com/rsasaki0109/RustRobotics) <img src="https://img.shields.io/github/stars/rsasaki0109/RustRobotics?style=social"/> : Rust implementation of PythonRobotics such as EKF, DWA, Pure Pursuit, LQR. 
-
-
 
 
 - ## Robot Operating System
@@ -76,7 +76,7 @@
   - [alphaville/optimization-engine](https://github.com/alphaville/optimization-engine) <img src="https://img.shields.io/github/stars/alphaville/optimization-engine?style=social"/> : Optimization Engine (OpEn) is a solver for Fast & Accurate Embedded Optimization for next-generation Robotics and Autonomous Systems.
 
 
-- ## Filter
+- ## Signal Processing
 
   - [hortovanyi/Unscented-Kalman-Filter-Rust](https://github.com/hortovanyi/Unscented-Kalman-Filter-Rust) <img src="https://img.shields.io/github/stars/hortovanyi/Unscented-Kalman-Filter-Rust?style=social"/> : UKF written in Rust based on the C++ UKF from the Udacity SD Car Nanodegree.
 
@@ -90,7 +90,7 @@
 
 
 
-- ## Sensor
+- ## Sensor API
 
   - [shirok1/livox-rs](https://github.com/shirok1/livox-rs) <img src="https://img.shields.io/github/stars/shirok1/livox-rs?style=social"/> : Alternative Livox LiDAR library. 
 
@@ -98,7 +98,7 @@
 
 
 
-- ## SLAM
+- ## Localization and Mapping
 
   - [pekkaran/violet](https://github.com/pekkaran/violet) <img src="https://img.shields.io/github/stars/pekkaran/violet?style=social"/> : A toy stereo visual inertial odometry (VIO) system.
 
