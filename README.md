@@ -10,7 +10,7 @@
     - [Code Overview](#code-overview)
   - [Robot Operating System](#robot-operating-system)
   - [Linear Algebra](#linear-algebra)
-  - [Numerical Optimization](#numerical-optimization)
+  - [Optimization Algorithm](#optimization-algorithm)
   - [Signal Processing](#signal-processing)
   - [Sensor API](#sensor-api)
   - [Localization and Mapping](#localization-and-mapping)
@@ -59,7 +59,9 @@
 
   - [openrr/ros-nalgebra](https://github.com/openrr/ros-nalgebra) <img src="https://img.shields.io/github/stars/openrr/ros-nalgebra?style=social"/> : Generate code to convert geometry_msgs into nalgebra structs, for [rosrust](https://github.com/adnanademovic/rosrust).
 
-  - [strawlab/opencv-ros-camera](https://github.com/strawlab/opencv-ros-camera) <img src="https://img.shields.io/github/stars/strawlab/opencv-ros-camera?style=social"/> :Geometric models of OpenCV/ROS cameras for photogrammetry.
+  - [strawlab/opencv-ros-camera](https://github.com/strawlab/opencv-ros-camera) <img src="https://img.shields.io/github/stars/strawlab/opencv-ros-camera?style=social"/> : Geometric models of OpenCV/ROS cameras for photogrammetry.
+
+  - [luickk/rust-rtos](https://github.com/luickk/rust-rtos) <img src="https://img.shields.io/github/stars/luickk/rust-rtos?style=social"/> : robotics real-time micro kernel.
 
 
 - ## Linear Algebra
@@ -71,9 +73,11 @@
   - [elsuizo/static-math](https://github.com/elsuizo/static-math) <img src="https://img.shields.io/github/stars/elsuizo/static-math?style=social"/> : Safe and fast mathematical operations with static arrays in the Rust programming language.
 
 
-- ## Numerical Optimization
+- ## Optimization Algorithm 
 
   - [alphaville/optimization-engine](https://github.com/alphaville/optimization-engine) <img src="https://img.shields.io/github/stars/alphaville/optimization-engine?style=social"/> : Optimization Engine (OpEn) is a solver for Fast & Accurate Embedded Optimization for next-generation Robotics and Autonomous Systems.
+
+  - [mithi/rusty-genes](https://github.com/mithi/rusty-genes) <img src="https://img.shields.io/github/stars/mithi/rusty-genes?style=social"/> : Genetic algorithm implementation in Rust with animated visualizations in Python.
 
 
 - ## Signal Processing
