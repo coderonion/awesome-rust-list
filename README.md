@@ -11,6 +11,7 @@
   - [Embedded Programming](#embedded-programming)
   - [General Operating System](#general-operating-system)
   - [Robot Operating System](#robot-operating-system)
+  - [FFI Bindings](#ffi-bindings)
   - [GPU Integration](#gpu-integration)  
   - [Linear Algebra](#linear-algebra)
   - [Optimization Algorithm](#optimization-algorithm)
@@ -99,6 +100,21 @@
   - [strawlab/opencv-ros-camera](https://github.com/strawlab/opencv-ros-camera) <img src="https://img.shields.io/github/stars/strawlab/opencv-ros-camera?style=social"/> : Geometric models of OpenCV/ROS cameras for photogrammetry.
 
   - [luickk/rust-rtos](https://github.com/luickk/rust-rtos) <img src="https://img.shields.io/github/stars/luickk/rust-rtos?style=social"/> : robotics real-time micro kernel.
+
+
+
+- ## FFI Bindings 
+
+  - [PyO3](https://github.com/PyO3/pyo3) <img src="https://img.shields.io/github/stars/PyO3/pyo3?style=social"/> : Rust bindings for the Python interpreter.
+
+  - [Autocxx](https://github.com/google/autocxx) <img src="https://img.shields.io/github/stars/google/autocxx?style=social"/> : Tool for safe ergonomic Rust/C++ interop driven from existing C++ headers.
+
+  - [bindgen](https://github.com/rust-lang/rust-bindgen) <img src="https://img.shields.io/github/stars/rust-lang/rust-bindgen?style=social"/> : Automatically generates Rust FFI bindings to C (and some C++) libraries. 
+
+  - [cxx](https://github.com/dtolnay/cxx) <img src="https://img.shields.io/github/stars/dtolnay/cxx?style=social"/> : Safe interop between Rust and C++.
+
+  - [Diplomat](https://github.com/rust-diplomat/diplomat) <img src="https://img.shields.io/github/stars/rust-diplomat/diplomat?style=social"/> : Experimental Rust tool for generating FFI definitions allowing many other languages to call Rust code.
+
 
 
 - ## GPU Integration 
