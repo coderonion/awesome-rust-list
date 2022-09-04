@@ -17,6 +17,7 @@
   - [Optimization Algorithm](#optimization-algorithm)
   - [Signal Processing](#signal-processing)
   - [Sensor API](#sensor-api)
+  - [Image Processing](#image-processing)
   - [Localization and Mapping](#localization-and-mapping)
   - [Path Planning](#path-planning)
   - [Motion Control](#motion-control)
@@ -168,6 +169,13 @@
   - [shirok1/livox-rs](https://github.com/shirok1/livox-rs) <img src="https://img.shields.io/github/stars/shirok1/livox-rs?style=social"/> : Alternative Livox LiDAR library. 
 
   - [jerry73204/rust-lidar-utils](https://github.com/jerry73204/rust-lidar-utils) <img src="https://img.shields.io/github/stars/jerry73204/rust-lidar-utils?style=social"/> : Encode and decode Velodyne and Ouster lidar packets in Rust.
+
+
+
+
+- ## Image Processing
+
+  - [opencv-rust](https://github.com/twistedfall/opencv-rust) <img src="https://img.shields.io/github/stars/twistedfall/opencv-rust?style=social"/> : Rust bindings for OpenCV 3 & 4. 
 
 
 
