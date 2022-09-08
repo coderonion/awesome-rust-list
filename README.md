@@ -14,6 +14,7 @@
   - [FFI Bindings](#ffi-bindings)
   - [GPU Integration](#gpu-integration)  
   - [Linear Algebra](#linear-algebra)
+  - [Data Visualization](#data-visualization)
   - [Optimization Algorithm](#optimization-algorithm)
   - [Signal Processing](#signal-processing)
   - [Sensor API](#sensor-api)
@@ -151,9 +152,18 @@
 
   - [ndarray](https://github.com/rust-ndarray/ndarray) <img src="https://img.shields.io/github/stars/rust-ndarray/ndarray?style=social"/> : The ndarray crate provides an n-dimensional container for general elements and for numerics.
 
+  - [ndarray-linalg](https://github.com/rust-ndarray/ndarray-linalg) <img src="https://img.shields.io/github/stars/rust-ndarray/ndarray-linalg?style=social"/> : Linear algebra package for rust-ndarray using LAPACK binding.
+
   - [nalgebra](https://github.com/dimforge/nalgebra) <img src="https://img.shields.io/github/stars/dimforge/nalgebra?style=social"/> : Linear algebra library for the Rust programming language.
 
   - [elsuizo/static-math](https://github.com/elsuizo/static-math) <img src="https://img.shields.io/github/stars/elsuizo/static-math?style=social"/> : Safe and fast mathematical operations with static arrays in the Rust programming language.
+
+
+
+
+- ## Data Visualization
+
+  - [Plotters](https://github.com/plotters-rs/plotters) <img src="https://img.shields.io/github/stars/plotters-rs/plotters?style=social"/> : A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
 
 
 - ## Optimization Algorithm 
@@ -192,7 +202,7 @@
 
   - [image-rs](https://github.com/image-rs/image) <img src="https://img.shields.io/github/stars/image-rs/image?style=social"/> : Encoding and decoding images in Rust.
 
-
+  - [rust-ffmpeg](https://github.com/zmwangx/rust-ffmpeg) <img src="https://img.shields.io/github/stars/zmwangx/rust-ffmpeg?style=social"/> : Safe FFmpeg wrapper.
 
 
 
