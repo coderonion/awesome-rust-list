@@ -1,15 +1,15 @@
-# Awesome-Rust-Embedded-Robotics
+# Awesome-Rust-Robotics
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-🔥🔥🔥 This repository lists some awesome public Rust projects for embedded and robotics.
+🔥🔥🔥 This repository lists some awesome public Rust projects for robotics.
 
 ## Contents
-- [Awesome-Rust-Embedded-Robotics](#awesome-rust-embedded-robotics)
+- [Awesome-Rust-Robotics](#awesome-rust-robotics)
   - [Summary](#summary)
     - [Awesome List](#awesome-list)
     - [Code Overview](#code-overview)
-  - [Embedded Programming](#embedded-programming)
-  - [General Operating System](#general-operating-system)
+  - [Embedded Development](#embedded-development)
+  - [Universal Operating System](#universal-operating-system)
   - [Robot Operating System](#robot-operating-system)
   - [FFI Bindings](#ffi-bindings)
   - [GPU Integration](#gpu-integration)  
@@ -43,7 +43,7 @@
 
 
 
-- ## Embedded Programming
+- ## Embedded Development
 
   - [stm32-rs](https://github.com/stm32-rs) : Community Rust support projects for STM32 microcontrollers.
 
@@ -51,7 +51,7 @@
 
 
 
-- ## General Operating System
+- ## Universal Operating System
 
   - [BlogOS](https://github.com/phil-opp/blog_os) <img src="https://img.shields.io/github/stars/phil-opp/blog_os?style=social"/> : This repository contains the source code for the Writing an OS in Rust series at [os.phil-opp.com](https://os.phil-opp.com/).
 
@@ -130,6 +130,7 @@
   - [Diplomat](https://github.com/rust-diplomat/diplomat) <img src="https://img.shields.io/github/stars/rust-diplomat/diplomat?style=social"/> : Experimental Rust tool for generating FFI definitions allowing many other languages to call Rust code.
 
   - [zig2rs](https://github.com/natanalt/zig2rs) <img src="https://img.shields.io/github/stars/natanalt/zig2rs?style=social"/> : use zig code in rust - a medium effort shitpost.
+
 
 
 - ## GPU Integration 
