@@ -14,6 +14,7 @@
   - [FFI Bindings](#ffi-bindings)
   - [GPU Integration](#gpu-integration)  
   - [Linear Algebra](#linear-algebra)
+  - [Lie Groups](#lie-groups)
   - [Data Visualization](#data-visualization)
   - [Optimization Algorithm](#optimization-algorithm)
   - [Signal Processing](#signal-processing)
@@ -24,7 +25,9 @@
   - [Path Planning](#path-planning)
   - [Motion Control](#motion-control)
   - [Machine-Learning](#machine-learning)
-  
+
+
+
 
 - ## Summary
 
@@ -176,6 +179,10 @@
 
   - [static-math](https://github.com/elsuizo/static-math) <img src="https://img.shields.io/github/stars/elsuizo/static-math?style=social"/> : Safe and fast mathematical operations with static arrays in the Rust programming language.
 
+
+- ## Lie Groups
+
+  - [sophus-rs](https://github.com/strasdat/sophus-rs) <img src="https://img.shields.io/github/stars/strasdat/sophus-rs?style=social"/> : Rust bindings for the C++ implementation of Lie Groups using Eigen.
 
 
 - ## Data Visualization
