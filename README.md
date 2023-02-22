@@ -6,6 +6,8 @@
 ## Contents
 - [Awesome-Rust-Robotics](#awesome-rust-robotics)
   - [Summary](#summary)
+    - [Official Rust](#official-rust)
+    - [Learning Resources](#learning-resources)
     - [Awesome List](#awesome-list)
     - [Code Overview](#code-overview)
   - [Embedded Development](#embedded-development)
@@ -30,6 +32,46 @@
 
 
 - ## Summary
+
+  - ### Official Rust
+
+    - [Rust](https://github.com/rust-lang/rust) <img src="https://img.shields.io/github/stars/rust-lang/rust?style=social"/> : The Rust Programming Language. Empowering everyone to build reliable and efficient software. [www.rust-lang.org](www.rust-lang.org). [Rust Foundation](https://foundation.rust-lang.org/)
+
+    - [crates.io](https://crates.io/) : The Rust community’s crate registry.
+
+    - [Lib.rs](https://lib.rs/) : Fast, lightweight, opinionated, unofficial alternative to crates.io.
+
+
+
+  - ### Learning Resources
+
+    - [Rust Book](https://doc.rust-lang.org/stable/book/) : The Rust Programming Language Book.
+
+    - [Rust Standard Library](https://doc.rust-lang.org/std/index.html) : The Rust Standard Library.
+
+    - [Rust Language Reference](https://doc.rust-lang.org/reference/) : The Rust Reference.
+
+    - [Unsafe Code Guidelines Reference](https://rust-lang.github.io/unsafe-code-guidelines/) : Rust's Unsafe Code Guidelines Reference.
+
+    - [rust-lang/rustlings](hhttps://github.com/rust-lang/rustlings) <img src="https://img.shields.io/github/stars/rust-lang/rustlings?style=social"/> : 🦀 Small exercises to get you used to reading and writing Rust code!
+
+    - [Rust Books](https://lborb.github.io/book/title-page.html) : The Little Book of Rust Books.
+
+    - [Rust文档网](https://rustwiki.org/) : Rust 官方文档中文教程。
+
+    - [Rust参考手册](https://rustwiki.org/zh-CN/reference/) : Rust 参考手册 中文版。
+
+    - [Rust程序设计语言](https://kaisery.github.io/trpl-zh-cn/) : Rust 程序设计语言 简体中文版。
+
+    - [通过例子学Rust](https://rustwiki.org/zh-CN/rust-by-example/) : 通过例子学 Rust 中文版。
+
+    - [Rust语言圣经](https://course.rs/about-book.html) : Rust语言圣经(Rust Course)。
+
+    - [Rust语言实战](https://zh.practice.rs/why-exercise.html) : Rust By Practice( Rust 练习实践 )。
+
+    - [Rust秘典](https://nomicon.purewhite.io/) : Rust 秘典（死灵书）。
+
+
 
   - ### Awesome List
 
