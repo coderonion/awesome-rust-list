@@ -35,7 +35,7 @@
 
   - ### Official Rust
 
-    - [Rust](https://github.com/rust-lang/rust) <img src="https://img.shields.io/github/stars/rust-lang/rust?style=social"/> : The Rust Programming Language. Empowering everyone to build reliable and efficient software. [www.rust-lang.org](www.rust-lang.org). [Rust Foundation](https://foundation.rust-lang.org/)
+    - [Rust](https://github.com/rust-lang/rust) <img src="https://img.shields.io/github/stars/rust-lang/rust?style=social"/> : The Rust Programming Language. Empowering everyone to build reliable and efficient software. [www.rust-lang.org](www.rust-lang.org). [Rust Foundation](https://foundation.rust-lang.org/).
 
     - [crates.io](https://crates.io/) : The Rust community’s crate registry.
 
@@ -67,7 +67,7 @@
 
     - [通过例子学Rust](https://rustwiki.org/zh-CN/rust-by-example/) : 通过例子学 Rust 中文版。
 
-    - [Rust语言圣经](https://course.rs/about-book.html) : Rust语言圣经(Rust Course)。
+    - [sunface/rust-course](https://github.com/sunface/rust-course) <img src="https://img.shields.io/github/stars/sunface/rust-course?style=social"/> : [Rust语言圣经](https://course.rs/about-book.html)。
 
     - [Rust语言实战](https://zh.practice.rs/why-exercise.html) : Rust By Practice( Rust 练习实践 )。
 
@@ -186,6 +186,10 @@
   - [Diplomat](https://github.com/rust-diplomat/diplomat) <img src="https://img.shields.io/github/stars/rust-diplomat/diplomat?style=social"/> : Experimental Rust tool for generating FFI definitions allowing many other languages to call Rust code.
 
   - [zig2rs](https://github.com/natanalt/zig2rs) <img src="https://img.shields.io/github/stars/natanalt/zig2rs?style=social"/> : use zig code in rust - a medium effort shitpost.
+
+
+
+
 
 
 
