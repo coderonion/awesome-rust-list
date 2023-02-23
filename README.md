@@ -30,7 +30,6 @@
 
 
 
-
 - ## Summary
 
   - ### Official Rust
@@ -49,6 +48,8 @@
 
     - [rust-lang/reference](https://github.com/rust-lang/reference) <img src="https://img.shields.io/github/stars/rust-lang/reference?style=social"/> : [The Rust Reference](https://doc.rust-lang.org/reference/).
 
+    - [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) <img src="https://img.shields.io/github/stars/rust-lang/rust-by-example?style=social"/> : [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/).
+
     - [Unsafe Code Guidelines Reference](https://rust-lang.github.io/unsafe-code-guidelines/) : Rust's Unsafe Code Guidelines Reference.
 
     - [Rust Standard Library](https://doc.rust-lang.org/std/index.html) : The Rust Standard Library.
@@ -61,17 +62,17 @@
 
     - [Rust文档网](https://rustwiki.org/) : Rust 官方文档中文教程。
 
-    - [Rust参考手册](https://rustwiki.org/zh-CN/reference/) : Rust 参考手册 中文版。
+    - [rust-lang-cn/reference-cn](https://github.com/rust-lang-cn/reference-cn) <img src="https://img.shields.io/github/stars/rust-lang-cn/reference-cn?style=social"/> : [Rust 参考手册 中文版](https://rustwiki.org/zh-CN/reference/)。
 
     - [Rust程序设计语言](https://kaisery.github.io/trpl-zh-cn/) : Rust 程序设计语言 简体中文版。
 
-    - [通过例子学Rust](https://rustwiki.org/zh-CN/rust-by-example/) : 通过例子学 Rust 中文版。
+    - [rust-lang-cn/rust-by-example-cn](https://github.com/rust-lang-cn/rust-by-example-cn) <img src="https://img.shields.io/github/stars/rust-lang-cn/rust-by-example-cn?style=social"/> : [通过例子学Rust](https://rustwiki.org/zh-CN/rust-by-example/)。
 
     - [sunface/rust-course](https://github.com/sunface/rust-course) <img src="https://img.shields.io/github/stars/sunface/rust-course?style=social"/> : [Rust语言圣经](https://course.rs/about-book.html)。
 
-    - [Rust语言实战](https://zh.practice.rs/why-exercise.html) : Rust By Practice( Rust 练习实践 )。
+    - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) <img src="https://img.shields.io/github/stars/sunface/rust-by-practice?style=social"/> : [Rust By Practice(Rust语言实战)](https://zh.practice.rs/why-exercise.html)。
 
-    - [Rust秘典](https://nomicon.purewhite.io/) : Rust 秘典（死灵书）。
+    - [rust-lang-cn/nomicon-zh-Hans](https://github.com/rust-lang-cn/nomicon-zh-Hans) <img src="https://img.shields.io/github/stars/rust-lang-cn/nomicon-zh-Hans?style=social"/> : [Rust 秘典（死灵书）](https://nomicon.purewhite.io/)。
 
     - [rustlang-cn/rust-algos](https://github.com/rustlang-cn/rust-algos) <img src="https://img.shields.io/github/stars/rustlang-cn/rust-algos?style=social"/> : Rust算法题解，用Rust语言实现常见的算法和数据结构，以及leetcode题解。
 
