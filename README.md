@@ -45,19 +45,19 @@
 
   - ### Learning Resources
 
-    - [Rust Book](https://doc.rust-lang.org/stable/book/) : The Rust Programming Language Book.
+    - [rust-lang/book](https://github.com/rust-lang/book) <img src="https://img.shields.io/github/stars/rust-lang/book?style=social"/> : [The Rust Programming Language](https://doc.rust-lang.org/stable/book/).
 
-    - [Rust Standard Library](https://doc.rust-lang.org/std/index.html) : The Rust Standard Library.
-
-    - [Rust Language Reference](https://doc.rust-lang.org/reference/) : The Rust Reference.
+    - [rust-lang/reference](https://github.com/rust-lang/reference) <img src="https://img.shields.io/github/stars/rust-lang/reference?style=social"/> : [The Rust Reference](https://doc.rust-lang.org/reference/).
 
     - [Unsafe Code Guidelines Reference](https://rust-lang.github.io/unsafe-code-guidelines/) : Rust's Unsafe Code Guidelines Reference.
 
-    - [Rust Books](https://lborb.github.io/book/title-page.html) : The Little Book of Rust Books.
+    - [Rust Standard Library](https://doc.rust-lang.org/std/index.html) : The Rust Standard Library.
 
     - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) <img src="https://img.shields.io/github/stars/rust-lang/rustlings?style=social"/> : 🦀 Small exercises to get you used to reading and writing Rust code!
-    
-    - [Too Many Lists](https://rust-unofficial.github.io/too-many-lists/#learn-rust-with-entirely-too-many-linked-lists) : Learning Rust With Entirely Too Many Linked Lists.
+
+    - [lborb/book](https://github.com/lborb/book) <img src="https://img.shields.io/github/stars/lborb/book?style=social"/> : [The Little Book of Rust Books](https://lborb.github.io/book/title-page.html).
+
+    - [rust-unofficial/too-many-lists](https://github.com/rust-unofficial/too-many-lists) <img src="https://img.shields.io/github/stars/rust-unofficial/too-many-lists?style=social"/> : [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/index.html).
 
     - [Rust文档网](https://rustwiki.org/) : Rust 官方文档中文教程。
 
