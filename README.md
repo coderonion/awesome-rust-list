@@ -18,7 +18,7 @@
   - [GPU Integration](#gpu-integration)  
   - [Linear Algebra](#linear-algebra)
   - [Lie Groups](#lie-groups)
-  - [Data Visualization](#data-visualization)
+  - [Data Analysis and Visualization](#data-analysis-and-visualization)
   - [Optimization Algorithm](#optimization-algorithm)
   - [Signal Processing](#signal-processing)
   - [Sensor API](#sensor-api)
@@ -259,7 +259,9 @@
   - [sophus-rs](https://github.com/strasdat/sophus-rs) <img src="https://img.shields.io/github/stars/strasdat/sophus-rs?style=social"/> : Rust bindings for the C++ implementation of Lie Groups using Eigen.
 
 
-## Data Visualization
+## Data Analysis and Visualization
+
+  - [Polars](https://github.com/pola-rs/polars) <img src="https://img.shields.io/github/stars/pola-rs/polars?style=social"/> : Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js.
 
   - [Plotters](https://github.com/plotters-rs/plotters) <img src="https://img.shields.io/github/stars/plotters-rs/plotters?style=social"/> : A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
 
