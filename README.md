@@ -397,3 +397,5 @@
   - [Druid](https://github.com/linebender/druid) <img src="https://img.shields.io/github/stars/linebender/druid?style=social"/> : A data-first Rust-native UI toolkit.
 
   - [Dioxus](https://github.com/DioxusLabs/dioxus) <img src="https://img.shields.io/github/stars/DioxusLabs/dioxus?style=social"/> : Friendly React-like GUI library for desktop, web, mobile, and more.
+
+  - [marek-g/rust-fui](https://github.com/marek-g/rust-fui) <img src="https://img.shields.io/github/stars/marek-g/rust-fui?style=social"/> : MVVM Rust UI Framework Library.
