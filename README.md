@@ -15,7 +15,8 @@
   - [Robot Operating System](#robot-operating-system)
   - [Hardware Description Language](#hardware-description-language)
   - [FFI Bindings](#ffi-bindings)
-  - [GPU Integration](#gpu-integration)  
+  - [GPU Integration](#gpu-integration) 
+  - [Graphics Library](#graphics-library)  
   - [Shared Memory](#shared-memory) 
   - [Remote Desktop](#remote-desktop) 
   - [Scientific Computation](#scientific-computation)
@@ -25,7 +26,7 @@
     - [Optimization Algorithm](#optimization-algorithm)
   - [Signal Processing](#signal-processing)
   - [Image Processing](#image-processing)
-  - [Sensor API](#sensor-api)
+  - [Sensor Interface](#sensor-interface)
   - [Localization and Mapping](#localization-and-mapping)
   - [Path Planning](#path-planning)
   - [Motion Control](#motion-control)
@@ -244,6 +245,13 @@
 
 
 
+
+
+## Graphics Library
+
+  - [rust-skia/rust-skia](https://github.com/rust-skia/rust-skia) <img src="https://img.shields.io/github/stars/rust-skia/rust-skia?style=social"/> : Safe Rust bindings to the [Skia Graphics Library](https://skia.org/).
+
+
 ## Shared Memory 
 
   - [elast0ny/shared_memory](https://github.com/elast0ny/shared_memory) <img src="https://img.shields.io/github/stars/elast0ny/shared_memory?style=social"/> : A Rust wrapper around native shared memory for Linux and Windows.
@@ -326,11 +334,15 @@
 
 
 
-## Sensor API
+## Sensor Interface
 
   - [shirok1/livox-rs](https://github.com/shirok1/livox-rs) <img src="https://img.shields.io/github/stars/shirok1/livox-rs?style=social"/> : Alternative Livox LiDAR library. 
 
   - [jerry73204/rust-lidar-utils](https://github.com/jerry73204/rust-lidar-utils) <img src="https://img.shields.io/github/stars/jerry73204/rust-lidar-utils?style=social"/> : Encode and decode Velodyne and Ouster lidar packets in Rust.
+
+  - [hacknus/serial-monitor-rust](https://github.com/hacknus/serial-monitor-rust) <img src="https://img.shields.io/github/stars/hacknus/serial-monitor-rust?style=social"/> : A cross-plattform serial monitor/plotter written entirely in rust. 
+
+
 
 
 ## Localization and Mapping
