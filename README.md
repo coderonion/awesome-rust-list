@@ -150,6 +150,8 @@
 
   - [SIMDeez](https://github.com/arduano/simdeez) <img src="https://img.shields.io/github/stars/arduano/simdeez?style=social"/> : A library that abstracts over SIMD instruction sets, including ones with differing widths. SIMDeez is designed to allow you to write a function one time and produce SSE2, SSE41, and AVX2 versions of the function.
 
+  - [yavkOS](https://github.com/yavko/yavkOS) <img src="https://img.shields.io/github/stars/yavko/yavkOS?style=social"/> : Operating system based off of blog_os, with the goal of running wasm modules as executables.
+
 
 ## Robot Operating System
 
@@ -242,8 +244,6 @@
   - [ocl](https://github.com/cogciprocate/ocl) <img src="https://img.shields.io/github/stars/cogciprocate/ocl?style=social"/> : OpenCL for Rust.
 
   - [opencl3](https://github.com/kenba/opencl3) <img src="https://img.shields.io/github/stars/kenba/opencl3?style=social"/> : A Rust implementation of the Khronos [OpenCL 3.0](https://registry.khronos.org/OpenCL/) API. 
-
-
 
 
 
