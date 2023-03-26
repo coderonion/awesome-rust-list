@@ -21,8 +21,8 @@
   - [Scientific Computation](#scientific-computation)
     - [Linear Algebra](#linear-algebra)
     - [Lie Groups](#lie-groups)
-    - [Data Analysis and Visualization](#data-analysis-and-visualization)
     - [Optimization Algorithm](#optimization-algorithm)
+    - [Data Analysis and Visualization](#data-analysis-and-visualization)
   - [Signal Processing](#signal-processing)
   - [Image Processing](#image-processing)
   - [Sensor and Communication Interface](#sensor-and-communication-interface)
@@ -255,7 +255,7 @@
 
 ## Remote Desktop
 
-  - [RustDesk](https://github.com/rustdesk/rustdesk) <img src="https://img.shields.io/github/stars/rustdesk/rustdesk?style=social"/> : Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative. rustdesk.com.
+  - [RustDesk](https://github.com/rustdesk/rustdesk) <img src="https://img.shields.io/github/stars/rustdesk/rustdesk?style=social"/> : Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative. [rustdesk.com](https://rustdesk.com).
 
 
 
@@ -284,15 +284,10 @@
 
     - [static-math](https://github.com/elsuizo/static-math) <img src="https://img.shields.io/github/stars/elsuizo/static-math?style=social"/> : Safe and fast mathematical operations with static arrays in the Rust programming language.
 
+
   - ### Lie Groups
 
     - [sophus-rs](https://github.com/strasdat/sophus-rs) <img src="https://img.shields.io/github/stars/strasdat/sophus-rs?style=social"/> : Rust bindings for the C++ implementation of Lie Groups using Eigen.
-
-  - ### Data Analysis and Visualization
-
-    - [Polars](https://github.com/pola-rs/polars) <img src="https://img.shields.io/github/stars/pola-rs/polars?style=social"/> : Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js.
-
-    - [Plotters](https://github.com/plotters-rs/plotters) <img src="https://img.shields.io/github/stars/plotters-rs/plotters?style=social"/> : A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
 
 
   - ### Optimization Algorithm 
@@ -300,6 +295,17 @@
     - [OpEn](https://github.com/alphaville/optimization-engine) <img src="https://img.shields.io/github/stars/alphaville/optimization-engine?style=social"/> : Optimization Engine (OpEn) is a solver for Fast & Accurate Embedded Optimization for next-generation Robotics and Autonomous Systems.
 
     - [mithi/rusty-genes](https://github.com/mithi/rusty-genes) <img src="https://img.shields.io/github/stars/mithi/rusty-genes?style=social"/> : Genetic algorithm implementation in Rust with animated visualizations in Python.
+
+
+  - ### Data Analysis and Visualization
+
+    - [Polars](https://github.com/pola-rs/polars) <img src="https://img.shields.io/github/stars/pola-rs/polars?style=social"/> : Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js.
+
+    - [Plotters](https://github.com/plotters-rs/plotters) <img src="https://img.shields.io/github/stars/plotters-rs/plotters?style=social"/> : A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
+
+    - [Typst](https://github.com/typst/typst) <img src="https://img.shields.io/github/stars/typst/typst?style=social"/> : A new markup-based typesetting system that is powerful and easy to learn. Typst is a new markup-based typesetting system that is designed to be as powerful as LaTeX while being much easier to learn and use.  [typst.app](https://typst.app/).
+
+
 
 
 
