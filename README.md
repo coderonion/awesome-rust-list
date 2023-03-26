@@ -440,7 +440,8 @@
   - [Yew](https://github.com/yewstack/yew) <img src="https://img.shields.io/github/stars/yewstack/yew?style=social"/> : Rust / Wasm framework for building client web apps. yew.rs.
 
   - [Leptos](https://github.com/leptos-rs/leptos) <img src="https://img.shields.io/github/stars/leptos-rs/leptos?style=social"/> : Build fast web applications with Rust. 
-  
+
+  - [zino](https://github.com/photino/zino) <img src="https://img.shields.io/github/stars/photino/zino?style=social"/> : zino is a full-featured web application framework for Rust with a focus on productivity and performance.
 
 
 ## GUI
