@@ -32,7 +32,7 @@
   - [Path Planning](#path-planning)
   - [Motion Control](#motion-control)
   - [Machine Learning](#machine-learning)
-    - [Framework](#framework)
+    - [ML Framework](#ml-framework)
     - [Large Language Model](#large-language-model)
     - [Object Detection](#object-detection)
   - [Web Framework](#web-framework)
@@ -392,7 +392,7 @@
 
 ## Machine Learning
 
-  - ### Framework
+  - ### ML Framework
 
     - [tch-rs](https://github.com/LaurentMazare/tch-rs) <img src="https://img.shields.io/github/stars/LaurentMazare/tch-rs?style=social"/> : Rust bindings for the C++ api of PyTorch. 
 
@@ -408,7 +408,9 @@
 
     - [ptaxom/pnn](https://github.com/ptaxom/pnn) <img src="https://img.shields.io/github/stars/ptaxom/pnn?style=social"/> : pnn is Darknet compatible neural nets inference engine implemented in Rust.
 
+    - [michaelgiba/ggml-rs](https://github.com/michaelgiba/ggml-rs) <img src="https://img.shields.io/github/stars/michaelgiba/ggml-rs?style=social"/> : Work in progress rust bindings to ggml.
 
+    
   - ### Large Language Model
 
     - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) <img src="https://img.shields.io/github/stars/lencx/ChatGPT?style=social"/> : 🔮 ChatGPT Desktop Application (Mac, Windows and Linux). [NoFWL](https://app.nofwl.com/).
