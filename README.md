@@ -46,10 +46,10 @@
 
     - [Lib.rs](https://lib.rs/) : Fast, lightweight, opinionated, unofficial alternative to crates.io.
 
+    - [Crate std](https://doc.rust-lang.org/std/index.html) : The Rust Standard Library.
+
 
   - ### Learning Resources
-
-    - [Rust Standard Library](https://doc.rust-lang.org/std/index.html) : The Rust Standard Library.
 
     - [rust-lang/reference](https://github.com/rust-lang/reference) <img src="https://img.shields.io/github/stars/rust-lang/reference?style=social"/> : [The Rust Reference](https://doc.rust-lang.org/reference/).
 
@@ -94,7 +94,6 @@
     - [fadeevab/design-patterns-rust](https://github.com/fadeevab/design-patterns-rust) <img src="https://img.shields.io/github/stars/fadeevab/design-patterns-rust?style=social"/> : Rust examples for all 23 classic GoF design patterns, and even a little more.
 
     - [lpxxn/rust-design-pattern](https://github.com/lpxxn/rust-design-pattern) <img src="https://img.shields.io/github/stars/lpxxn/rust-design-pattern?style=social"/> : Rust Design Patterns.
-
 
 
   - ### Awesome List
