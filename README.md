@@ -25,7 +25,7 @@
     - [Optimization Algorithm](#optimization-algorithm)
   - [Signal Processing](#signal-processing)
   - [Image Processing](#image-processing)
-  - [Sensor Interface](#sensor-interface)
+  - [Sensor and Communication Interface](#sensor-and-communication-interface)
   - [Localization and Mapping](#localization-and-mapping)
   - [Path Planning](#path-planning)
   - [Motion Control](#motion-control)
@@ -330,7 +330,7 @@
 
 
 
-## Sensor Interface
+## Sensor and Communication Interface
 
   - [shirok1/livox-rs](https://github.com/shirok1/livox-rs) <img src="https://img.shields.io/github/stars/shirok1/livox-rs?style=social"/> : Alternative Livox LiDAR library. 
 
