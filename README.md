@@ -1,10 +1,10 @@
-# Awesome-Rust-Robotics
+# Awesome-Rust-List
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-🔥🔥🔥 This repository lists some awesome public Rust projects for robotics.
+🔥🔥🔥 This repository lists some awesome public Rust projects.
 
 ## Contents
-- [Awesome-Rust-Robotics](#awesome-rust-robotics)
+- [Awesome-Rust-List](#awesome-rust-list)
   - [Summary](#summary)
     - [Official Rust](#official-rust)
     - [Learning Resources](#learning-resources)
@@ -85,20 +85,41 @@
 
     - [MacroKata](https://tfpk.github.io/macrokata/) : Welcome to MacroKata, a set of exercises which you can use to learn how to write macros in Rust. 
 
-    - [veykril/tlborm](https://github.com/veykril/tlborm/) <img src="https://img.shields.io/github/stars/veykril/tlborm?style=social"/> : [The Little Book of Rust Macros](https://veykril.github.io/tlborm/). [Rust 宏小册](https://zjp-cn.github.io/tlborm/)。
+    - [veykril/tlborm](https://github.com/veykril/tlborm/) <img src="https://img.shields.io/github/stars/veykril/tlborm?style=social"/> : [The Little Book of Rust Macros](https://veykril.github.io/tlborm/). [Rust 宏小册](https://zjp-cn.github.io/tlborm/)。 
 
     - [Warrenren/inside-rust-std-library](https://github.com/Warrenren/inside-rust-std-library) <img src="https://img.shields.io/github/stars/Warrenren/inside-rust-std-library?style=social"/> : 本书主要对RUST的标准库代码进行分析，并试图给出RUST标准库代码的分析脉络。This project try to give a venation of how reading the RUST standard library source code.
 
     - [pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog/blob/master/posts/translations/zh-hans/common-rust-lifetime-misconceptions.md) <img src="https://img.shields.io/github/stars/pretzelhammer/rust-blog?style=social"/> : Rust 中常见的有关生命周期的误解。
 
+    - [rust-boom/rust-boom](https://github.com/rust-boom/rust-boom) <img src="https://img.shields.io/github/stars/rust-boom/rust-boom?style=social"/> : [Rust Boom 💥](https://rust-boom.github.io/rust-boom/). Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难点的解决方法以及一些 Rust 开源的好玩的库、书籍、文章的整理，希望可以帮助更多的 Rust 初学者来翻过 Rust 这座大山。
+
 
   - ### Awesome List
 
+    - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) <img src="https://img.shields.io/github/stars/rust-unofficial/awesome-rust?style=social"/> : A curated list of Rust code and resources. 
+
     - [rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) <img src="https://img.shields.io/github/stars/rust-embedded/awesome-embedded-rust?style=social"/> : Curated list of resources for Embedded and Low-level development in the Rust programming language.
+
+    - [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) <img src="https://img.shields.io/github/stars/TaKO8Ki/awesome-alternatives-in-rust?style=social"/> : A curated list of replacements for existing software written in Rust. 
+
+    - [rust-in-blockchain/awesome-blockchain-rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust) <img src="https://img.shields.io/github/stars/rust-in-blockchain/awesome-blockchain-rust?style=social"/> : Collect libraries and packages about blockchain/cryptography in Rust. 
+
+    - [jetli/awesome-yew](https://github.com/jetli/awesome-yew) <img src="https://img.shields.io/github/stars/jetli/awesome-yew?style=social"/> : 😎 A curated list of awesome things related to Yew / WebAssembly.
+
+    - [vaaaaanquish/Awesome-Rust-MachineLearning](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning) <img src="https://img.shields.io/github/stars/vaaaaanquish/Awesome-Rust-MachineLearning?style=social"/> : This repository is a list of machine learning libraries written in Rust. It's a compilation of GitHub repositories, blogs, books, movies, discussions, papers, etc. 🦀
+
+    - [awesome-rust-com/awesome-rust](https://github.com/awesome-rust-com/awesome-rust) <img src="https://img.shields.io/github/stars/awesome-rust-com/awesome-rust?style=social"/> :A curated list of awesome Rust frameworks, libraries and software. [awesome-rust](https://awesome-rust.com/)
+
+    - [rust-cc/awesome-cryptography-rust](https://github.com/rust-cc/awesome-cryptography-rust) <img src="https://img.shields.io/github/stars/rust-cc/awesome-cryptography-rust?style=social"/> : Collect libraries and packages about cryptography in Rust. 
+
+    - [ddotta/awesome-polars](https://github.com/ddotta/awesome-polars) <img src="https://img.shields.io/github/stars/ddotta/awesome-polars?style=social"/> : A curated list of [Polars](https://www.pola.rs/) talks, tools, examples & articles. Contributions welcome ! 
+
+    - [ex0dus-0x/awesome-rust-security](https://github.com/ex0dus-0x/awesome-rust-security) <img src="https://img.shields.io/github/stars/ex0dus-0x/awesome-rust-security?style=social"/> : Curated list of awesome projects and resources related to Rust and computer security. 
 
     - [robotics-rs/robotics.rs](https://github.com/robotics-rs/robotics.rs) <img src="https://img.shields.io/github/stars/robotics-rs/robotics.rs?style=social"/> : List of (awesome) Rust libraries for Robotics. 
 
     - [rsasaki0109/RustRobotics](https://github.com/rsasaki0109/RustRobotics) <img src="https://img.shields.io/github/stars/rsasaki0109/RustRobotics?style=social"/> : Rust implementation of PythonRobotics such as EKF, DWA, Pure Pursuit, LQR. 
+
 
 
 ## Data Structure and Algorithm 
@@ -308,7 +329,7 @@
 
   - ### Data Analysis and Visualization
 
-    - [Polars](https://github.com/pola-rs/polars) <img src="https://img.shields.io/github/stars/pola-rs/polars?style=social"/> : Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js.
+    - [Polars](https://github.com/pola-rs/polars) <img src="https://img.shields.io/github/stars/pola-rs/polars?style=social"/> : [Polars](https://www.pola.rs/). Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js.
 
     - [Plotters](https://github.com/plotters-rs/plotters) <img src="https://img.shields.io/github/stars/plotters-rs/plotters?style=social"/> : A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
 
