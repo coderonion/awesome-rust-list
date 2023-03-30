@@ -31,6 +31,7 @@
   - [Localization and Mapping](#localization-and-mapping)
   - [Path Planning](#path-planning)
   - [Motion Control](#motion-control)
+  - [Game Engine](#game-engine)
   - [Machine Learning](#machine-learning)
     - [ML Framework](#ml-framework)
     - [Large Language Model](#large-language-model)
@@ -391,6 +392,8 @@
 
 ## Path Planning
 
+  - [pathfinding](https://github.com/samueltardieu/pathfinding) <img src="https://img.shields.io/github/stars/samueltardieu/pathfinding?style=social"/> : Pathfinding library for rust. This crate implements several pathfinding, flow, and graph algorithms in Rust.
+
   - [rrt](https://github.com/openrr/rrt) <img src="https://img.shields.io/github/stars/openrr/rrt?style=social"/> : RRT (Rapidly-exploring Random Tree) library in Rust.
 
   - [gear](https://github.com/openrr/gear) <img src="https://img.shields.io/github/stars/openrr/gear?style=social"/> : Collision Avoidance Path Planning in Rust-lang.
@@ -412,6 +415,17 @@
 
   - [bohonghuang/rov-host](https://github.com/bohonghuang/rov-host) <img src="https://img.shields.io/github/stars/bohonghuang/rov-host?style=social"/> : A cross-platform, high-performance underwater robot controll program written in Rust. 
 
+
+
+## Game Engine
+
+  - [Bevy](https://github.com/bevyengine/bevy) <img src="https://img.shields.io/github/stars/bevyengine/bevy?style=social"/> : Bevy is a refreshingly simple data-driven game engine built in Rust. It is free and open-source forever! [bevyengine.org](https://bevyengine.org/)
+
+  - [Rapier](https://github.com/dimforge/rapier) <img src="https://img.shields.io/github/stars/dimforge/rapier?style=social"/> : Rapier is a set of 2D and 3D physics engines for games, animation, and robotics. [rapier.rs](https://rapier.rs/)
+
+  - [bevy_rapier](https://github.com/dimforge/bevy_rapier) <img src="https://img.shields.io/github/stars/dimforge/bevy_rapier?style=social"/> : Official Rapier plugin for the Bevy game engine. 
+
+  - [Parry](https://github.com/dimforge/parry) <img src="https://img.shields.io/github/stars/dimforge/parry?style=social"/> : 2D and 3D collision-detection library for Rust. [parry.rs](https://parry.rs/)
 
 
 
@@ -438,11 +452,15 @@
     
   - ### Large Language Model
 
+    - [yetone/openai-translator](https://github.com/yetone/openai-translator) <img src="https://img.shields.io/github/stars/yetone/openai-translator?style=social"/> : The translator that does more than just translation - powered by OpenAI.
+
     - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) <img src="https://img.shields.io/github/stars/lencx/ChatGPT?style=social"/> : 🔮 ChatGPT Desktop Application (Mac, Windows and Linux). [NoFWL](https://app.nofwl.com/).
 
     - [rustformers/llama-rs](https://github.com/rustformers/llama-rs) <img src="https://img.shields.io/github/stars/rustformers/llama-rs?style=social"/> : Run LLaMA inference on CPU, with Rust 🦀🚀🦙.
 
     - [sonnylazuardi/chat-ai-desktop](https://github.com/sonnylazuardi/chat-ai-desktop) <img src="https://img.shields.io/github/stars/sonnylazuardi/chat-ai-desktop?style=social"/> : Chat AI Desktop App. Unofficial ChatGPT desktop app for Mac & Windows menubar using Tauri & Rust.
+
+    - [m1guelpf/browser-agent](https://github.com/m1guelpf/browser-agent) <img src="https://img.shields.io/github/stars/m1guelpf/browser-agent?style=social"/> : A browser AI agent, using GPT-4. [docs.rs/browser-agent](https://docs.rs/browser-agent/latest/browser_agent/)
 
     - [Noeda/rllama](https://github.com/Noeda/rllama) <img src="https://img.shields.io/github/stars/Noeda/rllama?style=social"/> : Rust+OpenCL+AVX2 implementation of LLaMA inference code.
 
