@@ -9,9 +9,9 @@
     - [Official Rust](#official-rust)
     - [Learning Resources](#learning-resources)
     - [Awesome List](#awesome-list)
-  - [Asynchronous Runtime](#asynchronous-runtime)
   - [Data Structure and Algorithm](#data-structure-and-algorithm)
   - [Design Pattern](#design-pattern)
+  - [Asynchronous Runtime](#asynchronous-runtime)
   - [Embedded Development](#embedded-development)
   - [Universal Operating System](#universal-operating-system)
   - [Robot Operating System](#robot-operating-system)
@@ -123,15 +123,11 @@
     - [rsasaki0109/RustRobotics](https://github.com/rsasaki0109/RustRobotics) <img src="https://img.shields.io/github/stars/rsasaki0109/RustRobotics?style=social"/> : Rust implementation of PythonRobotics such as EKF, DWA, Pure Pursuit, LQR. 
 
 
-## Asynchronous Runtime
-
-  - [Tokio](https://github.com/tokio-rs/tokio) <img src="https://img.shields.io/github/stars/tokio-rs/tokio?style=social"/> : A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.
-
-
-
 ## Data Structure and Algorithm 
 
   - [sjinzh/hello-algo-rust-zig](https://github.com/sjinzh/hello-algo-rust-zig) <img src="https://img.shields.io/github/stars/sjinzh/hello-algo-rust-zig?style=social"/> : Rust and Zig programming language codes for the famous public project 《Hello, Algorithm》|《 Hello，算法 》 about data structures and algorithms.
+
+  - [EbTech/rust-algorithms](https://github.com/EbTech/rust-algorithms) <img src="https://img.shields.io/github/stars/EbTech/rust-algorithms?style=social"/> : Common data structures and algorithms in Rust. A collection of classic data structures and algorithms, emphasizing usability, beauty and clarity over full generality.
 
   - [rust-unofficial/too-many-lists](https://github.com/rust-unofficial/too-many-lists) <img src="https://img.shields.io/github/stars/rust-unofficial/too-many-lists?style=social"/> : [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/index.html).
 
@@ -149,6 +145,11 @@
   - [lpxxn/rust-design-pattern](https://github.com/lpxxn/rust-design-pattern) <img src="https://img.shields.io/github/stars/lpxxn/rust-design-pattern?style=social"/> : Rust Design Patterns.
 
 
+## Asynchronous Runtime
+
+  - [Tokio](https://github.com/tokio-rs/tokio) <img src="https://img.shields.io/github/stars/tokio-rs/tokio?style=social"/> : A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.
+
+
 ## Embedded Development
 
   - [stm32-rs](https://github.com/stm32-rs) : Community Rust support projects for STM32 microcontrollers.
@@ -163,7 +164,7 @@
 
   - [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) <img src="https://img.shields.io/github/stars/rust-embedded/rust-raspberrypi-OS-tutorials?style=social"/> :  📚 Learn to write an embedded OS in Rust 🦀 
   
-  - [Tock](https://github.com/tock/tock) <img src="https://img.shields.io/github/stars/tock/tock?style=social"/> : A secure embedded operating system for microcontrollers.
+  - [Tock](https://github.com/tock/tock) <img src="https://img.shields.io/github/stars/tock/tock?style=social"/> : A secure embedded operating system for microcontrollers. [www.tockos.org](https://www.tockos.org/)
 
   - [rCore-Tutorial-v3](https://github.com/chyyuu/os_kernel_lab) <img src="https://img.shields.io/github/stars/chyyuu/os_kernel_lab?style=social"/> : OS kernel labs based on Rust/C Lang & RISC-V 64/X86-32.
 
@@ -437,11 +438,16 @@
 
   - [Parry](https://github.com/dimforge/parry) <img src="https://img.shields.io/github/stars/dimforge/parry?style=social"/> : 2D and 3D collision-detection library for Rust. [parry.rs](https://parry.rs/)
 
+  - [Fyrox](https://github.com/FyroxEngine/Fyrox) <img src="https://img.shields.io/github/stars/FyroxEngine/Fyrox?style=social"/> : 3D and 2D game engine written in Rust. [fyrox.rs](https://fyrox.rs/)
+
+
 
 
 ## Machine Learning
 
   - ### ML Framework
+
+    - [TensorFlow Rust](https://github.com/tensorflow/rust) <img src="https://img.shields.io/github/stars/tensorflow/rust?style=social"/> : Rust language bindings for TensorFlow.
 
     - [tch-rs](https://github.com/LaurentMazare/tch-rs) <img src="https://img.shields.io/github/stars/LaurentMazare/tch-rs?style=social"/> : Rust bindings for the C++ api of PyTorch. 
 
@@ -498,6 +504,8 @@
 
 
 ## Web Framework
+
+  - [Rocket](https://github.com/SergioBenitez/Rocket) <img src="https://img.shields.io/github/stars/SergioBenitez/Rocket?style=social"/> : A web framework for Rust. [rocket.rs](https://rocket.rs/)
 
   - [Axum](https://github.com/tokio-rs/axum) <img src="https://img.shields.io/github/stars/tokio-rs/axum?style=social"/> : Ergonomic and modular web framework built with Tokio, Tower, and Hyper.
 
