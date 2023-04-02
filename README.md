@@ -500,6 +500,9 @@
 
     - [sigoden/aichat](https://github.com/sigoden/aichat) <img src="https://img.shields.io/github/stars/sigoden/aichat?style=social"/> : Using ChatGPT/GPT-3.5/GPT-4 in the terminal. 
 
+    - [uiuifree/rust-openai-chatgpt-api](https://github.com/uiuifree/rust-openai-chatgpt-api) <img src="https://img.shields.io/github/stars/uiuifree/rust-openai-chatgpt-api?style=social"/> : "rust-openai-chatgpt-api" is a Rust library for accessing the ChatGPT API, a powerful NLP platform by OpenAI. The library provides a simple and efficient interface for sending requests and receiving responses, including chat. It uses reqwest and serde for HTTP requests and JSON serialization. 
+
+
 
 
   - ### Object Detection
@@ -524,6 +527,8 @@
 ## Web Framework
 
   - [Deno](https://github.com/denoland/deno) <img src="https://img.shields.io/github/stars/denoland/deno?style=social"/> : Deno is a simple, modern and secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust. [deno.land](https://deno.land/)
+
+  - [Hyper](https://github.com/vercel/hyper) <img src="https://img.shields.io/github/stars/vercel/hyper?style=social"/> : A terminal built on web technologies. [hyper.is](https://hyper.is/)
 
   - [Yew](https://github.com/yewstack/yew) <img src="https://img.shields.io/github/stars/yewstack/yew?style=social"/> : Yew is a modern Rust framework for creating multi-threaded front-end web apps with WebAssembly. [swc.rs](https://swc.rs/)
 
