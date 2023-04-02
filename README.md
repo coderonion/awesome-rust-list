@@ -39,6 +39,7 @@
     - [Large Language Model](#large-language-model)
     - [Object Detection](#object-detection)
   - [Web Framework](#web-framework)
+  - [WebAssembly Runtime](#webAssembly-runtime)
   - [GUI](#gui)
 
 ## Summary
@@ -60,15 +61,17 @@
 
     - [rust-lang/book](https://github.com/rust-lang/book) <img src="https://img.shields.io/github/stars/rust-lang/book?style=social"/> : [The Rust Programming Language](https://doc.rust-lang.org/stable/book/).
 
-    - [Rust Language Cheat Sheet](https://github.com/ralfbiedert/cheats.rs/) <img src="https://img.shields.io/github/stars/ralfbiedert/cheats.rs?style=social"/> : [cheats.rs](https://cheats.rs/)。
-
     - [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) <img src="https://img.shields.io/github/stars/rust-lang/rust-by-example?style=social"/> : [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/).
 
     - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) <img src="https://img.shields.io/github/stars/rust-lang/rustlings?style=social"/> : 🦀 Small exercises to get you used to reading and writing Rust code!
 
+    - [Rust Language Cheat Sheet](https://github.com/ralfbiedert/cheats.rs/) <img src="https://img.shields.io/github/stars/ralfbiedert/cheats.rs?style=social"/> : [cheats.rs](https://cheats.rs/).
+
     - [Unsafe Code Guidelines Reference](https://rust-lang.github.io/unsafe-code-guidelines/) : Rust's Unsafe Code Guidelines Reference.
 
     - [lborb/book](https://github.com/lborb/book) <img src="https://img.shields.io/github/stars/lborb/book?style=social"/> : [The Little Book of Rust Books](https://lborb.github.io/book/title-page.html).
+
+    - [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) <img src="https://img.shields.io/github/stars/ctjhoa/rust-learning?style=social"/> : A bunch of links to blog posts, articles, videos, etc for learning Rust.
 
     - [Rust文档网](https://rustwiki.org/) : Rust 官方文档中文教程。
 
@@ -520,17 +523,33 @@
 
 ## Web Framework
 
+  - [Deno](https://github.com/denoland/deno) <img src="https://img.shields.io/github/stars/denoland/deno?style=social"/> : Deno is a simple, modern and secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust. [deno.land](https://deno.land/)
+
+  - [Yew](https://github.com/yewstack/yew) <img src="https://img.shields.io/github/stars/yewstack/yew?style=social"/> : Yew is a modern Rust framework for creating multi-threaded front-end web apps with WebAssembly. [swc.rs](https://swc.rs/)
+
+  - [SWC](https://github.com/swc-project/swc) <img src="https://img.shields.io/github/starsswc-project/swc?style=social"/> : SWC (stands for Speedy Web Compiler) is a super-fast TypeScript / JavaScript compiler written in Rust. [yew.rs](https://yew.rs/)
+
   - [Rocket](https://github.com/SergioBenitez/Rocket) <img src="https://img.shields.io/github/stars/SergioBenitez/Rocket?style=social"/> : A web framework for Rust. [rocket.rs](https://rocket.rs/)
+
+  - [Actix](https://github.com/actix/actix-web) <img src="https://img.shields.io/github/stars/actix/actix-web?style=social"/> : Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust. [actix.rs](https://actix.rs/)
 
   - [Axum](https://github.com/tokio-rs/axum) <img src="https://img.shields.io/github/stars/tokio-rs/axum?style=social"/> : Ergonomic and modular web framework built with Tokio, Tower, and Hyper.
 
   - [Salvo](https://github.com/salvo-rs/salvo) <img src="https://img.shields.io/github/stars/salvo-rs/salvo?style=social"/> : [Salvo](https://salvo.rs/) is a powerful and simplest web server framework in Rust world.
 
-  - [Yew](https://github.com/yewstack/yew) <img src="https://img.shields.io/github/stars/yewstack/yew?style=social"/> : Rust / Wasm framework for building client web apps. yew.rs.
-
   - [Leptos](https://github.com/leptos-rs/leptos) <img src="https://img.shields.io/github/stars/leptos-rs/leptos?style=social"/> : Build fast web applications with Rust. 
 
   - [zino](https://github.com/photino/zino) <img src="https://img.shields.io/github/stars/photino/zino?style=social"/> : zino is a full-featured web application framework for Rust with a focus on productivity and performance.
+
+
+
+## WebAssembly Runtime
+
+  - [Wasmer](https://github.com/wasmerio/wasmer) <img src="https://img.shields.io/github/stars/wasmerio/wasmer?style=social"/> : Wasmer is a fast and secure [WebAssembly](https://webassembly.org/) runtime that enables super lightweight containers to run anywhere: from Desktop to the Cloud, Edge and IoT devices. [wasmer.io](https://wasmer.io/)
+
+  - [wasmtime](https://github.com/bytecodealliance/wasmtime) <img src="https://img.shields.io/github/stars/bytecodealliance/wasmtime?style=social"/> : A fast and secure runtime for WebAssembly. [wasmtime.dev/](https://wasmtime.dev/)
+
+
 
 
 ## GUI
