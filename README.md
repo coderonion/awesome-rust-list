@@ -27,9 +27,9 @@
     - [Lie Groups](#lie-groups)
     - [Optimization Algorithm](#optimization-algorithm)
     - [Data Analysis and Visualization](#data-analysis-and-visualization)
+  - [Sensor and Communication Interface](#sensor-and-communication-interface)
   - [Signal Processing](#signal-processing)
   - [Image Processing](#image-processing)
-  - [Sensor and Communication Interface](#sensor-and-communication-interface)
   - [Localization and Mapping](#localization-and-mapping)
   - [Path Planning](#path-planning)
   - [Motion Control](#motion-control)
@@ -204,15 +204,15 @@
 
   - [micro-ROS for Arduino](https://github.com/micro-ROS/micro_ros_arduino) <img src="https://img.shields.io/github/stars/micro-ROS/micro_ros_arduino?style=social"/> : micro-ROS library for Arduino. 
 
-  - [openrr](https://github.com/openrr/openrr) <img src="https://img.shields.io/github/stars/openrr/openrr?style=social"/> : OpenRR (pronounced like "opener") is Open Rust Robotics platform.
-
-  - [erdos](https://github.com/erdos-project/erdos) <img src="https://img.shields.io/github/stars/erdos-project/erdos?style=social"/> : Dataflow system for building self-driving car and robotics applications. 
+  - [openrr](https://github.com/openrr/openrr) <img src="https://img.shields.io/github/stars/openrr/openrr?style=social"/> : Open Rust Robotics. OpenRR (pronounced like "opener") is Open Rust Robotics platform.
 
   - [rosrust](https://github.com/adnanademovic/rosrust) <img src="https://img.shields.io/github/stars/adnanademovic/rosrust?style=social"/> : rosrust is a pure Rust implementation of a [ROS](https://www.ros.org/) client library.
 
   - [ros2_rust](https://github.com/ros2-rust/ros2_rust) <img src="https://img.shields.io/github/stars/ros2-rust/ros2_rust?style=social"/> : Rust bindings for ROS2.
 
   - [r2r](https://github.com/sequenceplanner/r2r) <img src="https://img.shields.io/github/stars/sequenceplanner/r2r?style=social"/> : R2R - Easy to use, runtime-agnostic, async rust bindings for ROS2.
+
+  - [erdos](https://github.com/erdos-project/erdos) <img src="https://img.shields.io/github/stars/erdos-project/erdos?style=social"/> : Dataflow system for building self-driving car and robotics applications. 
 
   - [rclrust](https://github.com/rclrust/rclrust) <img src="https://img.shields.io/github/stars/rclrust/rclrust?style=social"/> : This is yet another ROS2 client library written in Rust.
 
@@ -274,15 +274,15 @@
 
 ## GPU Integration 
 
-  - [wgpu](https://github.com/gfx-rs/wgpu) <img src="https://img.shields.io/github/stars/gfx-rs/wgpu?style=social"/> : Safe and portable GPU abstraction in Rust, implementing WebGPU API. https://wgpu.rs/
-
-  - [rust-gpu](https://github.com/EmbarkStudios/rust-gpu) <img src="https://img.shields.io/github/stars/EmbarkStudios/rust-gpu?style=social"/> : 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧 
-
-  - [Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) <img src="https://img.shields.io/github/stars/Rust-GPU/Rust-CUDA?style=social"/> : Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust. 
+  - [rust-gpu](https://github.com/EmbarkStudios/rust-gpu) <img src="https://img.shields.io/github/stars/EmbarkStudios/rust-gpu?style=social"/> : 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧 [shader.rs](https://shader.rs/)  
 
   - [cudarc](https://github.com/coreylowman/cudarc) <img src="https://img.shields.io/github/stars/coreylowman/cudarc?style=social"/> : cudarc: minimal and safe api over the cuda toolkit.
 
+  - [Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) <img src="https://img.shields.io/github/stars/Rust-GPU/Rust-CUDA?style=social"/> : Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust. 
+
   - [Vulkano](https://github.com/vulkano-rs/vulkano) <img src="https://img.shields.io/github/stars/vulkano-rs/vulkano?style=social"/> : Safe and rich Rust wrapper around the Vulkan API.
+
+  - [wgpu](https://github.com/gfx-rs/wgpu) <img src="https://img.shields.io/github/stars/gfx-rs/wgpu?style=social"/> : Safe and portable GPU abstraction in Rust, implementing WebGPU API. [wgpu.rs](https://wgpu.rs/)
 
   - [Ash](https://github.com/ash-rs/ash) <img src="https://img.shields.io/github/stars/ash-rs/ash?style=social"/> : Vulkan bindings for Rust.
 
@@ -297,6 +297,14 @@
 ## Graphics Library
 
   - [rust-skia/rust-skia](https://github.com/rust-skia/rust-skia) <img src="https://img.shields.io/github/stars/rust-skia/rust-skia?style=social"/> : Safe Rust bindings to the [Skia Graphics Library](https://skia.org/).
+
+  - [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) <img src="https://img.shields.io/github/stars/gtk-rs/gtk4-rs?style=social"/> : Rust bindings of GTK 4. [gtk-rs.org/gtk4-rs/](https://gtk-rs.org/gtk4-rs/)
+
+  - [gtk-rs/gtk3-rs](https://github.com/gtk-rs/gtk3-rs) <img src="https://img.shields.io/github/stars/gtk-rs/gtk3-rs?style=social"/> : Rust bindings for GTK 3. [gtk-rs.org](https://gtk-rs.org/)
+
+  - [SabianF/rust_wgpu_3D_vision](https://github.com/SabianF/rust_wgpu_3D_vision) <img src="https://img.shields.io/github/stars/SabianF/rust_wgpu_3D_vision?style=social"/> : A program to simulate stereoscopic 4D vision, using a virtual 3D retina which is created by rapidly displaying all voxels at varying depths of a 3D volume.
+
+
 
 
 ## Shared Memory 
@@ -340,6 +348,8 @@
 
     - [static-math](https://github.com/elsuizo/static-math) <img src="https://img.shields.io/github/stars/elsuizo/static-math?style=social"/> : Safe and fast mathematical operations with static arrays in the Rust programming language.
 
+    - [custos-math](https://github.com/elftausend/custos-math) <img src="https://img.shields.io/github/stars/elftausend/custos-math?style=social"/> : This crate provides CUDA, OpenCL, CPU (and Stack) based matrix operations using [custos](https://github.com/elftausend/custos).
+
 
   - ### Lie Groups
 
@@ -361,34 +371,7 @@
 
     - [Typst](https://github.com/typst/typst) <img src="https://img.shields.io/github/stars/typst/typst?style=social"/> : A new markup-based typesetting system that is powerful and easy to learn. Typst is a new markup-based typesetting system that is designed to be as powerful as LaTeX while being much easier to learn and use.  [typst.app](https://typst.app/).
 
-
-
-
-
-## Signal Processing
-
-  - [strawlab/adskalman-rs](https://github.com/strawlab/adskalman-rs) <img src="https://img.shields.io/github/stars/strawlab/adskalman-rs?style=social"/> : Kalman filter implementation in Rust.
-
-  - [nravic/kalmanrs](https://github.com/nravic/kalmanrs) <img src="https://img.shields.io/github/stars/nravic/kalmanrs?style=social"/> : A (yet to be) comprehensive Kalman Filter library in Rust.
-
-  - [spdes/kalman-rust](https://github.com/spdes/kalman-rust) <img src="https://img.shields.io/github/stars/spdes/kalman-rust?style=social"/> : A simple implementation of Kalman filter and RTS smoother in Rust (ndarray).
-
-  - [hortovanyi/Unscented-Kalman-Filter-Rust](https://github.com/hortovanyi/Unscented-Kalman-Filter-Rust) <img src="https://img.shields.io/github/stars/hortovanyi/Unscented-Kalman-Filter-Rust?style=social"/> : UKF written in Rust based on the C++ UKF from the Udacity SD Car Nanodegree.
-
-  - [wangxiaochuTHU/yakf](https://github.com/wangxiaochuTHU/yakf) <img src="https://img.shields.io/github/stars/wangxiaochuTHU/yakf?style=social"/> : Yet Another Kalman Filter Implementation. As well as Lie Theory (Lie group and algebra) on SE(3). [no_std] is supported by default. 
-
-  - [MichaelMauderer/filter-rs](https://github.com/MichaelMauderer/filter-rs) <img src="https://img.shields.io/github/stars/MichaelMauderer/filter-rs?style=social"/> : Kalman filters and other optimal and non-optimal estimation filters in Rust.
-
-
-## Image Processing
-
-  - [opencv-rust](https://github.com/twistedfall/opencv-rust) <img src="https://img.shields.io/github/stars/twistedfall/opencv-rust?style=social"/> : Rust bindings for OpenCV 3 & 4. 
-
-  - [image-rs](https://github.com/image-rs/image) <img src="https://img.shields.io/github/stars/image-rs/image?style=social"/> : Encoding and decoding images in Rust.
-
-  - [rust-ffmpeg](https://github.com/zmwangx/rust-ffmpeg) <img src="https://img.shields.io/github/stars/zmwangx/rust-ffmpeg?style=social"/> : Safe FFmpeg wrapper.
-
-  - [Simp](https://github.com/Kl4rry/simp) <img src="https://img.shields.io/github/stars/Kl4rry/simp?style=social"/> : 🖼️ Simp is a fast and simple GPU-accelerated image manipulation program. 
+    - [Rerun](https://github.com/rerun-io/rerun) <img src="https://img.shields.io/github/stars/rerun-io/rerun?style=social"/> : Rerun: Visualization infrastructure for computer vision. Log images, point clouds, etc, and visualize them effortlessly. Built in Rust using egui. [rerun.io](https://www.rerun.io/)
 
 
 
@@ -407,11 +390,67 @@
 
 
 
+
+## Signal Processing
+
+  - [strawlab/adskalman-rs](https://github.com/strawlab/adskalman-rs) <img src="https://img.shields.io/github/stars/strawlab/adskalman-rs?style=social"/> : Kalman filter implementation in Rust.
+
+  - [nravic/kalmanrs](https://github.com/nravic/kalmanrs) <img src="https://img.shields.io/github/stars/nravic/kalmanrs?style=social"/> : A (yet to be) comprehensive Kalman Filter library in Rust.
+
+  - [spdes/kalman-rust](https://github.com/spdes/kalman-rust) <img src="https://img.shields.io/github/stars/spdes/kalman-rust?style=social"/> : A simple implementation of Kalman filter and RTS smoother in Rust (ndarray).
+
+  - [hortovanyi/Unscented-Kalman-Filter-Rust](https://github.com/hortovanyi/Unscented-Kalman-Filter-Rust) <img src="https://img.shields.io/github/stars/hortovanyi/Unscented-Kalman-Filter-Rust?style=social"/> : UKF written in Rust based on the C++ UKF from the Udacity SD Car Nanodegree.
+
+  - [wangxiaochuTHU/yakf](https://github.com/wangxiaochuTHU/yakf) <img src="https://img.shields.io/github/stars/wangxiaochuTHU/yakf?style=social"/> : Yet Another Kalman Filter Implementation. As well as Lie Theory (Lie group and algebra) on SE(3). [no_std] is supported by default. 
+
+  - [MichaelMauderer/filter-rs](https://github.com/MichaelMauderer/filter-rs) <img src="https://img.shields.io/github/stars/MichaelMauderer/filter-rs?style=social"/> : Kalman filters and other optimal and non-optimal estimation filters in Rust.
+
+  - [rbagd/rust-linearkalman](https://github.com/rbagd/rust-linearkalman) <img src="https://img.shields.io/github/stars/rbagd/rust-linearkalman?style=social"/> : Kalman filtering and smoothing in Rust.
+
+
+
+
+## Image Processing
+
+  - [opencv-rust](https://github.com/twistedfall/opencv-rust) <img src="https://img.shields.io/github/stars/twistedfall/opencv-rust?style=social"/> : Rust bindings for OpenCV 3 & 4. 
+
+  - [photon](https://github.com/silvia-odwyer/photon) <img src="https://img.shields.io/github/stars/silvia-odwyer/photon?style=social"/> : Photon is a high-performance Rust image processing library, which compiles to WebAssembly, allowing for safe, blazing-fast image processing both natively and on the web. [silvia-odwyer.github.io/photon](https://silvia-odwyer.github.io/photon/)
+
+  - [image-rs/image](https://github.com/image-rs/image) <img src="https://img.shields.io/github/stars/image-rs/image?style=social"/> : Encoding and decoding images in Rust.
+
+  - [image-rs/imageproc](https://github.com/image-rs/imageproc) <img src="https://img.shields.io/github/stars/image-rs/imageproc?style=social"/> : An image processing library, based on the [image](https://github.com/image-rs/image) library. 
+
+  - [zshipko/image2-rs](https://github.com/zshipko/image2-rs) <img src="https://img.shields.io/github/stars/zshipko/image2-rs?style=social"/> : A Rust crate focused on generic image processing for a wide range of image formats and data types.
+
+  - [rust-ffmpeg](https://github.com/zmwangx/rust-ffmpeg) <img src="https://img.shields.io/github/stars/zmwangx/rust-ffmpeg?style=social"/> : Safe FFmpeg wrapper.
+
+  - [Simp](https://github.com/Kl4rry/simp) <img src="https://img.shields.io/github/stars/Kl4rry/simp?style=social"/> : 🖼️ Simp is a fast and simple GPU-accelerated image manipulation program. 
+
+  - [rust-cv/cv](https://github.com/rust-cv/cv) <img src="https://img.shields.io/github/stars/rust-cv/cv?style=social"/> : Rust CV mono-repo. Contains pure-Rust dependencies which attempt to encapsulate the capability of OpenCV, OpenMVG, and vSLAM frameworks in a cohesive set of APIs. 
+
+  - [jay3332/ril](https://github.com/jay3332/ril) <img src="https://img.shields.io/github/stars/jay3332/ril?style=social"/> : Rust Imaging Library: A high-level imaging crate for Rust. [crates.io/crates/ril](https://crates.io/crates/ril)
+
+  - [Futsch1/image-sieve](https://github.com/Futsch1/image-sieve) <img src="https://img.shields.io/github/stars/Futsch1/image-sieve?style=social"/> : ImageSieve is a GUI based tool to assist in sorting images based on taken date and similarity, categorize them according to their creation date and archive them in a target folder.
+
+
+
+
+
+
+
 ## Localization and Mapping
+
+  - [richardanaya/slamburger](https://github.com/richardanaya/slamburger) <img src="https://img.shields.io/github/stars/richardanaya/slamburger?style=social"/> : A SLAM algorithm for WebAssembly 🍔
 
   - [pekkaran/violet](https://github.com/pekkaran/violet) <img src="https://img.shields.io/github/stars/pekkaran/violet?style=social"/> : A toy stereo visual inertial odometry (VIO) system.
 
   - [mpizenberg/visual-odometry-rs](https://github.com/mpizenberg/visual-odometry-rs) <img src="https://img.shields.io/github/stars/mpizenberg/visual-odometry-rs?style=social"/> : Visual Odometry in Rust (vors).
+
+  - [geoeo/visual_odometry](https://github.com/geoeo/visual_odometry) <img src="https://img.shields.io/github/stars/geoeo/visual_odometry?style=social"/> : A rust port of [https://github.com/geoeo/Dense_VO](https://github.com/geoeo/Dense_VO).
+
+  - [geoeo/Vision](https://github.com/geoeo/Vision) <img src="https://img.shields.io/github/stars/geoeo/Vision?style=social"/> : Computer Vision stuff in Rust. 
+
+
 
 
 
@@ -436,9 +475,22 @@
 
   - [k](https://github.com/openrr/k) <img src="https://img.shields.io/github/stars/openrr/k?style=social"/> : k: Kinematics library for rust-lang.
 
+  - [rsasaki0109/RustRobotics](https://github.com/rsasaki0109/RustRobotics) <img src="https://img.shields.io/github/stars/rsasaki0109/RustRobotics?style=social"/> : This package is a rust implementation of [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics). Rust implementation of PythonRobotics such as EKF, DWA, Pure Pursuit, LQR. 
+
   - [braincore/pid-rs](https://github.com/braincore/pid-rs) <img src="https://img.shields.io/github/stars/braincore/pid-rs?style=social"/> : A PID controller for Rust projects. 
 
   - [bohonghuang/rov-host](https://github.com/bohonghuang/rov-host) <img src="https://img.shields.io/github/stars/bohonghuang/rov-host?style=social"/> : A cross-platform, high-performance underwater robot controll program written in Rust. 
+
+  - [zaiic/pid_rs](https://github.com/zaiic/pid_rs) <img src="https://img.shields.io/github/stars/zaiic/pid_rs?style=social"/> : A fairly minimal PID controller implementation in Rust.  
+
+  - [josh-tracey/PIDController](https://github.com/josh-tracey/PIDController) <img src="https://img.shields.io/github/stars/josh-tracey/PIDController?style=social"/> : Rust PID Controller library. Rust Crate: [https://crates.io/crates/adriftdev_pid](https://crates.io/crates/adriftdev_pid)
+
+  - [ua-kxie/pid-ctrl](https://github.com/ua-kxie/pid-ctrl) <img src="https://img.shields.io/github/stars/ua-kxie/pid-ctrl?style=social"/> : Flexible pid controller with time delta as argument.
+
+  - [tana/balance-robot2](https://github.com/tana/balance-robot2) <img src="https://img.shields.io/github/stars/tana/balance-robot2?style=social"/> : Self-balancing robot using LQR control, written in Rust.
+
+  - [AlexKaravaev/rust_mpc](https://github.com/AlexKaravaev/rust_mpc) <img src="https://img.shields.io/github/stars/AlexKaravaev/rust_mpc?style=social"/> : MPC racing controller made in [ros2-rust](https://github.com/ros2-rust/ros2_rust).
+
 
 
 
@@ -473,13 +525,21 @@
 
     - [tract](https://github.com/sonos/tract) <img src="https://img.shields.io/github/stars/sonos/tract?style=social"/> : Sonos' Neural Network inference engine. Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference
 
+    - [ort](https://github.com/pykeio/ort) <img src="https://img.shields.io/github/stars/pykeio/ort?style=social"/> : A Rust wrapper for ONNX Runtime. [docs.rs/ort](https://docs.rs/ort/latest/ort/)
+
+    - [onnxruntime-rs](https://github.com/nbigaouette/onnxruntime-rs) <img src="https://img.shields.io/github/stars/nbigaouette/onnxruntime-rs?style=social"/> : This is an attempt at a Rust wrapper for [Microsoft's ONNX Runtime](https://github.com/microsoft/onnxruntime) (version 1.8).
+
     - [Wonnx](https://github.com/webonnx/wonnx) <img src="https://img.shields.io/github/stars/webonnx/wonnx?style=social"/> : Wonnx is a GPU-accelerated ONNX inference run-time written 100% in Rust, ready for the web.
 
-    - [pykeio/ort](https://github.com/pykeio/ort) <img src="https://img.shields.io/github/stars/pykeio/ort?style=social"/> : A Rust wrapper for ONNX Runtime.
+    - [pnn](https://github.com/ptaxom/pnn) <img src="https://img.shields.io/github/stars/ptaxom/pnn?style=social"/> : pnn is [Darknet](https://github.com/alexeyAB/darknet) compatible neural nets inference engine implemented in Rust. By optimizing was achieved significant performance increment(especially in FP16 mode). pnn provide CUDNN-based and TensorRT-based inference engines.
 
-    - [ptaxom/pnn](https://github.com/ptaxom/pnn) <img src="https://img.shields.io/github/stars/ptaxom/pnn?style=social"/> : pnn is Darknet compatible neural nets inference engine implemented in Rust.
+    - [goldstraw/RustCNN](https://github.com/goldstraw/RustCNN) <img src="https://img.shields.io/github/stars/goldstraw/RustCNN?style=social"/> : Rust convolutional neural network from scratch.
 
     - [michaelgiba/ggml-rs](https://github.com/michaelgiba/ggml-rs) <img src="https://img.shields.io/github/stars/michaelgiba/ggml-rs?style=social"/> : Work in progress rust bindings to ggml.
+
+    - [elftausend/gradients](https://github.com/elftausend/gradients) <img src="https://img.shields.io/github/stars/elftausend/gradients?style=social"/> : Deep Learning library using [custos](https://github.com/elftausend/custos) and [custos-math](https://github.com/elftausend/custos-math).
+
+
 
     
   - ### Large Language Model
