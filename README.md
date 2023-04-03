@@ -248,15 +248,15 @@
 
   - [bindgen](https://github.com/rust-lang/rust-bindgen) <img src="https://img.shields.io/github/stars/rust-lang/rust-bindgen?style=social"/> : Automatically generates Rust FFI bindings to C (and some C++) libraries. 
 
-  - [cxx](https://github.com/dtolnay/cxx) <img src="https://img.shields.io/github/stars/dtolnay/cxx?style=social"/> : Safe interop between Rust and C++.
-
-  - [Autocxx](https://github.com/google/autocxx) <img src="https://img.shields.io/github/stars/google/autocxx?style=social"/> : Tool for safe ergonomic Rust/C++ interop driven from existing C++ headers.
-
-  - [C2Rust](https://github.com/immunant/c2rust) <img src="https://img.shields.io/github/stars/immunant/c2rust?style=social"/> : C2Rust helps you migrate C99-compliant code to Rust.
+  - [C2Rust](https://github.com/immunant/c2rust) <img src="https://img.shields.io/github/stars/immunant/c2rust?style=social"/> : C2Rust helps you migrate C99-compliant code to Rust. [c2rust.com/](https://c2rust.com/)
 
   - [embed-c](https://github.com/zdimension/embed-c) <img src="https://img.shields.io/github/stars/zdimension/embed-c?style=social"/> : Embed C code at compile time inside Rust using C2Rust.
 
-  - [rust-cpp](https://github.com/mystor/rust-cpp) <img src="https://img.shields.io/github/stars/mystor/rust-cpp?style=social"/> : Embed C++ directly inside your rust code! 
+  - [rust-cpp](https://github.com/mystor/rust-cpp) <img src="https://img.shields.io/github/stars/mystor/rust-cpp?style=social"/> : rust-cpp - Embed C++ code directly in Rust. 
+
+  - [cxx](https://github.com/dtolnay/cxx) <img src="https://img.shields.io/github/stars/dtolnay/cxx?style=social"/> : Safe interop between Rust and C++. [cxx.rs](https://cxx.rs/)
+
+  - [Autocxx](https://github.com/google/autocxx) <img src="https://img.shields.io/github/stars/google/autocxx?style=social"/> : Tool for safe ergonomic Rust/C++ interop driven from existing C++ headers. [docs.rs/autocxx](https://docs.rs/autocxx/latest/autocxx/)
 
   - [safer_ffi](https://github.com/getditto/safer_ffi) <img src="https://img.shields.io/github/stars/getditto/safer_ffi?style=social"/> : Write safer FFI code in Rust without polluting it with unsafe code. [getditto.github.io/safer_ffi](https://getditto.github.io/safer_ffi/)
 
