@@ -23,9 +23,11 @@
   - [Remote Desktop](#remote-desktop) 
   - [Date and Time](#date-and-time)
   - [Scientific Computation](#scientific-computation)
+    - [Numerical Calculation](#numerical-calculation)
     - [Linear Algebra](#linear-algebra)
     - [Lie Groups](#lie-groups)
     - [Optimization Algorithm](#optimization-algorithm)
+    - [Finite Element Computation](#finite-element-computation)
     - [Data Analysis and Visualization](#data-analysis-and-visualization)
   - [Sensor and Communication Interface](#sensor-and-communication-interface)
   - [Signal Processing](#signal-processing)
@@ -314,7 +316,7 @@
 
 ## Shared Memory 
 
-  - [elast0ny/shared_memory](https://github.com/elast0ny/shared_memory) <img src="https://img.shields.io/github/stars/elast0ny/shared_memory?style=social"/> : A Rust wrapper around native shared memory for Linux and Windows.
+  - [elast0ny/shared_memory](https://github.com/At0micBee/scilib) <img src="https://img.shields.io/github/stars/At0micBee/scilib?style=social"/> : A Rust wrapper around native shared memory for Linux and Windows.
 
 
 ## Remote Desktop
@@ -330,6 +332,13 @@
 
 
 ## Scientific Computation
+
+  - ### Numerical Calculation
+
+    - [scilib](https://github.com/At0micBee/scilib) <img src="https://img.shields.io/github/stars/At0micBee/scilib?style=social"/> : A rust crate for mathematics and science. [crates.io/crates/scilib](https://crates.io/crates/scilib)
+
+    - [fitting-rs](https://github.com/mshrtsr/fitting-rs) <img src="https://img.shields.io/github/stars/mshrtsr/fitting-rs?style=social"/> : Curve fitting library for Rust. [crates.io/crates/fitting](https://crates.io/crates/fitting)
+
 
   - ### Linear Algebra
 
@@ -368,6 +377,16 @@
     - [mithi/rusty-genes](https://github.com/mithi/rusty-genes) <img src="https://img.shields.io/github/stars/mithi/rusty-genes?style=social"/> : Genetic algorithm implementation in Rust with animated visualizations in Python.
 
 
+  - ### Finite Element Computation
+
+    - [FENRIS](https://github.com/InteractiveComputerGraphics/fenris) <img src="https://img.shields.io/github/stars/InteractiveComputerGraphics/fenris?style=social"/> : A Rust library for building advanced applications with the Finite Element Method (FEM).
+
+    - [InteractiveComputerGraphics/higher_order_embedded_fem](https://github.com/InteractiveComputerGraphics/higher_order_embedded_fem) <img src="https://img.shields.io/github/stars/InteractiveComputerGraphics/higher_order_embedded_fem?style=social"/> : Source code for our paper "Higher-order finite elements for embedded simulation".
+
+
+
+
+
   - ### Data Analysis and Visualization
 
     - [Polars](https://github.com/pola-rs/polars) <img src="https://img.shields.io/github/stars/pola-rs/polars?style=social"/> : [Polars](https://www.pola.rs/). Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js.
@@ -377,6 +396,9 @@
     - [Typst](https://github.com/typst/typst) <img src="https://img.shields.io/github/stars/typst/typst?style=social"/> : A new markup-based typesetting system that is powerful and easy to learn. Typst is a new markup-based typesetting system that is designed to be as powerful as LaTeX while being much easier to learn and use.  [typst.app](https://typst.app/).
 
     - [Rerun](https://github.com/rerun-io/rerun) <img src="https://img.shields.io/github/stars/rerun-io/rerun?style=social"/> : Rerun: Visualization infrastructure for computer vision. Log images, point clouds, etc, and visualize them effortlessly. Built in Rust using egui. [rerun.io](https://www.rerun.io/)
+
+
+
 
 
 
@@ -543,6 +565,8 @@
     - [michaelgiba/ggml-rs](https://github.com/michaelgiba/ggml-rs) <img src="https://img.shields.io/github/stars/michaelgiba/ggml-rs?style=social"/> : Work in progress rust bindings to ggml.
 
     - [elftausend/gradients](https://github.com/elftausend/gradients) <img src="https://img.shields.io/github/stars/elftausend/gradients?style=social"/> : Deep Learning library using [custos](https://github.com/elftausend/custos) and [custos-math](https://github.com/elftausend/custos-math).
+
+    - [michaelmelanson/spiking-neural-net](https://github.com/michaelmelanson/spiking-neural-net) <img src="https://img.shields.io/github/stars/michaelmelanson/spiking-neural-net?style=social"/> : A spiking neural network simulation library.
 
 
 
