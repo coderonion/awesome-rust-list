@@ -17,7 +17,7 @@
   - [Robot Operating System](#robot-operating-system)
   - [Hardware Description Language](#hardware-description-language)
   - [FFI Bindings](#ffi-bindings)
-  - [GPU Integration](#gpu-integration) 
+  - [GPU Computation](#gpu-computation) 
   - [Graphics Library](#graphics-library)  
   - [Shared Memory](#shared-memory) 
   - [Remote Desktop](#remote-desktop) 
@@ -29,7 +29,7 @@
     - [Data Analysis and Visualization](#data-analysis-and-visualization)
   - [Sensor and Communication Interface](#sensor-and-communication-interface)
   - [Signal Processing](#signal-processing)
-  - [Image Processing](#image-processing)
+  - [Image and Video Processing](#image-and-video-processing)
   - [Localization and Mapping](#localization-and-mapping)
   - [Path Planning](#path-planning)
   - [Motion Control](#motion-control)
@@ -39,6 +39,7 @@
     - [Large Language Model](#large-language-model)
     - [Object Detection](#object-detection)
   - [Web Framework](#web-framework)
+  - [Web Crawler](#web-crawler)
   - [WebAssembly Runtime](#webAssembly-runtime)
   - [GUI](#gui)
 
@@ -272,7 +273,7 @@
 
 
 
-## GPU Integration 
+## GPU Computation 
 
   - [rust-gpu](https://github.com/EmbarkStudios/rust-gpu) <img src="https://img.shields.io/github/stars/EmbarkStudios/rust-gpu?style=social"/> : 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧 [shader.rs](https://shader.rs/)  
 
@@ -410,7 +411,7 @@
 
 
 
-## Image Processing
+## Image and Video Processing
 
   - [opencv-rust](https://github.com/twistedfall/opencv-rust) <img src="https://img.shields.io/github/stars/twistedfall/opencv-rust?style=social"/> : Rust bindings for OpenCV 3 & 4. 
 
@@ -605,6 +606,25 @@
   - [Leptos](https://github.com/leptos-rs/leptos) <img src="https://img.shields.io/github/stars/leptos-rs/leptos?style=social"/> : Build fast web applications with Rust. 
 
   - [zino](https://github.com/photino/zino) <img src="https://img.shields.io/github/stars/photino/zino?style=social"/> : zino is a full-featured web application framework for Rust with a focus on productivity and performance.
+
+
+
+## Web Crawler
+
+  - [Spider](https://github.com/spider-rs/spider) <img src="https://img.shields.io/github/stars/spider-rs/spider?style=social"/> : Spider: The fastest web crawler and indexer. [docs.rs/spider/](https://docs.rs/spider/latest/spider/)
+
+  - [a11ywatch/crawler](https://github.com/a11ywatch/crawler) <img src="https://img.shields.io/github/stars/a11ywatch/crawler?style=social"/> : A [gRPC](https://grpc.io/) web indexer turbo charged for performance.
+
+  - [Antosser/web-crawler](https://github.com/Antosser/web-crawler) <img src="https://img.shields.io/github/stars/Antosser/web-crawler?style=social"/> : Rust Web Crawler that finds every page, image, and script on a website (and downloads it) 
+
+  - [ravenxd0/crawler](https://github.com/ravenxd0/crawler) <img src="https://img.shields.io/github/stars/ravenxd0/crawler?style=social"/> : Web Crawler in Rust.
+
+  - [lonexw/rust-crawler](https://github.com/lonexw/rust-crawler) <img src="https://img.shields.io/github/stars/lonexw/rust-crawler?style=social"/> : A simple crawler, built with Rust lang. 
+
+  - [tawilkinson/rust_web_crawler](https://github.com/tawilkinson/rust_web_crawler) <img src="https://img.shields.io/github/stars/tawilkinson/rust_web_crawler?style=social"/> : A simple web crawler in rust.
+
+
+  
 
 
 
