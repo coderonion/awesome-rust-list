@@ -311,6 +311,9 @@
 
   - [toolness/csharpbindgen](https://github.com/toolness/csharpbindgen) <img src="https://img.shields.io/github/stars/toolness/csharpbindgen?style=social"/> : A Rust library for generating C# bindings from Rust code.
 
+  - [nikomatsakis/duchess](https://github.com/nikomatsakis/duchess) <img src="https://img.shields.io/github/stars/nikomatsakis/duchess?style=social"/> : Experiments with Java-Rust interop. 
+
+
 
 
 
@@ -562,13 +565,18 @@
 
   - [Bevy](https://github.com/bevyengine/bevy) <img src="https://img.shields.io/github/stars/bevyengine/bevy?style=social"/> : Bevy is a refreshingly simple data-driven game engine built in Rust. It is free and open-source forever! [bevyengine.org](https://bevyengine.org/)
 
+  - [Fyrox](https://github.com/FyroxEngine/Fyrox) <img src="https://img.shields.io/github/stars/FyroxEngine/Fyrox?style=social"/> : 3D and 2D game engine written in Rust. [fyrox.rs](https://fyrox.rs/)
+
+  - [Ambient](https://github.com/AmbientRun/Ambient) <img src="https://img.shields.io/github/stars/AmbientRun/Ambient?style=social"/> : Ambient is a runtime for building high-performance multiplayer games and 3D applications, powered by WebAssembly, Rust and WebGPU. [ambient.run](https://www.ambient.run/)
+
   - [Rapier](https://github.com/dimforge/rapier) <img src="https://img.shields.io/github/stars/dimforge/rapier?style=social"/> : Rapier is a set of 2D and 3D physics engines for games, animation, and robotics. [rapier.rs](https://rapier.rs/)
 
   - [bevy_rapier](https://github.com/dimforge/bevy_rapier) <img src="https://img.shields.io/github/stars/dimforge/bevy_rapier?style=social"/> : Official Rapier plugin for the Bevy game engine. 
 
   - [Parry](https://github.com/dimforge/parry) <img src="https://img.shields.io/github/stars/dimforge/parry?style=social"/> : 2D and 3D collision-detection library for Rust. [parry.rs](https://parry.rs/)
 
-  - [Fyrox](https://github.com/FyroxEngine/Fyrox) <img src="https://img.shields.io/github/stars/FyroxEngine/Fyrox?style=social"/> : 3D and 2D game engine written in Rust. [fyrox.rs](https://fyrox.rs/)
+  - [Eldiron](https://github.com/markusmoenig/Eldiron) <img src="https://img.shields.io/github/stars/markusmoenig/Eldiron?style=social"/> : A cross platform classic RPG game creator written in Rust. [www.eldiron.com](https://eldiron.com/)
+
 
 
 
@@ -654,25 +662,35 @@
 
 ## Web Framework
 
-  - [Deno](https://github.com/denoland/deno) <img src="https://img.shields.io/github/stars/denoland/deno?style=social"/> : Deno is a simple, modern and secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust. [deno.land](https://deno.land/)
-
-  - [Hyper](https://github.com/vercel/hyper) <img src="https://img.shields.io/github/stars/vercel/hyper?style=social"/> : A terminal built on web technologies. [hyper.is](https://hyper.is/)
-
   - [Yew](https://github.com/yewstack/yew) <img src="https://img.shields.io/github/stars/yewstack/yew?style=social"/> : Yew is a modern Rust framework for creating multi-threaded front-end web apps with WebAssembly. [yew.rs](https://yew.rs/)
-
-  - [SWC](https://github.com/swc-project/swc) <img src="https://img.shields.io/github/stars/swc-project/swc?style=social"/> : SWC (stands for Speedy Web Compiler) is a super-fast TypeScript / JavaScript compiler written in Rust. [swc.rs](https://swc.rs/)
-
-  - [Rocket](https://github.com/SergioBenitez/Rocket) <img src="https://img.shields.io/github/stars/SergioBenitez/Rocket?style=social"/> : A web framework for Rust. [rocket.rs](https://rocket.rs/)
-
-  - [Actix](https://github.com/actix/actix-web) <img src="https://img.shields.io/github/stars/actix/actix-web?style=social"/> : Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust. [actix.rs](https://actix.rs/)
 
   - [Axum](https://github.com/tokio-rs/axum) <img src="https://img.shields.io/github/stars/tokio-rs/axum?style=social"/> : Ergonomic and modular web framework built with Tokio, Tower, and Hyper.
 
+  - [Actix](https://github.com/actix/actix-web) <img src="https://img.shields.io/github/stars/actix/actix-web?style=social"/> : Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust. [actix.rs](https://actix.rs/)
+
+  - [Rocket](https://github.com/SergioBenitez/Rocket) <img src="https://img.shields.io/github/stars/SergioBenitez/Rocket?style=social"/> : A web framework for Rust. [rocket.rs](https://rocket.rs/)
+  
+  - [Poem](https://github.com/poem-web/poem) <img src="https://img.shields.io/github/stars/poem-web/poem?style=social"/> : A full-featured and easy-to-use web framework with the Rust programming language. 
+
   - [Salvo](https://github.com/salvo-rs/salvo) <img src="https://img.shields.io/github/stars/salvo-rs/salvo?style=social"/> : [Salvo](https://salvo.rs/) is a powerful and simplest web server framework in Rust world. [salvo.rs](https://salvo.rs/)
+
+  - [Rouille](https://github.com/tomaka/rouille) <img src="https://img.shields.io/github/stars/tomaka/rouille?style=social"/> : Rouille, a Rust web micro-framework.
 
   - [Leptos](https://github.com/leptos-rs/leptos) <img src="https://img.shields.io/github/stars/leptos-rs/leptos?style=social"/> : Build fast web applications with Rust. 
 
+  - [Farm](https://github.com/farm-fe/farm) <img src="https://img.shields.io/github/stars/farm-fe/farm?style=social"/> : Super fast web build tool written in Rust - 基于 Rust 的极速 web 构建引擎。 [farm-fe.github.io](https://farm-fe.github.io/)
+
   - [zino](https://github.com/photino/zino) <img src="https://img.shields.io/github/stars/photino/zino?style=social"/> : zino is a full-featured web application framework for Rust with a focus on productivity and performance.
+
+  - [Hyper](https://github.com/vercel/hyper) <img src="https://img.shields.io/github/stars/vercel/hyper?style=social"/> : A terminal built on web technologies. [hyper.is](https://hyper.is/)
+
+  - [Deno](https://github.com/denoland/deno) <img src="https://img.shields.io/github/stars/denoland/deno?style=social"/> : Deno is a simple, modern and secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust. [deno.land](https://deno.land/)
+
+  - [SWC](https://github.com/swc-project/swc) <img src="https://img.shields.io/github/stars/swc-project/swc?style=social"/> : SWC (stands for Speedy Web Compiler) is a super-fast TypeScript / JavaScript compiler written in Rust. [swc.rs](https://swc.rs/)
+
+
+
+
 
 
 
