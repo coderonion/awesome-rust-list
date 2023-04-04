@@ -11,6 +11,7 @@
     - [Awesome List](#awesome-list)
   - [Data Structure and Algorithm](#data-structure-and-algorithm)
   - [Design Pattern](#design-pattern)
+  - [Memory Allocator](#memory-allocator)
   - [Asynchronous Runtime](#asynchronous-runtime)
   - [Embedded Development](#embedded-development)
   - [Universal Operating System](#universal-operating-system)
@@ -150,6 +151,9 @@
   - [matey-jack/dl-list-mini.fs](https://gist.github.com/matey-jack/3e19b6370c6f7036a9119b79a82098ca) : Simple doubly-linked list in safe Rust.  
 
 
+
+
+
 ## Design Pattern
 
   - [fadeevab/design-patterns-rust](https://github.com/fadeevab/design-patterns-rust) <img src="https://img.shields.io/github/stars/fadeevab/design-patterns-rust?style=social"/> : Rust examples for all 23 classic GoF design patterns, and even a little more.
@@ -157,9 +161,26 @@
   - [lpxxn/rust-design-pattern](https://github.com/lpxxn/rust-design-pattern) <img src="https://img.shields.io/github/stars/lpxxn/rust-design-pattern?style=social"/> : Rust Design Patterns.
 
 
+
+
+
+## Memory Allocator
+
+  - [typed-arena](https://github.com/thomcc/rust-typed-arena) <img src="https://img.shields.io/github/stars/thomcc/rust-typed-arena?style=social"/> : A fast (but limited) allocation arena for values of a single type.
+
+  - [bumpalo](https://github.com/fitzgen/bumpalo) <img src="https://img.shields.io/github/stars/fitzgen/bumpalo?style=social"/> : A fast bump allocation arena for Rust. [docs.rs/bumpalo](https://docs.rs/bumpalo/latest/bumpalo/)
+
+  - [generational-arena](https://github.com/fitzgen/generational-arena) <img src="https://img.shields.io/github/stars/fitzgen/generational-arena?style=social"/> : A safe arena allocator that allows deletion without suffering from the ABA problem by using generational indices. [docs.rs/generational-arena](https://docs.rs/generational-arena/latest/generational_arena/)
+
+
+
+
+
 ## Asynchronous Runtime
 
   - [Tokio](https://github.com/tokio-rs/tokio) <img src="https://img.shields.io/github/stars/tokio-rs/tokio?style=social"/> : A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.
+
+
 
 
 ## Embedded Development
@@ -168,15 +189,21 @@
 
   - [rust-embedded](https://github.com/rust-embedded) : Enabling usage of Rust on Embedded Platforms (Embedded Linux / RTOS / Bare Metal).
 
+  - [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) <img src="https://img.shields.io/github/stars/rust-embedded/rust-raspberrypi-OS-tutorials?style=social"/> :  📚 Learn to write an embedded OS in Rust 🦀 
+
+  - [Tock](https://github.com/tock/tock) <img src="https://img.shields.io/github/stars/tock/tock?style=social"/> : A secure embedded operating system for microcontrollers. [www.tockos.org](https://www.tockos.org/)
+
+  - [lobaro/FreeRTOS-rust](https://github.com/lobaro/FreeRTOS-rust) <img src="https://img.shields.io/github/stars/lobaro/FreeRTOS-rust?style=social"/> : This project is based on code from [freertos.rs](https://github.com/hashmismatch/freertos.rs) and some additions to simplify the usage of [FreeRTOS](https://github.com/FreeRTOS/FreeRTOS-Kernel) in embedded applications written in Rust.
+
+
+
+
+
 
 
 ## Universal Operating System
 
   - [BlogOS](https://github.com/phil-opp/blog_os) <img src="https://img.shields.io/github/stars/phil-opp/blog_os?style=social"/> : This repository contains the source code for the Writing an OS in Rust series at [os.phil-opp.com](https://os.phil-opp.com/).
-
-  - [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) <img src="https://img.shields.io/github/stars/rust-embedded/rust-raspberrypi-OS-tutorials?style=social"/> :  📚 Learn to write an embedded OS in Rust 🦀 
-  
-  - [Tock](https://github.com/tock/tock) <img src="https://img.shields.io/github/stars/tock/tock?style=social"/> : A secure embedded operating system for microcontrollers. [www.tockos.org](https://www.tockos.org/)
 
   - [rCore-Tutorial-v3](https://github.com/chyyuu/os_kernel_lab) <img src="https://img.shields.io/github/stars/chyyuu/os_kernel_lab?style=social"/> : OS kernel labs based on Rust/C Lang & RISC-V 64/X86-32.
 
@@ -201,6 +228,7 @@
   - [SIMDeez](https://github.com/arduano/simdeez) <img src="https://img.shields.io/github/stars/arduano/simdeez?style=social"/> : A library that abstracts over SIMD instruction sets, including ones with differing widths. SIMDeez is designed to allow you to write a function one time and produce SSE2, SSE41, and AVX2 versions of the function.
 
   - [yavkOS](https://github.com/yavko/yavkOS) <img src="https://img.shields.io/github/stars/yavko/yavkOS?style=social"/> : Operating system based off of blog_os, with the goal of running wasm modules as executables.
+
 
 
 ## Robot Operating System
@@ -238,9 +266,18 @@
 
 
 
+
 ## Hardware Description Language
 
-  - [dalance/veryl](https://github.com/dalance/veryl) <img src="https://img.shields.io/github/stars/dalance/veryl?style=social"/> : Veryl: A Modern Hardware Description Language.
+  - [Veryl](https://github.com/dalance/veryl) <img src="https://img.shields.io/github/stars/dalance/veryl?style=social"/> : Veryl: A Modern Hardware Description Language.
+
+  - [VHDL-LS/rust_hdl](https://github.com/VHDL-LS/rust_hdl) <img src="https://img.shields.io/github/stars/VHDL-LS/rust_hdl?style=social"/> : This repository contains a fast VHDL language server and analysis library written in Rust.
+
+  - [yupferris/kaze](https://github.com/yupferris/kaze) <img src="https://img.shields.io/github/stars/yupferris/kaze?style=social"/> : An [HDL](https://en.wikipedia.org/wiki/Hardware_description_language) embedded in Rust. kaze provides an API to describe Modules composed of Signals, which can then be used to generate Rust simulator code or Verilog modules.
+
+  - [samitbasu/rust-hdl](https://github.com/samitbasu/rust-hdl) <img src="https://img.shields.io/github/stars/samitbasu/rust-hdl?style=social"/> : A framework for writing FPGA firmware using the Rust Programming Language.
+
+
 
 
 
@@ -316,7 +353,7 @@
 
 ## Shared Memory 
 
-  - [elast0ny/shared_memory](https://github.com/At0micBee/scilib) <img src="https://img.shields.io/github/stars/At0micBee/scilib?style=social"/> : A Rust wrapper around native shared memory for Linux and Windows.
+  - [elast0ny/shared_memory](https://github.com/elast0ny/shared_memory) <img src="https://img.shields.io/github/stars/elast0ny/shared_memory?style=social"/> : A Rust wrapper around native shared memory for Linux and Windows.
 
 
 ## Remote Desktop
@@ -567,6 +604,8 @@
     - [elftausend/gradients](https://github.com/elftausend/gradients) <img src="https://img.shields.io/github/stars/elftausend/gradients?style=social"/> : Deep Learning library using [custos](https://github.com/elftausend/custos) and [custos-math](https://github.com/elftausend/custos-math).
 
     - [michaelmelanson/spiking-neural-net](https://github.com/michaelmelanson/spiking-neural-net) <img src="https://img.shields.io/github/stars/michaelmelanson/spiking-neural-net?style=social"/> : A spiking neural network simulation library.
+
+
 
 
 
