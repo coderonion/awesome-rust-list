@@ -172,7 +172,7 @@
 
   - [generational-arena](https://github.com/fitzgen/generational-arena) <img src="https://img.shields.io/github/stars/fitzgen/generational-arena?style=social"/> : A safe arena allocator that allows deletion without suffering from the ABA problem by using generational indices. [docs.rs/generational-arena](https://docs.rs/generational-arena/latest/generational_arena/)
 
-
+  - [tikv/jemallocator](https://github.com/tikv/jemallocator) <img src="https://img.shields.io/github/stars/tikv/jemallocator?style=social"/> : Rust allocator using jemalloc as a backend.
 
 
 
@@ -271,11 +271,13 @@
 
   - [Veryl](https://github.com/dalance/veryl) <img src="https://img.shields.io/github/stars/dalance/veryl?style=social"/> : Veryl: A Modern Hardware Description Language.
 
+  - [RustHDL](https://github.com/samitbasu/rust-hdl) <img src="https://img.shields.io/github/stars/samitbasu/rust-hdl?style=social"/> : A framework for writing FPGA firmware using the Rust Programming Language.
+
   - [VHDL-LS/rust_hdl](https://github.com/VHDL-LS/rust_hdl) <img src="https://img.shields.io/github/stars/VHDL-LS/rust_hdl?style=social"/> : This repository contains a fast VHDL language server and analysis library written in Rust.
 
   - [yupferris/kaze](https://github.com/yupferris/kaze) <img src="https://img.shields.io/github/stars/yupferris/kaze?style=social"/> : An [HDL](https://en.wikipedia.org/wiki/Hardware_description_language) embedded in Rust. kaze provides an API to describe Modules composed of Signals, which can then be used to generate Rust simulator code or Verilog modules.
 
-  - [samitbasu/rust-hdl](https://github.com/samitbasu/rust-hdl) <img src="https://img.shields.io/github/stars/samitbasu/rust-hdl?style=social"/> : A framework for writing FPGA firmware using the Rust Programming Language.
+
 
 
 
