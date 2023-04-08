@@ -475,6 +475,8 @@
 
 ## Sensor and Communication Interface
 
+  - [serialport-rs](https://github.com/serialport/serialport-rs) <img src="https://img.shields.io/github/stars/serialport/serialport-rs?style=social"/> : A cross-platform serial port library in Rust. Provides a blocking I/O interface and port enumeration including USB device information. 
+
   - [scottlamb/moonfire-nvr](https://github.com/scottlamb/moonfire-nvr) <img src="https://img.shields.io/github/stars/scottlamb/moonfire-nvr?style=social"/> : Moonfire NVR, a security camera network video recorder.
 
   - [l1npengtul/nokhwa](https://github.com/l1npengtul/nokhwa) <img src="https://img.shields.io/github/stars/l1npengtul/nokhwa?style=social"/> : Cross Platform Rust Library for Powerful Webcam/Camera Capture.
