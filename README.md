@@ -147,7 +147,9 @@
 
 ## Data Structure and Algorithm 
 
-  - [sjinzh/hello-algo-rust-zig](https://github.com/sjinzh/hello-algo-rust-zig) <img src="https://img.shields.io/github/stars/sjinzh/hello-algo-rust-zig?style=social"/> : Rust and Zig programming language codes for the famous public project 《Hello, Algorithm》|《 Hello，算法 》 about data structures and algorithms.
+  - [krahets/hello-algo](https://github.com/krahets/hello-algo) <img src="https://img.shields.io/github/stars/krahets/hello-algo?style=social"/> : 《Hello 算法》是一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Zig 等语言。 前往阅读 > [hello-algo.com](https://www.hello-algo.com/). 
+
+  - [sjinzh/hello-algo-rust-zig](https://github.com/sjinzh/hello-algo-rust-zig) <img src="https://img.shields.io/github/stars/sjinzh/hello-algo-rust-zig?style=social"/> : Rust and Zig programming language codes for the famous public project [《Hello, Algorithm》|《 Hello，算法 》](https://github.com/krahets/hello-algo) about data structures and algorithms.
 
   - [EbTech/rust-algorithms](https://github.com/EbTech/rust-algorithms) <img src="https://img.shields.io/github/stars/EbTech/rust-algorithms?style=social"/> : Common data structures and algorithms in Rust. A collection of classic data structures and algorithms, emphasizing usability, beauty and clarity over full generality.
 
