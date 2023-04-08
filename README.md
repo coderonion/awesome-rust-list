@@ -55,11 +55,13 @@
 
     - [Rust](https://github.com/rust-lang/rust) <img src="https://img.shields.io/github/stars/rust-lang/rust?style=social"/> : The Rust Programming Language. Empowering everyone to build reliable and efficient software. [www.rust-lang.org](www.rust-lang.org). [Rust Foundation](https://foundation.rust-lang.org/).
 
+    - [Rust std](https://doc.rust-lang.org/std/index.html) : The Rust Standard Library.
+
     - [crates.io](https://crates.io/) : The Rust community’s crate registry.
 
     - [Lib.rs](https://lib.rs/) : Fast, lightweight, opinionated, unofficial alternative to crates.io.
 
-    - [Crate std](https://doc.rust-lang.org/std/index.html) : The Rust Standard Library.
+    - [Rust Playground](https://play.rust-lang.org/) : The Rust Playground. [rust-lang/rust-playground](https://github.com/rust-lang/rust-playground) <img src="https://img.shields.io/github/stars/rust-lang/rust-playground?style=social"/>.
 
 
 
