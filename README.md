@@ -106,12 +106,19 @@
 
     - [pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog) <img src="https://img.shields.io/github/stars/pretzelhammer/rust-blog?style=social"/> : pretzelhammer's Rust blog 🦀. Educational blog posts for Rust beginners.
 
+    - [rustomax/rust-iterators](https://github.com/rustomax/rust-iterators) <img src="https://img.shields.io/github/stars/rustomax/rust-iterators?style=social"/> : Basic Rust iterator usage. The goal of this tutorial is to provide a handy reference to some of the common iterator patterns. 
+
     - [lborb/book](https://github.com/lborb/book) <img src="https://img.shields.io/github/stars/lborb/book?style=social"/> : [The Little Book of Rust Books](https://lborb.github.io/book/title-page.html).
+
     - [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) <img src="https://img.shields.io/github/stars/ctjhoa/rust-learning?style=social"/> : A bunch of links to blog posts, articles, videos, etc for learning Rust.
 
     - [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) <img src="https://img.shields.io/github/stars/rust-lang/rust-by-example?style=social"/> : [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/).
 
     - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) <img src="https://img.shields.io/github/stars/rust-lang/rustlings?style=social"/> : 🦀 Small exercises to get you used to reading and writing Rust code!
+
+    - [MacroKata](https://tfpk.github.io/macrokata/) : Welcome to MacroKata, a set of exercises which you can use to learn how to write macros in Rust. 
+
+    - [veykril/tlborm](https://github.com/veykril/tlborm/) <img src="https://img.shields.io/github/stars/veykril/tlborm?style=social"/> : [The Little Book of Rust Macros](https://veykril.github.io/tlborm/). [Rust 宏小册](https://zjp-cn.github.io/tlborm/)。 
 
     - [Rust文档网](https://rustwiki.org/) : Rust 官方文档中文教程。
 
@@ -126,10 +133,6 @@
     - [rust-lang-cn/rust-by-example-cn](https://github.com/rust-lang-cn/rust-by-example-cn) <img src="https://img.shields.io/github/stars/rust-lang-cn/rust-by-example-cn?style=social"/> : [通过例子学Rust](https://rustwiki.org/zh-CN/rust-by-example/)。
 
     - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) <img src="https://img.shields.io/github/stars/sunface/rust-by-practice?style=social"/> : [Rust By Practice(Rust语言实战)](https://zh.practice.rs/why-exercise.html)。
-
-    - [MacroKata](https://tfpk.github.io/macrokata/) : Welcome to MacroKata, a set of exercises which you can use to learn how to write macros in Rust. 
-
-    - [veykril/tlborm](https://github.com/veykril/tlborm/) <img src="https://img.shields.io/github/stars/veykril/tlborm?style=social"/> : [The Little Book of Rust Macros](https://veykril.github.io/tlborm/). [Rust 宏小册](https://zjp-cn.github.io/tlborm/)。 
 
     - [rust-lang-cn/nomicon-zh-Hans](https://github.com/rust-lang-cn/nomicon-zh-Hans) <img src="https://img.shields.io/github/stars/rust-lang-cn/nomicon-zh-Hans?style=social"/> : [Rust 秘典（死灵书）](https://nomicon.purewhite.io/)。
 
