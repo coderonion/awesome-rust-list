@@ -1,7 +1,7 @@
 # Awesome-Rust-List
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-🔥🔥🔥 This repository lists some awesome public Rust projects.
+🔥🔥🔥 This repository lists some awesome public Rust programming language projects.
 
 ## Contents
 - [Awesome-Rust-List](#awesome-rust-list)
@@ -120,6 +120,8 @@
 
     - [veykril/tlborm](https://github.com/veykril/tlborm/) <img src="https://img.shields.io/github/stars/veykril/tlborm?style=social"/> : [The Little Book of Rust Macros](https://veykril.github.io/tlborm/). [Rust 宏小册](https://zjp-cn.github.io/tlborm/)。 
 
+    - [dtolnay/proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop) <img src="https://img.shields.io/github/stars/dtolnay/proc-macro-workshop?style=social"/> : Rust Latam: procedural macros workshop. This repo contains a selection of projects designed to learn to write Rust procedural macros — Rust code that generates Rust code. 
+
     - [Rust文档网](https://rustwiki.org/) : Rust 官方文档中文教程。
 
     - [rust-boom/rust-boom](https://github.com/rust-boom/rust-boom) <img src="https://img.shields.io/github/stars/rust-boom/rust-boom?style=social"/> : [Rust Boom 💥](https://rust-boom.github.io/rust-boom/) 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难点的解决方法以及一些 Rust 开源的好玩的库、书籍、文章的整理，希望可以帮助更多的 Rust 初学者来翻过 Rust 这座大山。
@@ -141,6 +143,8 @@
     - [Warrenren/inside-rust-std-library](https://github.com/Warrenren/inside-rust-std-library) <img src="https://img.shields.io/github/stars/Warrenren/inside-rust-std-library?style=social"/> : 本书主要对RUST的标准库代码进行分析，并试图给出RUST标准库代码的分析脉络。This project try to give a venation of how reading the RUST standard library source code.
 
     - [wtklbm/rust-library-i18n](https://github.com/wtklbm/rust-library-i18n) <img src="https://img.shields.io/github/stars/wtklbm/rust-library-i18n?style=social"/> :  Rust 核心库和标准库中文翻译，可作为 IDE 工具的智能提示，并生成本地 API 文档。
+
+    - [1595901624/StudyRust](https://github.com/1595901624/StudyRust) <img src="https://img.shields.io/github/stars/1595901624/StudyRust?style=social"/> :  公众号：《Rust学习日记》Rust 学习日记 源码 ，让你的Rust从0基础小白到大牛。
 
     - [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) <img src="https://img.shields.io/github/stars/johnthagen/min-sized-rust?style=social"/> :  🦀 How to minimize Rust binary size 📦 
 
@@ -666,9 +670,9 @@
 
     - [rustformers/llama-rs](https://github.com/rustformers/llama-rs) <img src="https://img.shields.io/github/stars/rustformers/llama-rs?style=social"/> : Run LLaMA inference on CPU, with Rust 🦀🚀🦙.
 
-    - [m1guelpf/browser-agent](https://github.com/m1guelpf/browser-agent) <img src="https://img.shields.io/github/stars/m1guelpf/browser-agent?style=social"/> : A browser AI agent, using GPT-4. [docs.rs/browser-agent](https://docs.rs/browser-agent/latest/browser_agent/)
-
     - [Noeda/rllama](https://github.com/Noeda/rllama) <img src="https://img.shields.io/github/stars/Noeda/rllama?style=social"/> : Rust+OpenCL+AVX2 implementation of LLaMA inference code.
+
+    - [m1guelpf/browser-agent](https://github.com/m1guelpf/browser-agent) <img src="https://img.shields.io/github/stars/m1guelpf/browser-agent?style=social"/> : A browser AI agent, using GPT-4. [docs.rs/browser-agent](https://docs.rs/browser-agent/latest/browser_agent/)
 
     - [sigoden/aichat](https://github.com/sigoden/aichat) <img src="https://img.shields.io/github/stars/sigoden/aichat?style=social"/> : Using ChatGPT/GPT-3.5/GPT-4 in the terminal. 
 
