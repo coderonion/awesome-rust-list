@@ -316,6 +316,8 @@
 
   - [Autocxx](https://github.com/google/autocxx) <img src="https://img.shields.io/github/stars/google/autocxx?style=social"/> : Tool for safe ergonomic Rust/C++ interop driven from existing C++ headers. [docs.rs/autocxx](https://docs.rs/autocxx/latest/autocxx/)
 
+  - [UniFFI](https://github.com/mozilla/uniffi-rs) <img src="https://img.shields.io/github/stars/mozilla/uniffi-rs?style=social"/> : UniFFI - a multi-language bindings generator for Rust. [mozilla.github.io/uniffi-rs/](https://mozilla.github.io/uniffi-rs/)
+  
   - [safer_ffi](https://github.com/getditto/safer_ffi) <img src="https://img.shields.io/github/stars/getditto/safer_ffi?style=social"/> : Write safer FFI code in Rust without polluting it with unsafe code. [getditto.github.io/safer_ffi](https://getditto.github.io/safer_ffi/)
 
   - [Rutie](https://github.com/danielpclark/rutie) <img src="https://img.shields.io/github/stars/danielpclark/rutie?style=social"/> : “The Tie Between Ruby and Rust.” 
@@ -344,6 +346,9 @@
 
   - [nikomatsakis/duchess](https://github.com/nikomatsakis/duchess) <img src="https://img.shields.io/github/stars/nikomatsakis/duchess?style=social"/> : Experiments with Java-Rust interop. 
 
+  - [antoniusnaumann/cargo-swift](https://github.com/antoniusnaumann/cargo-swift) <img src="https://img.shields.io/github/stars/antoniusnaumann/cargo-swift?style=social"/> : A cargo plugin to easily build Swift packages from Rust code. [crates.io/crates/cargo-swift](https://crates.io/crates/cargo-swift)
+
+  - [tomleavy/safer-ffi-gen](https://github.com/tomleavy/safer-ffi-gen) <img src="https://img.shields.io/github/stars/tomleavy/safer-ffi-gen?style=social"/> : Attribute macro to help automate Rust FFI bindings. 
 
 
 
@@ -643,6 +648,8 @@
 
     - [Wonnx](https://github.com/webonnx/wonnx) <img src="https://img.shields.io/github/stars/webonnx/wonnx?style=social"/> : Wonnx is a GPU-accelerated ONNX inference run-time written 100% in Rust, ready for the web.
 
+    - [altius](https://github.com/maekawatoshiki/altius) <img src="https://img.shields.io/github/stars/maekawatoshiki/altius?style=social"/> : Small ONNX inference runtime written in Rust.
+
     - [pnn](https://github.com/ptaxom/pnn) <img src="https://img.shields.io/github/stars/ptaxom/pnn?style=social"/> : pnn is [Darknet](https://github.com/alexeyAB/darknet) compatible neural nets inference engine implemented in Rust. By optimizing was achieved significant performance increment(especially in FP16 mode). pnn provide CUDNN-based and TensorRT-based inference engines.
 
     - [goldstraw/RustCNN](https://github.com/goldstraw/RustCNN) <img src="https://img.shields.io/github/stars/goldstraw/RustCNN?style=social"/> : Rust convolutional neural network from scratch.
@@ -700,6 +707,22 @@
     - [laclouis5/globox-rs](https://github.com/laclouis5/globox-rs) <img src="https://img.shields.io/github/stars/laclouis5/globox-rs?style=social"/> : Object detection toolbox for parsing, converting and evaluating bounding box annotations.
 
 
+## Web Crawler
+
+  - [Spider](https://github.com/spider-rs/spider) <img src="https://img.shields.io/github/stars/spider-rs/spider?style=social"/> : Spider: The fastest web crawler and indexer. [docs.rs/spider/](https://docs.rs/spider/latest/spider/)
+
+  - [a11ywatch/crawler](https://github.com/a11ywatch/crawler) <img src="https://img.shields.io/github/stars/a11ywatch/crawler?style=social"/> : A [gRPC](https://grpc.io/) web indexer turbo charged for performance.
+
+  - [Antosser/web-crawler](https://github.com/Antosser/web-crawler) <img src="https://img.shields.io/github/stars/Antosser/web-crawler?style=social"/> : Rust Web Crawler that finds every page, image, and script on a website (and downloads it) 
+
+  - [ravenxd0/crawler](https://github.com/ravenxd0/crawler) <img src="https://img.shields.io/github/stars/ravenxd0/crawler?style=social"/> : Web Crawler in Rust.
+
+  - [lonexw/rust-crawler](https://github.com/lonexw/rust-crawler) <img src="https://img.shields.io/github/stars/lonexw/rust-crawler?style=social"/> : A simple crawler, built with Rust lang. 
+
+  - [tawilkinson/rust_web_crawler](https://github.com/tawilkinson/rust_web_crawler) <img src="https://img.shields.io/github/stars/tawilkinson/rust_web_crawler?style=social"/> : A simple web crawler in rust.
+
+
+
 ## Web Framework
 
   - [Yew](https://github.com/yewstack/yew) <img src="https://img.shields.io/github/stars/yewstack/yew?style=social"/> : Yew is a modern Rust framework for creating multi-threaded front-end web apps with WebAssembly. [yew.rs](https://yew.rs/)
@@ -728,26 +751,7 @@
 
   - [SWC](https://github.com/swc-project/swc) <img src="https://img.shields.io/github/stars/swc-project/swc?style=social"/> : SWC (stands for Speedy Web Compiler) is a super-fast TypeScript / JavaScript compiler written in Rust. [swc.rs](https://swc.rs/)
 
-
-
-
-
-
-
-## Web Crawler
-
-  - [Spider](https://github.com/spider-rs/spider) <img src="https://img.shields.io/github/stars/spider-rs/spider?style=social"/> : Spider: The fastest web crawler and indexer. [docs.rs/spider/](https://docs.rs/spider/latest/spider/)
-
-  - [a11ywatch/crawler](https://github.com/a11ywatch/crawler) <img src="https://img.shields.io/github/stars/a11ywatch/crawler?style=social"/> : A [gRPC](https://grpc.io/) web indexer turbo charged for performance.
-
-  - [Antosser/web-crawler](https://github.com/Antosser/web-crawler) <img src="https://img.shields.io/github/stars/Antosser/web-crawler?style=social"/> : Rust Web Crawler that finds every page, image, and script on a website (and downloads it) 
-
-  - [ravenxd0/crawler](https://github.com/ravenxd0/crawler) <img src="https://img.shields.io/github/stars/ravenxd0/crawler?style=social"/> : Web Crawler in Rust.
-
-  - [lonexw/rust-crawler](https://github.com/lonexw/rust-crawler) <img src="https://img.shields.io/github/stars/lonexw/rust-crawler?style=social"/> : A simple crawler, built with Rust lang. 
-
-  - [tawilkinson/rust_web_crawler](https://github.com/tawilkinson/rust_web_crawler) <img src="https://img.shields.io/github/stars/tawilkinson/rust_web_crawler?style=social"/> : A simple web crawler in rust.
-
+  - [tchatche.rs](https://github.com/nag763/tchatchers) <img src="https://img.shields.io/github/stars/nag763/tchatchers?style=social"/> : tchatche.rs is a blazing fast chat application built with Axum and Yew.rs. [tchatche.rs](https://tchatche.rs/signin)
 
   
 
@@ -761,11 +765,11 @@
 
 ## GUI
 
+  - [Slint](https://github.com/slint-ui/slint) <img src="https://img.shields.io/github/stars/slint-ui/slint?style=social"/> : Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. [slint-ui.com](https://github.com/slint-ui/slint)
+  
   - [Tauri](https://github.com/tauri-apps/tauri) <img src="https://img.shields.io/github/stars/tauri-apps/tauri?style=social"/> : Tauri is a framework for building tiny, blazingly fast binaries for all major desktop platforms. Developers can integrate any front-end framework that compiles to HTML, JS and CSS for building their user interface. The backend of the application is a rust-sourced binary with an API that the front-end can interact with.
 
   - [Pake](https://github.com/tw93/Pake) <img src="https://img.shields.io/github/stars/tw93/Pake?style=social"/> : 🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App.
-
-  - [Slint](https://github.com/slint-ui/slint) <img src="https://img.shields.io/github/stars/slint-ui/slint?style=social"/> : Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. [slint-ui.com](https://github.com/slint-ui/slint)
 
   - [egui](https://github.com/emilk/egui) <img src="https://img.shields.io/github/stars/emilk/egui?style=social"/> : egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native.
 
@@ -784,6 +788,8 @@
   - [KDE/rust-qt-binding-generator](https://github.com/KDE/rust-qt-binding-generator) <img src="https://img.shields.io/github/stars/KDE/rust-qt-binding-generator?style=social"/> : Generate bindings to use Rust code in Qt and QML.
 
   - [apertus-open-source-cinema/narui](https://github.com/apertus-open-source-cinema/narui) <img src="https://img.shields.io/github/stars/apertus-open-source-cinema/narui?style=social"/> : A react-inspired UI library for building multimedia desktop apps with rust and vulkan. 
+
+  - [slint-ui/cargo-ui](https://github.com/slint-ui/cargo-ui) <img src="https://img.shields.io/github/stars/slint-ui/cargo-ui?style=social"/> : This is a project to make a GUI for cargo, built using [Slint](https://github.com/slint-ui/slint).
 
 
 ## Blogs
