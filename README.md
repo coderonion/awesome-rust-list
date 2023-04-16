@@ -526,6 +526,11 @@
 
   - [Serde](https://github.com/serde-rs/serde) <img src="https://img.shields.io/github/stars/serde-rs/serde?style=social"/> : Serde is a framework for serializing and deserializing Rust data structures efficiently and generically. [serde.rs/](https://serde.rs/)
 
+  - [serde-rs/json](https://github.com/serde-rs/json) <img src="https://img.shields.io/github/stars/serde-rs/json?style=social"/> : Strongly typed JSON library for Rust.
+
+  - [BurntSushi/rust-csv](https://github.com/BurntSushi/rust-csv) <img src="https://img.shields.io/github/stars/BurntSushi/rust-csv?style=social"/> : A fast and flexible CSV reader and writer for Rust, with support for Serde.
+
+  - [informationsea/xlsxwriter-rs](https://github.com/informationsea/xlsxwriter-rs) <img src="https://img.shields.io/github/stars/informationsea/xlsxwriter-rs?style=social"/> : Excel file writer for Rust. [crates.io/crates/xlsxwriter](https://crates.io/crates/xlsxwriter)
 
 
 ## Image and Video Processing
