@@ -32,6 +32,7 @@
     - [Data Analysis and Visualization](#data-analysis-and-visualization)
   - [Sensor and Communication Interface](#sensor-and-communication-interface)
   - [Signal Processing](#signal-processing)
+  - [Text Processing](#text-processing)
   - [Image and Video Processing](#image-and-video-processing)
   - [Localization and Mapping](#localization-and-mapping)
   - [Path Planning](#path-planning)
@@ -521,6 +522,11 @@
 
 
 
+## Text Processing
+
+  - [Serde](https://github.com/serde-rs/serde) <img src="https://img.shields.io/github/stars/serde-rs/serde?style=social"/> : Serde is a framework for serializing and deserializing Rust data structures efficiently and generically. [serde.rs/](https://serde.rs/)
+
+
 
 ## Image and Video Processing
 
@@ -782,6 +788,8 @@
   - [Druid](https://github.com/linebender/druid) <img src="https://img.shields.io/github/stars/linebender/druid?style=social"/> : A data-first Rust-native UI toolkit.
 
   - [Dioxus](https://github.com/DioxusLabs/dioxus) <img src="https://img.shields.io/github/stars/DioxusLabs/dioxus?style=social"/> : Friendly React-like GUI library for desktop, web, mobile, and more.
+
+  - [Floem](https://github.com/lapce/floem) <img src="https://img.shields.io/github/stars/lapce/floem?style=social"/> : A native Rust UI library with fine-grained reactivity.
 
   - [marek-g/rust-fui](https://github.com/marek-g/rust-fui) <img src="https://img.shields.io/github/stars/marek-g/rust-fui?style=social"/> : MVVM Rust UI Framework Library.
 
