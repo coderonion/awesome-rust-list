@@ -58,6 +58,8 @@
 
     - [Rust std](https://doc.rust-lang.org/std/index.html) : The Rust Standard Library.
 
+    - [Docs.rs](https://docs.rs/) : Docs.rs documentation.
+
     - [crates.io](https://crates.io/) : The Rust community’s crate registry.
 
     - [Lib.rs](https://lib.rs/) : Fast, lightweight, opinionated, unofficial alternative to crates.io.
