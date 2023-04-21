@@ -127,6 +127,8 @@
 
     - [dtolnay/proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop) <img src="https://img.shields.io/github/stars/dtolnay/proc-macro-workshop?style=social"/> : Rust Latam: procedural macros workshop. This repo contains a selection of projects designed to learn to write Rust procedural macros — Rust code that generates Rust code. 
 
+    - [dtolnay/proc-macro2](https://github.com/dtolnay/proc-macro2) <img src="https://img.shields.io/github/stars/dtolnay/proc-macro2?style=social"/> : A wrapper around the procedural macro API of the compiler's proc_macro crate. 
+
     - [Rust文档网](https://rustwiki.org/) : Rust 官方文档中文教程。
 
     - [rust-boom/rust-boom](https://github.com/rust-boom/rust-boom) <img src="https://img.shields.io/github/stars/rust-boom/rust-boom?style=social"/> : rust awesome（资源）. 💥 [rust-boom.github.io/rust-boom/](https://rust-boom.github.io/rust-boom/). Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难点的解决方法以及一些 Rust 开源的好玩的库、书籍、文章的整理，希望可以帮助更多的 Rust 初学者来翻过 Rust 这座大山。
