@@ -99,47 +99,49 @@
 
   - ### Learning Resources
 
-    - [Rust std](https://doc.rust-lang.org/std/index.html) : The Rust Standard Library.
+    - [std](https://doc.rust-lang.org/std/index.html) : The Rust Standard Library.
 
-    - [Rust Language Cheat Sheet](https://github.com/ralfbiedert/cheats.rs/) <img src="https://img.shields.io/github/stars/ralfbiedert/cheats.rs?style=social"/> : [cheats.rs](https://cheats.rs/).
+    - [Docs.rs](https://docs.rs/) : Docs.rs documentation.
 
-    - [rust-lang/book](https://github.com/rust-lang/book) <img src="https://img.shields.io/github/stars/rust-lang/book?style=social"/> : [The Rust Programming Language](https://doc.rust-lang.org/stable/book/).
+    - [Rust Language Cheat Sheet](https://github.com/ralfbiedert/cheats.rs/) <img src="https://img.shields.io/github/stars/ralfbiedert/cheats.rs?style=social"/> : Rust Language Cheat Sheet - [https://cheats.rs](https://cheats.rs/). [cheats.rs](https://cheats.rs/)
 
-    - [rust-lang/reference](https://github.com/rust-lang/reference) <img src="https://img.shields.io/github/stars/rust-lang/reference?style=social"/> : [The Rust Reference](https://doc.rust-lang.org/reference/).
+    - [rust-lang/book](https://github.com/rust-lang/book) <img src="https://img.shields.io/github/stars/rust-lang/book?style=social"/> : The Rust Programming Language. [doc.rust-lang.org/book/](https://doc.rust-lang.org/book/)
+
+    - [rust-lang/reference](https://github.com/rust-lang/reference) <img src="https://img.shields.io/github/stars/rust-lang/reference?style=social"/> : The Rust Reference. [doc.rust-lang.org/nightly/reference/](https://doc.rust-lang.org/reference/)
 
     - [pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog) <img src="https://img.shields.io/github/stars/pretzelhammer/rust-blog?style=social"/> : pretzelhammer's Rust blog 🦀. Educational blog posts for Rust beginners.
 
     - [rustomax/rust-iterators](https://github.com/rustomax/rust-iterators) <img src="https://img.shields.io/github/stars/rustomax/rust-iterators?style=social"/> : Basic Rust iterator usage. The goal of this tutorial is to provide a handy reference to some of the common iterator patterns. 
 
-    - [lborb/book](https://github.com/lborb/book) <img src="https://img.shields.io/github/stars/lborb/book?style=social"/> : [The Little Book of Rust Books](https://lborb.github.io/book/title-page.html).
+    - [lborb/book](https://github.com/lborb/book) <img src="https://img.shields.io/github/stars/lborb/book?style=social"/> : The Little Book of Rust Books. [lborb.github.io/book/](https://lborb.github.io/book/)
 
     - [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) <img src="https://img.shields.io/github/stars/ctjhoa/rust-learning?style=social"/> : A bunch of links to blog posts, articles, videos, etc for learning Rust.
 
-    - [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) <img src="https://img.shields.io/github/stars/rust-lang/rust-by-example?style=social"/> : [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/).
+    - [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) <img src="https://img.shields.io/github/stars/rust-lang/rust-by-example?style=social"/> : Learn Rust with examples (Live code editor included). [doc.rust-lang.org/stable/rust-by-example/](https://doc.rust-lang.org/stable/rust-by-example/)
 
-    - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) <img src="https://img.shields.io/github/stars/rust-lang/rustlings?style=social"/> : 🦀 Small exercises to get you used to reading and writing Rust code!
+    - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) <img src="https://img.shields.io/github/stars/rust-lang/rustlings?style=social"/> : rustlings 🦀❤️. 🦀 Small exercises to get you used to reading and writing Rust code!
 
     - [MacroKata](https://tfpk.github.io/macrokata/) : Welcome to MacroKata, a set of exercises which you can use to learn how to write macros in Rust. 
 
-    - [veykril/tlborm](https://github.com/veykril/tlborm/) <img src="https://img.shields.io/github/stars/veykril/tlborm?style=social"/> : [The Little Book of Rust Macros](https://veykril.github.io/tlborm/). [Rust 宏小册](https://zjp-cn.github.io/tlborm/)。 
+    - [veykril/tlborm](https://github.com/veykril/tlborm/) <img src="https://img.shields.io/github/stars/veykril/tlborm?style=social"/> : The Little Book of Rust Macros (updated fork). [veykril.github.io/tlborm/](https://veykril.github.io/tlborm/). [The Little Book of Rust Macros （Rust 宏小册）](https://zjp-cn.github.io/tlborm/)
 
     - [dtolnay/proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop) <img src="https://img.shields.io/github/stars/dtolnay/proc-macro-workshop?style=social"/> : Rust Latam: procedural macros workshop. This repo contains a selection of projects designed to learn to write Rust procedural macros — Rust code that generates Rust code. 
 
     - [Rust文档网](https://rustwiki.org/) : Rust 官方文档中文教程。
 
-    - [rust-boom/rust-boom](https://github.com/rust-boom/rust-boom) <img src="https://img.shields.io/github/stars/rust-boom/rust-boom?style=social"/> : [Rust Boom 💥](https://rust-boom.github.io/rust-boom/) 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难点的解决方法以及一些 Rust 开源的好玩的库、书籍、文章的整理，希望可以帮助更多的 Rust 初学者来翻过 Rust 这座大山。
+    - [rust-boom/rust-boom](https://github.com/rust-boom/rust-boom) <img src="https://img.shields.io/github/stars/rust-boom/rust-boom?style=social"/> : rust awesome（资源）. 💥 [rust-boom.github.io/rust-boom/](https://rust-boom.github.io/rust-boom/). Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难点的解决方法以及一些 Rust 开源的好玩的库、书籍、文章的整理，希望可以帮助更多的 Rust 初学者来翻过 Rust 这座大山。
 
     - [Rust程序设计语言](https://kaisery.github.io/trpl-zh-cn/) : Rust 程序设计语言 简体中文版。
 
-    - [rust-lang-cn/reference-cn](https://github.com/rust-lang-cn/reference-cn) <img src="https://img.shields.io/github/stars/rust-lang-cn/reference-cn?style=social"/> : [Rust 参考手册 中文版](https://rustwiki.org/zh-CN/reference/)。
+    - [rust-lang-cn/reference-cn](https://github.com/rust-lang-cn/reference-cn) <img src="https://img.shields.io/github/stars/rust-lang-cn/reference-cn?style=social"/> : Rust 参考手册 中文版——Chinese translation of The Rust Reference. [rustwiki.org/zh-CN/reference](https://rustwiki.org/zh-CN/reference/)
 
-    - [sunface/rust-course](https://github.com/sunface/rust-course) <img src="https://img.shields.io/github/stars/sunface/rust-course?style=social"/> : [Rust语言圣经](https://course.rs/about-book.html)。
+    - [sunface/rust-course](https://github.com/sunface/rust-course) <img src="https://img.shields.io/github/stars/sunface/rust-course?style=social"/> : Rust语言圣经(Rust Course)。“连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试Rust吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程。[course.rs](https://course.rs/about-book.html)
 
-    - [rust-lang-cn/rust-by-example-cn](https://github.com/rust-lang-cn/rust-by-example-cn) <img src="https://img.shields.io/github/stars/rust-lang-cn/rust-by-example-cn?style=social"/> : [通过例子学Rust](https://rustwiki.org/zh-CN/rust-by-example/)。
+    - [rust-lang-cn/rust-by-example-cn](https://github.com/rust-lang-cn/rust-by-example-cn) <img src="https://img.shields.io/github/stars/rust-lang-cn/rust-by-example-cn?style=social"/> : Rust By Example 中文版(包含在线代码编辑器)。[通过例子学 Rust 中文版](https://rustwiki.org/zh-CN/rust-by-example/)
 
-    - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) <img src="https://img.shields.io/github/stars/sunface/rust-by-practice?style=social"/> : [Rust By Practice(Rust语言实战)](https://zh.practice.rs/why-exercise.html)。
+    - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) <img src="https://img.shields.io/github/stars/sunface/rust-by-practice?style=social"/> : Learning Rust By Practice, narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects. [Rust By Practice(Rust语言实战)](https://zh.practice.rs/why-exercise.html)
 
-    - [rust-lang-cn/nomicon-zh-Hans](https://github.com/rust-lang-cn/nomicon-zh-Hans) <img src="https://img.shields.io/github/stars/rust-lang-cn/nomicon-zh-Hans?style=social"/> : [Rust 秘典（死灵书）](https://nomicon.purewhite.io/)。
+    - [rust-lang-cn/nomicon-zh-Hans](https://github.com/rust-lang-cn/nomicon-zh-Hans) <img src="https://img.shields.io/github/stars/rust-lang-cn/nomicon-zh-Hans?style=social"/> : Rust 秘典（死灵书）。[nomicon.purewhite.io/](https://nomicon.purewhite.io/)
 
     - [tyrchen/geektime-rust](https://github.com/tyrchen/geektime-rust) <img src="https://img.shields.io/github/stars/tyrchen/geektime-rust?style=social"/> :  geektime-rust：我的极客时间 Rust 课程的代码仓库，随课程更新。
 
@@ -705,6 +707,9 @@
     - [sobelio/llm-chain](https://github.com/sobelio/llm-chain) <img src="https://img.shields.io/github/stars/sobelio/llm-chain?style=social"/> : llm-chain is a collection of Rust crates designed to help you work with Large Language Models (LLMs) more effectively. [llm-chain.xyz](https://llm-chain.xyz/)
 
     - [tazz4843/whisper-rs](https://github.com/tazz4843/whisper-rs) <img src="https://img.shields.io/github/stars/tazz4843/whisper-rs?style=social"/> : Rust bindings to [whisper.cpp](https://github.com/ggerganov/whisper.cpp).
+
+    - [1595901624/gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition) <img src="https://img.shields.io/github/stars/1595901624/gpt-aggregated-edition?style=social"/> : 聚合ChatGPT官方版、ChatGPT免费版、文心一言、Poe、chatchat等多平台，支持自定义导入平台。
+
 
 
   - ### Object Detection
