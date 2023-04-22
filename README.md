@@ -41,6 +41,7 @@
   - [Machine Learning](#machine-learning)
     - [ML Framework](#ml-framework)
     - [Large Language Model](#large-language-model)
+    - [Stable Diffusion](#stable-diffusion)
     - [Object Detection](#object-detection)
   - [Web Crawler](#web-crawler)
   - [Web Framework](#web-framework)
@@ -711,6 +712,16 @@
     - [tazz4843/whisper-rs](https://github.com/tazz4843/whisper-rs) <img src="https://img.shields.io/github/stars/tazz4843/whisper-rs?style=social"/> : Rust bindings to [whisper.cpp](https://github.com/ggerganov/whisper.cpp).
 
     - [1595901624/gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition) <img src="https://img.shields.io/github/stars/1595901624/gpt-aggregated-edition?style=social"/> : 聚合ChatGPT官方版、ChatGPT免费版、文心一言、Poe、chatchat等多平台，支持自定义导入平台。
+
+
+
+
+
+  - ### Stable Diffusion
+
+    - [pykeio/diffusers](https://github.com/pykeio/diffusers) <img src="https://img.shields.io/github/stars/pykeio/diffusers?style=social"/> : modular Rust library for optimized Stable Diffusion inference 🔮 [docs.rs/pyke-diffusers](https://docs.rs/pyke-diffusers/latest/pyke_diffusers/)
+
+
 
 
 
