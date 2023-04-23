@@ -790,7 +790,13 @@
 
   - [tchatche.rs](https://github.com/nag763/tchatchers) <img src="https://img.shields.io/github/stars/nag763/tchatchers?style=social"/> : tchatche.rs is a blazing fast chat application built with Axum and Yew.rs. [tchatche.rs](https://tchatche.rs/signin)
 
+  - [tonic](https://github.com/hyperium/tonic) <img src="https://img.shields.io/github/stars/hyperium/tonic?style=social"/> : A native gRPC client & server implementation with async/await support. [docs.rs/tonic](https://docs.rs/tonic/latest/tonic/)
+
+
   
+
+
+
 
 ## WebAssembly Runtime
 
