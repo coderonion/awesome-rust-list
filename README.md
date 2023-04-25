@@ -220,7 +220,7 @@
 
   - [lobaro/FreeRTOS-rust](https://github.com/lobaro/FreeRTOS-rust) <img src="https://img.shields.io/github/stars/lobaro/FreeRTOS-rust?style=social"/> : This project is based on code from [freertos.rs](https://github.com/hashmismatch/freertos.rs) and some additions to simplify the usage of [FreeRTOS](https://github.com/FreeRTOS/FreeRTOS-Kernel) in embedded applications written in Rust.
 
-
+  - [Exein-io/pulsar](https://github.com/Exein-io/pulsar) <img src="https://img.shields.io/github/stars/Exein-io/pulsar?style=social"/> : A modular and blazing fast runtime security framework for the IoT, powered by eBPF. [pulsar.sh](https://pulsar.sh/)
 
 
 
@@ -274,6 +274,8 @@
 
   - [RustDDS](https://github.com/jhelovuo/RustDDS) <img src="https://img.shields.io/github/stars/jhelovuo/RustDDS?style=social"/> : [RustDDS](https://atostek.com/en/products/rustdds/) is a pure Rust implementation of [Data Distribution Service](https://www.omg.org/spec/DDS/), developed by [Atostek Oy](https://atostek.com/en/).
 
+  - [ros2-client](https://github.com/jhelovuo/ros2-client) <img src="https://img.shields.io/github/stars/jhelovuo/ros2-client?style=social"/> : ROS2 client library based on RustDDS.
+
   - [rosbag-rs](https://github.com/SkoltechRobotics/rosbag-rs) <img src="https://img.shields.io/github/stars/SkoltechRobotics/rosbag-rs?style=social"/> : A pure Rust crate for reading ROS bag files.
 
   - [rustros_tf](https://github.com/arjo129/rustros_tf) <img src="https://img.shields.io/github/stars/arjo129/rustros_tf?style=social"/> : This is a rust port of the [ROS tf library](http://wiki.ros.org/tf).
@@ -288,6 +290,11 @@
 
   - [luickk/MinimalRoboticsPlatform](https://github.com/luickk/MinimalRoboticsPlatform/tree/rust_code) <img src="https://img.shields.io/github/stars/luickk/MinimalRoboticsPlatform?style=social"/> : MRP is a minimal microkernel that supports the most fundamental robotic domains. It's thought for highly integrated robotics development. 
 
+  - [newpavlov/rosbag-rs](https://github.com/newpavlov/rosbag-rs) <img src="https://img.shields.io/github/stars/newpavlov/rosbag-rs?style=social"/> : A pure Rust crate for reading ROS bag files.
+
+  - [Bonsai](https://github.com/Sollimann/bonsai) <img src="https://img.shields.io/github/stars/Sollimann/bonsai?style=social"/> : Rust implementation of behavior trees. 
+
+  - [msakuta/rusty-behavior-tree-lite](https://github.com/msakuta/rusty-behavior-tree-lite) <img src="https://img.shields.io/github/stars/msakuta/rusty-behavior-tree-lite?style=social"/> : Lightweight behavior tree implementation in Rust.
 
 
 
@@ -358,7 +365,7 @@
 
   - [tomleavy/safer-ffi-gen](https://github.com/tomleavy/safer-ffi-gen) <img src="https://img.shields.io/github/stars/tomleavy/safer-ffi-gen?style=social"/> : Attribute macro to help automate Rust FFI bindings. 
 
-
+  - [Cysharp/csbindgen](https://github.com/Cysharp/csbindgen) <img src="https://img.shields.io/github/stars/Cysharp/csbindgen?style=social"/> : Generate C# FFI from Rust for automatically brings native code and C native library to .NET and Unity.
 
 
 
@@ -609,6 +616,8 @@
 
   - [braincore/pid-rs](https://github.com/braincore/pid-rs) <img src="https://img.shields.io/github/stars/braincore/pid-rs?style=social"/> : A PID controller for Rust projects. 
 
+  - [yoshuawuyts/pid-lite](https://github.com/yoshuawuyts/pid-lite) <img src="https://img.shields.io/github/stars/yoshuawuyts/pid-lite?style=social"/> : A small PID controller library.
+
   - [bohonghuang/rov-host](https://github.com/bohonghuang/rov-host) <img src="https://img.shields.io/github/stars/bohonghuang/rov-host?style=social"/> : A cross-platform, high-performance underwater robot controll program written in Rust. 
 
   - [zaiic/pid_rs](https://github.com/zaiic/pid_rs) <img src="https://img.shields.io/github/stars/zaiic/pid_rs?style=social"/> : A fairly minimal PID controller implementation in Rust.  
@@ -680,8 +689,7 @@
 
     - [michaelmelanson/spiking-neural-net](https://github.com/michaelmelanson/spiking-neural-net) <img src="https://img.shields.io/github/stars/michaelmelanson/spiking-neural-net?style=social"/> : A spiking neural network simulation library.
 
-
-
+    - [AnicetNgrt/neural_networks_rust](https://github.com/AnicetNgrt/neural_networks_rust) <img src="https://img.shields.io/github/stars/AnicetNgrt/neural_networks_rust?style=social"/> : Implementing NNs & other machine learning utils in Rust from scratch.
 
 
     
