@@ -23,6 +23,7 @@
   - [Shared Memory](#shared-memory) 
   - [Remote Desktop](#remote-desktop) 
   - [Date and Time](#date-and-time)
+  - [Data Encryption](#data-encryption)
   - [Scientific Computation](#scientific-computation)
     - [Numerical Calculation](#numerical-calculation)
     - [Linear Algebra](#linear-algebra)
@@ -112,11 +113,13 @@
 
     - [pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog) <img src="https://img.shields.io/github/stars/pretzelhammer/rust-blog?style=social"/> : pretzelhammer's Rust blog 🦀. Educational blog posts for Rust beginners.
 
-    - [rustomax/rust-iterators](https://github.com/rustomax/rust-iterators) <img src="https://img.shields.io/github/stars/rustomax/rust-iterators?style=social"/> : Basic Rust iterator usage. The goal of this tutorial is to provide a handy reference to some of the common iterator patterns. 
+    - [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) <img src="https://img.shields.io/github/stars/ctjhoa/rust-learning?style=social"/> : A bunch of links to blog posts, articles, videos, etc for learning Rust.
 
     - [lborb/book](https://github.com/lborb/book) <img src="https://img.shields.io/github/stars/lborb/book?style=social"/> : The Little Book of Rust Books. [lborb.github.io/book/](https://lborb.github.io/book/)
 
-    - [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) <img src="https://img.shields.io/github/stars/ctjhoa/rust-learning?style=social"/> : A bunch of links to blog posts, articles, videos, etc for learning Rust.
+    - [instrumentisto/rust-incubator](https://github.com/instrumentisto/rust-incubator) <img src="https://img.shields.io/github/stars/instrumentisto/rust-incubator?style=social"/> :  Learning Rust step-by-step. This project represents a hard-way step-by-step Rust learning course from language basics to a capability of web backend development.
+
+    - [1595901624/StudyRust](https://github.com/1595901624/StudyRust) <img src="https://img.shields.io/github/stars/1595901624/StudyRust?style=social"/> :  公众号：《Rust学习日记》Rust 学习日记 源码 ，让你的Rust从0基础小白到大牛。
 
     - [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) <img src="https://img.shields.io/github/stars/rust-lang/rust-by-example?style=social"/> : Learn Rust with examples (Live code editor included). [doc.rust-lang.org/stable/rust-by-example/](https://doc.rust-lang.org/stable/rust-by-example/)
 
@@ -129,6 +132,8 @@
     - [dtolnay/proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop) <img src="https://img.shields.io/github/stars/dtolnay/proc-macro-workshop?style=social"/> : Rust Latam: procedural macros workshop. This repo contains a selection of projects designed to learn to write Rust procedural macros — Rust code that generates Rust code. 
 
     - [dtolnay/proc-macro2](https://github.com/dtolnay/proc-macro2) <img src="https://img.shields.io/github/stars/dtolnay/proc-macro2?style=social"/> : A wrapper around the procedural macro API of the compiler's proc_macro crate. 
+
+    - [rustomax/rust-iterators](https://github.com/rustomax/rust-iterators) <img src="https://img.shields.io/github/stars/rustomax/rust-iterators?style=social"/> : Basic Rust iterator usage. The goal of this tutorial is to provide a handy reference to some of the common iterator patterns. 
 
     - [Rust文档网](https://rustwiki.org/) : Rust 官方文档中文教程。
 
@@ -151,8 +156,6 @@
     - [Warrenren/inside-rust-std-library](https://github.com/Warrenren/inside-rust-std-library) <img src="https://img.shields.io/github/stars/Warrenren/inside-rust-std-library?style=social"/> : 本书主要对RUST的标准库代码进行分析，并试图给出RUST标准库代码的分析脉络。This project try to give a venation of how reading the RUST standard library source code.
 
     - [wtklbm/rust-library-i18n](https://github.com/wtklbm/rust-library-i18n) <img src="https://img.shields.io/github/stars/wtklbm/rust-library-i18n?style=social"/> :  Rust 核心库和标准库中文翻译，可作为 IDE 工具的智能提示，并生成本地 API 文档。
-
-    - [1595901624/StudyRust](https://github.com/1595901624/StudyRust) <img src="https://img.shields.io/github/stars/1595901624/StudyRust?style=social"/> :  公众号：《Rust学习日记》Rust 学习日记 源码 ，让你的Rust从0基础小白到大牛。
 
     - [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) <img src="https://img.shields.io/github/stars/johnthagen/min-sized-rust?style=social"/> :  🦀 How to minimize Rust binary size 📦 
 
@@ -421,6 +424,17 @@
 ## Date and Time
 
   - [Chrono](https://github.com/chronotope/chrono) <img src="https://img.shields.io/github/stars/chronotope/chrono?style=social"/> : [Chrono](https://docs.rs/chrono/latest/chrono/): Date and Time for Rust.
+
+
+
+## Data Encryption
+
+  - [rustic](https://github.com/rustic-rs/rustic) <img src="https://img.shields.io/github/stars/rustic-rs/rustic?style=social"/> : rustic - fast, encrypted, deduplicated backups powered by Rust.
+
+
+
+
+
 
 
 
