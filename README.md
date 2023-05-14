@@ -17,6 +17,7 @@
   - [Universal Operating System](#universal-operating-system)
   - [Robot Operating System](#robot-operating-system)
   - [Hardware Description Language](#hardware-description-language)
+  - [Logic Programming](#logic-programming)
   - [FFI Bindings](#ffi-bindings)
   - [GPU Computation](#gpu-computation) 
   - [Graphics Library](#graphics-library)  
@@ -24,6 +25,7 @@
   - [Remote Desktop](#remote-desktop) 
   - [Date and Time](#date-and-time)
   - [Data Encryption](#data-encryption)
+  - [Database](#database)
   - [Scientific Computation](#scientific-computation)
     - [Numerical Calculation](#numerical-calculation)
     - [Linear Algebra](#linear-algebra)
@@ -133,6 +135,8 @@
 
     - [dtolnay/proc-macro2](https://github.com/dtolnay/proc-macro2) <img src="https://img.shields.io/github/stars/dtolnay/proc-macro2?style=social"/> : A wrapper around the procedural macro API of the compiler's proc_macro crate. 
 
+    - [nrc/proc-macro-rules](https://github.com/nrc/proc-macro-rules) <img src="https://img.shields.io/github/stars/nrc/proc-macro-rules?style=social"/> : Macro-rules-style syntax matching for procedural macros.
+
     - [rustomax/rust-iterators](https://github.com/rustomax/rust-iterators) <img src="https://img.shields.io/github/stars/rustomax/rust-iterators?style=social"/> : Basic Rust iterator usage. The goal of this tutorial is to provide a handy reference to some of the common iterator patterns. 
 
     - [Rust文档网](https://rustwiki.org/) : Rust 官方文档中文教程。
@@ -164,6 +168,11 @@
     - [Tauri + Vue3 + Naive-UI Template](https://github.com/better-rs/learn-rs/blob/main/crates/rs-tauri-vue/README.md) <img src="https://img.shields.io/github/stars/better-rs/learn-rs?style=social"/> : Tauri + Vue3 + Naive-UI Template.  前端框架: typescript + vue3 + naive-ui.
 
     - [better-rs/annotated-rs](https://github.com/better-rs/annotated-rs) <img src="https://img.shields.io/github/stars/better-rs/annotated-rs?style=social"/> :  annotated-rs: rust 知名项目源码分析。
+
+    - [zanderxyz/advent-of-code](https://github.com/zanderxyz/advent-of-code) <img src="https://img.shields.io/github/stars/zanderxyz/advent-of-code?style=social"/> :  My solutions to the annual Advent of Code problems. 2020 in Zig; 2021/22 in Rust. [www.adventofcode.com/](https://adventofcode.com/)
+
+    - [pavloslav/advent-of-code-rust](https://github.com/pavloslav/advent-of-code-rust) <img src="https://img.shields.io/github/stars/pavloslav/advent-of-code-rust?style=social"/> :  Learning Rust language.
+
 
 
 
@@ -219,6 +228,8 @@
 
 ## Embedded Development
 
+  - [Embassy](https://github.com/embassy-rs/embassy) <img src="https://img.shields.io/github/stars/embassy-rs/embassy?style=social"/> : Modern embedded framework, using Rust and async. [embassy.dev](https://embassy.dev/)
+
   - [stm32-rs](https://github.com/stm32-rs) : Community Rust support projects for STM32 microcontrollers.
 
   - [rust-embedded](https://github.com/rust-embedded) : Enabling usage of Rust on Embedded Platforms (Embedded Linux / RTOS / Bare Metal).
@@ -262,6 +273,12 @@
   - [SIMDeez](https://github.com/arduano/simdeez) <img src="https://img.shields.io/github/stars/arduano/simdeez?style=social"/> : A library that abstracts over SIMD instruction sets, including ones with differing widths. SIMDeez is designed to allow you to write a function one time and produce SSE2, SSE41, and AVX2 versions of the function.
 
   - [yavkOS](https://github.com/yavko/yavkOS) <img src="https://img.shields.io/github/stars/yavko/yavkOS?style=social"/> : Operating system based off of blog_os, with the goal of running wasm modules as executables.
+
+  - [Felix OS](https://github.com/mrgian/felix) <img src="https://img.shields.io/github/stars/mrgian/felix?style=social"/> : 🐱 x86 operating system. Felix is my attempt at writing an x86 operating system. It's written completely from scratch in Rust and doesn't use any external dependencies.
+
+  - [jdreaver/rust-os](https://github.com/jdreaver/rust-os) <img src="https://img.shields.io/github/stars/jdreaver/rust-os?style=social"/> : Creating a bare metal OS in Rust. 
+
+
 
 
 
@@ -319,6 +336,10 @@
   - [yupferris/kaze](https://github.com/yupferris/kaze) <img src="https://img.shields.io/github/stars/yupferris/kaze?style=social"/> : An [HDL](https://en.wikipedia.org/wiki/Hardware_description_language) embedded in Rust. kaze provides an API to describe Modules composed of Signals, which can then be used to generate Rust simulator code or Verilog modules.
 
 
+
+## Logic Programming
+
+  - [Scryer Prolog](https://github.com/mthom/scryer-prolog) <img src="https://img.shields.io/github/stars/mthom/scryer-prolog?style=social"/> : A modern Prolog implementation written mostly in Rust. 
 
 
 
@@ -441,6 +462,13 @@
 
 
 
+## Database
+
+  - [Qdrant](https://github.com/qdrant/qdrant) <img src="https://img.shields.io/github/stars/qdrant/qdrant?style=social"/> : Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud [https://cloud.qdrant.io/](https://cloud.qdrant.io/). [qdrant.tech](https://qdrant.tech/)
+
+  - [Rusqlite](https://github.com/rusqlite/rusqlite) <img src="https://img.shields.io/github/stars/rusqlite/rusqlite?style=social"/> : Rusqlite is an ergonomic wrapper for using SQLite from Rust.
+
+
 
 
 
@@ -479,6 +507,9 @@
     - [static-math](https://github.com/elsuizo/static-math) <img src="https://img.shields.io/github/stars/elsuizo/static-math?style=social"/> : Safe and fast mathematical operations with static arrays in the Rust programming language.
 
     - [custos-math](https://github.com/elftausend/custos-math) <img src="https://img.shields.io/github/stars/elftausend/custos-math?style=social"/> : This crate provides CUDA, OpenCL, CPU (and Stack) based matrix operations using [custos](https://github.com/elftausend/custos).
+
+    - [bluss/matrixmultiply](https://github.com/bluss/matrixmultiply) <img src="https://img.shields.io/github/stars/bluss/matrixmultiply?style=social"/> : General matrix multiplication of f32 and f64 matrices in Rust. Supports matrices with general strides. [docs.rs/matrixmultiply/](https://docs.rs/matrixmultiply/latest/matrixmultiply/)
+
 
 
   - ### Lie Groups
@@ -566,6 +597,9 @@
   - [BurntSushi/rust-csv](https://github.com/BurntSushi/rust-csv) <img src="https://img.shields.io/github/stars/BurntSushi/rust-csv?style=social"/> : A fast and flexible CSV reader and writer for Rust, with support for Serde.
 
   - [informationsea/xlsxwriter-rs](https://github.com/informationsea/xlsxwriter-rs) <img src="https://img.shields.io/github/stars/informationsea/xlsxwriter-rs?style=social"/> : Excel file writer for Rust. [crates.io/crates/xlsxwriter](https://crates.io/crates/xlsxwriter)
+
+  - [Ballasi/num2words](https://github.com/Ballasi/num2words) <img src="https://img.shields.io/github/stars/Ballasi/num2words?style=social"/> : Convert numbers like 42 to forty-two. [crates.io/crates/num2words](https://crates.io/crates/num2words)
+
 
 
 ## Image and Video Processing
@@ -717,6 +751,9 @@
     - [michaelmelanson/spiking-neural-net](https://github.com/michaelmelanson/spiking-neural-net) <img src="https://img.shields.io/github/stars/michaelmelanson/spiking-neural-net?style=social"/> : A spiking neural network simulation library.
 
     - [AnicetNgrt/neural_networks_rust](https://github.com/AnicetNgrt/neural_networks_rust) <img src="https://img.shields.io/github/stars/AnicetNgrt/neural_networks_rust?style=social"/> : Implementing NNs & other machine learning utils in Rust from scratch.
+
+    - [herrmann/rustorch](https://github.com/herrmann/rustorch) <img src="https://img.shields.io/github/stars/herrmann/rustorch?style=social"/> : "PyTorch in Rust".
+
 
 
     
@@ -872,6 +909,11 @@
   - [apertus-open-source-cinema/narui](https://github.com/apertus-open-source-cinema/narui) <img src="https://img.shields.io/github/stars/apertus-open-source-cinema/narui?style=social"/> : A react-inspired UI library for building multimedia desktop apps with rust and vulkan. 
 
   - [slint-ui/cargo-ui](https://github.com/slint-ui/cargo-ui) <img src="https://img.shields.io/github/stars/slint-ui/cargo-ui?style=social"/> : This is a project to make a GUI for cargo, built using [Slint](https://github.com/slint-ui/slint).
+
+  - [marc2332/freya](https://github.com/marc2332/freya) <img src="https://img.shields.io/github/stars/marc2332/freya?style=social"/> : Native GUI library for 🦀 Rust powered by 🧬 Dioxus and 🎨 Skia. [freyaui.dev/](https://freyaui.dev/)
+
+
+
 
 
 ## Blogs
