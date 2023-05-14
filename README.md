@@ -730,7 +730,7 @@
 
     - [sonnylazuardi/chat-ai-desktop](https://github.com/sonnylazuardi/chat-ai-desktop) <img src="https://img.shields.io/github/stars/sonnylazuardi/chat-ai-desktop?style=social"/> : Chat AI Desktop App. Unofficial ChatGPT desktop app for Mac & Windows menubar using Tauri & Rust.
 
-    - [rustformers/llama-rs](https://github.com/rustformers/llama-rs) <img src="https://img.shields.io/github/stars/rustformers/llama-rs?style=social"/> : Run LLaMA inference on CPU, with Rust 🦀🚀🦙.
+    - [rustformers/llm](https://github.com/rustformers/llm) <img src="https://img.shields.io/github/stars/rustformers/llm?style=social"/> : Run inference for Large Language Models on CPU, with Rust 🦀🚀🦙.
 
     - [Noeda/rllama](https://github.com/Noeda/rllama) <img src="https://img.shields.io/github/stars/Noeda/rllama?style=social"/> : Rust+OpenCL+AVX2 implementation of LLaMA inference code.
 
@@ -876,16 +876,16 @@
 
 ## Blogs
 
-  -「MIT Technology Review」
+  - 「MIT Technology Review」
     - [2023-02-14，How Rust went from a side project to the world’s most-loved programming language](https://www.technologyreview.com/2023/02/14/1067869/rust-worlds-fastest-growing-programming-language)
-
-
+  - 微信公众号「Rust语言中文社区」
+    - [2023-05-11，【Rust日报】2023-05-10 llm - 使用Rust在CPU上运行大模型](https://mp.weixin.qq.com/s/73Bz-ZPEo974NH1TrQdJkQ)
   - 微信公众号「OSC开源社区」
     - [2023-04-05，Slint 1.0正式发布，Rust编写的原生GUI工具包](https://mp.weixin.qq.com/s/48vKNS0Y4tC7z8Qg2_2Vww)
     - [2023-05-06，Rust重写万物？](https://mp.weixin.qq.com/s/uLJvTh-N19AG0iMMYvJ1qA)
-
   - 微信公众号「码小菜」
     - [2023-05-13，我什么放弃了C/C++，而选择了Rust](https://mp.weixin.qq.com/s/r7v_lYjBmfixENGpFTE-Vg)
-
   - 微信公众号「腾讯技术工程」
     - [2022-12-29，大牛书单 | Rust 好书推荐](https://mp.weixin.qq.com/s/q1IsG4VKrhIFLRFleyJA6g)
+  - 微信公众号「InfoQ」
+    - [2023-04-28，30年老代码被干掉！微软用18万行 Rust 改写 Windows 系统内核](https://mp.weixin.qq.com/s/7l4Lq4_7m27-UhF7yKQQtg)
