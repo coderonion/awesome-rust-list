@@ -159,6 +159,12 @@
 
     - [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) <img src="https://img.shields.io/github/stars/johnthagen/min-sized-rust?style=social"/> :  🦀 How to minimize Rust binary size 📦 
 
+    - [better-rs/learn-rs](https://github.com/better-rs/learn-rs) <img src="https://img.shields.io/github/stars/better-rs/learn-rs?style=social"/> :  learn-rs: 快速学习 rust。
+
+    - [Tauri + Vue3 + Naive-UI Template](https://github.com/better-rs/learn-rs/blob/main/crates/rs-tauri-vue/README.md) <img src="https://img.shields.io/github/stars/better-rs/learn-rs?style=social"/> : Tauri + Vue3 + Naive-UI Template.  前端框架: typescript + vue3 + naive-ui.
+
+    - [better-rs/annotated-rs](https://github.com/better-rs/annotated-rs) <img src="https://img.shields.io/github/stars/better-rs/annotated-rs?style=social"/> :  annotated-rs: rust 知名项目源码分析。
+
 
 
 
@@ -870,6 +876,16 @@
 
 ## Blogs
 
+  -「MIT Technology Review」
+    - [2023-02-14，How Rust went from a side project to the world’s most-loved programming language](https://www.technologyreview.com/2023/02/14/1067869/rust-worlds-fastest-growing-programming-language)
+
+
   - 微信公众号「OSC开源社区」
     - [2023-04-05，Slint 1.0正式发布，Rust编写的原生GUI工具包](https://mp.weixin.qq.com/s/48vKNS0Y4tC7z8Qg2_2Vww)
+    - [2023-05-06，Rust重写万物？](https://mp.weixin.qq.com/s/uLJvTh-N19AG0iMMYvJ1qA)
 
+  - 微信公众号「码小菜」
+    - [2023-05-13，我什么放弃了C/C++，而选择了Rust](https://mp.weixin.qq.com/s/r7v_lYjBmfixENGpFTE-Vg)
+
+  - 微信公众号「腾讯技术工程」
+    - [2022-12-29，大牛书单 | Rust 好书推荐](https://mp.weixin.qq.com/s/q1IsG4VKrhIFLRFleyJA6g)
