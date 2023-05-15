@@ -785,7 +785,7 @@
 
     - [1595901624/gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition) <img src="https://img.shields.io/github/stars/1595901624/gpt-aggregated-edition?style=social"/> : 聚合ChatGPT官方版、ChatGPT免费版、文心一言、Poe、chatchat等多平台，支持自定义导入平台。
 
-
+    - [Cormanz/smartgpt](https://github.com/Cormanz/smartgpt) <img src="https://img.shields.io/github/stars/Cormanz/smartgpt?style=social"/> : A program that provides LLMs with the ability to complete complex tasks using plugins. 
 
 
 
@@ -928,7 +928,10 @@
     - [2023-05-06，Rust重写万物？](https://mp.weixin.qq.com/s/uLJvTh-N19AG0iMMYvJ1qA)
   - 微信公众号「码小菜」
     - [2023-05-13，我什么放弃了C/C++，而选择了Rust](https://mp.weixin.qq.com/s/r7v_lYjBmfixENGpFTE-Vg)
+    - [2023-05-13，Qdrant不只是高性能向量数据库](https://mp.weixin.qq.com/s/9idV_Q97C852ViusvrW7CQ)
   - 微信公众号「腾讯技术工程」
     - [2022-12-29，大牛书单 | Rust 好书推荐](https://mp.weixin.qq.com/s/q1IsG4VKrhIFLRFleyJA6g)
   - 微信公众号「InfoQ」
     - [2023-04-28，30年老代码被干掉！微软用18万行 Rust 改写 Windows 系统内核](https://mp.weixin.qq.com/s/7l4Lq4_7m27-UhF7yKQQtg)
+  - 微信公众号「CSDN」
+    - [2023-05-05，将代码从 C 迁移到 Rust，sudo、su 正在行动！](https://mp.weixin.qq.com/s/ZlcuW9EkgbECFHzT71KBQg)
