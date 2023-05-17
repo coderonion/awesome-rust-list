@@ -19,20 +19,25 @@
   - [Hardware Description Language](#hardware-description-language)
   - [Logic Programming](#logic-programming)
   - [FFI Bindings](#ffi-bindings)
-  - [GPU Computation](#gpu-computation) 
+  - [GPU Computing](#gpu-computing) 
+  - [Scientific Computation](#scientific-computation)
+    - [Numerical Calculation](#numerical-calculation)
+    - [Linear Algebra](#linear-algebra)
+    - [Lie Groups](#lie-groups)
+    - [Optimization Engine](#optimization-engine)
+    - [Finite Element Analysis](#finite-element-analysis)
+    - [Data Analysis and Visualization](#data-analysis-and-visualization)
+  - [Machine Learning](#machine-learning)
+    - [Machine Learning Framework](#machine-learning-framework)
+    - [Large Language Model](#large-language-model)
+    - [Stable Diffusion](#stable-diffusion)
+    - [Object Detection](#object-detection)
   - [Graphics Library](#graphics-library)  
   - [Shared Memory](#shared-memory) 
   - [Remote Desktop](#remote-desktop) 
   - [Date and Time](#date-and-time)
   - [Data Encryption](#data-encryption)
   - [Database](#database)
-  - [Scientific Computation](#scientific-computation)
-    - [Numerical Calculation](#numerical-calculation)
-    - [Linear Algebra](#linear-algebra)
-    - [Lie Groups](#lie-groups)
-    - [Optimization Algorithm](#optimization-algorithm)
-    - [Finite Element Computation](#finite-element-computation)
-    - [Data Analysis and Visualization](#data-analysis-and-visualization)
   - [Sensor and Communication Interface](#sensor-and-communication-interface)
   - [Signal Processing](#signal-processing)
   - [Text Processing](#text-processing)
@@ -41,11 +46,6 @@
   - [Path Planning](#path-planning)
   - [Motion Control](#motion-control)
   - [Game Engine](#game-engine)
-  - [Machine Learning](#machine-learning)
-    - [ML Framework](#ml-framework)
-    - [Large Language Model](#large-language-model)
-    - [Stable Diffusion](#stable-diffusion)
-    - [Object Detection](#object-detection)
   - [Web Crawler](#web-crawler)
   - [Web Framework](#web-framework)
   - [WebAssembly Runtime](#webAssembly-runtime)
@@ -94,7 +94,9 @@
 
     - [ex0dus-0x/awesome-rust-security](https://github.com/ex0dus-0x/awesome-rust-security) <img src="https://img.shields.io/github/stars/ex0dus-0x/awesome-rust-security?style=social"/> : Curated list of awesome projects and resources related to Rust and computer security. 
 
-    - [robotics-rs/robotics.rs](https://github.com/robotics-rs/robotics.rs) <img src="https://img.shields.io/github/stars/robotics-rs/robotics.rs?style=social"/> : List of (awesome) Rust libraries for Robotics. 
+    - [robotics-rs/robotics.rs](https://github.com/robotics-rs/robotics.rs) <img src="https://img.shields.io/github/stars/robotics-rs/robotics.rs?style=social"/> : List of (awesome) Rust libraries for Robotics. Web site of robotics.rs. See index.md. [robotics.rs](https://robotics.rs/)
+
+    - [jgsimard/RustRobotics](https://github.com/jgsimard/RustRobotics) <img src="https://img.shields.io/github/stars/jgsimard/RustRobotics?style=social"/> : This package is a rust implementation of robotics algorithms. So far, the main source is the book [Probabilistic Robotics](https://mitpress.mit.edu/9780262201629/probabilistic-robotics/). 
 
     - [rsasaki0109/RustRobotics](https://github.com/rsasaki0109/RustRobotics) <img src="https://img.shields.io/github/stars/rsasaki0109/RustRobotics?style=social"/> : Rust implementation of PythonRobotics such as EKF, DWA, Pure Pursuit, LQR. 
 
@@ -232,11 +234,13 @@
 
 ## Embedded Development
 
-  - [Embassy](https://github.com/embassy-rs/embassy) <img src="https://img.shields.io/github/stars/embassy-rs/embassy?style=social"/> : Modern embedded framework, using Rust and async. [embassy.dev](https://embassy.dev/)
-
   - [stm32-rs](https://github.com/stm32-rs) : Community Rust support projects for STM32 microcontrollers.
 
   - [rust-embedded](https://github.com/rust-embedded) : Enabling usage of Rust on Embedded Platforms (Embedded Linux / RTOS / Bare Metal).
+
+  - [RTIC](https://github.com/rtic-rs/rtic) <img src="https://img.shields.io/github/stars/rtic-rs/rtic?style=social"/> : Real-Time Interrupt-driven Concurrency (RTIC) framework for ARM Cortex-M microcontrollers. [rtic.rs](https://rtic.rs/)
+
+  - [Embassy](https://github.com/embassy-rs/embassy) <img src="https://img.shields.io/github/stars/embassy-rs/embassy?style=social"/> : Modern embedded framework, using Rust and async. [embassy.dev](https://embassy.dev/)
 
   - [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) <img src="https://img.shields.io/github/stars/rust-embedded/rust-raspberrypi-OS-tutorials?style=social"/> :  📚 Learn to write an embedded OS in Rust 🦀 
 
@@ -403,72 +407,27 @@
 
 
 
-## GPU Computation 
+## GPU computing 
+
+  - [ArrayFire](https://github.com/arrayfire/arrayfire) <img src="https://img.shields.io/github/stars/arrayfire/arrayfire?style=social"/> : ArrayFire is a general-purpose tensor library that simplifies the process of software development for the parallel architectures found in CPUs, GPUs, and other hardware acceleration devices. [arrayfire.com](https://arrayfire.com/)
+
+  - [arrayfire-rust](https://github.com/arrayfire/arrayfire-rust) <img src="https://img.shields.io/github/stars/arrayfire/arrayfire-rust?style=social"/> : Rust wrapper for [ArrayFire](https://github.com/arrayfire/arrayfire). [ArrayFire](https://github.com/arrayfire/arrayfire) is a high performance library for parallel computing with an easy-to-use API. It enables users to write scientific computing code that is portable across CUDA, OpenCL and CPU devices.
 
   - [rust-gpu](https://github.com/EmbarkStudios/rust-gpu) <img src="https://img.shields.io/github/stars/EmbarkStudios/rust-gpu?style=social"/> : 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧 [shader.rs](https://shader.rs/)  
 
   - [cudarc](https://github.com/coreylowman/cudarc) <img src="https://img.shields.io/github/stars/coreylowman/cudarc?style=social"/> : cudarc: minimal and safe api over the cuda toolkit.
 
-  - [Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) <img src="https://img.shields.io/github/stars/Rust-GPU/Rust-CUDA?style=social"/> : Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust. 
+  - [wgpu](https://github.com/gfx-rs/wgpu) <img src="https://img.shields.io/github/stars/gfx-rs/wgpu?style=social"/> : Safe and portable GPU abstraction in Rust, implementing WebGPU API. [wgpu.rs](https://wgpu.rs/)
 
   - [Vulkano](https://github.com/vulkano-rs/vulkano) <img src="https://img.shields.io/github/stars/vulkano-rs/vulkano?style=social"/> : Safe and rich Rust wrapper around the Vulkan API.
 
-  - [wgpu](https://github.com/gfx-rs/wgpu) <img src="https://img.shields.io/github/stars/gfx-rs/wgpu?style=social"/> : Safe and portable GPU abstraction in Rust, implementing WebGPU API. [wgpu.rs](https://wgpu.rs/)
-
   - [Ash](https://github.com/ash-rs/ash) <img src="https://img.shields.io/github/stars/ash-rs/ash?style=social"/> : Vulkan bindings for Rust.
 
-  - [arrayfire-rust](https://github.com/arrayfire/arrayfire-rust) <img src="https://img.shields.io/github/stars/arrayfire/arrayfire-rust?style=social"/> : Rust wrapper for [ArrayFire](https://github.com/arrayfire/arrayfire). ArrayFire is a general-purpose tensor library that simplifies the process of software development for the parallel architectures found in CPUs, GPUs, and other hardware acceleration devices.
+  - [Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) <img src="https://img.shields.io/github/stars/Rust-GPU/Rust-CUDA?style=social"/> : Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust. 
 
   - [ocl](https://github.com/cogciprocate/ocl) <img src="https://img.shields.io/github/stars/cogciprocate/ocl?style=social"/> : OpenCL for Rust.
 
   - [opencl3](https://github.com/kenba/opencl3) <img src="https://img.shields.io/github/stars/kenba/opencl3?style=social"/> : A Rust implementation of the Khronos [OpenCL 3.0](https://registry.khronos.org/OpenCL/) API. 
-
-
-
-## Graphics Library
-
-  - [rust-skia/rust-skia](https://github.com/rust-skia/rust-skia) <img src="https://img.shields.io/github/stars/rust-skia/rust-skia?style=social"/> : Safe Rust bindings to the [Skia Graphics Library](https://skia.org/).
-
-  - [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) <img src="https://img.shields.io/github/stars/gtk-rs/gtk4-rs?style=social"/> : Rust bindings of GTK 4. [gtk-rs.org/gtk4-rs/](https://gtk-rs.org/gtk4-rs/)
-
-  - [gtk-rs/gtk3-rs](https://github.com/gtk-rs/gtk3-rs) <img src="https://img.shields.io/github/stars/gtk-rs/gtk3-rs?style=social"/> : Rust bindings for GTK 3. [gtk-rs.org](https://gtk-rs.org/)
-
-  - [SabianF/rust_wgpu_3D_vision](https://github.com/SabianF/rust_wgpu_3D_vision) <img src="https://img.shields.io/github/stars/SabianF/rust_wgpu_3D_vision?style=social"/> : A program to simulate stereoscopic 4D vision, using a virtual 3D retina which is created by rapidly displaying all voxels at varying depths of a 3D volume.
-
-
-
-
-## Shared Memory 
-
-  - [elast0ny/shared_memory](https://github.com/elast0ny/shared_memory) <img src="https://img.shields.io/github/stars/elast0ny/shared_memory?style=social"/> : A Rust wrapper around native shared memory for Linux and Windows.
-
-
-## Remote Desktop
-
-  - [RustDesk](https://github.com/rustdesk/rustdesk) <img src="https://img.shields.io/github/stars/rustdesk/rustdesk?style=social"/> : Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative. [rustdesk.com](https://rustdesk.com).
-
-
-
-## Date and Time
-
-  - [Chrono](https://github.com/chronotope/chrono) <img src="https://img.shields.io/github/stars/chronotope/chrono?style=social"/> : [Chrono](https://docs.rs/chrono/latest/chrono/): Date and Time for Rust.
-
-
-
-## Data Encryption
-
-  - [rustic](https://github.com/rustic-rs/rustic) <img src="https://img.shields.io/github/stars/rustic-rs/rustic?style=social"/> : rustic - fast, encrypted, deduplicated backups powered by Rust.
-
-
-
-
-## Database
-
-  - [Qdrant](https://github.com/qdrant/qdrant) <img src="https://img.shields.io/github/stars/qdrant/qdrant?style=social"/> : Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud [https://cloud.qdrant.io/](https://cloud.qdrant.io/). [qdrant.tech](https://qdrant.tech/)
-
-  - [Rusqlite](https://github.com/rusqlite/rusqlite) <img src="https://img.shields.io/github/stars/rusqlite/rusqlite?style=social"/> : Rusqlite is an ergonomic wrapper for using SQLite from Rust.
-
-
 
 
 
@@ -517,21 +476,27 @@
     - [sophus-rs](https://github.com/strasdat/sophus-rs) <img src="https://img.shields.io/github/stars/strasdat/sophus-rs?style=social"/> : Rust bindings for the C++ implementation of Lie Groups using Eigen.
 
 
-  - ### Optimization Algorithm 
+
+
+  - ### Optimization Engine 
 
     - [OpEn](https://github.com/alphaville/optimization-engine) <img src="https://img.shields.io/github/stars/alphaville/optimization-engine?style=social"/> : Optimization Engine (OpEn) is a solver for Fast & Accurate Embedded Optimization for next-generation Robotics and Autonomous Systems.
+
+    - [light-curve/ceres-solver-rs](https://github.com/light-curve/ceres-solver-rs) <img src="https://img.shields.io/github/stars/light-curve/ceres-solver-rs?style=social"/> : Rust bindings for [Ceres Solver](http://ceres-solver.org/).
+
+    - [pranayspeed/g2o-rust-bindings](https://github.com/pranayspeed/g2o-rust-bindings) <img src="https://img.shields.io/github/stars/pranayspeed/g2o-rust-bindings?style=social"/> :  g2o-rust-bindings.
 
     - [mithi/rusty-genes](https://github.com/mithi/rusty-genes) <img src="https://img.shields.io/github/stars/mithi/rusty-genes?style=social"/> : Genetic algorithm implementation in Rust with animated visualizations in Python.
 
 
-  - ### Finite Element Computation
+
+
+
+  - ### Finite Element Analysis
 
     - [FENRIS](https://github.com/InteractiveComputerGraphics/fenris) <img src="https://img.shields.io/github/stars/InteractiveComputerGraphics/fenris?style=social"/> : A Rust library for building advanced applications with the Finite Element Method (FEM).
 
     - [InteractiveComputerGraphics/higher_order_embedded_fem](https://github.com/InteractiveComputerGraphics/higher_order_embedded_fem) <img src="https://img.shields.io/github/stars/InteractiveComputerGraphics/higher_order_embedded_fem?style=social"/> : Source code for our paper "Higher-order finite elements for embedded simulation".
-
-
-
 
 
   - ### Data Analysis and Visualization
@@ -546,6 +511,54 @@
 
     - [Rerun](https://github.com/rerun-io/rerun) <img src="https://img.shields.io/github/stars/rerun-io/rerun?style=social"/> : Rerun: Visualization infrastructure for computer vision. Log images, point clouds, etc, and visualize them effortlessly. Built in Rust using egui. [rerun.io](https://www.rerun.io/)
 
+
+
+
+
+
+
+## Graphics Library
+
+  - [rust-skia/rust-skia](https://github.com/rust-skia/rust-skia) <img src="https://img.shields.io/github/stars/rust-skia/rust-skia?style=social"/> : Safe Rust bindings to the [Skia Graphics Library](https://skia.org/).
+
+  - [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) <img src="https://img.shields.io/github/stars/gtk-rs/gtk4-rs?style=social"/> : Rust bindings of GTK 4. [gtk-rs.org/gtk4-rs/](https://gtk-rs.org/gtk4-rs/)
+
+  - [gtk-rs/gtk3-rs](https://github.com/gtk-rs/gtk3-rs) <img src="https://img.shields.io/github/stars/gtk-rs/gtk3-rs?style=social"/> : Rust bindings for GTK 3. [gtk-rs.org](https://gtk-rs.org/)
+
+  - [SabianF/rust_wgpu_3D_vision](https://github.com/SabianF/rust_wgpu_3D_vision) <img src="https://img.shields.io/github/stars/SabianF/rust_wgpu_3D_vision?style=social"/> : A program to simulate stereoscopic 4D vision, using a virtual 3D retina which is created by rapidly displaying all voxels at varying depths of a 3D volume.
+
+
+
+
+## Shared Memory 
+
+  - [elast0ny/shared_memory](https://github.com/elast0ny/shared_memory) <img src="https://img.shields.io/github/stars/elast0ny/shared_memory?style=social"/> : A Rust wrapper around native shared memory for Linux and Windows.
+
+
+## Remote Desktop
+
+  - [RustDesk](https://github.com/rustdesk/rustdesk) <img src="https://img.shields.io/github/stars/rustdesk/rustdesk?style=social"/> : Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative. [rustdesk.com](https://rustdesk.com).
+
+
+
+## Date and Time
+
+  - [Chrono](https://github.com/chronotope/chrono) <img src="https://img.shields.io/github/stars/chronotope/chrono?style=social"/> : [Chrono](https://docs.rs/chrono/latest/chrono/): Date and Time for Rust.
+
+
+
+## Data Encryption
+
+  - [rustic](https://github.com/rustic-rs/rustic) <img src="https://img.shields.io/github/stars/rustic-rs/rustic?style=social"/> : rustic - fast, encrypted, deduplicated backups powered by Rust.
+
+
+
+
+## Database
+
+  - [Qdrant](https://github.com/qdrant/qdrant) <img src="https://img.shields.io/github/stars/qdrant/qdrant?style=social"/> : Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud [https://cloud.qdrant.io/](https://cloud.qdrant.io/). [qdrant.tech](https://qdrant.tech/)
+
+  - [Rusqlite](https://github.com/rusqlite/rusqlite) <img src="https://img.shields.io/github/stars/rusqlite/rusqlite?style=social"/> : Rusqlite is an ergonomic wrapper for using SQLite from Rust.
 
 
 
@@ -636,11 +649,16 @@
 
   - [pekkaran/violet](https://github.com/pekkaran/violet) <img src="https://img.shields.io/github/stars/pekkaran/violet?style=social"/> : A toy stereo visual inertial odometry (VIO) system.
 
-  - [mpizenberg/visual-odometry-rs](https://github.com/mpizenberg/visual-odometry-rs) <img src="https://img.shields.io/github/stars/mpizenberg/visual-odometry-rs?style=social"/> : Visual Odometry in Rust (vors).
+  - [ndbaker1/SLAMR](https://github.com/ndbaker1/SLAMR) <img src="https://img.shields.io/github/stars/ndbaker1/SLAMR?style=social"/> : modules for visual odometry and IMU integration written in Rust.
+
+  - [geoeo/Vision](https://github.com/geoeo/Vision) <img src="https://img.shields.io/github/stars/geoeo/Vision?style=social"/> : Computer Vision stuff in Rust. 
 
   - [geoeo/visual_odometry](https://github.com/geoeo/visual_odometry) <img src="https://img.shields.io/github/stars/geoeo/visual_odometry?style=social"/> : A rust port of [https://github.com/geoeo/Dense_VO](https://github.com/geoeo/Dense_VO).
 
-  - [geoeo/Vision](https://github.com/geoeo/Vision) <img src="https://img.shields.io/github/stars/geoeo/Vision?style=social"/> : Computer Vision stuff in Rust. 
+  - [mpizenberg/visual-odometry-rs](https://github.com/mpizenberg/visual-odometry-rs) <img src="https://img.shields.io/github/stars/mpizenberg/visual-odometry-rs?style=social"/> : Visual Odometry in Rust (vors).
+
+
+
 
 
 
@@ -710,7 +728,7 @@
 
 ## Machine Learning
 
-  - ### ML Framework
+  - ### Machine Learning Framework
 
     - [TensorFlow Rust](https://github.com/tensorflow/rust) <img src="https://img.shields.io/github/stars/tensorflow/rust?style=social"/> : Rust language bindings for TensorFlow.
 
@@ -935,3 +953,8 @@
     - [2023-04-28，30年老代码被干掉！微软用18万行 Rust 改写 Windows 系统内核](https://mp.weixin.qq.com/s/7l4Lq4_7m27-UhF7yKQQtg)
   - 微信公众号「CSDN」
     - [2023-05-05，将代码从 C 迁移到 Rust，sudo、su 正在行动！](https://mp.weixin.qq.com/s/ZlcuW9EkgbECFHzT71KBQg)
+    - [2023-05-15，Mozilla 发布 Rust | 历史上的今天](https://mp.weixin.qq.com/s/zsgFlQ8pG04_ApwMkl6rdQ)
+    - [2023-05-16，Windows 11 初尝 Rust，36000 行内核代码已重写！](https://mp.weixin.qq.com/s/Pram-Xdldm3-oe2acm3JeQ)
+    - [2023-05-16，可能取代Vulkan和OpenGL的WebGPU为何如此重要？](https://mp.weixin.qq.com/s/Gr3iecrdKtoBQPaPsGJdkw)
+
+
