@@ -45,6 +45,7 @@
   - [Localization and Mapping](#localization-and-mapping)
   - [Path Planning](#path-planning)
   - [Motion Control](#motion-control)
+  - [Finite State Machine](#finite-state-machine)
   - [Game Engine](#game-engine)
   - [Web Crawler](#web-crawler)
   - [Web Framework](#web-framework)
@@ -702,6 +703,18 @@
   - [tana/balance-robot2](https://github.com/tana/balance-robot2) <img src="https://img.shields.io/github/stars/tana/balance-robot2?style=social"/> : Self-balancing robot using LQR control, written in Rust.
 
   - [AlexKaravaev/rust_mpc](https://github.com/AlexKaravaev/rust_mpc) <img src="https://img.shields.io/github/stars/AlexKaravaev/rust_mpc?style=social"/> : MPC racing controller made in [ros2-rust](https://github.com/ros2-rust/ros2_rust).
+
+
+
+
+
+## Finite State Machine
+
+  - [eugene-babichenko/rust-fsm](https://github.com/eugene-babichenko/rust-fsm) <img src="https://img.shields.io/github/stars/eugene-babichenko/rust-fsm?style=social"/> : A framework for building finite state machines in Rust.
+
+  - [hashmismatch/finny.rs](https://github.com/hashmismatch/finny.rs) <img src="https://img.shields.io/github/stars/hashmismatch/finny.rs?style=social"/> : Finny - Hierarchical Finite State Machines for Rust.
+
+
 
 
 
