@@ -176,7 +176,7 @@
 
     - [pavloslav/advent-of-code-rust](https://github.com/pavloslav/advent-of-code-rust) <img src="https://img.shields.io/github/stars/pavloslav/advent-of-code-rust?style=social"/> :  Learning Rust language.
 
-
+    - [kovyrin/aoc2022](https://github.com/kovyrin/aoc2022) <img src="https://img.shields.io/github/stars/kovyrin/aoc2022?style=social"/> :  Playing with AOC 2022 problems using Rust.
 
 
 
@@ -200,7 +200,7 @@
 
   - [msakuta/rusty-behavior-tree-lite](https://github.com/msakuta/rusty-behavior-tree-lite) <img src="https://img.shields.io/github/stars/msakuta/rusty-behavior-tree-lite?style=social"/> : Lightweight behavior tree implementation in Rust.
   
-
+  - [callmestech/lists](https://github.com/callmestech/lists) <img src="https://img.shields.io/github/stars/callmestech/lists?style=social"/> : Learning Rust With Entirely Too Many Linked Lists.
 
 
 
