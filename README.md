@@ -437,6 +437,8 @@
 
   - ### Numerical Calculation
 
+    - [rapl](https://github.com/JErnestoMtz/rapl) <img src="https://img.shields.io/github/stars/JErnestoMtz/rapl?style=social"/> : Rank Polymorphic array library for Rust. rapl is an experimental numerical computing Rust library that provides a simple way of working with N-dimensional array, along with a wide range of mathematical functions to manipulate them. It takes inspiration from NumPy and APL, with the primary aim of achieving maximum ergonomics and user-friendliness while maintaining generality.
+
     - [scilib](https://github.com/At0micBee/scilib) <img src="https://img.shields.io/github/stars/At0micBee/scilib?style=social"/> : A rust crate for mathematics and science. [crates.io/crates/scilib](https://crates.io/crates/scilib)
 
     - [fitting-rs](https://github.com/mshrtsr/fitting-rs) <img src="https://img.shields.io/github/stars/mshrtsr/fitting-rs?style=social"/> : Curve fitting library for Rust. [crates.io/crates/fitting](https://crates.io/crates/fitting)
