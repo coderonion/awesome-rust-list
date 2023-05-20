@@ -481,7 +481,7 @@
 
   - ### Optimization Engine 
 
-    - [OpEn](https://github.com/alphaville/optimization-engine) <img src="https://img.shields.io/github/stars/alphaville/optimization-engine?style=social"/> : Optimization Engine (OpEn) is a solver for Fast & Accurate Embedded Optimization for next-generation Robotics and Autonomous Systems.
+    - [OpEn](https://github.com/alphaville/optimization-engine) <img src="https://img.shields.io/github/stars/alphaville/optimization-engine?style=social"/> : Optimization Engine (OpEn) is a solver for Fast & Accurate Embedded Optimization for next-generation Robotics and Autonomous Systems. Nonconvex embedded optimization: code generation for fast real-time optimization. [alphaville.github.io/optimization-engine/](https://alphaville.github.io/optimization-engine/)
 
     - [light-curve/ceres-solver-rs](https://github.com/light-curve/ceres-solver-rs) <img src="https://img.shields.io/github/stars/light-curve/ceres-solver-rs?style=social"/> : Rust bindings for [Ceres Solver](http://ceres-solver.org/).
 
@@ -568,6 +568,8 @@
     
   - ### Large Language Model
 
+    - [rustformers/llm](https://github.com/rustformers/llm) <img src="https://img.shields.io/github/stars/rustformers/llm?style=social"/> : Run inference for Large Language Models on CPU, with Rust 🦀🚀🦙.
+
     - [yetone/openai-translator](https://github.com/yetone/openai-translator) <img src="https://img.shields.io/github/stars/yetone/openai-translator?style=social"/> : The translator that does more than just translation - powered by OpenAI.
 
     - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) <img src="https://img.shields.io/github/stars/lencx/ChatGPT?style=social"/> : 🔮 ChatGPT Desktop Application (Mac, Windows and Linux). [NoFWL](https://app.nofwl.com/).
@@ -575,8 +577,6 @@
     - [ChatGPT-Desktop](https://github.com/ChatGPT-Desktop/ChatGPT-Desktop) <img src="https://img.shields.io/github/stars/ChatGPT-Desktop/ChatGPT-Desktop?style=social"/> : ChatGPT 跨平台客户端，快捷键快速唤醒窗口，问答快人一步！ 基于 tauri + vue3 开发的跨平台桌面端应用。 
 
     - [sonnylazuardi/chat-ai-desktop](https://github.com/sonnylazuardi/chat-ai-desktop) <img src="https://img.shields.io/github/stars/sonnylazuardi/chat-ai-desktop?style=social"/> : Chat AI Desktop App. Unofficial ChatGPT desktop app for Mac & Windows menubar using Tauri & Rust.
-
-    - [rustformers/llm](https://github.com/rustformers/llm) <img src="https://img.shields.io/github/stars/rustformers/llm?style=social"/> : Run inference for Large Language Models on CPU, with Rust 🦀🚀🦙.
 
     - [Noeda/rllama](https://github.com/Noeda/rllama) <img src="https://img.shields.io/github/stars/Noeda/rllama?style=social"/> : Rust+OpenCL+AVX2 implementation of LLaMA inference code.
 
@@ -612,7 +612,9 @@
 
     - [bencevans/rust-opencv-yolov5](https://github.com/bencevans/rust-opencv-yolov5) <img src="https://img.shields.io/github/stars/bencevans/rust-opencv-yolov5?style=social"/> : YOLOv5 Inference with ONNX & OpenCV in Rust.
 
-    - [masc-it/yolov5-api-rust](https://github.com/masc-it/yolov5-api-rust) <img src="https://img.shields.io/github/stars/masc-it/yolov5-api-rust?style=social"/> : yolov5-api-rust.
+    - [masc-it/yolov5-api-rust](https://github.com/masc-it/yolov5-api-rust) <img src="https://img.shields.io/github/stars/masc-it/yolov5-api-rust?style=social"/> : Rust API to run predictions with YoloV5 models. 
+
+    - [AndreyGermanov/yolov8_onnx_rust](https://github.com/AndreyGermanov/yolov8_onnx_rust) <img src="https://img.shields.io/github/stars/AndreyGermanov/yolov8_onnx_rust?style=social"/> : YOLOv8 inference using Rust.
 
     - [12101111/yolo-rs](https://github.com/12101111/yolo-rs) <img src="https://img.shields.io/github/stars/12101111/yolo-rs?style=social"/> : Yolov3 & Yolov4 with TVM and rust.
 
