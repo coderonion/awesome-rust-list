@@ -516,7 +516,114 @@
 
 
 
+## Machine Learning
 
+  - ### Machine Learning Framework
+
+    - [TensorFlow Rust](https://github.com/tensorflow/rust) <img src="https://img.shields.io/github/stars/tensorflow/rust?style=social"/> : Rust language bindings for TensorFlow.
+
+    - [tch-rs](https://github.com/LaurentMazare/tch-rs) <img src="https://img.shields.io/github/stars/LaurentMazare/tch-rs?style=social"/> : Rust bindings for the C++ api of PyTorch. 
+
+    - [Burn](https://github.com/burn-rs/burn) <img src="https://img.shields.io/github/stars/burn-rs/burn?style=social"/> : Burn - A Flexible and Comprehensive Deep Learning Framework in Rust. [burn-rs.github.io/](https://burn-rs.github.io/)
+
+    - [dfdx](https://github.com/coreylowman/dfdx) <img src="https://img.shields.io/github/stars/coreylowman/dfdx?style=social"/> : Deep learning in Rust, with shape checked tensors and neural networks.
+
+    - [Linfa](https://github.com/rust-ml/linfa) <img src="https://img.shields.io/github/stars/rust-ml/linfa?style=social"/> : A Rust machine learning framework. Linfa aims to provide a comprehensive toolkit to build Machine Learning applications with Rust. 
+
+    - [SmartCore](https://github.com/smartcorelib/smartcore) <img src="https://img.shields.io/github/stars/smartcorelib/smartcore?style=social"/> : The most advanced machine learning library in Rust. SmartCore is a comprehensive library for machine learning and numerical computing. The library provides a set of tools for linear algebra, numerical computing, optimization, and enables a generic, powerful yet still efficient approach to machine learning. [smartcorelib.org/](https://smartcorelib.org/)
+
+    - [tract](https://github.com/sonos/tract) <img src="https://img.shields.io/github/stars/sonos/tract?style=social"/> : Sonos' Neural Network inference engine. Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference
+
+    - [ort](https://github.com/pykeio/ort) <img src="https://img.shields.io/github/stars/pykeio/ort?style=social"/> : A Rust wrapper for ONNX Runtime. [docs.rs/ort](https://docs.rs/ort/latest/ort/)
+
+    - [onnxruntime-rs](https://github.com/nbigaouette/onnxruntime-rs) <img src="https://img.shields.io/github/stars/nbigaouette/onnxruntime-rs?style=social"/> : This is an attempt at a Rust wrapper for [Microsoft's ONNX Runtime](https://github.com/microsoft/onnxruntime) (version 1.8).
+
+    - [Wonnx](https://github.com/webonnx/wonnx) <img src="https://img.shields.io/github/stars/webonnx/wonnx?style=social"/> : Wonnx is a GPU-accelerated ONNX inference run-time written 100% in Rust, ready for the web.
+
+    - [altius](https://github.com/maekawatoshiki/altius) <img src="https://img.shields.io/github/stars/maekawatoshiki/altius?style=social"/> : Small ONNX inference runtime written in Rust.
+
+    - [ggml](https://github.com/ggerganov/ggml) <img src="https://img.shields.io/github/stars/ggerganov/ggml?style=social"/> : Tensor library for machine learning. Written in C.
+
+    - [michaelgiba/ggml-rs](https://github.com/michaelgiba/ggml-rs) <img src="https://img.shields.io/github/stars/michaelgiba/ggml-rs?style=social"/> : Work in progress rust bindings to ggml.
+
+    - [KerfuffleV2/ggml-sys-bleedingedge](https://github.com/KerfuffleV2/ggml-sys-bleedingedge) <img src="https://img.shields.io/github/stars/KerfuffleV2/ggml-sys-bleedingedge?style=social"/> : Bleeding edge low level Rust binding for GGML.
+
+    - [PABannier/rust-ggml](https://github.com/PABannier/rust-ggml) <img src="https://img.shields.io/github/stars/PABannier/rust-ggml?style=social"/> : Rust bindings for C tensor library ggml.
+
+    - [KerfuffleV2/rusty-ggml](https://github.com/KerfuffleV2/rusty-ggml) <img src="https://img.shields.io/github/stars/KerfuffleV2/rusty-ggml?style=social"/> : GGML bindings that aim to be idiomatic Rust rather than directly corresponding to the C/C++ interface.
+
+    - [goldstraw/RustCNN](https://github.com/goldstraw/RustCNN) <img src="https://img.shields.io/github/stars/goldstraw/RustCNN?style=social"/> : Rust convolutional neural network from scratch.
+
+    - [elftausend/gradients](https://github.com/elftausend/gradients) <img src="https://img.shields.io/github/stars/elftausend/gradients?style=social"/> : Deep Learning library using [custos](https://github.com/elftausend/custos) and [custos-math](https://github.com/elftausend/custos-math).
+
+    - [michaelmelanson/spiking-neural-net](https://github.com/michaelmelanson/spiking-neural-net) <img src="https://img.shields.io/github/stars/michaelmelanson/spiking-neural-net?style=social"/> : A spiking neural network simulation library.
+
+    - [AnicetNgrt/neural_networks_rust](https://github.com/AnicetNgrt/neural_networks_rust) <img src="https://img.shields.io/github/stars/AnicetNgrt/neural_networks_rust?style=social"/> : Implementing NNs & other machine learning utils in Rust from scratch.
+
+    - [herrmann/rustorch](https://github.com/herrmann/rustorch) <img src="https://img.shields.io/github/stars/herrmann/rustorch?style=social"/> : "PyTorch in Rust".
+
+
+
+    
+  - ### Large Language Model
+
+    - [yetone/openai-translator](https://github.com/yetone/openai-translator) <img src="https://img.shields.io/github/stars/yetone/openai-translator?style=social"/> : The translator that does more than just translation - powered by OpenAI.
+
+    - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) <img src="https://img.shields.io/github/stars/lencx/ChatGPT?style=social"/> : 🔮 ChatGPT Desktop Application (Mac, Windows and Linux). [NoFWL](https://app.nofwl.com/).
+
+    - [ChatGPT-Desktop](https://github.com/ChatGPT-Desktop/ChatGPT-Desktop) <img src="https://img.shields.io/github/stars/ChatGPT-Desktop/ChatGPT-Desktop?style=social"/> : ChatGPT 跨平台客户端，快捷键快速唤醒窗口，问答快人一步！ 基于 tauri + vue3 开发的跨平台桌面端应用。 
+
+    - [sonnylazuardi/chat-ai-desktop](https://github.com/sonnylazuardi/chat-ai-desktop) <img src="https://img.shields.io/github/stars/sonnylazuardi/chat-ai-desktop?style=social"/> : Chat AI Desktop App. Unofficial ChatGPT desktop app for Mac & Windows menubar using Tauri & Rust.
+
+    - [rustformers/llm](https://github.com/rustformers/llm) <img src="https://img.shields.io/github/stars/rustformers/llm?style=social"/> : Run inference for Large Language Models on CPU, with Rust 🦀🚀🦙.
+
+    - [Noeda/rllama](https://github.com/Noeda/rllama) <img src="https://img.shields.io/github/stars/Noeda/rllama?style=social"/> : Rust+OpenCL+AVX2 implementation of LLaMA inference code.
+
+    - [m1guelpf/browser-agent](https://github.com/m1guelpf/browser-agent) <img src="https://img.shields.io/github/stars/m1guelpf/browser-agent?style=social"/> : A browser AI agent, using GPT-4. [docs.rs/browser-agent](https://docs.rs/browser-agent/latest/browser_agent/)
+
+    - [sigoden/aichat](https://github.com/sigoden/aichat) <img src="https://img.shields.io/github/stars/sigoden/aichat?style=social"/> : Using ChatGPT/GPT-3.5/GPT-4 in the terminal. 
+
+    - [uiuifree/rust-openai-chatgpt-api](https://github.com/uiuifree/rust-openai-chatgpt-api) <img src="https://img.shields.io/github/stars/uiuifree/rust-openai-chatgpt-api?style=social"/> : "rust-openai-chatgpt-api" is a Rust library for accessing the ChatGPT API, a powerful NLP platform by OpenAI. The library provides a simple and efficient interface for sending requests and receiving responses, including chat. It uses reqwest and serde for HTTP requests and JSON serialization. 
+
+    - [Atome-FE/llama-node](https://github.com/Atome-FE/llama-node) <img src="https://img.shields.io/github/stars/Atome-FE/llama-node?style=social"/> : Believe in AI democratization. llama for nodejs backed by llama-rs and llama.cpp, work locally on your laptop CPU. support llama/alpaca/gpt4all/vicuna model. [www.npmjs.com/package/llama-node](https://www.npmjs.com/package/llama-node)
+
+    - [sobelio/llm-chain](https://github.com/sobelio/llm-chain) <img src="https://img.shields.io/github/stars/sobelio/llm-chain?style=social"/> : llm-chain is a collection of Rust crates designed to help you work with Large Language Models (LLMs) more effectively. [llm-chain.xyz](https://llm-chain.xyz/)
+
+    - [tazz4843/whisper-rs](https://github.com/tazz4843/whisper-rs) <img src="https://img.shields.io/github/stars/tazz4843/whisper-rs?style=social"/> : Rust bindings to [whisper.cpp](https://github.com/ggerganov/whisper.cpp).
+
+    - [1595901624/gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition) <img src="https://img.shields.io/github/stars/1595901624/gpt-aggregated-edition?style=social"/> : 聚合ChatGPT官方版、ChatGPT免费版、文心一言、Poe、chatchat等多平台，支持自定义导入平台。
+
+    - [Cormanz/smartgpt](https://github.com/Cormanz/smartgpt) <img src="https://img.shields.io/github/stars/Cormanz/smartgpt?style=social"/> : A program that provides LLMs with the ability to complete complex tasks using plugins. 
+
+
+
+  - ### Stable Diffusion
+
+    - [pykeio/diffusers](https://github.com/pykeio/diffusers) <img src="https://img.shields.io/github/stars/pykeio/diffusers?style=social"/> : modular Rust library for optimized Stable Diffusion inference 🔮 [docs.rs/pyke-diffusers](https://docs.rs/pyke-diffusers/latest/pyke_diffusers/)
+
+
+
+
+
+  - ### Object Detection
+
+    - [pnn](https://github.com/ptaxom/pnn) <img src="https://img.shields.io/github/stars/ptaxom/pnn?style=social"/> : pnn is [Darknet](https://github.com/alexeyAB/darknet) compatible neural nets inference engine implemented in Rust. By optimizing was achieved significant performance increment(especially in FP16 mode). pnn provide CUDNN-based and TensorRT-based inference engines.
+
+    - [bencevans/rust-opencv-yolov5](https://github.com/bencevans/rust-opencv-yolov5) <img src="https://img.shields.io/github/stars/bencevans/rust-opencv-yolov5?style=social"/> : YOLOv5 Inference with ONNX & OpenCV in Rust.
+
+    - [masc-it/yolov5-api-rust](https://github.com/masc-it/yolov5-api-rust) <img src="https://img.shields.io/github/stars/masc-it/yolov5-api-rust?style=social"/> : yolov5-api-rust.
+
+    - [12101111/yolo-rs](https://github.com/12101111/yolo-rs) <img src="https://img.shields.io/github/stars/12101111/yolo-rs?style=social"/> : Yolov3 & Yolov4 with TVM and rust.
+
+    - [TKGgunter/yolov4_tiny_rs](https://github.com/TKGgunter/yolov4_tiny_rs) <img src="https://img.shields.io/github/stars/TKGgunter/yolov4_tiny_rs?style=social"/> : A rust implementation of yolov4_tiny algorithm.
+
+    - [flixstn/You-Only-Look-Once](https://github.com/flixstn/You-Only-Look-Once) <img src="https://img.shields.io/github/stars/flixstn/You-Only-Look-Once?style=social"/> : A Rust implementation of Yolo for object detection and tracking.
+
+    - [lenna-project/yolo-plugin](https://github.com/lenna-project/yolo-plugin) <img src="https://img.shields.io/github/stars/lenna-project/yolo-plugin?style=social"/> : Yolo Object Detection Plugin for Lenna.
+
+    - [gsuyemoto/yolo-rust](https://github.com/gsuyemoto/yolo-rust) <img src="https://img.shields.io/github/stars/gsuyemoto/yolo-rust?style=social"/> : Run YOLO computer vision model using Rust and OpenCV and/or Torch.
+
+    - [laclouis5/globox-rs](https://github.com/laclouis5/globox-rs) <img src="https://img.shields.io/github/stars/laclouis5/globox-rs?style=social"/> : Object detection toolbox for parsing, converting and evaluating bounding box annotations.
 
 
 
@@ -741,114 +848,7 @@
 
 
 
-## Machine Learning
 
-  - ### Machine Learning Framework
-
-    - [TensorFlow Rust](https://github.com/tensorflow/rust) <img src="https://img.shields.io/github/stars/tensorflow/rust?style=social"/> : Rust language bindings for TensorFlow.
-
-    - [tch-rs](https://github.com/LaurentMazare/tch-rs) <img src="https://img.shields.io/github/stars/LaurentMazare/tch-rs?style=social"/> : Rust bindings for the C++ api of PyTorch. 
-
-    - [Burn](https://github.com/burn-rs/burn) <img src="https://img.shields.io/github/stars/burn-rs/burn?style=social"/> : Burn - A Flexible and Comprehensive Deep Learning Framework in Rust. [burn-rs.github.io/](https://burn-rs.github.io/)
-
-    - [dfdx](https://github.com/coreylowman/dfdx) <img src="https://img.shields.io/github/stars/coreylowman/dfdx?style=social"/> : Deep learning in Rust, with shape checked tensors and neural networks.
-
-    - [Linfa](https://github.com/rust-ml/linfa) <img src="https://img.shields.io/github/stars/rust-ml/linfa?style=social"/> : A Rust machine learning framework. Linfa aims to provide a comprehensive toolkit to build Machine Learning applications with Rust. 
-
-    - [SmartCore](https://github.com/smartcorelib/smartcore) <img src="https://img.shields.io/github/stars/smartcorelib/smartcore?style=social"/> : The most advanced machine learning library in Rust. SmartCore is a comprehensive library for machine learning and numerical computing. The library provides a set of tools for linear algebra, numerical computing, optimization, and enables a generic, powerful yet still efficient approach to machine learning. [smartcorelib.org/](https://smartcorelib.org/)
-
-    - [tract](https://github.com/sonos/tract) <img src="https://img.shields.io/github/stars/sonos/tract?style=social"/> : Sonos' Neural Network inference engine. Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference
-
-    - [ort](https://github.com/pykeio/ort) <img src="https://img.shields.io/github/stars/pykeio/ort?style=social"/> : A Rust wrapper for ONNX Runtime. [docs.rs/ort](https://docs.rs/ort/latest/ort/)
-
-    - [onnxruntime-rs](https://github.com/nbigaouette/onnxruntime-rs) <img src="https://img.shields.io/github/stars/nbigaouette/onnxruntime-rs?style=social"/> : This is an attempt at a Rust wrapper for [Microsoft's ONNX Runtime](https://github.com/microsoft/onnxruntime) (version 1.8).
-
-    - [Wonnx](https://github.com/webonnx/wonnx) <img src="https://img.shields.io/github/stars/webonnx/wonnx?style=social"/> : Wonnx is a GPU-accelerated ONNX inference run-time written 100% in Rust, ready for the web.
-
-    - [altius](https://github.com/maekawatoshiki/altius) <img src="https://img.shields.io/github/stars/maekawatoshiki/altius?style=social"/> : Small ONNX inference runtime written in Rust.
-
-    - [ggml](https://github.com/ggerganov/ggml) <img src="https://img.shields.io/github/stars/ggerganov/ggml?style=social"/> : Tensor library for machine learning. Written in C.
-
-    - [michaelgiba/ggml-rs](https://github.com/michaelgiba/ggml-rs) <img src="https://img.shields.io/github/stars/michaelgiba/ggml-rs?style=social"/> : Work in progress rust bindings to ggml.
-
-    - [KerfuffleV2/ggml-sys-bleedingedge](https://github.com/KerfuffleV2/ggml-sys-bleedingedge) <img src="https://img.shields.io/github/stars/KerfuffleV2/ggml-sys-bleedingedge?style=social"/> : Bleeding edge low level Rust binding for GGML.
-
-    - [PABannier/rust-ggml](https://github.com/PABannier/rust-ggml) <img src="https://img.shields.io/github/stars/PABannier/rust-ggml?style=social"/> : Rust bindings for C tensor library ggml.
-
-    - [KerfuffleV2/rusty-ggml](https://github.com/KerfuffleV2/rusty-ggml) <img src="https://img.shields.io/github/stars/KerfuffleV2/rusty-ggml?style=social"/> : GGML bindings that aim to be idiomatic Rust rather than directly corresponding to the C/C++ interface.
-
-    - [goldstraw/RustCNN](https://github.com/goldstraw/RustCNN) <img src="https://img.shields.io/github/stars/goldstraw/RustCNN?style=social"/> : Rust convolutional neural network from scratch.
-
-    - [elftausend/gradients](https://github.com/elftausend/gradients) <img src="https://img.shields.io/github/stars/elftausend/gradients?style=social"/> : Deep Learning library using [custos](https://github.com/elftausend/custos) and [custos-math](https://github.com/elftausend/custos-math).
-
-    - [michaelmelanson/spiking-neural-net](https://github.com/michaelmelanson/spiking-neural-net) <img src="https://img.shields.io/github/stars/michaelmelanson/spiking-neural-net?style=social"/> : A spiking neural network simulation library.
-
-    - [AnicetNgrt/neural_networks_rust](https://github.com/AnicetNgrt/neural_networks_rust) <img src="https://img.shields.io/github/stars/AnicetNgrt/neural_networks_rust?style=social"/> : Implementing NNs & other machine learning utils in Rust from scratch.
-
-    - [herrmann/rustorch](https://github.com/herrmann/rustorch) <img src="https://img.shields.io/github/stars/herrmann/rustorch?style=social"/> : "PyTorch in Rust".
-
-
-
-    
-  - ### Large Language Model
-
-    - [yetone/openai-translator](https://github.com/yetone/openai-translator) <img src="https://img.shields.io/github/stars/yetone/openai-translator?style=social"/> : The translator that does more than just translation - powered by OpenAI.
-
-    - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) <img src="https://img.shields.io/github/stars/lencx/ChatGPT?style=social"/> : 🔮 ChatGPT Desktop Application (Mac, Windows and Linux). [NoFWL](https://app.nofwl.com/).
-
-    - [ChatGPT-Desktop](https://github.com/ChatGPT-Desktop/ChatGPT-Desktop) <img src="https://img.shields.io/github/stars/ChatGPT-Desktop/ChatGPT-Desktop?style=social"/> : ChatGPT 跨平台客户端，快捷键快速唤醒窗口，问答快人一步！ 基于 tauri + vue3 开发的跨平台桌面端应用。 
-
-    - [sonnylazuardi/chat-ai-desktop](https://github.com/sonnylazuardi/chat-ai-desktop) <img src="https://img.shields.io/github/stars/sonnylazuardi/chat-ai-desktop?style=social"/> : Chat AI Desktop App. Unofficial ChatGPT desktop app for Mac & Windows menubar using Tauri & Rust.
-
-    - [rustformers/llm](https://github.com/rustformers/llm) <img src="https://img.shields.io/github/stars/rustformers/llm?style=social"/> : Run inference for Large Language Models on CPU, with Rust 🦀🚀🦙.
-
-    - [Noeda/rllama](https://github.com/Noeda/rllama) <img src="https://img.shields.io/github/stars/Noeda/rllama?style=social"/> : Rust+OpenCL+AVX2 implementation of LLaMA inference code.
-
-    - [m1guelpf/browser-agent](https://github.com/m1guelpf/browser-agent) <img src="https://img.shields.io/github/stars/m1guelpf/browser-agent?style=social"/> : A browser AI agent, using GPT-4. [docs.rs/browser-agent](https://docs.rs/browser-agent/latest/browser_agent/)
-
-    - [sigoden/aichat](https://github.com/sigoden/aichat) <img src="https://img.shields.io/github/stars/sigoden/aichat?style=social"/> : Using ChatGPT/GPT-3.5/GPT-4 in the terminal. 
-
-    - [uiuifree/rust-openai-chatgpt-api](https://github.com/uiuifree/rust-openai-chatgpt-api) <img src="https://img.shields.io/github/stars/uiuifree/rust-openai-chatgpt-api?style=social"/> : "rust-openai-chatgpt-api" is a Rust library for accessing the ChatGPT API, a powerful NLP platform by OpenAI. The library provides a simple and efficient interface for sending requests and receiving responses, including chat. It uses reqwest and serde for HTTP requests and JSON serialization. 
-
-    - [Atome-FE/llama-node](https://github.com/Atome-FE/llama-node) <img src="https://img.shields.io/github/stars/Atome-FE/llama-node?style=social"/> : Believe in AI democratization. llama for nodejs backed by llama-rs and llama.cpp, work locally on your laptop CPU. support llama/alpaca/gpt4all/vicuna model. [www.npmjs.com/package/llama-node](https://www.npmjs.com/package/llama-node)
-
-    - [sobelio/llm-chain](https://github.com/sobelio/llm-chain) <img src="https://img.shields.io/github/stars/sobelio/llm-chain?style=social"/> : llm-chain is a collection of Rust crates designed to help you work with Large Language Models (LLMs) more effectively. [llm-chain.xyz](https://llm-chain.xyz/)
-
-    - [tazz4843/whisper-rs](https://github.com/tazz4843/whisper-rs) <img src="https://img.shields.io/github/stars/tazz4843/whisper-rs?style=social"/> : Rust bindings to [whisper.cpp](https://github.com/ggerganov/whisper.cpp).
-
-    - [1595901624/gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition) <img src="https://img.shields.io/github/stars/1595901624/gpt-aggregated-edition?style=social"/> : 聚合ChatGPT官方版、ChatGPT免费版、文心一言、Poe、chatchat等多平台，支持自定义导入平台。
-
-    - [Cormanz/smartgpt](https://github.com/Cormanz/smartgpt) <img src="https://img.shields.io/github/stars/Cormanz/smartgpt?style=social"/> : A program that provides LLMs with the ability to complete complex tasks using plugins. 
-
-
-
-  - ### Stable Diffusion
-
-    - [pykeio/diffusers](https://github.com/pykeio/diffusers) <img src="https://img.shields.io/github/stars/pykeio/diffusers?style=social"/> : modular Rust library for optimized Stable Diffusion inference 🔮 [docs.rs/pyke-diffusers](https://docs.rs/pyke-diffusers/latest/pyke_diffusers/)
-
-
-
-
-
-  - ### Object Detection
-
-    - [pnn](https://github.com/ptaxom/pnn) <img src="https://img.shields.io/github/stars/ptaxom/pnn?style=social"/> : pnn is [Darknet](https://github.com/alexeyAB/darknet) compatible neural nets inference engine implemented in Rust. By optimizing was achieved significant performance increment(especially in FP16 mode). pnn provide CUDNN-based and TensorRT-based inference engines.
-
-    - [bencevans/rust-opencv-yolov5](https://github.com/bencevans/rust-opencv-yolov5) <img src="https://img.shields.io/github/stars/bencevans/rust-opencv-yolov5?style=social"/> : YOLOv5 Inference with ONNX & OpenCV in Rust.
-
-    - [masc-it/yolov5-api-rust](https://github.com/masc-it/yolov5-api-rust) <img src="https://img.shields.io/github/stars/masc-it/yolov5-api-rust?style=social"/> : yolov5-api-rust.
-
-    - [12101111/yolo-rs](https://github.com/12101111/yolo-rs) <img src="https://img.shields.io/github/stars/12101111/yolo-rs?style=social"/> : Yolov3 & Yolov4 with TVM and rust.
-
-    - [TKGgunter/yolov4_tiny_rs](https://github.com/TKGgunter/yolov4_tiny_rs) <img src="https://img.shields.io/github/stars/TKGgunter/yolov4_tiny_rs?style=social"/> : A rust implementation of yolov4_tiny algorithm.
-
-    - [flixstn/You-Only-Look-Once](https://github.com/flixstn/You-Only-Look-Once) <img src="https://img.shields.io/github/stars/flixstn/You-Only-Look-Once?style=social"/> : A Rust implementation of Yolo for object detection and tracking.
-
-    - [lenna-project/yolo-plugin](https://github.com/lenna-project/yolo-plugin) <img src="https://img.shields.io/github/stars/lenna-project/yolo-plugin?style=social"/> : Yolo Object Detection Plugin for Lenna.
-
-    - [gsuyemoto/yolo-rust](https://github.com/gsuyemoto/yolo-rust) <img src="https://img.shields.io/github/stars/gsuyemoto/yolo-rust?style=social"/> : Run YOLO computer vision model using Rust and OpenCV and/or Torch.
-
-    - [laclouis5/globox-rs](https://github.com/laclouis5/globox-rs) <img src="https://img.shields.io/github/stars/laclouis5/globox-rs?style=social"/> : Object detection toolbox for parsing, converting and evaluating bounding box annotations.
 
 
 ## Web Crawler
