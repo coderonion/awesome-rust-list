@@ -732,7 +732,7 @@
 
   - [opencv-rust](https://github.com/twistedfall/opencv-rust) <img src="https://img.shields.io/github/stars/twistedfall/opencv-rust?style=social"/> : Rust bindings for OpenCV 3 & 4. 
 
-  - [photon](https://github.com/silvia-odwyer/photon) <img src="https://img.shields.io/github/stars/silvia-odwyer/photon?style=social"/> : Photon is a high-performance Rust image processing library, which compiles to WebAssembly, allowing for safe, blazing-fast image processing both natively and on the web. [silvia-odwyer.github.io/photon](https://silvia-odwyer.github.io/photon/)
+  - [photon](https://github.com/silvia-odwyer/photon) <img src="https://img.shields.io/github/stars/silvia-odwyer/photon?style=social"/> : ⚡ Rust/WebAssembly image processing library. [silvia-odwyer.github.io/photon](https://silvia-odwyer.github.io/photon/). Photon is a high-performance Rust image processing library, which compiles to WebAssembly, allowing for safe, blazing-fast image processing both natively and on the web. 
 
   - [image-rs/image](https://github.com/image-rs/image) <img src="https://img.shields.io/github/stars/image-rs/image?style=social"/> : Encoding and decoding images in Rust.
 
