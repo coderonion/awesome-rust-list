@@ -935,18 +935,12 @@
 
 ## GUI
 
-  - [LVGL](https://github.com/lvgl/lvgl) <img src="https://img.shields.io/github/stars/lvgl/lvgl?style=social"/> : Light and Versatile Graphics Library. Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio. [lvgl.io](https://lvgl.io/)
-
-  - [AWTK](https://github.com/zlgopen/awtk) <img src="https://img.shields.io/github/stars/zlgopen/awtk?style=social"/> : AWTK = Toolkit AnyWhere(a cross-platform embedded GUI). [AWTK](https://github.com/zlgopen/awtk/blob/master/README.md), the abbreviation of Toolkit AnyWhere, is an open source GUI engine developed by [ZLG](https://www.zlg.cn/).
-
-  - [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) <img src="https://img.shields.io/github/stars//Immediate-Mode-UI/Nuklear?style=social"/> : A single-header ANSI C immediate mode cross-platform GUI library. [immediate-mode-ui.github.io](https://immediate-mode-ui.github.io/Nuklear/doc/index.html)
-
-  - [Slint](https://github.com/slint-ui/slint) <img src="https://img.shields.io/github/stars/slint-ui/slint?style=social"/> : Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. [slint-ui.com](https://github.com/slint-ui/slint)
-  
   - [Tauri](https://github.com/tauri-apps/tauri) <img src="https://img.shields.io/github/stars/tauri-apps/tauri?style=social"/> : Build smaller, faster, and more secure desktop applications with a web frontend. [tauri.app](https://tauri.app/). Tauri is a framework for building tiny, blazingly fast binaries for all major desktop platforms. Developers can integrate any front-end framework that compiles to HTML, JS and CSS for building their user interface. The backend of the application is a rust-sourced binary with an API that the front-end can interact with.
 
   - [Pake](https://github.com/tw93/Pake) <img src="https://img.shields.io/github/stars/tw93/Pake?style=social"/> : 🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App.
 
+  - [Slint](https://github.com/slint-ui/slint) <img src="https://img.shields.io/github/stars/slint-ui/slint?style=social"/> : Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. [slint-ui.com](https://github.com/slint-ui/slint)
+  
   - [egui](https://github.com/emilk/egui) <img src="https://img.shields.io/github/stars/emilk/egui?style=social"/> : egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native.
 
   - [Iced](https://github.com/iced-rs/iced) <img src="https://img.shields.io/github/stars/iced-rs/iced?style=social"/> : A cross-platform GUI library for Rust focused on simplicity and type-safety. Inspired by [Elm](https://elm-lang.org/).
