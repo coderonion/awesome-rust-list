@@ -14,7 +14,7 @@
   - [Memory Allocator](#memory-allocator)
   - [Asynchronous Runtime](#asynchronous-runtime)
   - [Embedded Development](#embedded-development)
-  - [Universal Operating System](#universal-operating-system)
+  - [General Operating System](#general-operating-system)
   - [Robot Operating System](#robot-operating-system)
   - [Hardware Description Language](#hardware-description-language)
   - [Logic Programming](#logic-programming)
@@ -257,7 +257,7 @@
 
 
 
-## Universal Operating System
+## General Operating System
 
   - [BlogOS](https://github.com/phil-opp/blog_os) <img src="https://img.shields.io/github/stars/phil-opp/blog_os?style=social"/> : This repository contains the source code for the Writing an OS in Rust series at [os.phil-opp.com](https://os.phil-opp.com/).
 
