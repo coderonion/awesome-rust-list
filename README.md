@@ -592,6 +592,8 @@
 
     - [Poordeveloper/chatgpt-app](https://github.com/Poordeveloper/chatgpt-app) <img src="https://img.shields.io/github/stars/Poordeveloper/chatgpt-app?style=social"/> : A ChatGPT App for all platforms. Built with Rust + Tauri + Vue + Axum.
 
+    - [mxismean/chatgpt-app](https://github.com/mxismean/chatgpt-app) <img src="https://img.shields.io/github/stars/mxismean/chatgpt-app?style=social"/> : Tauri 项目：ChatGPT App.
+
     - [sonnylazuardi/chat-ai-desktop](https://github.com/sonnylazuardi/chat-ai-desktop) <img src="https://img.shields.io/github/stars/sonnylazuardi/chat-ai-desktop?style=social"/> : Chat AI Desktop App. Unofficial ChatGPT desktop app for Mac & Windows menubar using Tauri & Rust.
 
     - [yetone/openai-translator](https://github.com/yetone/openai-translator) <img src="https://img.shields.io/github/stars/yetone/openai-translator?style=social"/> : The translator that does more than just translation - powered by OpenAI.
@@ -968,6 +970,20 @@
   - [slint-ui/cargo-ui](https://github.com/slint-ui/cargo-ui) <img src="https://img.shields.io/github/stars/slint-ui/cargo-ui?style=social"/> : This is a project to make a GUI for cargo, built using [Slint](https://github.com/slint-ui/slint).
 
   - [GaspardCulis/slint-tetris](https://github.com/GaspardCulis/slint-tetris) <img src="https://img.shields.io/github/stars/GaspardCulis/slint-tetris?style=social"/> : Tetris game made with Slint. [gaspardculis.github.io/slint-tetris/](https://gaspardculis.github.io/slint-tetris/)
+
+  - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) <img src="https://img.shields.io/github/stars/spieglt/FlyingCarpet?style=social"/> : File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range. 
+
+  - [Minori-ty/mp4To4K-rust](https://github.com/Minori-ty/mp4To4K-rust) <img src="https://img.shields.io/github/stars/Minori-ty/mp4To4K-rust?style=social"/> : 使用Tauri做的一个将动漫视频转4K视频的软件。 
+
+  - [seiKiMo-Inc/Laudiolin](https://github.com/seiKiMo-Inc/Laudiolin) <img src="https://img.shields.io/github/stars/seiKiMo-Inc/Laudiolin?style=social"/> : A "high quality" music player written in TypeScript using Tauri and React.
+
+  - [kingwingfly/bilibili-downloader-rs](https://github.com/kingwingfly/bilibili-downloader-rs) <img src="https://img.shields.io/github/stars/kingwingfly/bilibili-downloader-rs?style=social"/> : Bilibili Downloader. A bilibili video downloader app built by Tauri, Vue and Rust! 
+
+  - [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) <img src="https://img.shields.io/github/stars/pacholoamit/pachtop?style=social"/> : Cross-platform (Linux, WIndows, MacOS) Desktop GUI system monitor, built with Rust & Tauri.
+
+  - [lecepin/douyin-downloader](https://github.com/lecepin/douyin-downloader) <img src="https://img.shields.io/github/stars/lecepin/douyin-downloader?style=social"/> : 使用非常简单的抖音视频无水印下载工具。支持下单个视频，以及下载某个人的所有视频。（采用rust+tauri编写，安装包非常小）。
+
+  - [lecepin/desktop-webcam](https://github.com/lecepin/desktop-webcam) <img src="https://img.shields.io/github/stars/lecepin/desktop-webcam?style=social"/> : 使用 webassembly 通过 tauri 封装的桌面摄相头。
 
 
 
