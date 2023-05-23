@@ -289,6 +289,7 @@
 
   - [jdreaver/rust-os](https://github.com/jdreaver/rust-os) <img src="https://img.shields.io/github/stars/jdreaver/rust-os?style=social"/> : Creating a bare metal OS in Rust. 
 
+  - [r9os/r9](https://github.com/r9os/r9) <img src="https://img.shields.io/github/stars/r9os/r9?style=social"/> : The R9 operating system.
 
 
 
@@ -341,6 +342,21 @@
   - [VHDL-LS/rust_hdl](https://github.com/VHDL-LS/rust_hdl) <img src="https://img.shields.io/github/stars/VHDL-LS/rust_hdl?style=social"/> : This repository contains a fast VHDL language server and analysis library written in Rust.
 
   - [yupferris/kaze](https://github.com/yupferris/kaze) <img src="https://img.shields.io/github/stars/yupferris/kaze?style=social"/> : An [HDL](https://en.wikipedia.org/wiki/Hardware_description_language) embedded in Rust. kaze provides an API to describe Modules composed of Signals, which can then be used to generate Rust simulator code or Verilog modules.
+
+  - [dalance/sv-parser](https://github.com/dalance/sv-parser) <img src="https://img.shields.io/github/stars/dalance/sv-parser?style=social"/> : SystemVerilog parser library fully compliant with IEEE 1800-2017.
+
+  - [dalance/svls](https://github.com/dalance/svls) <img src="https://img.shields.io/github/stars/dalance/svls?style=social"/> : SystemVerilog language server.
+
+  - [dalance/svlint](https://github.com/dalance/svlint) <img src="https://img.shields.io/github/stars/dalance/svlint?style=social"/> : SystemVerilog linter.
+
+  - [vivekmalneedi/veridian](https://github.com/vivekmalneedi/veridian) <img src="https://img.shields.io/github/stars/vivekmalneedi/veridian?style=social"/> : A SystemVerilog Language Server.
+
+  - [zachjs/sv2v](https://github.com/zachjs/sv2v) <img src="https://img.shields.io/github/stars/zachjs/sv2v?style=social"/> : SystemVerilog to Verilog conversion.
+
+
+
+
+
 
 
 
@@ -569,6 +585,10 @@
     - [PABannier/rust-ggml](https://github.com/PABannier/rust-ggml) <img src="https://img.shields.io/github/stars/PABannier/rust-ggml?style=social"/> : Rust bindings for C tensor library ggml.
 
     - [KerfuffleV2/rusty-ggml](https://github.com/KerfuffleV2/rusty-ggml) <img src="https://img.shields.io/github/stars/KerfuffleV2/rusty-ggml?style=social"/> : GGML bindings that aim to be idiomatic Rust rather than directly corresponding to the C/C++ interface.
+
+    - [danforbes/ggml-rs-bindings](https://github.com/danforbes/ggml-rs-bindings) <img src="https://img.shields.io/github/stars/danforbes/ggml-rs-bindings?style=social"/> : This is a personal educational project for learning more about [rustformers/llm](https://github.com/rustformers/llm), from which almost all of the code in this repository was copied.
+
+
 
 
     
