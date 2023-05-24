@@ -61,7 +61,7 @@
 
     - [Rust](https://github.com/rust-lang/rust) <img src="https://img.shields.io/github/stars/rust-lang/rust?style=social"/> : The Rust Programming Language. Empowering everyone to build reliable and efficient software. [www.rust-lang.org](www.rust-lang.org). [Rust Foundation](https://foundation.rust-lang.org/).
 
-    - [std](https://doc.rust-lang.org/std/index.html) : The Rust Standard Library.
+    - [Rust std](https://doc.rust-lang.org/std/index.html) : The Rust Standard Library.
 
     - [Docs.rs](https://docs.rs/) : Docs.rs documentation.
 
@@ -106,7 +106,7 @@
 
   - ### Learning Resources
 
-    - [std](https://doc.rust-lang.org/std/index.html) : The Rust Standard Library.
+    - [Rust std](https://doc.rust-lang.org/std/index.html) : The Rust Standard Library.
 
     - [Docs.rs](https://docs.rs/) : Docs.rs documentation.
 
@@ -591,7 +591,7 @@
 
 
 
-    
+​    
   - ### Large Language Model
 
     - [rustformers/llm](https://github.com/rustformers/llm) <img src="https://img.shields.io/github/stars/rustformers/llm?style=social"/> : Run inference for Large Language Models on CPU, with Rust 🦀🚀🦙.
@@ -942,7 +942,7 @@
   - [tonic](https://github.com/hyperium/tonic) <img src="https://img.shields.io/github/stars/hyperium/tonic?style=social"/> : A native gRPC client & server implementation with async/await support. [docs.rs/tonic](https://docs.rs/tonic/latest/tonic/)
 
 
-  
+
 
 
 
@@ -1010,11 +1010,13 @@
 
 ## Blogs
 
-  - 「MIT Technology Review」
+  - 「[MIT Technology Review](https://www.technologyreview.com/)」
     - [2023-02-14，How Rust went from a side project to the world’s most-loved programming language](https://www.technologyreview.com/2023/02/14/1067869/rust-worlds-fastest-growing-programming-language)
   - 微信公众号「Rust语言中文社区」
+    - [2023-05-07，【Rust日报】2023-05-06 深度学习框架 Burn 发布 v0.7.0](https://mp.weixin.qq.com/s/VQy-EeM11U7OplRyyZ0Nvw)
     - [2023-05-11，【Rust日报】2023-05-10 llm - 使用Rust在CPU上运行大模型](https://mp.weixin.qq.com/s/73Bz-ZPEo974NH1TrQdJkQ)
     - [2023-05-11，Rust UI 框架：Slint UI 简单入门](https://mp.weixin.qq.com/s/_2rgwK5MHQh5kENi5o-nmA)
+    - [2023-05-24，字节跳动：将持续投入Rust，期待更多Rust生态合作和建设](https://mp.weixin.qq.com/s/NvVq3Fq7wi7myr77qo-zwQ)
   - 微信公众号「OSC开源社区」
     - [2023-04-05，Slint 1.0正式发布，Rust编写的原生GUI工具包](https://mp.weixin.qq.com/s/48vKNS0Y4tC7z8Qg2_2Vww)
     - [2023-05-06，Rust重写万物？](https://mp.weixin.qq.com/s/uLJvTh-N19AG0iMMYvJ1qA)
@@ -1030,5 +1032,6 @@
     - [2023-05-15，Mozilla 发布 Rust | 历史上的今天](https://mp.weixin.qq.com/s/zsgFlQ8pG04_ApwMkl6rdQ)
     - [2023-05-16，Windows 11 初尝 Rust，36000 行内核代码已重写！](https://mp.weixin.qq.com/s/Pram-Xdldm3-oe2acm3JeQ)
     - [2023-05-16，可能取代Vulkan和OpenGL的WebGPU为何如此重要？](https://mp.weixin.qq.com/s/Gr3iecrdKtoBQPaPsGJdkw)
-
+  - 微信公众号「InfoQ」
+    - [2023-05-23，Substrate 账户、地址和密钥](https://mp.weixin.qq.com/s/GK9XhdVUV__5cSddhKatVQ)
 
