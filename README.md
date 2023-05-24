@@ -49,6 +49,7 @@
   - [Game Engine](#game-engine)
   - [Web Crawler](#web-crawler)
   - [Web Framework](#web-framework)
+  - [RPC Framework](#rpc-framework)
   - [WebAssembly Runtime](#webAssembly-runtime)
   - [GUI](#gui)
   - [Blogs](#blogs)
@@ -946,6 +947,15 @@
 
 
 
+## RPC Framework
+
+  - [Volo](https://github.com/cloudwego/volo) <img src="https://img.shields.io/github/stars/cloudwego/volo?style=social"/> : Volo is a high-performance and strong-extensibility Rust RPC framework that helps developers build microservices. [crates.io/crates/volo](https://crates.io/crates/volo)
+
+
+
+
+
+
 
 ## WebAssembly Runtime
 
@@ -1032,6 +1042,6 @@
     - [2023-05-15，Mozilla 发布 Rust | 历史上的今天](https://mp.weixin.qq.com/s/zsgFlQ8pG04_ApwMkl6rdQ)
     - [2023-05-16，Windows 11 初尝 Rust，36000 行内核代码已重写！](https://mp.weixin.qq.com/s/Pram-Xdldm3-oe2acm3JeQ)
     - [2023-05-16，可能取代Vulkan和OpenGL的WebGPU为何如此重要？](https://mp.weixin.qq.com/s/Gr3iecrdKtoBQPaPsGJdkw)
-  - 微信公众号「InfoQ」
+  - 微信公众号「Parity Tech」
     - [2023-05-23，Substrate 账户、地址和密钥](https://mp.weixin.qq.com/s/GK9XhdVUV__5cSddhKatVQ)
 
