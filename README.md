@@ -47,11 +47,14 @@
   - [Motion Control](#motion-control)
   - [Finite State Machine](#finite-state-machine)
   - [Game Engine](#game-engine)
+  - [Search Engine](#search-engine)
   - [Web Crawler](#web-crawler)
   - [Web Framework](#web-framework)
   - [RPC Framework](#rpc-framework)
   - [WebAssembly Runtime](#webAssembly-runtime)
   - [GUI](#gui)
+    - [GUI Framework](#gui-framework)
+    - [Software](#software)
   - [Blogs](#blogs)
 
 
@@ -202,7 +205,9 @@
   - [Bonsai](https://github.com/Sollimann/bonsai) <img src="https://img.shields.io/github/stars/Sollimann/bonsai?style=social"/> : Rust implementation of behavior trees. 
 
   - [msakuta/rusty-behavior-tree-lite](https://github.com/msakuta/rusty-behavior-tree-lite) <img src="https://img.shields.io/github/stars/msakuta/rusty-behavior-tree-lite?style=social"/> : Lightweight behavior tree implementation in Rust.
-  
+
+  - [darthdeus/behavior-tree](https://github.com/darthdeus/behavior-tree) <img src="https://img.shields.io/github/stars/darthdeus/behavior-tree?style=social"/> : Behavior trees for Rust!
+
   - [callmestech/lists](https://github.com/callmestech/lists) <img src="https://img.shields.io/github/stars/callmestech/lists?style=social"/> : Learning Rust With Entirely Too Many Linked Lists.
 
 
@@ -589,6 +594,8 @@
 
     - [danforbes/ggml-rs-bindings](https://github.com/danforbes/ggml-rs-bindings) <img src="https://img.shields.io/github/stars/danforbes/ggml-rs-bindings?style=social"/> : This is a personal educational project for learning more about [rustformers/llm](https://github.com/rustformers/llm), from which almost all of the code in this repository was copied.
 
+    - [kurtschelfthout/tensorken](https://github.com/kurtschelfthout/tensorken) <img src="https://img.shields.io/github/stars/kurtschelfthout/tensorken?style=social"/> : A fun, hackable, GPU-accelerated, neural network library in Rust, written by an idiot.
+
 
 
 
@@ -891,6 +898,11 @@
 
 
 
+## Search Engine
+
+  - [Meilisearch](https://github.com/meilisearch/meilisearch) <img src="https://img.shields.io/github/stars/meilisearch/meilisearch?style=social"/> : ⚡ A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow 🔍 [www.meilisearch.com](https://www.meilisearch.com/)
+
+
 
 
 
@@ -943,16 +955,9 @@
   - [tonic](https://github.com/hyperium/tonic) <img src="https://img.shields.io/github/stars/hyperium/tonic?style=social"/> : A native gRPC client & server implementation with async/await support. [docs.rs/tonic](https://docs.rs/tonic/latest/tonic/)
 
 
-
-
-
-
 ## RPC Framework
 
   - [Volo](https://github.com/cloudwego/volo) <img src="https://img.shields.io/github/stars/cloudwego/volo?style=social"/> : Volo is a high-performance and strong-extensibility Rust RPC framework that helps developers build microservices. [crates.io/crates/volo](https://crates.io/crates/volo)
-
-
-
 
 
 
@@ -967,54 +972,59 @@
 
 ## GUI
 
-  - [Tauri](https://github.com/tauri-apps/tauri) <img src="https://img.shields.io/github/stars/tauri-apps/tauri?style=social"/> : Build smaller, faster, and more secure desktop applications with a web frontend. [tauri.app](https://tauri.app/). Tauri is a framework for building tiny, blazingly fast binaries for all major desktop platforms. Developers can integrate any front-end framework that compiles to HTML, JS and CSS for building their user interface. The backend of the application is a rust-sourced binary with an API that the front-end can interact with.
+  - ### GUI Framework
+    
+    - [Tauri](https://github.com/tauri-apps/tauri) <img src="https://img.shields.io/github/stars/tauri-apps/tauri?style=social"/> : Build smaller, faster, and more secure desktop applications with a web frontend. [tauri.app](https://tauri.app/). Tauri is a framework for building tiny, blazingly fast binaries for all major desktop platforms. Developers can integrate any front-end framework that compiles to HTML, JS and CSS for building their user interface. The backend of the application is a rust-sourced binary with an API that the front-end can interact with.
 
-  - [Pake](https://github.com/tw93/Pake) <img src="https://img.shields.io/github/stars/tw93/Pake?style=social"/> : 🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App.
+    - [Pake](https://github.com/tw93/Pake) <img src="https://img.shields.io/github/stars/tw93/Pake?style=social"/> : 🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App.
 
-  - [Slint](https://github.com/slint-ui/slint) <img src="https://img.shields.io/github/stars/slint-ui/slint?style=social"/> : Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. [slint-ui.com](https://github.com/slint-ui/slint)
+    - [Slint](https://github.com/slint-ui/slint) <img src="https://img.shields.io/github/stars/slint-ui/slint?style=social"/> : Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. [slint-ui.com](https://github.com/slint-ui/slint)
+    
+    - [egui](https://github.com/emilk/egui) <img src="https://img.shields.io/github/stars/emilk/egui?style=social"/> : egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native.
+
+    - [Iced](https://github.com/iced-rs/iced) <img src="https://img.shields.io/github/stars/iced-rs/iced?style=social"/> : A cross-platform GUI library for Rust focused on simplicity and type-safety. Inspired by [Elm](https://elm-lang.org/).
+
+    - [Xilem](https://github.com/linebender/xilem) <img src="https://img.shields.io/github/stars/linebender/xilem?style=social"/> : An experimental Rust architecture for reactive UI.
+
+    - [Druid](https://github.com/linebender/druid) <img src="https://img.shields.io/github/stars/linebender/druid?style=social"/> : A data-first Rust-native UI toolkit.
+
+    - [Dioxus](https://github.com/DioxusLabs/dioxus) <img src="https://img.shields.io/github/stars/DioxusLabs/dioxus?style=social"/> : Friendly React-like GUI library for desktop, web, mobile, and more.
+
+    - [Floem](https://github.com/lapce/floem) <img src="https://img.shields.io/github/stars/lapce/floem?style=social"/> : A native Rust UI library with fine-grained reactivity.
+
+    - [marek-g/rust-fui](https://github.com/marek-g/rust-fui) <img src="https://img.shields.io/github/stars/marek-g/rust-fui?style=social"/> : MVVM Rust UI Framework Library.
+
+    - [KDAB/cxx-qt](https://github.com/KDAB/cxx-qt) <img src="https://img.shields.io/github/stars/KDAB/cxx-qt?style=social"/> : Safe interop between Rust and Qt.
+
+    - [KDE/rust-qt-binding-generator](https://github.com/KDE/rust-qt-binding-generator) <img src="https://img.shields.io/github/stars/KDE/rust-qt-binding-generator?style=social"/> : Generate bindings to use Rust code in Qt and QML.
+
+    - [apertus-open-source-cinema/narui](https://github.com/apertus-open-source-cinema/narui) <img src="https://img.shields.io/github/stars/apertus-open-source-cinema/narui?style=social"/> : A react-inspired UI library for building multimedia desktop apps with rust and vulkan. 
+
+    - [marc2332/freya](https://github.com/marc2332/freya) <img src="https://img.shields.io/github/stars/marc2332/freya?style=social"/> : Native GUI library for 🦀 Rust powered by 🧬 Dioxus and 🎨 Skia. [freyaui.dev/](https://freyaui.dev/)
+
+  - ### Software
   
-  - [egui](https://github.com/emilk/egui) <img src="https://img.shields.io/github/stars/emilk/egui?style=social"/> : egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native.
+    - [sandunwira/SupTube](https://github.com/sandunwira/SupTube) <img src="https://img.shields.io/github/stars/sandunwira/SupTube?style=social"/> : An open-source Windows client for YouTube. [suptube.repl.co](https://suptube.repl.co/)
 
-  - [Iced](https://github.com/iced-rs/iced) <img src="https://img.shields.io/github/stars/iced-rs/iced?style=social"/> : A cross-platform GUI library for Rust focused on simplicity and type-safety. Inspired by [Elm](https://elm-lang.org/).
+    - [slint-ui/cargo-ui](https://github.com/slint-ui/cargo-ui) <img src="https://img.shields.io/github/stars/slint-ui/cargo-ui?style=social"/> : This is a project to make a GUI for cargo, built using [Slint](https://github.com/slint-ui/slint).
 
-  - [Xilem](https://github.com/linebender/xilem) <img src="https://img.shields.io/github/stars/linebender/xilem?style=social"/> : An experimental Rust architecture for reactive UI.
+    - [GaspardCulis/slint-tetris](https://github.com/GaspardCulis/slint-tetris) <img src="https://img.shields.io/github/stars/GaspardCulis/slint-tetris?style=social"/> : Tetris game made with Slint. [gaspardculis.github.io/slint-tetris/](https://gaspardculis.github.io/slint-tetris/)
 
-  - [Druid](https://github.com/linebender/druid) <img src="https://img.shields.io/github/stars/linebender/druid?style=social"/> : A data-first Rust-native UI toolkit.
+    - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) <img src="https://img.shields.io/github/stars/spieglt/FlyingCarpet?style=social"/> : File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range. 
 
-  - [Dioxus](https://github.com/DioxusLabs/dioxus) <img src="https://img.shields.io/github/stars/DioxusLabs/dioxus?style=social"/> : Friendly React-like GUI library for desktop, web, mobile, and more.
+    - [Minori-ty/mp4To4K-rust](https://github.com/Minori-ty/mp4To4K-rust) <img src="https://img.shields.io/github/stars/Minori-ty/mp4To4K-rust?style=social"/> : 使用Tauri做的一个将动漫视频转4K视频的软件。 
 
-  - [Floem](https://github.com/lapce/floem) <img src="https://img.shields.io/github/stars/lapce/floem?style=social"/> : A native Rust UI library with fine-grained reactivity.
+    - [seiKiMo-Inc/Laudiolin](https://github.com/seiKiMo-Inc/Laudiolin) <img src="https://img.shields.io/github/stars/seiKiMo-Inc/Laudiolin?style=social"/> : A "high quality" music player written in TypeScript using Tauri and React.
 
-  - [marek-g/rust-fui](https://github.com/marek-g/rust-fui) <img src="https://img.shields.io/github/stars/marek-g/rust-fui?style=social"/> : MVVM Rust UI Framework Library.
+    - [kingwingfly/bilibili-downloader-rs](https://github.com/kingwingfly/bilibili-downloader-rs) <img src="https://img.shields.io/github/stars/kingwingfly/bilibili-downloader-rs?style=social"/> : Bilibili Downloader. A bilibili video downloader app built by Tauri, Vue and Rust! 
 
-  - [KDAB/cxx-qt](https://github.com/KDAB/cxx-qt) <img src="https://img.shields.io/github/stars/KDAB/cxx-qt?style=social"/> : Safe interop between Rust and Qt.
+    - [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) <img src="https://img.shields.io/github/stars/pacholoamit/pachtop?style=social"/> : Cross-platform (Linux, WIndows, MacOS) Desktop GUI system monitor, built with Rust & Tauri.
 
-  - [KDE/rust-qt-binding-generator](https://github.com/KDE/rust-qt-binding-generator) <img src="https://img.shields.io/github/stars/KDE/rust-qt-binding-generator?style=social"/> : Generate bindings to use Rust code in Qt and QML.
+    - [lecepin/douyin-downloader](https://github.com/lecepin/douyin-downloader) <img src="https://img.shields.io/github/stars/lecepin/douyin-downloader?style=social"/> : 使用非常简单的抖音视频无水印下载工具。支持下单个视频，以及下载某个人的所有视频。（采用rust+tauri编写，安装包非常小）。
 
-  - [apertus-open-source-cinema/narui](https://github.com/apertus-open-source-cinema/narui) <img src="https://img.shields.io/github/stars/apertus-open-source-cinema/narui?style=social"/> : A react-inspired UI library for building multimedia desktop apps with rust and vulkan. 
+    - [lecepin/desktop-webcam](https://github.com/lecepin/desktop-webcam) <img src="https://img.shields.io/github/stars/lecepin/desktop-webcam?style=social"/> : 使用 webassembly 通过 tauri 封装的桌面摄相头。
 
-  - [marc2332/freya](https://github.com/marc2332/freya) <img src="https://img.shields.io/github/stars/marc2332/freya?style=social"/> : Native GUI library for 🦀 Rust powered by 🧬 Dioxus and 🎨 Skia. [freyaui.dev/](https://freyaui.dev/)
-
-  - [sandunwira/SupTube](https://github.com/sandunwira/SupTube) <img src="https://img.shields.io/github/stars/sandunwira/SupTube?style=social"/> : An open-source Windows client for YouTube. [suptube.repl.co](https://suptube.repl.co/)
-
-  - [slint-ui/cargo-ui](https://github.com/slint-ui/cargo-ui) <img src="https://img.shields.io/github/stars/slint-ui/cargo-ui?style=social"/> : This is a project to make a GUI for cargo, built using [Slint](https://github.com/slint-ui/slint).
-
-  - [GaspardCulis/slint-tetris](https://github.com/GaspardCulis/slint-tetris) <img src="https://img.shields.io/github/stars/GaspardCulis/slint-tetris?style=social"/> : Tetris game made with Slint. [gaspardculis.github.io/slint-tetris/](https://gaspardculis.github.io/slint-tetris/)
-
-  - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) <img src="https://img.shields.io/github/stars/spieglt/FlyingCarpet?style=social"/> : File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range. 
-
-  - [Minori-ty/mp4To4K-rust](https://github.com/Minori-ty/mp4To4K-rust) <img src="https://img.shields.io/github/stars/Minori-ty/mp4To4K-rust?style=social"/> : 使用Tauri做的一个将动漫视频转4K视频的软件。 
-
-  - [seiKiMo-Inc/Laudiolin](https://github.com/seiKiMo-Inc/Laudiolin) <img src="https://img.shields.io/github/stars/seiKiMo-Inc/Laudiolin?style=social"/> : A "high quality" music player written in TypeScript using Tauri and React.
-
-  - [kingwingfly/bilibili-downloader-rs](https://github.com/kingwingfly/bilibili-downloader-rs) <img src="https://img.shields.io/github/stars/kingwingfly/bilibili-downloader-rs?style=social"/> : Bilibili Downloader. A bilibili video downloader app built by Tauri, Vue and Rust! 
-
-  - [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) <img src="https://img.shields.io/github/stars/pacholoamit/pachtop?style=social"/> : Cross-platform (Linux, WIndows, MacOS) Desktop GUI system monitor, built with Rust & Tauri.
-
-  - [lecepin/douyin-downloader](https://github.com/lecepin/douyin-downloader) <img src="https://img.shields.io/github/stars/lecepin/douyin-downloader?style=social"/> : 使用非常简单的抖音视频无水印下载工具。支持下单个视频，以及下载某个人的所有视频。（采用rust+tauri编写，安装包非常小）。
-
-  - [lecepin/desktop-webcam](https://github.com/lecepin/desktop-webcam) <img src="https://img.shields.io/github/stars/lecepin/desktop-webcam?style=social"/> : 使用 webassembly 通过 tauri 封装的桌面摄相头。
-
+    - [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) <img src="https://img.shields.io/github/stars/pot-app/pot-desktop?style=social"/> : 🌈一个跨平台的划词翻译软件 | A cross-platform translation software. [pot.pylogmon.com](https://pot.pylogmon.com/)
 
 
 
@@ -1023,25 +1033,54 @@
   - 「[MIT Technology Review](https://www.technologyreview.com/)」
     - [2023-02-14，How Rust went from a side project to the world’s most-loved programming language](https://www.technologyreview.com/2023/02/14/1067869/rust-worlds-fastest-growing-programming-language)
   - 微信公众号「Rust语言中文社区」
+    - [2021-08-08，拓展 | Rust语言在嵌入式领域的应用](https://mp.weixin.qq.com/s/4WjGh2JaVlCelGQe-sMEpw)
     - [2023-05-07，【Rust日报】2023-05-06 深度学习框架 Burn 发布 v0.7.0](https://mp.weixin.qq.com/s/VQy-EeM11U7OplRyyZ0Nvw)
     - [2023-05-11，【Rust日报】2023-05-10 llm - 使用Rust在CPU上运行大模型](https://mp.weixin.qq.com/s/73Bz-ZPEo974NH1TrQdJkQ)
     - [2023-05-11，Rust UI 框架：Slint UI 简单入门](https://mp.weixin.qq.com/s/_2rgwK5MHQh5kENi5o-nmA)
     - [2023-05-24，字节跳动：将持续投入Rust，期待更多Rust生态合作和建设](https://mp.weixin.qq.com/s/NvVq3Fq7wi7myr77qo-zwQ)
+    - [2023-05-26，【Rust日报】2023-05-25 Scientific Computing in Rust 2023](https://mp.weixin.qq.com/s/g3tcSDFTTnHcrQw02kFbnw)
+  - 微信公众号「CSDN」
+    - [2021-03-24，底层I/O性能大PK：Python/Java被碾压，Rust有望取代C++](https://mp.weixin.qq.com/s/P3Wbw9diEg2xKryUG0KtTQ)
+    - [2021-11-09，为什么 Rust 是编程的未来？](https://mp.weixin.qq.com/s/MVQkTjbAACYN6CjFKVjWPw)
+    - [2022-06-24，Rust，程序员创业的最佳选择？](https://mp.weixin.qq.com/s/Ok9apMM514T7NORwQsP8zQ)
+    - [2023-05-05，将代码从 C 迁移到 Rust，sudo、su 正在行动！](https://mp.weixin.qq.com/s/ZlcuW9EkgbECFHzT71KBQg)
+    - [2023-05-15，Mozilla 发布 Rust | 历史上的今天](https://mp.weixin.qq.com/s/zsgFlQ8pG04_ApwMkl6rdQ)
+    - [2023-05-16，Windows 11 初尝 Rust，36000 行内核代码已重写！](https://mp.weixin.qq.com/s/Pram-Xdldm3-oe2acm3JeQ)
+    - [2023-05-16，可能取代Vulkan和OpenGL的WebGPU为何如此重要？](https://mp.weixin.qq.com/s/Gr3iecrdKtoBQPaPsGJdkw)
   - 微信公众号「OSC开源社区」
+    - [2019-07-23，微软解释为什么Rust是系统编程的最佳选择](https://mp.weixin.qq.com/s/mapX5iRbjbtBuYlc5_G-TQ)
     - [2023-04-05，Slint 1.0正式发布，Rust编写的原生GUI工具包](https://mp.weixin.qq.com/s/48vKNS0Y4tC7z8Qg2_2Vww)
     - [2023-05-06，Rust重写万物？](https://mp.weixin.qq.com/s/uLJvTh-N19AG0iMMYvJ1qA)
+  - 微信公众号「InfoQ」
+    - [2023-02-04，雄心勃勃的计划：沃尔沃正在将 Rust 用于其车载软件](https://mp.weixin.qq.com/s/5e34vBklt268asUu54LQQg)
+    - [2023-04-28，30年老代码被干掉！微软用18万行 Rust 改写 Windows 系统内核](https://mp.weixin.qq.com/s/7l4Lq4_7m27-UhF7yKQQtg)
   - 微信公众号「码小菜」
     - [2023-05-13，我什么放弃了C/C++，而选择了Rust](https://mp.weixin.qq.com/s/r7v_lYjBmfixENGpFTE-Vg)
     - [2023-05-13，Qdrant不只是高性能向量数据库](https://mp.weixin.qq.com/s/9idV_Q97C852ViusvrW7CQ)
   - 微信公众号「腾讯技术工程」
     - [2022-12-29，大牛书单 | Rust 好书推荐](https://mp.weixin.qq.com/s/q1IsG4VKrhIFLRFleyJA6g)
-  - 微信公众号「InfoQ」
-    - [2023-04-28，30年老代码被干掉！微软用18万行 Rust 改写 Windows 系统内核](https://mp.weixin.qq.com/s/7l4Lq4_7m27-UhF7yKQQtg)
-  - 微信公众号「CSDN」
-    - [2023-05-05，将代码从 C 迁移到 Rust，sudo、su 正在行动！](https://mp.weixin.qq.com/s/ZlcuW9EkgbECFHzT71KBQg)
-    - [2023-05-15，Mozilla 发布 Rust | 历史上的今天](https://mp.weixin.qq.com/s/zsgFlQ8pG04_ApwMkl6rdQ)
-    - [2023-05-16，Windows 11 初尝 Rust，36000 行内核代码已重写！](https://mp.weixin.qq.com/s/Pram-Xdldm3-oe2acm3JeQ)
-    - [2023-05-16，可能取代Vulkan和OpenGL的WebGPU为何如此重要？](https://mp.weixin.qq.com/s/Gr3iecrdKtoBQPaPsGJdkw)
   - 微信公众号「Parity Tech」
     - [2023-05-23，Substrate 账户、地址和密钥](https://mp.weixin.qq.com/s/GK9XhdVUV__5cSddhKatVQ)
-
+  - 微信公众号「分布式实验室」
+    - [2023-02-16，我们选择了Rust，因为它太快了](https://mp.weixin.qq.com/s/YdxNbueReCMAAnEdj-LKUQ)
+    - [2023-02-27，跟着Rust语言中文社区联合创始人学Rust](https://mp.weixin.qq.com/s/xJHhHs7-D6iduq7c1xMRFg)
+  - 微信公众号「Rust编程指北」
+    - [2022-01-31，Rust 到底值不值得学：万字长文对比、特色和理念](https://mp.weixin.qq.com/s/UhNQk2i3xjLbPNOXkssHbA)
+  - 微信公众号「51CTO技术栈」
+    - [2023-03-28，后端队友选择Rust，爽到了！](https://mp.weixin.qq.com/s/zBCoYTzFYvAU7OEdqYdxpg)
+  - 微信公众号「兔子写代码」
+    - [2023-03-17，Rust 闲聊 | Rust 语言真的会是未来吗？](https://mp.weixin.qq.com/s/wYQYxpR2YA0Q9rI1WezJVw)
+    - [2023-03-21，彻底搞懂 Rust 的宏（一）：简介](https://mp.weixin.qq.com/s/lEJaLsHgjdoF6IZmIspS-w)
+    - [2023-03-22，彻底搞懂 Rust 的宏（二）：声明宏的组成](https://mp.weixin.qq.com/s/4IFrvmf8dTfRIGlqX4hM-A)
+    - [2023-03-28，彻底搞懂 Rust 的宏（三）：声明宏语法全解析](https://mp.weixin.qq.com/s/uzVpdd85dZ8VbwnrpMBBEw)
+    - [2023-04-19，彻底搞懂 Rust 的宏（四）：片段分类符](https://mp.weixin.qq.com/s/TR_cje5CorP_uPn3UI3Njw)
+    - [2023-04-29，彻底搞懂 Rust 的宏（五）：宏展开](https://mp.weixin.qq.com/s/32Fw643uehtiSPcnUBC3sg)
+    - [2023-05-06，彻底搞懂 Rust 的宏（六）：一个小例子及两个注意点](https://mp.weixin.qq.com/s/59iK79G7Njw-oZnKEND6yg)
+    - [2023-05-16，彻底搞懂 Rust 的宏（七）：重复元变量](https://mp.weixin.qq.com/s/SHL5eeHwSqJsIjEhN2Gz7A)
+    - [2023-05-23，彻底搞懂 Rust 的宏（八）：内建宏](https://mp.weixin.qq.com/s/ZFWiAJgQKHLUdvLQbp09HA)
+  - 微信公众号「Rust学习日记」
+    - [2023-05-21，【Rust 实战】Rust 与 Python 交互](https://mp.weixin.qq.com/s/X6fZiCuxAGxV0TC4o75yDw)
+  - 微信公众号「量子位」
+    - [2023-05-29，取代C++！3.6万行Rust代码改写Windows内核，这门语言最早竟用来修电梯](https://mp.weixin.qq.com/s/NZm97ZKBl6WF6oALdXkQMQ)
+  - 微信公众号「706青年空间」
+    - [2023-05-26，Rust 共学招募 | 跨越 Web2 与 Web3 深入底层重构世界](https://mp.weixin.qq.com/s/xVXDyYcfwH6UscoNt9uUPA)
