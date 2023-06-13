@@ -51,6 +51,7 @@
   - [Web Crawler](#web-crawler)
   - [Web Framework](#web-framework)
   - [RPC Framework](#rpc-framework)
+  - [Web3 Framework](#web3-framework)
   - [WebAssembly Runtime](#webAssembly-runtime)
   - [GUI](#gui)
     - [GUI Framework](#gui-framework)
@@ -181,6 +182,8 @@
     - [pavloslav/advent-of-code-rust](https://github.com/pavloslav/advent-of-code-rust) <img src="https://img.shields.io/github/stars/pavloslav/advent-of-code-rust?style=social"/> :  Learning Rust language.
 
     - [kovyrin/aoc2022](https://github.com/kovyrin/aoc2022) <img src="https://img.shields.io/github/stars/kovyrin/aoc2022?style=social"/> :  Playing with AOC 2022 problems using Rust.
+
+    - [CreatorsDAO/rust-co-learn](https://github.com/CreatorsDAO/rust-co-learn) <img src="https://img.shields.io/github/stars/CreatorsDAO/rust-co-learn?style=social"/> :  rust-co-learn.
 
 
 
@@ -395,6 +398,8 @@
   - [UniFFI](https://github.com/mozilla/uniffi-rs) <img src="https://img.shields.io/github/stars/mozilla/uniffi-rs?style=social"/> : UniFFI - a multi-language bindings generator for Rust. [mozilla.github.io/uniffi-rs/](https://mozilla.github.io/uniffi-rs/)
 
   - [Diplomat](https://github.com/rust-diplomat/diplomat) <img src="https://img.shields.io/github/stars/rust-diplomat/diplomat?style=social"/> : Experimental Rust tool for generating FFI definitions allowing many other languages to call Rust code.
+
+  - [jlrs](https://github.com/Taaitaaiger/jlrs) <img src="https://img.shields.io/github/stars/Taaitaaiger/jlrs?style=social"/> : Julia bindings for Rust.
 
   - [Rutie](https://github.com/danielpclark/rutie) <img src="https://img.shields.io/github/stars/danielpclark/rutie?style=social"/> : “The Tie Between Ruby and Rust.” 
 
@@ -961,6 +966,17 @@
 
 
 
+## Web3 Framework
+
+  - [solana](https://github.com/solana-labs/solana) <img src="https://img.shields.io/github/stars/solana-labs/solana?style=social"/> : Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces. [solanalabs.com](https://solanalabs.com/)
+
+  - [move](https://github.com/move-language/move) <img src="https://img.shields.io/github/stars/move-language/move?style=social"/> : Move is a programming language for writing safe smart contracts originally developed at Facebook to power the Diem blockchain. 
+
+  - [Sui](https://github.com/MystenLabs/sui) <img src="https://img.shields.io/github/stars/MystenLabs/sui?style=social"/> : Sui is a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the [Move programming language](https://github.com/MystenLabs/awesome-move). [sui.io](https://sui.io/) 
+
+
+
+
 
 ## WebAssembly Runtime
 
@@ -1041,6 +1057,7 @@
     - [2023-05-11，Rust UI 框架：Slint UI 简单入门](https://mp.weixin.qq.com/s/_2rgwK5MHQh5kENi5o-nmA)
     - [2023-05-24，字节跳动：将持续投入Rust，期待更多Rust生态合作和建设](https://mp.weixin.qq.com/s/NvVq3Fq7wi7myr77qo-zwQ)
     - [2023-05-26，【Rust日报】2023-05-25 Scientific Computing in Rust 2023](https://mp.weixin.qq.com/s/g3tcSDFTTnHcrQw02kFbnw)
+    - [2023-06-04，【Rust日报】2023-06-03 femtoGPT，纯 Rust 实现的最小化 GPT](https://mp.weixin.qq.com/s/JUH2K4jYEPLlrScmOsqS5g)
   - 微信公众号「CSDN」
     - [2021-03-24，底层I/O性能大PK：Python/Java被碾压，Rust有望取代C++](https://mp.weixin.qq.com/s/P3Wbw9diEg2xKryUG0KtTQ)
     - [2021-11-09，为什么 Rust 是编程的未来？](https://mp.weixin.qq.com/s/MVQkTjbAACYN6CjFKVjWPw)
