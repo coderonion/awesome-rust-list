@@ -727,6 +727,11 @@
 
   - [CeresDB](https://github.com/CeresDB/ceresdb) <img src="https://img.shields.io/github/stars/CeresDB/ceresdb?style=social"/> : CeresDB is a high-performance, distributed, cloud native time-series database. [docs.ceresdb.io](https://docs.ceresdb.io/)
 
+  - [redb](https://github.com/cberner/redb) <img src="https://img.shields.io/github/stars/cberner/redb?style=social"/> : An embedded key-value database in pure Rust. [www.redb.org](https://www.redb.org/)
+
+  - [Rustbase](https://github.com/rustbase/rustbase) <img src="https://img.shields.io/github/stars/rustbase/rustbase?style=social"/> : Rustbase is open source, lightweight, modern and fast NoSQL database. [rustbase.app/](https://www.rustbase.app/)
+
+
 
 
 ## Sensor and Communication Interface
@@ -784,6 +789,8 @@
 
   - [opencv-rust](https://github.com/twistedfall/opencv-rust) <img src="https://img.shields.io/github/stars/twistedfall/opencv-rust?style=social"/> : Rust bindings for OpenCV 3 & 4. 
 
+  - [rust-cv/cv](https://github.com/rust-cv/cv) <img src="https://img.shields.io/github/stars/rust-cv/cv?style=social"/> : Rust CV mono-repo. Contains pure-Rust dependencies which attempt to encapsulate the capability of OpenCV, OpenMVG, and vSLAM frameworks in a cohesive set of APIs. 
+
   - [photon](https://github.com/silvia-odwyer/photon) <img src="https://img.shields.io/github/stars/silvia-odwyer/photon?style=social"/> : ⚡ Rust/WebAssembly image processing library. [silvia-odwyer.github.io/photon](https://silvia-odwyer.github.io/photon/). Photon is a high-performance Rust image processing library, which compiles to WebAssembly, allowing for safe, blazing-fast image processing both natively and on the web. 
 
   - [image-rs/image](https://github.com/image-rs/image) <img src="https://img.shields.io/github/stars/image-rs/image?style=social"/> : Encoding and decoding images in Rust.
@@ -792,11 +799,11 @@
 
   - [zshipko/image2-rs](https://github.com/zshipko/image2-rs) <img src="https://img.shields.io/github/stars/zshipko/image2-rs?style=social"/> : A Rust crate focused on generic image processing for a wide range of image formats and data types.
 
-  - [rust-ffmpeg](https://github.com/zmwangx/rust-ffmpeg) <img src="https://img.shields.io/github/stars/zmwangx/rust-ffmpeg?style=social"/> : Safe FFmpeg wrapper.
+  - [zmwangx/rust-ffmpeg](https://github.com/zmwangx/rust-ffmpeg) <img src="https://img.shields.io/github/stars/zmwangx/rust-ffmpeg?style=social"/> : Safe FFmpeg wrapper.
+
+  - [meh/rust-ffmpeg](https://github.com/meh/rust-ffmpeg) <img src="https://img.shields.io/github/stars/meh/rust-ffmpeg?style=social"/> : Safe FFmpeg wrapper. 
 
   - [Simp](https://github.com/Kl4rry/simp) <img src="https://img.shields.io/github/stars/Kl4rry/simp?style=social"/> : 🖼️ Simp is a fast and simple GPU-accelerated image manipulation program. 
-
-  - [rust-cv/cv](https://github.com/rust-cv/cv) <img src="https://img.shields.io/github/stars/rust-cv/cv?style=social"/> : Rust CV mono-repo. Contains pure-Rust dependencies which attempt to encapsulate the capability of OpenCV, OpenMVG, and vSLAM frameworks in a cohesive set of APIs. 
 
   - [jay3332/ril](https://github.com/jay3332/ril) <img src="https://img.shields.io/github/stars/jay3332/ril?style=social"/> : Rust Imaging Library: A high-level imaging crate for Rust. [crates.io/crates/ril](https://crates.io/crates/ril)
 
@@ -968,13 +975,13 @@
 
 ## Web3 Framework
 
+  - [solana](https://github.com/solana-labs/solana) <img src="https://img.shields.io/github/stars/solana-labs/solana?style=social"/> : Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces. [solanalabs.com](https://solanalabs.com/)
+
   - [move](https://github.com/move-language/move) <img src="https://img.shields.io/github/stars/move-language/move?style=social"/> : Move is a programming language for writing safe smart contracts originally developed at Facebook to power the Diem blockchain. 
 
   - [Sui](https://github.com/MystenLabs/sui) <img src="https://img.shields.io/github/stars/MystenLabs/sui?style=social"/> : Sui is a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the [Move programming language](https://github.com/MystenLabs/awesome-move). [sui.io](https://sui.io/) 
 
   - [Rooch](https://github.com/rooch-network/rooch) <img src="https://img.shields.io/github/stars/rooch-network/rooch?style=social"/> : Rooch is a modular DApp container with the [Move language](https://github.com/move-language/move). [rooch.network](https://rooch.network/zh-CN)
-
-  - [solana](https://github.com/solana-labs/solana) <img src="https://img.shields.io/github/stars/solana-labs/solana?style=social"/> : Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces. [solanalabs.com](https://solanalabs.com/)
 
   - [Substrate](https://github.com/paritytech/substrate) <img src="https://img.shields.io/github/stars/paritytech/substrate?style=social"/> : Substrate is a next-generation framework for blockchain innovation 🚀.
 
