@@ -185,6 +185,8 @@
 
     - [CreatorsDAO/rust-co-learn](https://github.com/CreatorsDAO/rust-co-learn) <img src="https://img.shields.io/github/stars/CreatorsDAO/rust-co-learn?style=social"/> :  rust-co-learn.
 
+    - [DaviRain-Su/all-in-one-rust](https://github.com/DaviRain-Su/all-in-one-rust) <img src="https://img.shields.io/github/stars/DaviRain-Su/all-in-one-rust?style=social"/> :  all-in-one-rust.
+
 
 
 ## Data Structure and Algorithm 
@@ -456,6 +458,18 @@
   - [ocl](https://github.com/cogciprocate/ocl) <img src="https://img.shields.io/github/stars/cogciprocate/ocl?style=social"/> : OpenCL for Rust.
 
   - [opencl3](https://github.com/kenba/opencl3) <img src="https://img.shields.io/github/stars/kenba/opencl3?style=social"/> : A Rust implementation of the Khronos [OpenCL 3.0](https://registry.khronos.org/OpenCL/) API. 
+
+  - [Jafagervik/cruda](https://github.com/Jafagervik/cruda) <img src="https://img.shields.io/github/stars/Jafagervik/cruda?style=social"/> : CRUDA - Writing rust with cuda.
+
+  - [oddity-ai/async-cuda](https://github.com/oddity-ai/async-cuda) <img src="https://img.shields.io/github/stars/oddity-ai/async-cuda?style=social"/> : Asynchronous CUDA, NPP and TensorRT for Rust. 
+
+  - [lennyerik/cutransform](https://github.com/lennyerik/cutransform) <img src="https://img.shields.io/github/stars/lennyerik/cutransform?style=social"/> : CUDA kernels in any language supported by LLVM.
+
+
+
+
+
+
 
 
 
@@ -985,6 +999,11 @@
 
   - [Substrate](https://github.com/paritytech/substrate) <img src="https://img.shields.io/github/stars/paritytech/substrate?style=social"/> : Substrate is a next-generation framework for blockchain innovation 🚀.
 
+  - [NEAR](https://github.com/near/near-sdk-rs) <img src="https://img.shields.io/github/stars/near/near-sdk-rs?style=social"/> : Rust library for writing NEAR smart contracts. [near-sdk.io](https://github.com/near/near-sdk-rs)
+
+  - [Galactic-Hub/cosmos-sdk-rs](https://github.com/Galactic-Hub/cosmos-sdk-rs) <img src="https://img.shields.io/github/stars/Galactic-Hub/cosmos-sdk-rs?style=social"/> : Cosmos SDK implement by Rust.
+
+  - [cosmos/ibc-rs](https://github.com/cosmos/ibc-rs) <img src="https://img.shields.io/github/stars/cosmos/ibc-rs?style=social"/> : Rust implementation of the Inter-Blockchain Communication (IBC) protocol. 
 
 
 
