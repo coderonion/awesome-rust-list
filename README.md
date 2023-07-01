@@ -991,6 +991,8 @@
 
   - [solana](https://github.com/solana-labs/solana) <img src="https://img.shields.io/github/stars/solana-labs/solana?style=social"/> : Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces. [solanalabs.com](https://solanalabs.com/)
 
+  - [Anchor](https://github.com/coral-xyz/anchor) <img src="https://img.shields.io/github/stars/coral-xyz/anchor?style=social"/> : ⚓ Solana Sealevel Framework. [anchor-lang.com](https://www.anchor-lang.com/)
+
   - [move](https://github.com/move-language/move) <img src="https://img.shields.io/github/stars/move-language/move?style=social"/> : Move is a programming language for writing safe smart contracts originally developed at Facebook to power the Diem blockchain. 
 
   - [Sui](https://github.com/MystenLabs/sui) <img src="https://img.shields.io/github/stars/MystenLabs/sui?style=social"/> : Sui is a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the [Move programming language](https://github.com/MystenLabs/awesome-move). [sui.io](https://sui.io/) 
