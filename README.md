@@ -11,6 +11,7 @@
     - [Learning Resources](#learning-resources)
   - [Data Structure and Algorithm](#data-structure-and-algorithm)
   - [Design Pattern](#design-pattern)
+  - [Static Variables](#static-variables)
   - [Memory Allocator](#memory-allocator)
   - [Asynchronous Runtime](#asynchronous-runtime)
   - [Embedded Development](#embedded-development)
@@ -225,6 +226,11 @@
 
 
 
+## Static Variables
+
+  - [typed-arena](https://github.com/rust-lang-nursery/lazy-static.rs) <img src="https://img.shields.io/github/stars/rust-lang-nursery/lazy-static.rs?style=social"/> : A small macro for defining lazy evaluated static variables in Rust. 
+
+
 
 
 ## Memory Allocator
@@ -242,6 +248,8 @@
 ## Asynchronous Runtime
 
   - [Tokio](https://github.com/tokio-rs/tokio) <img src="https://img.shields.io/github/stars/tokio-rs/tokio?style=social"/> : A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.
+
+  - [May](https://github.com/Xudong-Huang/may) <img src="https://img.shields.io/github/stars/Xudong-Huang/may?style=social"/> : May is a high-performance library for programming stackful coroutines with which you can easily develop and maintain massive concurrent programs. It can be thought as the Rust version of the popular [Goroutine](https://tour.golang.org/concurrency/1).
 
 
 
@@ -594,6 +602,8 @@
     - [altius](https://github.com/maekawatoshiki/altius) <img src="https://img.shields.io/github/stars/maekawatoshiki/altius?style=social"/> : Small ONNX inference runtime written in Rust.
 
     - [goldstraw/RustCNN](https://github.com/goldstraw/RustCNN) <img src="https://img.shields.io/github/stars/goldstraw/RustCNN?style=social"/> : Rust convolutional neural network from scratch.
+
+    - [goldstraw/RustTransformer](https://github.com/goldstraw/RustTransformer) <img src="https://img.shields.io/github/stars/goldstraw/RustTransformer?style=social"/> : A transformer built from scratch in Rust. 
 
     - [elftausend/gradients](https://github.com/elftausend/gradients) <img src="https://img.shields.io/github/stars/elftausend/gradients?style=social"/> : Deep Learning library using [custos](https://github.com/elftausend/custos) and [custos-math](https://github.com/elftausend/custos-math).
 
@@ -1073,6 +1083,9 @@
     - [lecepin/desktop-webcam](https://github.com/lecepin/desktop-webcam) <img src="https://img.shields.io/github/stars/lecepin/desktop-webcam?style=social"/> : 使用 webassembly 通过 tauri 封装的桌面摄相头。
 
     - [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) <img src="https://img.shields.io/github/stars/pot-app/pot-desktop?style=social"/> : 🌈一个跨平台的划词翻译软件 | A cross-platform translation software. [pot.pylogmon.com](https://pot.pylogmon.com/)
+
+    - [conaticus/FileExplorer](https://github.com/conaticus/FileExplorer) <img src="https://img.shields.io/github/stars/conaticus/FileExplorer?style=social"/> : Fast file explorer written with Tauri and React. 
+
 
 
 
