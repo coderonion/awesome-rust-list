@@ -13,6 +13,7 @@
   - [Design Pattern](#design-pattern)
   - [Static Variables](#static-variables)
   - [Memory Allocator](#memory-allocator)
+  - [Parallelism Library](#parallelism-library)
   - [Asynchronous Runtime](#asynchronous-runtime)
   - [Embedded Development](#embedded-development)
   - [General Operating System](#general-operating-system)
@@ -33,7 +34,6 @@
     - [Large Language Model](#large-language-model)
     - [Stable Diffusion](#stable-diffusion)
     - [Object Detection](#object-detection)
-  - [Graphics Library](#graphics-library)  
   - [Shared Memory](#shared-memory) 
   - [Remote Desktop](#remote-desktop) 
   - [Date and Time](#date-and-time)
@@ -47,13 +47,14 @@
   - [Path Planning](#path-planning)
   - [Motion Control](#motion-control)
   - [Finite State Machine](#finite-state-machine)
-  - [Game Engine](#game-engine)
+  - [Game Field](#game-field)
   - [Search Engine](#search-engine)
   - [Web Crawler](#web-crawler)
   - [Web Framework](#web-framework)
   - [RPC Framework](#rpc-framework)
   - [Web3 Framework](#web3-framework)
-  - [WebAssembly Runtime](#webAssembly-runtime)
+  - [WebAssembly](#webAssembly)
+  - [Graphics Library](#graphics-library)  
   - [GUI](#gui)
     - [GUI Framework](#gui-framework)
     - [Software](#software)
@@ -192,11 +193,11 @@
 
 ## Data Structure and Algorithm 
 
-  - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) <img src="https://img.shields.io/github/stars/TheAlgorithms/Rust?style=social"/> : All Algorithms implemented in Rust.
-
   - [krahets/hello-algo](https://github.com/krahets/hello-algo) <img src="https://img.shields.io/github/stars/krahets/hello-algo?style=social"/> : 《Hello 算法》是一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Zig 等语言。 前往阅读 > [hello-algo.com](https://www.hello-algo.com/). 
 
-  - [sjinzh/hello-algo-rust-zig](https://github.com/sjinzh/hello-algo-rust-zig) <img src="https://img.shields.io/github/stars/sjinzh/hello-algo-rust-zig?style=social"/> : Rust and Zig programming language codes for the famous public project [《Hello, Algorithm》|《 Hello，算法 》](https://github.com/krahets/hello-algo) about data structures and algorithms.
+  - [sjinzh/hello-algo-rust](https://github.com/sjinzh/hello-algo-rust) <img src="https://img.shields.io/github/stars/sjinzh/hello-algo-rust-zig?style=social"/> : Rust codes for the famous public project [《Hello, Algorithm》|《 Hello，算法 》](https://github.com/krahets/hello-algo) about data structures and algorithms.
+
+  - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) <img src="https://img.shields.io/github/stars/TheAlgorithms/Rust?style=social"/> : All Algorithms implemented in Rust.
 
   - [EbTech/rust-algorithms](https://github.com/EbTech/rust-algorithms) <img src="https://img.shields.io/github/stars/EbTech/rust-algorithms?style=social"/> : Common data structures and algorithms in Rust. A collection of classic data structures and algorithms, emphasizing usability, beauty and clarity over full generality.
 
@@ -242,6 +243,17 @@
   - [generational-arena](https://github.com/fitzgen/generational-arena) <img src="https://img.shields.io/github/stars/fitzgen/generational-arena?style=social"/> : A safe arena allocator that allows deletion without suffering from the ABA problem by using generational indices. [docs.rs/generational-arena](https://docs.rs/generational-arena/latest/generational_arena/)
 
   - [tikv/jemallocator](https://github.com/tikv/jemallocator) <img src="https://img.shields.io/github/stars/tikv/jemallocator?style=social"/> : Rust allocator using jemalloc as a backend.
+
+
+
+
+
+
+## Parallelism Library
+
+  - [Rayon](https://github.com/rayon-rs/rayon) <img src="https://img.shields.io/github/stars/rayon-rs/rayon?style=social"/> : Rayon: A data parallelism library for Rust.
+
+
 
 
 
@@ -704,21 +716,6 @@
 
 
 
-
-
-## Graphics Library
-
-  - [rust-skia/rust-skia](https://github.com/rust-skia/rust-skia) <img src="https://img.shields.io/github/stars/rust-skia/rust-skia?style=social"/> : Safe Rust bindings to the [Skia Graphics Library](https://skia.org/).
-
-  - [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) <img src="https://img.shields.io/github/stars/gtk-rs/gtk4-rs?style=social"/> : Rust bindings of GTK 4. [gtk-rs.org/gtk4-rs/](https://gtk-rs.org/gtk4-rs/)
-
-  - [gtk-rs/gtk3-rs](https://github.com/gtk-rs/gtk3-rs) <img src="https://img.shields.io/github/stars/gtk-rs/gtk3-rs?style=social"/> : Rust bindings for GTK 3. [gtk-rs.org](https://gtk-rs.org/)
-
-  - [SabianF/rust_wgpu_3D_vision](https://github.com/SabianF/rust_wgpu_3D_vision) <img src="https://img.shields.io/github/stars/SabianF/rust_wgpu_3D_vision?style=social"/> : A program to simulate stereoscopic 4D vision, using a virtual 3D retina which is created by rapidly displaying all voxels at varying depths of a 3D volume.
-
-
-
-
 ## Shared Memory 
 
   - [elast0ny/shared_memory](https://github.com/elast0ny/shared_memory) <img src="https://img.shields.io/github/stars/elast0ny/shared_memory?style=social"/> : A Rust wrapper around native shared memory for Linux and Windows.
@@ -914,7 +911,7 @@
 
 
 
-## Game Engine
+## Game Field
 
   - [Bevy](https://github.com/bevyengine/bevy) <img src="https://img.shields.io/github/stars/bevyengine/bevy?style=social"/> : Bevy is a refreshingly simple data-driven game engine built in Rust. It is free and open-source forever! [bevyengine.org](https://bevyengine.org/)
 
@@ -960,6 +957,8 @@
 
 ## Web Framework
 
+  - [reqwest](https://github.com/seanmonstar/reqwest) <img src="https://img.shields.io/github/stars/seanmonstar/reqwest?style=social"/> : An easy and powerful Rust HTTP Client. [docs.rs/reqwest](https://docs.rs/reqwest/latest/reqwest/)
+
   - [Yew](https://github.com/yewstack/yew) <img src="https://img.shields.io/github/stars/yewstack/yew?style=social"/> : Yew is a modern Rust framework for creating multi-threaded front-end web apps with WebAssembly. [yew.rs](https://yew.rs/)
 
   - [Axum](https://github.com/tokio-rs/axum) <img src="https://img.shields.io/github/stars/tokio-rs/axum?style=social"/> : Ergonomic and modular web framework built with Tokio, Tower, and Hyper.
@@ -997,6 +996,7 @@
 
 
 
+
 ## Web3 Framework
 
   - [solana](https://github.com/solana-labs/solana) <img src="https://img.shields.io/github/stars/solana-labs/solana?style=social"/> : Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces. [solanalabs.com](https://solanalabs.com/)
@@ -1020,11 +1020,24 @@
 
 
 
-## WebAssembly Runtime
+## WebAssembly
 
   - [Wasmer](https://github.com/wasmerio/wasmer) <img src="https://img.shields.io/github/stars/wasmerio/wasmer?style=social"/> : Wasmer is a fast and secure [WebAssembly](https://webassembly.org/) runtime that enables super lightweight containers to run anywhere: from Desktop to the Cloud, Edge and IoT devices. [wasmer.io](https://wasmer.io/)
 
   - [wasmtime](https://github.com/bytecodealliance/wasmtime) <img src="https://img.shields.io/github/stars/bytecodealliance/wasmtime?style=social"/> : A fast and secure runtime for WebAssembly. [wasmtime.dev/](https://wasmtime.dev/)
+
+
+
+
+## Graphics Library
+
+  - [rust-skia/rust-skia](https://github.com/rust-skia/rust-skia) <img src="https://img.shields.io/github/stars/rust-skia/rust-skia?style=social"/> : Safe Rust bindings to the [Skia Graphics Library](https://skia.org/).
+
+  - [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) <img src="https://img.shields.io/github/stars/gtk-rs/gtk4-rs?style=social"/> : Rust bindings of GTK 4. [gtk-rs.org/gtk4-rs/](https://gtk-rs.org/gtk4-rs/)
+
+  - [gtk-rs/gtk3-rs](https://github.com/gtk-rs/gtk3-rs) <img src="https://img.shields.io/github/stars/gtk-rs/gtk3-rs?style=social"/> : Rust bindings for GTK 3. [gtk-rs.org](https://gtk-rs.org/)
+
+  - [SabianF/rust_wgpu_3D_vision](https://github.com/SabianF/rust_wgpu_3D_vision) <img src="https://img.shields.io/github/stars/SabianF/rust_wgpu_3D_vision?style=social"/> : A program to simulate stereoscopic 4D vision, using a virtual 3D retina which is created by rapidly displaying all voxels at varying depths of a 3D volume.
 
 
 
