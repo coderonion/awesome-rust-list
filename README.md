@@ -165,11 +165,11 @@
 
     - [rust-lang-cn/nomicon-zh-Hans](https://github.com/rust-lang-cn/nomicon-zh-Hans) <img src="https://img.shields.io/github/stars/rust-lang-cn/nomicon-zh-Hans?style=social"/> : Rust 秘典（死灵书）。[nomicon.purewhite.io/](https://nomicon.purewhite.io/)
 
-    - [tyrchen/geektime-rust](https://github.com/tyrchen/geektime-rust) <img src="https://img.shields.io/github/stars/tyrchen/geektime-rust?style=social"/> :  geektime-rust：我的极客时间 Rust 课程的代码仓库，随课程更新。
+    - [tyrchen/geektime-rust](https://github.com/tyrchen/geektime-rust) <img src="https://img.shields.io/github/stars/tyrchen/geektime-rust?style=social"/> : geektime-rust：我的极客时间 Rust 课程的代码仓库，随课程更新。
 
     - [Warrenren/inside-rust-std-library](https://github.com/Warrenren/inside-rust-std-library) <img src="https://img.shields.io/github/stars/Warrenren/inside-rust-std-library?style=social"/> : 本书主要对RUST的标准库代码进行分析，并试图给出RUST标准库代码的分析脉络。This project try to give a venation of how reading the RUST standard library source code.
 
-    - [wtklbm/rust-library-i18n](https://github.com/wtklbm/rust-library-i18n) <img src="https://img.shields.io/github/stars/wtklbm/rust-library-i18n?style=social"/> :  Rust 核心库和标准库中文翻译，可作为 IDE 工具的智能提示，并生成本地 API 文档。
+    - [wtklbm/rust-library-i18n](https://github.com/wtklbm/rust-library-i18n) <img src="https://img.shields.io/github/stars/wtklbm/rust-library-i18n?style=social"/> : Rust 核心库和标准库中文翻译，可作为 IDE 工具的智能提示，并生成本地 API 文档。
 
     - [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) <img src="https://img.shields.io/github/stars/johnthagen/min-sized-rust?style=social"/> :  🦀 How to minimize Rust binary size 📦 
 
@@ -177,17 +177,24 @@
 
     - [Tauri + Vue3 + Naive-UI Template](https://github.com/better-rs/learn-rs/blob/main/crates/rs-tauri-vue/README.md) <img src="https://img.shields.io/github/stars/better-rs/learn-rs?style=social"/> : Tauri + Vue3 + Naive-UI Template.  前端框架: typescript + vue3 + naive-ui.
 
-    - [better-rs/annotated-rs](https://github.com/better-rs/annotated-rs) <img src="https://img.shields.io/github/stars/better-rs/annotated-rs?style=social"/> :  annotated-rs: rust 知名项目源码分析。
+    - [better-rs/annotated-rs](https://github.com/better-rs/annotated-rs) <img src="https://img.shields.io/github/stars/better-rs/annotated-rs?style=social"/> : annotated-rs: rust 知名项目源码分析。
 
-    - [zanderxyz/advent-of-code](https://github.com/zanderxyz/advent-of-code) <img src="https://img.shields.io/github/stars/zanderxyz/advent-of-code?style=social"/> :  My solutions to the annual Advent of Code problems. 2020 in Zig; 2021/22 in Rust. [www.adventofcode.com/](https://adventofcode.com/)
+    - [zanderxyz/advent-of-code](https://github.com/zanderxyz/advent-of-code) <img src="https://img.shields.io/github/stars/zanderxyz/advent-of-code?style=social"/> : My solutions to the annual Advent of Code problems. 2020 in Zig; 2021/22 in Rust. [www.adventofcode.com/](https://adventofcode.com/)
 
-    - [pavloslav/advent-of-code-rust](https://github.com/pavloslav/advent-of-code-rust) <img src="https://img.shields.io/github/stars/pavloslav/advent-of-code-rust?style=social"/> :  Learning Rust language.
+    - [pavloslav/advent-of-code-rust](https://github.com/pavloslav/advent-of-code-rust) <img src="https://img.shields.io/github/stars/pavloslav/advent-of-code-rust?style=social"/> : Learning Rust language.
 
     - [kovyrin/aoc2022](https://github.com/kovyrin/aoc2022) <img src="https://img.shields.io/github/stars/kovyrin/aoc2022?style=social"/> :  Playing with AOC 2022 problems using Rust.
 
-    - [CreatorsDAO/rust-co-learn](https://github.com/CreatorsDAO/rust-co-learn) <img src="https://img.shields.io/github/stars/CreatorsDAO/rust-co-learn?style=social"/> :  rust-co-learn.
+    - [CreatorsDAO/rust-co-learn](https://github.com/CreatorsDAO/rust-co-learn) <img src="https://img.shields.io/github/stars/CreatorsDAO/rust-co-learn?style=social"/> : rust-co-learn.
 
-    - [DaviRain-Su/all-in-one-rust](https://github.com/DaviRain-Su/all-in-one-rust) <img src="https://img.shields.io/github/stars/DaviRain-Su/all-in-one-rust?style=social"/> :  all-in-one-rust.
+    - [DaviRain-Su/all-in-one-rust](https://github.com/DaviRain-Su/all-in-one-rust) <img src="https://img.shields.io/github/stars/DaviRain-Su/all-in-one-rust?style=social"/> : all-in-one-rust.
+
+    - [DaviRain-Su/rust-no-std-source](https://github.com/DaviRain-Su/rust-no-std-source) <img src="https://img.shields.io/github/stars/DaviRain-Su/rust-no-std-source?style=social"/> : About Rust no std sources.
+
+
+
+
+
 
 
 
@@ -1017,6 +1024,9 @@
 
   - [cosmos/ibc-rs](https://github.com/cosmos/ibc-rs) <img src="https://img.shields.io/github/stars/cosmos/ibc-rs?style=social"/> : Rust implementation of the Inter-Blockchain Communication (IBC) protocol. 
 
+  - [Sovereign-Labs/sovereign-sdk](https://github.com/Sovereign-Labs/sovereign-sdk) <img src="https://img.shields.io/github/stars/Sovereign-Labs/sovereign-sdk?style=social"/> : A framework for building seamlessly scalable and interoperable rollups that can run on any blockchain. [sovereign.xyz](https://www.sovereign.xyz/) 
+
+  - [octopus-network/near-ibc](https://github.com/octopus-network/near-ibc) <img src="https://img.shields.io/github/stars/octopus-network/near-ibc?style=social"/> : near smart contract implement ibc protocol.
 
 
 
@@ -1050,7 +1060,9 @@
     - [Pake](https://github.com/tw93/Pake) <img src="https://img.shields.io/github/stars/tw93/Pake?style=social"/> : 🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App.
 
     - [Slint](https://github.com/slint-ui/slint) <img src="https://img.shields.io/github/stars/slint-ui/slint?style=social"/> : Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. [slint-ui.com](https://github.com/slint-ui/slint)
-    
+
+    - [Crux](https://github.com/redbadger/crux) <img src="https://img.shields.io/github/stars/redbadger/crux?style=social"/> : Cross-platform app development in Rust. [redbadger.github.io/crux/](https://redbadger.github.io/crux/)   
+
     - [egui](https://github.com/emilk/egui) <img src="https://img.shields.io/github/stars/emilk/egui?style=social"/> : egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native.
 
     - [Iced](https://github.com/iced-rs/iced) <img src="https://img.shields.io/github/stars/iced-rs/iced?style=social"/> : A cross-platform GUI library for Rust focused on simplicity and type-safety. Inspired by [Elm](https://elm-lang.org/).
@@ -1072,6 +1084,10 @@
     - [apertus-open-source-cinema/narui](https://github.com/apertus-open-source-cinema/narui) <img src="https://img.shields.io/github/stars/apertus-open-source-cinema/narui?style=social"/> : A react-inspired UI library for building multimedia desktop apps with rust and vulkan. 
 
     - [marc2332/freya](https://github.com/marc2332/freya) <img src="https://img.shields.io/github/stars/marc2332/freya?style=social"/> : Native GUI library for 🦀 Rust powered by 🧬 Dioxus and 🎨 Skia. [freyaui.dev/](https://freyaui.dev/)
+
+
+
+
 
   - ### Software
   
