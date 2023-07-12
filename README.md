@@ -191,7 +191,7 @@
 
     - [DaviRain-Su/rust-no-std-source](https://github.com/DaviRain-Su/rust-no-std-source) <img src="https://img.shields.io/github/stars/DaviRain-Su/rust-no-std-source?style=social"/> : About Rust no std sources.
 
-
+    - [night-cruise/async-rust](https://github.com/night-cruise/async-rust) <img src="https://img.shields.io/github/stars/night-cruise/async-rust?style=social"/> : 这是一本电子书，旨在介绍 Rust 中 async/await 语法和异步运行时的原理和工作机制。[night-cruise.github.io/async-rust/](https://night-cruise.github.io/async-rust/)
 
 
 
