@@ -1124,6 +1124,8 @@
     - [2023-02-14，How Rust went from a side project to the world’s most-loved programming language](https://www.technologyreview.com/2023/02/14/1067869/rust-worlds-fastest-growing-programming-language)
   - 「[Piotr Kołaczkowski](https://pkolaczk.github.io/)」
     - [2023-05-21，How Much Memory Do You Need to Run 1 Million Concurrent Tasks?](https://pkolaczk.github.io/memory-consumption-of-async/)
+  - 「[tweede golf](https://tweedegolf.nl/en)」
+    - [2023-07-12，Why Rust is a great fit for embedded software - 2023 update](https://tweedegolf.nl/en/blog/96/why-rust-is-a-great-fit-for-embedded-software-2023-update)
   - 微信公众号「Rust语言中文社区」
     - [2021-08-08，拓展 | Rust语言在嵌入式领域的应用](https://mp.weixin.qq.com/s/4WjGh2JaVlCelGQe-sMEpw)
     - [2023-05-07，【Rust日报】2023-05-06 深度学习框架 Burn 发布 v0.7.0](https://mp.weixin.qq.com/s/VQy-EeM11U7OplRyyZ0Nvw)
@@ -1132,6 +1134,8 @@
     - [2023-05-24，字节跳动：将持续投入Rust，期待更多Rust生态合作和建设](https://mp.weixin.qq.com/s/NvVq3Fq7wi7myr77qo-zwQ)
     - [2023-05-26，【Rust日报】2023-05-25 Scientific Computing in Rust 2023](https://mp.weixin.qq.com/s/g3tcSDFTTnHcrQw02kFbnw)
     - [2023-06-04，【Rust日报】2023-06-03 femtoGPT，纯 Rust 实现的最小化 GPT](https://mp.weixin.qq.com/s/JUH2K4jYEPLlrScmOsqS5g)
+    - [2023-06-22，[Rust招聘] 国家智能网联汽车创新中心Rust工程师招聘（车载操作系统）](https://mp.weixin.qq.com/s/dB45f4ty-Ag-XkmggJ6RNQ)
+    - [2023-07-14，邀请您参加有偿的Unsafe Rust调研](https://mp.weixin.qq.com/s/6ZJu0vmlNabbyMGD7QCK9A)
   - 微信公众号「CSDN」
     - [2021-03-24，底层I/O性能大PK：Python/Java被碾压，Rust有望取代C++](https://mp.weixin.qq.com/s/P3Wbw9diEg2xKryUG0KtTQ)
     - [2021-11-09，为什么 Rust 是编程的未来？](https://mp.weixin.qq.com/s/MVQkTjbAACYN6CjFKVjWPw)
@@ -1140,6 +1144,7 @@
     - [2023-05-15，Mozilla 发布 Rust | 历史上的今天](https://mp.weixin.qq.com/s/zsgFlQ8pG04_ApwMkl6rdQ)
     - [2023-05-16，Windows 11 初尝 Rust，36000 行内核代码已重写！](https://mp.weixin.qq.com/s/Pram-Xdldm3-oe2acm3JeQ)
     - [2023-05-16，可能取代Vulkan和OpenGL的WebGPU为何如此重要？](https://mp.weixin.qq.com/s/Gr3iecrdKtoBQPaPsGJdkw)
+    - [2023-06-23，200 行 Rust 代码编写一个向量搜索库，代码已开源！](https://mp.weixin.qq.com/s/yiO3xgenApsdBjOPgMLiFQ)
   - 微信公众号「OSC开源社区」
     - [2019-07-23，微软解释为什么Rust是系统编程的最佳选择](https://mp.weixin.qq.com/s/mapX5iRbjbtBuYlc5_G-TQ)
     - [2023-04-05，Slint 1.0正式发布，Rust编写的原生GUI工具包](https://mp.weixin.qq.com/s/48vKNS0Y4tC7z8Qg2_2Vww)
