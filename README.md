@@ -1065,7 +1065,9 @@
 
     - [Pake](https://github.com/tw93/Pake) <img src="https://img.shields.io/github/stars/tw93/Pake?style=social"/> : 🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App.
 
-    - [Slint](https://github.com/slint-ui/slint) <img src="https://img.shields.io/github/stars/slint-ui/slint?style=social"/> : Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. [slint-ui.com](https://github.com/slint-ui/slint)
+    - [Slint](https://github.com/slint-ui/slint) <img src="https://img.shields.io/github/stars/slint-ui/slint?style=social"/> : Slint is a declarative GUI toolkit to build native user interfaces for applications that are written in Rust, C++, or JavaScript. [slint.dev](https://slint.dev/)
+
+    - [slint-ui/slint-rust-template](https://github.com/slint-ui/slint-rust-template) <img src="https://img.shields.io/github/stars/slint-ui/slint?style=social"/> : A template for a Rust Application using Slint. This is meant to be used with cargo-generate. [slint.dev](https://slint.dev/)
 
     - [Crux](https://github.com/redbadger/crux) <img src="https://img.shields.io/github/stars/redbadger/crux?style=social"/> : Cross-platform app development in Rust. [redbadger.github.io/crux/](https://redbadger.github.io/crux/)   
 
