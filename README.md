@@ -1268,11 +1268,23 @@
     - [2023-05-06，彻底搞懂 Rust 的宏（六）：一个小例子及两个注意点](https://mp.weixin.qq.com/s/59iK79G7Njw-oZnKEND6yg)
     - [2023-05-16，彻底搞懂 Rust 的宏（七）：重复元变量](https://mp.weixin.qq.com/s/SHL5eeHwSqJsIjEhN2Gz7A)
     - [2023-05-23，彻底搞懂 Rust 的宏（八）：内建宏](https://mp.weixin.qq.com/s/ZFWiAJgQKHLUdvLQbp09HA)
-  - 微信公众号「Rust学习日记」
-    - [2023-05-21，【Rust 实战】Rust 与 Python 交互](https://mp.weixin.qq.com/s/X6fZiCuxAGxV0TC4o75yDw)
   - 微信公众号「量子位」
     - [2023-05-29，取代C++！3.6万行Rust代码改写Windows内核，这门语言最早竟用来修电梯](https://mp.weixin.qq.com/s/NZm97ZKBl6WF6oALdXkQMQ)
   - 微信公众号「706青年空间」
     - [2023-05-26，Rust 共学招募 | 跨越 Web2 与 Web3 深入底层重构世界](https://mp.weixin.qq.com/s/xVXDyYcfwH6UscoNt9uUPA)
     - [2023-07-27，Rust 共学第一期结束！七个项目参与最终 Demo Day 分享](https://mp.weixin.qq.com/s/hoJfHqWYod0uRJd9nkKmvA)
+  - 微信公众号「Rust学习日记」
+    - [2023-04-01，【Rust 进阶教程】 01 闭包与所有权](https://mp.weixin.qq.com/s/KiOD7my7CpT-jEcB8LGcqA)
+    - [2023-04-08，【Rust 进阶教程】 02 详解迭代器（1）](https://mp.weixin.qq.com/s/wQ0w_z1FpOujm9T7tLGfLQ)
+    - [2023-04-15，【Rust 进阶教程】 03 详解迭代器（2）](https://mp.weixin.qq.com/s/ajP-Kamwdd7vUjKyaVT8Hw)
+    - [2023-04-22，【Rust 进阶教程】 04 并发编程](https://mp.weixin.qq.com/s/7BMNmVmkhXkXKyii6wuoIQ)
+    - [2023-05-06，【Rust 进阶教程】 05 通道](https://mp.weixin.qq.com/s/HovHf5a5bp2mzyG0yN5Eow)
+    - [2023-05-13，Rust 进阶教程 第6课——线程安全](https://mp.weixin.qq.com/s/uLWFiUXjCY--SccpjD8KSg)
+    - [2023-05-21，【Rust 实战】Rust 与 Python 交互](https://mp.weixin.qq.com/s/X6fZiCuxAGxV0TC4o75yDw)
+    - [2023-06-04，【Rust 进阶教程】 07 Mutex](https://mp.weixin.qq.com/s/GGcx4BE-c2nn831mYwWZ8Q)
+    - [2023-07-30，Rust 进阶教程 第8课——读写锁](https://mp.weixin.qq.com/s/5ic6XOEjNREJlPJDjAIW5g)
+
+
+
+
 
