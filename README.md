@@ -74,6 +74,8 @@
 
     - [Docs.rs](https://docs.rs/) : Docs.rs documentation.
 
+    - [Cheats.rs](https://github.com/ralfbiedert/cheats.rs/) <img src="https://img.shields.io/github/stars/ralfbiedert/cheats.rs?style=social"/> : Rust Language Cheat Sheet. [cheats.rs](https://cheats.rs/)
+    
     - [crates.io](https://crates.io/) : The Rust community’s crate registry.
 
     - [Lib.rs](https://lib.rs/) : Fast, lightweight, opinionated, unofficial alternative to crates.io.
@@ -119,7 +121,7 @@
 
     - [Docs.rs](https://docs.rs/) : Docs.rs documentation.
 
-    - [Rust Language Cheat Sheet](https://github.com/ralfbiedert/cheats.rs/) <img src="https://img.shields.io/github/stars/ralfbiedert/cheats.rs?style=social"/> : Rust Language Cheat Sheet - [https://cheats.rs](https://cheats.rs/). [cheats.rs](https://cheats.rs/)
+    - [Cheats.rs](https://github.com/ralfbiedert/cheats.rs/) <img src="https://img.shields.io/github/stars/ralfbiedert/cheats.rs?style=social"/> : Rust Language Cheat Sheet. [cheats.rs](https://cheats.rs/)
 
     - [rust-lang/book](https://github.com/rust-lang/book) <img src="https://img.shields.io/github/stars/rust-lang/book?style=social"/> : The Rust Programming Language. [doc.rust-lang.org/book/](https://doc.rust-lang.org/book/)
 
