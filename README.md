@@ -1044,6 +1044,18 @@
 
 ## Web3 Framework
 
+  - [Cairo](https://github.com/starkware-libs/cairo) <img src="https://img.shields.io/github/stars/starkware-libs/cairo?style=social"/> : Cairo is the first Turing-complete language for creating provable programs for general computation. ⚡ Blazing ⚡ fast ⚡ compiler for Cairo, written in 🦀 Rust 🦀
+
+  - [gakonst/awesome-starknet](https://github.com/gakonst/awesome-starknet) <img src="https://img.shields.io/github/stars/gakonst/awesome-starknet?style=social"/> : A curated list of awesome StarkNet resources, libraries, tools and more.
+
+  - [starknet-edu/starknetbook](https://github.com/starknet-edu/starknetbook) <img src="https://img.shields.io/github/stars/starknet-edu/starknetbook?style=social"/> : Mastering Cairo and Starknet. By the Starknet community. [book.starknet.io](https://book.starknet.io/)
+
+  - [xJonathanLEI/starknet-rs](https://github.com/xJonathanLEI/starknet-rs) <img src="https://img.shields.io/github/stars/xJonathanLEI/starknet-rs?style=social"/> : Complete Starknet library in Rust™. [starknet.rs](https://github.com/xJonathanLEI/starknet-rs)
+
+  - [0xSpaceShard/starknet-devnet-rs](https://github.com/0xSpaceShard/starknet-devnet-rs) <img src="https://img.shields.io/github/stars/0xSpaceShard/starknet-devnet-rs?style=social"/> : A local testnet for Starknet... in Rust.
+
+  - [gakonst/ethers-rs](https://github.com/gakonst/ethers-rs) <img src="https://img.shields.io/github/stars/gakonst/ethers-rs?style=social"/> :  Complete Ethereum & Celo library and wallet implementation in Rust. [https://docs.rs/ethers](https://docs.rs/ethers/latest/ethers/)
+
   - [near/nearcore](https://github.com/near/nearcore) <img src="https://img.shields.io/github/stars/near/nearcore?style=social"/> : Reference client for NEAR Protocol. [near.org](https://near.org/)
 
   - [near/near-sdk-rs](https://github.com/near/near-sdk-rs) <img src="https://img.shields.io/github/stars/near/near-sdk-rs?style=social"/> : Rust library for writing NEAR smart contracts. [near-sdk.io](https://github.com/near/near-sdk-rs)
@@ -1077,6 +1089,10 @@
   - [octopus-network/near-ibc](https://github.com/octopus-network/near-ibc) <img src="https://img.shields.io/github/stars/octopus-network/near-ibc?style=social"/> : near smart contract implement ibc protocol.
 
   - [talent-verse/Jobs](https://github.com/talent-verse/Jobs) <img src="https://img.shields.io/github/stars/talent-verse/Jobs?style=social"/> : Web3, Blockchain, AI jobs.
+
+  - [wildonion/smarties](https://github.com/wildonion/smarties) <img src="https://img.shields.io/github/stars/wildonion/smarties?style=social"/> :  🍬 NEAR and Ethereum NFT Marketplace Smart Contracts 🍫 
+
+
 
 
 
