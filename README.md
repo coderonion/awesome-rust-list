@@ -1055,9 +1055,13 @@
 
   - [NEAR DOCS](https://docs.near.org/) : Welcome! This is the starting point for all the documentation in NEAR.
 
+  - [near/awesome-near](https://github.com/near/awesome-near) <img src="https://img.shields.io/github/stars/near/awesome-near?style=social"/> : Curated list of resources: examples, libraries, projects. [examples.near.org](https://examples.near.org/)
+
   - [near/nearcore](https://github.com/near/nearcore) <img src="https://img.shields.io/github/stars/near/nearcore?style=social"/> : Reference client for NEAR Protocol. [near.org](https://near.org/)
 
   - [near/near-sdk-rs](https://github.com/near/near-sdk-rs) <img src="https://img.shields.io/github/stars/near/near-sdk-rs?style=social"/> : Rust library for writing NEAR smart contracts. [near-sdk.io](https://github.com/near/near-sdk-rs)
+
+  - [near/create-near-app](https://github.com/near/create-near-app) <img src="https://img.shields.io/github/stars/near/create-near-app?style=social"/> : Create a starter app hooked up to the NEAR blockchain.
 
   - [hanakannzashi/near-course-base](https://github.com/hanakannzashi/near-course-base) <img src="https://img.shields.io/github/stars/hanakannzashi/near-course-base?style=social"/> : NEAR 智能合约开发教程（基础篇）。
 
