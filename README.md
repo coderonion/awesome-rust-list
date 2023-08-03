@@ -1055,12 +1055,14 @@
 
   - [Cairo](https://github.com/starkware-libs/cairo) <img src="https://img.shields.io/github/stars/starkware-libs/cairo?style=social"/> : Cairo is the first Turing-complete language for creating provable programs for general computation. ⚡ Blazing ⚡ fast ⚡ compiler for Cairo, written in 🦀 Rust 🦀
 
+  - [cairo-book/cairo-book.github.io](https://github.com/cairo-book/cairo-book.github.io/) <img src="https://img.shields.io/github/stars/cairo-book/cairo-book.github.io/?style=social"/> : The Cairo Programming Language Book, a comprehensive documentation of the Cairo 1 programming language. [The Cairo Programming Language Book](https://book.cairo-lang.org/)
+  
   - [Orion](https://github.com/gizatechxyz/orion) <img src="https://img.shields.io/github/stars/gizatechxyz/orion?style=social"/> : Orion: An Open-source Framework for Validity and ZK ML ✨. ONNX Runtime in Cairo 1.0 for verifiable ML inference using STARK. [orion.gizatech.xyz](https://orion.gizatech.xyz/)
 
   - [franalgaba/neural-network-cairo](https://github.com/franalgaba/neural-network-cairo) <img src="https://img.shields.io/github/stars/franalgaba/neural-network-cairo?style=social"/> : Neural Network implementation from scratch for MNIST using Cairo 1.0.
 
   - [raphaelDkhn/cairo_ml](https://github.com/raphaelDkhn/cairo_ml) <img src="https://img.shields.io/github/stars/raphaelDkhn/cairo_ml?style=social"/> : Build neural network models in Cairo 1.0.
-  
+
   - [gakonst/awesome-starknet](https://github.com/gakonst/awesome-starknet) <img src="https://img.shields.io/github/stars/gakonst/awesome-starknet?style=social"/> : A curated list of awesome StarkNet resources, libraries, tools and more.
 
   - [starknet-edu/starknetbook](https://github.com/starknet-edu/starknetbook) <img src="https://img.shields.io/github/stars/starknet-edu/starknetbook?style=social"/> : Mastering Cairo and Starknet. By the Starknet community. [book.starknet.io](https://book.starknet.io/)
