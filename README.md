@@ -1053,6 +1053,14 @@
 
 ## Web3 Framework
 
+  - [NEAR DOCS](https://docs.near.org/) : Welcome! This is the starting point for all the documentation in NEAR.
+
+  - [near/nearcore](https://github.com/near/nearcore) <img src="https://img.shields.io/github/stars/near/nearcore?style=social"/> : Reference client for NEAR Protocol. [near.org](https://near.org/)
+
+  - [near/near-sdk-rs](https://github.com/near/near-sdk-rs) <img src="https://img.shields.io/github/stars/near/near-sdk-rs?style=social"/> : Rust library for writing NEAR smart contracts. [near-sdk.io](https://github.com/near/near-sdk-rs)
+
+  - [hanakannzashi/near-course-base](https://github.com/hanakannzashi/near-course-base) <img src="https://img.shields.io/github/stars/hanakannzashi/near-course-base?style=social"/> : NEAR 智能合约开发教程（基础篇）。
+
   - [Cairo](https://github.com/starkware-libs/cairo) <img src="https://img.shields.io/github/stars/starkware-libs/cairo?style=social"/> : Cairo is the first Turing-complete language for creating provable programs for general computation. ⚡ Blazing ⚡ fast ⚡ compiler for Cairo, written in 🦀 Rust 🦀
 
   - [cairo-book/cairo-book.github.io](https://github.com/cairo-book/cairo-book.github.io/) <img src="https://img.shields.io/github/stars/cairo-book/cairo-book.github.io/?style=social"/> : The Cairo Programming Language Book, a comprehensive documentation of the Cairo 1 programming language. [The Cairo Programming Language Book](https://book.cairo-lang.org/)
@@ -1072,12 +1080,6 @@
   - [0xSpaceShard/starknet-devnet-rs](https://github.com/0xSpaceShard/starknet-devnet-rs) <img src="https://img.shields.io/github/stars/0xSpaceShard/starknet-devnet-rs?style=social"/> : A local testnet for Starknet... in Rust.
 
   - [gakonst/ethers-rs](https://github.com/gakonst/ethers-rs) <img src="https://img.shields.io/github/stars/gakonst/ethers-rs?style=social"/> :  Complete Ethereum & Celo library and wallet implementation in Rust. [https://docs.rs/ethers](https://docs.rs/ethers/latest/ethers/)
-
-  - [near/nearcore](https://github.com/near/nearcore) <img src="https://img.shields.io/github/stars/near/nearcore?style=social"/> : Reference client for NEAR Protocol. [near.org](https://near.org/)
-
-  - [near/near-sdk-rs](https://github.com/near/near-sdk-rs) <img src="https://img.shields.io/github/stars/near/near-sdk-rs?style=social"/> : Rust library for writing NEAR smart contracts. [near-sdk.io](https://github.com/near/near-sdk-rs)
-
-  - [hanakannzashi/near-course-base](https://github.com/hanakannzashi/near-course-base) <img src="https://img.shields.io/github/stars/hanakannzashi/near-course-base?style=social"/> : NEAR 智能合约开发教程（基础篇）。
 
   - [Sway](https://github.com/FuelLabs/sway) <img src="https://img.shields.io/github/stars/FuelLabs/sway?style=social"/> : 🌴 Empowering everyone to build reliable and efficient smart contracts. [fuellabs.github.io/sway](https://fuellabs.github.io/sway)
 
