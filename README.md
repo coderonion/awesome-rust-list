@@ -604,6 +604,10 @@
 
     - [Candle](https://github.com/huggingface/candle) <img src="https://img.shields.io/github/stars/huggingface/candle?style=social"/> : Minimalist ML framework for Rust.
 
+    - [Tokenizers](https://github.com/huggingface/tokenizers) <img src="https://img.shields.io/github/stars/huggingface/tokenizers?style=social"/> : 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production. [huggingface.co/docs/tokenizers](https://huggingface.co/docs/tokenizers/index)
+
+    - [Safetensors](https://github.com/huggingface/safetensors) <img src="https://img.shields.io/github/stars/huggingface/safetensors?style=social"/> : Simple, safe way to store and distribute tensors. [huggingface.co/docs/safetensors](https://huggingface.co/docs/safetensors/index)
+
     - [Burn](https://github.com/burn-rs/burn) <img src="https://img.shields.io/github/stars/burn-rs/burn?style=social"/> : Burn - A Flexible and Comprehensive Deep Learning Framework in Rust. [burn-rs.github.io/](https://burn-rs.github.io/)
     
     - [TensorFlow Rust](https://github.com/tensorflow/rust) <img src="https://img.shields.io/github/stars/tensorflow/rust?style=social"/> : Rust language bindings for TensorFlow.
@@ -1050,6 +1054,12 @@
 
   - [tonic](https://github.com/hyperium/tonic) <img src="https://img.shields.io/github/stars/hyperium/tonic?style=social"/> : A native gRPC client & server implementation with async/await support. [docs.rs/tonic](https://docs.rs/tonic/latest/tonic/)
 
+  - [MoonZoon](https://github.com/MoonZoon/MoonZoon) <img src="https://img.shields.io/github/stars/MoonZoon/MoonZoon?style=social"/> : Rust Fullstack Framework.
+
+
+
+
+
 
 ## RPC Framework
 
@@ -1076,7 +1086,35 @@
 
   - [near/create-near-app](https://github.com/near/create-near-app) <img src="https://img.shields.io/github/stars/near/create-near-app?style=social"/> : Create a starter app hooked up to the NEAR blockchain.
 
+  - [near-examples/NFT](https://github.com/near-examples/NFT) <img src="https://img.shields.io/github/stars/near-examples/NFT?style=social"/> : Example implementations of tokens to represent unique assets, such as collectibles or deeds, using the NEP-171 spec (similar to ERC-721).
+
+  - [near-examples/nft-tutorial](https://github.com/near-examples/nft-tutorial) <img src="https://img.shields.io/github/stars/near-examples/nft-tutorial?style=social"/> : Welcome to NEAR's NFT tutorial, where we will help you parse the details around NEAR's [NEP-171 standard](https://nomicon.io/Standards/Tokens/NonFungibleToken/Core) (Non-Fungible Token Standard), and show you how to build your own NFT smart contract from the ground up, improving your understanding about the NFT standard along the way.
+
   - [hanakannzashi/near-course-base](https://github.com/hanakannzashi/near-course-base) <img src="https://img.shields.io/github/stars/hanakannzashi/near-course-base?style=social"/> : NEAR 智能合约开发教程（基础篇）。
+
+  - [tranvinh146/voting-contract](https://github.com/tranvinh146/voting-contract) <img src="https://img.shields.io/github/stars/tranvinh146/voting-contract?style=social"/> : This is smart contract to vote from phase 1 to phase 2 on Near.
+
+  - [catmcgee/near-voting-contracts](https://github.com/catmcgee/near-voting-contracts) <img src="https://img.shields.io/github/stars/catmcgee/near-voting-contracts?style=social"/> : Different types of voting smart contracts on NEAR blockchain.
+
+  - [rickhysis/vote-coffe-near](https://github.com/rickhysis/vote-coffe-near) <img src="https://img.shields.io/github/stars/rickhysis/vote-coffe-near?style=social"/> : This is smart contract example for vote the best coffe using NEAR Protocol ("NEAR" hereafter).
+
+  - [Dispa1r/Disp41r-Super-Voting-System](https://github.com/Dispa1r/Disp41r-Super-Voting-System) <img src="https://img.shields.io/github/stars/Dispa1r/Disp41r-Super-Voting-System?style=social"/> : a super super super voting system on near block chain :) 
+
+  - [flexabyte/near-vote](https://github.com/flexabyte/near-vote) <img src="https://img.shields.io/github/stars/flexabyte/near-vote?style=social"/> : A decentralized voting contract for NEAR protocol. 
+
+  - [YellingOilbird/choice](https://github.com/YellingOilbird/choice) <img src="https://img.shields.io/github/stars/YellingOilbird/choice?style=social"/> : NEAR smart contract for non-binary vote.
+
+  - [dylan751/near-app-vote-sc](https://github.com/dylan751/near-app-vote-sc) <img src="https://img.shields.io/github/stars/dylan751/near-app-vote-sc?style=social"/> : Voting App using Near-Rust and implement ZKP.
+
+  - [winkelstein/DeChat](https://github.com/winkelstein/DeChat) <img src="https://img.shields.io/github/stars/winkelstein/DeChat?style=social"/> : Messenger based on NEAR blockchain.
+
+  - [solana](https://github.com/solana-labs/solana) <img src="https://img.shields.io/github/stars/solana-labs/solana?style=social"/> : Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces. [solanalabs.com](https://solanalabs.com/)
+
+  - [Anchor](https://github.com/coral-xyz/anchor) <img src="https://img.shields.io/github/stars/coral-xyz/anchor?style=social"/> : ⚓ Solana Sealevel Framework. [anchor-lang.com](https://www.anchor-lang.com/)
+
+  - [CreatorsDAO/all-in-one-solana](https://github.com/CreatorsDAO/all-in-one-solana) <img src="https://img.shields.io/github/stars/CreatorsDAO/all-in-one-solana?style=social"/> : All in One Solana.
+
+  - [MartinKavik/voting-solana-moonzoon](https://github.com/MartinKavik/voting-solana-moonzoon) <img src="https://img.shields.io/github/stars/MartinKavik/voting-solana-moonzoon?style=social"/> : The Voting example based on MoonZoon and Solana. 
 
   - [Cairo](https://github.com/starkware-libs/cairo) <img src="https://img.shields.io/github/stars/starkware-libs/cairo?style=social"/> : Cairo is the first Turing-complete language for creating provable programs for general computation. ⚡ Blazing ⚡ fast ⚡ compiler for Cairo, written in 🦀 Rust 🦀
 
@@ -1096,17 +1134,9 @@
 
   - [0xSpaceShard/starknet-devnet-rs](https://github.com/0xSpaceShard/starknet-devnet-rs) <img src="https://img.shields.io/github/stars/0xSpaceShard/starknet-devnet-rs?style=social"/> : A local testnet for Starknet... in Rust.
 
+  - [0xAsten/Starknet-Tech-Stacks-Mindmap](https://github.com/0xAsten/Starknet-Tech-Stacks-Mindmap) <img src="https://img.shields.io/github/stars/0xAsten/Starknet-Tech-Stacks-Mindmap?style=social"/> : This open collaboration project aims to explore and document the various technology stacks associated with Starknet. 
+
   - [gakonst/ethers-rs](https://github.com/gakonst/ethers-rs) <img src="https://img.shields.io/github/stars/gakonst/ethers-rs?style=social"/> :  Complete Ethereum & Celo library and wallet implementation in Rust. [https://docs.rs/ethers](https://docs.rs/ethers/latest/ethers/)
-
-  - [Sway](https://github.com/FuelLabs/sway) <img src="https://img.shields.io/github/stars/FuelLabs/sway?style=social"/> : 🌴 Empowering everyone to build reliable and efficient smart contracts. [fuellabs.github.io/sway](https://fuellabs.github.io/sway)
-
-  - [FuelLabs/fuel-core](https://github.com/FuelLabs/fuel-core) <img src="https://img.shields.io/github/stars/FuelLabs/fuel-core?style=social"/> : Rust full node implementation of the Fuel v2 protocol. 
-
-  - [FuelLabs/fuels-rs](https://github.com/FuelLabs/fuels-rs) <img src="https://img.shields.io/github/stars/FuelLabs/fuels-rs?style=social"/> : Fuel Network Rust SDK. [fuellabs.github.io/fuels-rs](http://rust.fuel.network/v0.44.0/)
-
-  - [solana](https://github.com/solana-labs/solana) <img src="https://img.shields.io/github/stars/solana-labs/solana?style=social"/> : Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces. [solanalabs.com](https://solanalabs.com/)
-
-  - [Anchor](https://github.com/coral-xyz/anchor) <img src="https://img.shields.io/github/stars/coral-xyz/anchor?style=social"/> : ⚓ Solana Sealevel Framework. [anchor-lang.com](https://www.anchor-lang.com/)
 
   - [move](https://github.com/move-language/move) <img src="https://img.shields.io/github/stars/move-language/move?style=social"/> : Move is a programming language for writing safe smart contracts originally developed at Facebook to power the Diem blockchain. 
 
@@ -1127,6 +1157,9 @@
   - [talent-verse/Jobs](https://github.com/talent-verse/Jobs) <img src="https://img.shields.io/github/stars/talent-verse/Jobs?style=social"/> : Web3, Blockchain, AI jobs.
 
   - [wildonion/smarties](https://github.com/wildonion/smarties) <img src="https://img.shields.io/github/stars/wildonion/smarties?style=social"/> :  🍬 NEAR and Ethereum NFT Marketplace Smart Contracts 🍫 
+
+
+
 
 
 
@@ -1333,6 +1366,7 @@
   - 微信公众号「706青年空间」
     - [2023-05-26，Rust 共学招募 | 跨越 Web2 与 Web3 深入底层重构世界](https://mp.weixin.qq.com/s/xVXDyYcfwH6UscoNt9uUPA)
     - [2023-07-27，Rust 共学第一期结束！七个项目参与最终 Demo Day 分享](https://mp.weixin.qq.com/s/hoJfHqWYod0uRJd9nkKmvA)
+    - [2023-08-15，Solana 共学招募 | 聚集 Rust 开发者，一起组队黑客松](https://mp.weixin.qq.com/s/Zxf5UfLTvd7S6OFXcXjL_g)
   - 微信公众号「Rust学习日记」
     - [2023-04-01，【Rust 进阶教程】 01 闭包与所有权](https://mp.weixin.qq.com/s/KiOD7my7CpT-jEcB8LGcqA)
     - [2023-04-08，【Rust 进阶教程】 02 详解迭代器（1）](https://mp.weixin.qq.com/s/wQ0w_z1FpOujm9T7tLGfLQ)
