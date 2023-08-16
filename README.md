@@ -1363,6 +1363,8 @@
     - [2023-08-11，Python 失宠！Hugging Face 用 Rust 新写了一个 ML框架，现已低调开源](https://mp.weixin.qq.com/s/YMmYnODJObYplDolnhtJZw)
   - 微信公众号「AI工程化」
     - [2023-08-11，Hugging Face偷偷放大招了，Rust版本的ML框架Candle曝光](https://mp.weixin.qq.com/s/iwrV35oq_j8-SqUIMk-m0A)
+  - 微信公众号「总有一点知识你需要」
+    - [2023-04-09，[翻译] 在2023年，每个学习Rust的人都应该知道的资源](https://mp.weixin.qq.com/s/9lLKBkn2qEOieFGrysWs5A)
   - 微信公众号「706青年空间」
     - [2023-05-26，Rust 共学招募 | 跨越 Web2 与 Web3 深入底层重构世界](https://mp.weixin.qq.com/s/xVXDyYcfwH6UscoNt9uUPA)
     - [2023-07-27，Rust 共学第一期结束！七个项目参与最终 Demo Day 分享](https://mp.weixin.qq.com/s/hoJfHqWYod0uRJd9nkKmvA)
