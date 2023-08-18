@@ -10,11 +10,11 @@
     - [Awesome List](#awesome-list)
     - [Learning Resources](#learning-resources)
   - [Data Structure and Algorithm](#data-structure-and-algorithm)
+  - [Parallelism Library](#parallelism-library)
+  - [Asynchronous Runtime](#asynchronous-runtime)
   - [Design Pattern](#design-pattern)
   - [Static Variables](#static-variables)
   - [Memory Allocator](#memory-allocator)
-  - [Parallelism Library](#parallelism-library)
-  - [Asynchronous Runtime](#asynchronous-runtime)
   - [Embedded Development](#embedded-development)
   - [General Operating System](#general-operating-system)
   - [Robot Operating System](#robot-operating-system)
@@ -232,6 +232,26 @@
 
 
 
+## Parallelism Library
+
+  - [Rayon](https://github.com/rayon-rs/rayon) <img src="https://img.shields.io/github/stars/rayon-rs/rayon?style=social"/> : Rayon: A data parallelism library for Rust.
+
+  - [Flume](https://github.com/zesterer/flume) <img src="https://img.shields.io/github/stars/zesterer/flume?style=social"/> : A safe and fast multi-producer, multi-consumer channel. [crates.io/crates/flume](https://crates.io/crates/flume)
+
+
+
+
+
+## Asynchronous Runtime
+
+  - [Tokio](https://github.com/tokio-rs/tokio) <img src="https://img.shields.io/github/stars/tokio-rs/tokio?style=social"/> : A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.
+
+  - [May](https://github.com/Xudong-Huang/may) <img src="https://img.shields.io/github/stars/Xudong-Huang/may?style=social"/> : May is a high-performance library for programming stackful coroutines with which you can easily develop and maintain massive concurrent programs. It can be thought as the Rust version of the popular [Goroutine](https://tour.golang.org/concurrency/1).
+
+
+
+
+
 ## Design Pattern
 
   - [fadeevab/design-patterns-rust](https://github.com/fadeevab/design-patterns-rust) <img src="https://img.shields.io/github/stars/fadeevab/design-patterns-rust?style=social"/> : Rust examples for all 23 classic GoF design patterns, and even a little more.
@@ -262,21 +282,6 @@
 
 
 
-## Parallelism Library
-
-  - [Rayon](https://github.com/rayon-rs/rayon) <img src="https://img.shields.io/github/stars/rayon-rs/rayon?style=social"/> : Rayon: A data parallelism library for Rust.
-
-  - [Flume](https://github.com/zesterer/flume) <img src="https://img.shields.io/github/stars/zesterer/flume?style=social"/> : A safe and fast multi-producer, multi-consumer channel. [crates.io/crates/flume](https://crates.io/crates/flume)
-
-
-
-
-
-## Asynchronous Runtime
-
-  - [Tokio](https://github.com/tokio-rs/tokio) <img src="https://img.shields.io/github/stars/tokio-rs/tokio?style=social"/> : A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.
-
-  - [May](https://github.com/Xudong-Huang/may) <img src="https://img.shields.io/github/stars/Xudong-Huang/may?style=social"/> : May is a high-performance library for programming stackful coroutines with which you can easily develop and maintain massive concurrent programs. It can be thought as the Rust version of the popular [Goroutine](https://tour.golang.org/concurrency/1).
 
 
 
@@ -1076,6 +1081,16 @@
 
   - [FuelLabs/fuel-rs](https://github.com/FuelLabs/fuels-rs) <img src="https://img.shields.io/github/stars/FuelLabs/fuel-rs?style=social"/> : Fuel Network Rust SDK. [fuellabs.github.io/fuels-rs](https://fuellabs.github.io/fuels-rs) 
 
+  - [solana](https://github.com/solana-labs/solana) <img src="https://img.shields.io/github/stars/solana-labs/solana?style=social"/> : Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces. [solanalabs.com](https://solanalabs.com/)
+
+  - [Anchor](https://github.com/coral-xyz/anchor) <img src="https://img.shields.io/github/stars/coral-xyz/anchor?style=social"/> : ⚓ Solana Sealevel Framework. [anchor-lang.com](https://www.anchor-lang.com/)
+
+  - [CreatorsDAO/awesome-learn-solana](https://github.com/CreatorsDAO/awesome-learn-solana) <img src="https://img.shields.io/github/stars/CreatorsDAO/awesome-learn-solana?style=social"/> : awesome-learn-solana.
+
+  - [CreatorsDAO/all-in-one-solana](https://github.com/CreatorsDAO/all-in-one-solana) <img src="https://img.shields.io/github/stars/CreatorsDAO/all-in-one-solana?style=social"/> : All in One Solana.
+
+  - [MartinKavik/voting-solana-moonzoon](https://github.com/MartinKavik/voting-solana-moonzoon) <img src="https://img.shields.io/github/stars/MartinKavik/voting-solana-moonzoon?style=social"/> : The Voting example based on MoonZoon and Solana. 
+
   - [NEAR Docs](https://docs.near.org/) : Welcome! This is the starting point for all the documentation in NEAR.
 
   - [near/awesome-near](https://github.com/near/awesome-near) <img src="https://img.shields.io/github/stars/near/awesome-near?style=social"/> : Curated list of resources: examples, libraries, projects. [examples.near.org](https://examples.near.org/)
@@ -1107,14 +1122,6 @@
   - [dylan751/near-app-vote-sc](https://github.com/dylan751/near-app-vote-sc) <img src="https://img.shields.io/github/stars/dylan751/near-app-vote-sc?style=social"/> : Voting App using Near-Rust and implement ZKP.
 
   - [winkelstein/DeChat](https://github.com/winkelstein/DeChat) <img src="https://img.shields.io/github/stars/winkelstein/DeChat?style=social"/> : Messenger based on NEAR blockchain.
-
-  - [solana](https://github.com/solana-labs/solana) <img src="https://img.shields.io/github/stars/solana-labs/solana?style=social"/> : Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces. [solanalabs.com](https://solanalabs.com/)
-
-  - [Anchor](https://github.com/coral-xyz/anchor) <img src="https://img.shields.io/github/stars/coral-xyz/anchor?style=social"/> : ⚓ Solana Sealevel Framework. [anchor-lang.com](https://www.anchor-lang.com/)
-
-  - [CreatorsDAO/all-in-one-solana](https://github.com/CreatorsDAO/all-in-one-solana) <img src="https://img.shields.io/github/stars/CreatorsDAO/all-in-one-solana?style=social"/> : All in One Solana.
-
-  - [MartinKavik/voting-solana-moonzoon](https://github.com/MartinKavik/voting-solana-moonzoon) <img src="https://img.shields.io/github/stars/MartinKavik/voting-solana-moonzoon?style=social"/> : The Voting example based on MoonZoon and Solana. 
 
   - [Cairo](https://github.com/starkware-libs/cairo) <img src="https://img.shields.io/github/stars/starkware-libs/cairo?style=social"/> : Cairo is the first Turing-complete language for creating provable programs for general computation. ⚡ Blazing ⚡ fast ⚡ compiler for Cairo, written in 🦀 Rust 🦀
 
@@ -1300,12 +1307,6 @@
 
 ## Blogs
 
-  - 「[MIT Technology Review](https://www.technologyreview.com/)」
-    - [2023-02-14，How Rust went from a side project to the world’s most-loved programming language](https://www.technologyreview.com/2023/02/14/1067869/rust-worlds-fastest-growing-programming-language)
-  - 「[Piotr Kołaczkowski](https://pkolaczk.github.io/)」
-    - [2023-05-21，How Much Memory Do You Need to Run 1 Million Concurrent Tasks?](https://pkolaczk.github.io/memory-consumption-of-async/)
-  - 「[tweede golf](https://tweedegolf.nl/en)」
-    - [2023-07-12，Why Rust is a great fit for embedded software - 2023 update](https://tweedegolf.nl/en/blog/96/why-rust-is-a-great-fit-for-embedded-software-2023-update)
   - 微信公众号「Rust语言中文社区」
     - [2021-08-08，拓展 | Rust语言在嵌入式领域的应用](https://mp.weixin.qq.com/s/4WjGh2JaVlCelGQe-sMEpw)
     - [2023-05-07，【Rust日报】2023-05-06 深度学习框架 Burn 发布 v0.7.0](https://mp.weixin.qq.com/s/VQy-EeM11U7OplRyyZ0Nvw)
@@ -1317,6 +1318,39 @@
     - [2023-06-22，[Rust招聘] 国家智能网联汽车创新中心Rust工程师招聘（车载操作系统）](https://mp.weixin.qq.com/s/dB45f4ty-Ag-XkmggJ6RNQ)
     - [2023-07-14，邀请您参加有偿的Unsafe Rust调研](https://mp.weixin.qq.com/s/6ZJu0vmlNabbyMGD7QCK9A)
     - [2023-08-10，【Rust招聘】【理想汽车】rust高级开发工程师（35K-50K）](https://mp.weixin.qq.com/s/n7RfhW5NyhAlwcD2xJjgFQ)
+  - 微信公众号「兔子写代码」
+    - [2023-03-17，Rust 闲聊 | Rust 语言真的会是未来吗？](https://mp.weixin.qq.com/s/wYQYxpR2YA0Q9rI1WezJVw)
+    - [2023-03-21，彻底搞懂 Rust 的宏（一）：简介](https://mp.weixin.qq.com/s/lEJaLsHgjdoF6IZmIspS-w)
+    - [2023-03-22，彻底搞懂 Rust 的宏（二）：声明宏的组成](https://mp.weixin.qq.com/s/4IFrvmf8dTfRIGlqX4hM-A)
+    - [2023-03-28，彻底搞懂 Rust 的宏（三）：声明宏语法全解析](https://mp.weixin.qq.com/s/uzVpdd85dZ8VbwnrpMBBEw)
+    - [2023-04-19，彻底搞懂 Rust 的宏（四）：片段分类符](https://mp.weixin.qq.com/s/TR_cje5CorP_uPn3UI3Njw)
+    - [2023-04-29，彻底搞懂 Rust 的宏（五）：宏展开](https://mp.weixin.qq.com/s/32Fw643uehtiSPcnUBC3sg)
+    - [2023-05-06，彻底搞懂 Rust 的宏（六）：一个小例子及两个注意点](https://mp.weixin.qq.com/s/59iK79G7Njw-oZnKEND6yg)
+    - [2023-05-16，彻底搞懂 Rust 的宏（七）：重复元变量](https://mp.weixin.qq.com/s/SHL5eeHwSqJsIjEhN2Gz7A)
+    - [2023-05-23，彻底搞懂 Rust 的宏（八）：内建宏](https://mp.weixin.qq.com/s/ZFWiAJgQKHLUdvLQbp09HA)
+    - [2023-06-28，Rust 笔记 | 迭代器(一)：Iterator 和 IntoIterator](https://mp.weixin.qq.com/s/y8riTvwAMFt4LmFIfTP0Aw)
+    - [2023-07-06，Rust 笔记 | 迭代器(二)：创建迭代器](https://mp.weixin.qq.com/s/Rn_i7aFqV7NfG6xEHr-UPw)
+    - [2023-08-03，Rust 笔记 | 迭代器的适配器：map 和 filter](https://mp.weixin.qq.com/s/Za5zWQkvO262bu0ckLvu4g)
+    - [2023-08-08，Rust 笔记 | 迭代器的适配器：filter_map 和 flat_map](https://mp.weixin.qq.com/s/mj3ot6Q9QGZgExjPCC506w)
+    - [2023-08-11，Rust 笔记 | 迭代器的适配器：flatten](https://mp.weixin.qq.com/s/bHRK87RIOntu7iUNu0q8IQ)
+    - [2023-08-16，Rust 笔记 | 迭代器的适配器：take 和 take_while](https://mp.weixin.qq.com/s/sXGdXR-btTUxb5Wx8pMBfQ)
+    - [2023-08-18，Rust 笔记 | 迭代器的适配器：skip 和 skip_while](https://mp.weixin.qq.com/s/2swrychEVzGTt6UqvrdBgA)
+  - 微信公众号「Rust学习日记」
+    - [2023-04-01，【Rust 进阶教程】 01 闭包与所有权](https://mp.weixin.qq.com/s/KiOD7my7CpT-jEcB8LGcqA)
+    - [2023-04-08，【Rust 进阶教程】 02 详解迭代器（1）](https://mp.weixin.qq.com/s/wQ0w_z1FpOujm9T7tLGfLQ)
+    - [2023-04-15，【Rust 进阶教程】 03 详解迭代器（2）](https://mp.weixin.qq.com/s/ajP-Kamwdd7vUjKyaVT8Hw)
+    - [2023-04-22，【Rust 进阶教程】 04 并发编程](https://mp.weixin.qq.com/s/7BMNmVmkhXkXKyii6wuoIQ)
+    - [2023-05-06，【Rust 进阶教程】 05 通道](https://mp.weixin.qq.com/s/HovHf5a5bp2mzyG0yN5Eow)
+    - [2023-05-13，Rust 进阶教程 第6课——线程安全](https://mp.weixin.qq.com/s/uLWFiUXjCY--SccpjD8KSg)
+    - [2023-05-21，【Rust 实战】Rust 与 Python 交互](https://mp.weixin.qq.com/s/X6fZiCuxAGxV0TC4o75yDw)
+    - [2023-06-04，【Rust 进阶教程】 07 Mutex](https://mp.weixin.qq.com/s/GGcx4BE-c2nn831mYwWZ8Q)
+    - [2023-07-30，Rust 进阶教程 第8课——读写锁](https://mp.weixin.qq.com/s/5ic6XOEjNREJlPJDjAIW5g)
+  - 微信公众号「706青年空间」
+    - [2023-05-26，Rust 共学招募 | 跨越 Web2 与 Web3 深入底层重构世界](https://mp.weixin.qq.com/s/xVXDyYcfwH6UscoNt9uUPA)
+    - [2023-07-27，Rust 共学第一期结束！七个项目参与最终 Demo Day 分享](https://mp.weixin.qq.com/s/hoJfHqWYod0uRJd9nkKmvA)
+    - [2023-08-15，Solana 共学招募 | 聚集 Rust 开发者，一起组队黑客松](https://mp.weixin.qq.com/s/Zxf5UfLTvd7S6OFXcXjL_g)
+  - 微信公众号「总有一点知识你需要」
+    - [2023-04-09，[翻译] 在2023年，每个学习Rust的人都应该知道的资源](https://mp.weixin.qq.com/s/9lLKBkn2qEOieFGrysWs5A)
   - 微信公众号「CSDN」
     - [2021-03-24，底层I/O性能大PK：Python/Java被碾压，Rust有望取代C++](https://mp.weixin.qq.com/s/P3Wbw9diEg2xKryUG0KtTQ)
     - [2021-11-09，为什么 Rust 是编程的未来？](https://mp.weixin.qq.com/s/MVQkTjbAACYN6CjFKVjWPw)
@@ -1347,39 +1381,18 @@
     - [2022-01-31，Rust 到底值不值得学：万字长文对比、特色和理念](https://mp.weixin.qq.com/s/UhNQk2i3xjLbPNOXkssHbA)
   - 微信公众号「51CTO技术栈」
     - [2023-03-28，后端队友选择Rust，爽到了！](https://mp.weixin.qq.com/s/zBCoYTzFYvAU7OEdqYdxpg)
-  - 微信公众号「兔子写代码」
-    - [2023-03-17，Rust 闲聊 | Rust 语言真的会是未来吗？](https://mp.weixin.qq.com/s/wYQYxpR2YA0Q9rI1WezJVw)
-    - [2023-03-21，彻底搞懂 Rust 的宏（一）：简介](https://mp.weixin.qq.com/s/lEJaLsHgjdoF6IZmIspS-w)
-    - [2023-03-22，彻底搞懂 Rust 的宏（二）：声明宏的组成](https://mp.weixin.qq.com/s/4IFrvmf8dTfRIGlqX4hM-A)
-    - [2023-03-28，彻底搞懂 Rust 的宏（三）：声明宏语法全解析](https://mp.weixin.qq.com/s/uzVpdd85dZ8VbwnrpMBBEw)
-    - [2023-04-19，彻底搞懂 Rust 的宏（四）：片段分类符](https://mp.weixin.qq.com/s/TR_cje5CorP_uPn3UI3Njw)
-    - [2023-04-29，彻底搞懂 Rust 的宏（五）：宏展开](https://mp.weixin.qq.com/s/32Fw643uehtiSPcnUBC3sg)
-    - [2023-05-06，彻底搞懂 Rust 的宏（六）：一个小例子及两个注意点](https://mp.weixin.qq.com/s/59iK79G7Njw-oZnKEND6yg)
-    - [2023-05-16，彻底搞懂 Rust 的宏（七）：重复元变量](https://mp.weixin.qq.com/s/SHL5eeHwSqJsIjEhN2Gz7A)
-    - [2023-05-23，彻底搞懂 Rust 的宏（八）：内建宏](https://mp.weixin.qq.com/s/ZFWiAJgQKHLUdvLQbp09HA)
   - 微信公众号「量子位」
     - [2023-05-29，取代C++！3.6万行Rust代码改写Windows内核，这门语言最早竟用来修电梯](https://mp.weixin.qq.com/s/NZm97ZKBl6WF6oALdXkQMQ)
   - 微信公众号「AI前线」
     - [2023-08-11，Python 失宠！Hugging Face 用 Rust 新写了一个 ML框架，现已低调开源](https://mp.weixin.qq.com/s/YMmYnODJObYplDolnhtJZw)
   - 微信公众号「AI工程化」
     - [2023-08-11，Hugging Face偷偷放大招了，Rust版本的ML框架Candle曝光](https://mp.weixin.qq.com/s/iwrV35oq_j8-SqUIMk-m0A)
-  - 微信公众号「总有一点知识你需要」
-    - [2023-04-09，[翻译] 在2023年，每个学习Rust的人都应该知道的资源](https://mp.weixin.qq.com/s/9lLKBkn2qEOieFGrysWs5A)
-  - 微信公众号「706青年空间」
-    - [2023-05-26，Rust 共学招募 | 跨越 Web2 与 Web3 深入底层重构世界](https://mp.weixin.qq.com/s/xVXDyYcfwH6UscoNt9uUPA)
-    - [2023-07-27，Rust 共学第一期结束！七个项目参与最终 Demo Day 分享](https://mp.weixin.qq.com/s/hoJfHqWYod0uRJd9nkKmvA)
-    - [2023-08-15，Solana 共学招募 | 聚集 Rust 开发者，一起组队黑客松](https://mp.weixin.qq.com/s/Zxf5UfLTvd7S6OFXcXjL_g)
-  - 微信公众号「Rust学习日记」
-    - [2023-04-01，【Rust 进阶教程】 01 闭包与所有权](https://mp.weixin.qq.com/s/KiOD7my7CpT-jEcB8LGcqA)
-    - [2023-04-08，【Rust 进阶教程】 02 详解迭代器（1）](https://mp.weixin.qq.com/s/wQ0w_z1FpOujm9T7tLGfLQ)
-    - [2023-04-15，【Rust 进阶教程】 03 详解迭代器（2）](https://mp.weixin.qq.com/s/ajP-Kamwdd7vUjKyaVT8Hw)
-    - [2023-04-22，【Rust 进阶教程】 04 并发编程](https://mp.weixin.qq.com/s/7BMNmVmkhXkXKyii6wuoIQ)
-    - [2023-05-06，【Rust 进阶教程】 05 通道](https://mp.weixin.qq.com/s/HovHf5a5bp2mzyG0yN5Eow)
-    - [2023-05-13，Rust 进阶教程 第6课——线程安全](https://mp.weixin.qq.com/s/uLWFiUXjCY--SccpjD8KSg)
-    - [2023-05-21，【Rust 实战】Rust 与 Python 交互](https://mp.weixin.qq.com/s/X6fZiCuxAGxV0TC4o75yDw)
-    - [2023-06-04，【Rust 进阶教程】 07 Mutex](https://mp.weixin.qq.com/s/GGcx4BE-c2nn831mYwWZ8Q)
-    - [2023-07-30，Rust 进阶教程 第8课——读写锁](https://mp.weixin.qq.com/s/5ic6XOEjNREJlPJDjAIW5g)
-
+  - 「[MIT Technology Review](https://www.technologyreview.com/)」
+    - [2023-02-14，How Rust went from a side project to the world’s most-loved programming language](https://www.technologyreview.com/2023/02/14/1067869/rust-worlds-fastest-growing-programming-language)
+  - 「[Piotr Kołaczkowski](https://pkolaczk.github.io/)」
+    - [2023-05-21，How Much Memory Do You Need to Run 1 Million Concurrent Tasks?](https://pkolaczk.github.io/memory-consumption-of-async/)
+  - 「[tweede golf](https://tweedegolf.nl/en)」
+    - [2023-07-12，Why Rust is a great fit for embedded software - 2023 update](https://tweedegolf.nl/en/blog/96/why-rust-is-a-great-fit-for-embedded-software-2023-update)
 
 
 
