@@ -21,7 +21,7 @@
   - [Hardware Description Language](#hardware-description-language)
   - [Logic Programming](#logic-programming)
   - [FFI Bindings](#ffi-bindings)
-  - [GPU Computing](#gpu-computing) 
+  - [GPU Computing](#gpu-computing)
   - [Scientific Computation](#scientific-computation)
     - [Numerical Calculation](#numerical-calculation)
     - [Linear Algebra](#linear-algebra)
@@ -34,8 +34,8 @@
     - [Large Language Model](#large-language-model)
     - [Stable Diffusion](#stable-diffusion)
     - [Object Detection](#object-detection)
-  - [Shared Memory](#shared-memory) 
-  - [Remote Desktop](#remote-desktop) 
+  - [Shared Memory](#shared-memory)
+  - [Remote Desktop](#remote-desktop)
   - [Date and Time](#date-and-time)
   - [Data Encryption](#data-encryption)
   - [Database](#database)
@@ -54,7 +54,7 @@
   - [RPC Framework](#rpc-framework)
   - [Web3 Framework](#web3-framework)
   - [WebAssembly](#webAssembly)
-  - [Graphics Library](#graphics-library)  
+  - [Graphics Library](#graphics-library)
   - [GUI](#gui)
     - [GUI Framework](#gui-framework)
     - [GUI Software](#gui-software)
@@ -86,13 +86,13 @@
 
   - ### Awesome List
 
-    - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) <img src="https://img.shields.io/github/stars/rust-unofficial/awesome-rust?style=social"/> : A curated list of Rust code and resources. 
+    - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) <img src="https://img.shields.io/github/stars/rust-unofficial/awesome-rust?style=social"/> : A curated list of Rust code and resources.
 
     - [rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) <img src="https://img.shields.io/github/stars/rust-embedded/awesome-embedded-rust?style=social"/> : Curated list of resources for Embedded and Low-level development in the Rust programming language.
 
-    - [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) <img src="https://img.shields.io/github/stars/TaKO8Ki/awesome-alternatives-in-rust?style=social"/> : A curated list of replacements for existing software written in Rust. 
+    - [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) <img src="https://img.shields.io/github/stars/TaKO8Ki/awesome-alternatives-in-rust?style=social"/> : A curated list of replacements for existing software written in Rust.
 
-    - [rust-in-blockchain/awesome-blockchain-rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust) <img src="https://img.shields.io/github/stars/rust-in-blockchain/awesome-blockchain-rust?style=social"/> : Collect libraries and packages about blockchain/cryptography in Rust. 
+    - [rust-in-blockchain/awesome-blockchain-rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust) <img src="https://img.shields.io/github/stars/rust-in-blockchain/awesome-blockchain-rust?style=social"/> : Collect libraries and packages about blockchain/cryptography in Rust.
 
     - [jetli/awesome-yew](https://github.com/jetli/awesome-yew) <img src="https://img.shields.io/github/stars/jetli/awesome-yew?style=social"/> : 😎 A curated list of awesome things related to Yew / WebAssembly.
 
@@ -100,17 +100,17 @@
 
     - [awesome-rust-com/awesome-rust](https://github.com/awesome-rust-com/awesome-rust) <img src="https://img.shields.io/github/stars/awesome-rust-com/awesome-rust?style=social"/> :A curated list of awesome Rust frameworks, libraries and software. [awesome-rust](https://awesome-rust.com/)
 
-    - [rust-cc/awesome-cryptography-rust](https://github.com/rust-cc/awesome-cryptography-rust) <img src="https://img.shields.io/github/stars/rust-cc/awesome-cryptography-rust?style=social"/> : Collect libraries and packages about cryptography in Rust. 
+    - [rust-cc/awesome-cryptography-rust](https://github.com/rust-cc/awesome-cryptography-rust) <img src="https://img.shields.io/github/stars/rust-cc/awesome-cryptography-rust?style=social"/> : Collect libraries and packages about cryptography in Rust.
 
-    - [ddotta/awesome-polars](https://github.com/ddotta/awesome-polars) <img src="https://img.shields.io/github/stars/ddotta/awesome-polars?style=social"/> : A curated list of [Polars](https://www.pola.rs/) talks, tools, examples & articles. Contributions welcome ! 
+    - [ddotta/awesome-polars](https://github.com/ddotta/awesome-polars) <img src="https://img.shields.io/github/stars/ddotta/awesome-polars?style=social"/> : A curated list of [Polars](https://www.pola.rs/) talks, tools, examples & articles. Contributions welcome !
 
-    - [ex0dus-0x/awesome-rust-security](https://github.com/ex0dus-0x/awesome-rust-security) <img src="https://img.shields.io/github/stars/ex0dus-0x/awesome-rust-security?style=social"/> : Curated list of awesome projects and resources related to Rust and computer security. 
+    - [ex0dus-0x/awesome-rust-security](https://github.com/ex0dus-0x/awesome-rust-security) <img src="https://img.shields.io/github/stars/ex0dus-0x/awesome-rust-security?style=social"/> : Curated list of awesome projects and resources related to Rust and computer security.
 
     - [robotics-rs/robotics.rs](https://github.com/robotics-rs/robotics.rs) <img src="https://img.shields.io/github/stars/robotics-rs/robotics.rs?style=social"/> : List of (awesome) Rust libraries for Robotics. Web site of robotics.rs. See index.md. [robotics.rs](https://robotics.rs/)
 
-    - [jgsimard/RustRobotics](https://github.com/jgsimard/RustRobotics) <img src="https://img.shields.io/github/stars/jgsimard/RustRobotics?style=social"/> : This package is a rust implementation of robotics algorithms. So far, the main source is the book [Probabilistic Robotics](https://mitpress.mit.edu/9780262201629/probabilistic-robotics/). 
+    - [jgsimard/RustRobotics](https://github.com/jgsimard/RustRobotics) <img src="https://img.shields.io/github/stars/jgsimard/RustRobotics?style=social"/> : This package is a rust implementation of robotics algorithms. So far, the main source is the book [Probabilistic Robotics](https://mitpress.mit.edu/9780262201629/probabilistic-robotics/).
 
-    - [rsasaki0109/RustRobotics](https://github.com/rsasaki0109/RustRobotics) <img src="https://img.shields.io/github/stars/rsasaki0109/RustRobotics?style=social"/> : Rust implementation of PythonRobotics such as EKF, DWA, Pure Pursuit, LQR. 
+    - [rsasaki0109/RustRobotics](https://github.com/rsasaki0109/RustRobotics) <img src="https://img.shields.io/github/stars/rsasaki0109/RustRobotics?style=social"/> : Rust implementation of PythonRobotics such as EKF, DWA, Pure Pursuit, LQR.
 
 
 
@@ -143,17 +143,17 @@
 
     - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) <img src="https://img.shields.io/github/stars/rust-lang/rustlings?style=social"/> : rustlings 🦀❤️. 🦀 Small exercises to get you used to reading and writing Rust code!
 
-    - [MacroKata](https://tfpk.github.io/macrokata/) : Welcome to MacroKata, a set of exercises which you can use to learn how to write macros in Rust. 
+    - [MacroKata](https://tfpk.github.io/macrokata/) : Welcome to MacroKata, a set of exercises which you can use to learn how to write macros in Rust.
 
     - [veykril/tlborm](https://github.com/veykril/tlborm/) <img src="https://img.shields.io/github/stars/veykril/tlborm?style=social"/> : The Little Book of Rust Macros (updated fork). [veykril.github.io/tlborm/](https://veykril.github.io/tlborm/). [The Little Book of Rust Macros （Rust 宏小册）](https://zjp-cn.github.io/tlborm/)
 
-    - [dtolnay/proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop) <img src="https://img.shields.io/github/stars/dtolnay/proc-macro-workshop?style=social"/> : Rust Latam: procedural macros workshop. This repo contains a selection of projects designed to learn to write Rust procedural macros — Rust code that generates Rust code. 
+    - [dtolnay/proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop) <img src="https://img.shields.io/github/stars/dtolnay/proc-macro-workshop?style=social"/> : Rust Latam: procedural macros workshop. This repo contains a selection of projects designed to learn to write Rust procedural macros — Rust code that generates Rust code.
 
-    - [dtolnay/proc-macro2](https://github.com/dtolnay/proc-macro2) <img src="https://img.shields.io/github/stars/dtolnay/proc-macro2?style=social"/> : A wrapper around the procedural macro API of the compiler's proc_macro crate. 
+    - [dtolnay/proc-macro2](https://github.com/dtolnay/proc-macro2) <img src="https://img.shields.io/github/stars/dtolnay/proc-macro2?style=social"/> : A wrapper around the procedural macro API of the compiler's proc_macro crate.
 
     - [nrc/proc-macro-rules](https://github.com/nrc/proc-macro-rules) <img src="https://img.shields.io/github/stars/nrc/proc-macro-rules?style=social"/> : Macro-rules-style syntax matching for procedural macros.
 
-    - [rustomax/rust-iterators](https://github.com/rustomax/rust-iterators) <img src="https://img.shields.io/github/stars/rustomax/rust-iterators?style=social"/> : Basic Rust iterator usage. The goal of this tutorial is to provide a handy reference to some of the common iterator patterns. 
+    - [rustomax/rust-iterators](https://github.com/rustomax/rust-iterators) <img src="https://img.shields.io/github/stars/rustomax/rust-iterators?style=social"/> : Basic Rust iterator usage. The goal of this tutorial is to provide a handy reference to some of the common iterator patterns.
 
     - [Rust文档网](https://rustwiki.org/) : Rust 官方文档中文教程。
 
@@ -177,7 +177,7 @@
 
     - [wtklbm/rust-library-i18n](https://github.com/wtklbm/rust-library-i18n) <img src="https://img.shields.io/github/stars/wtklbm/rust-library-i18n?style=social"/> : Rust 核心库和标准库中文翻译，可作为 IDE 工具的智能提示，并生成本地 API 文档。
 
-    - [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) <img src="https://img.shields.io/github/stars/johnthagen/min-sized-rust?style=social"/> :  🦀 How to minimize Rust binary size 📦 
+    - [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) <img src="https://img.shields.io/github/stars/johnthagen/min-sized-rust?style=social"/> :  🦀 How to minimize Rust binary size 📦
 
     - [better-rs/learn-rs](https://github.com/better-rs/learn-rs) <img src="https://img.shields.io/github/stars/better-rs/learn-rs?style=social"/> :  learn-rs: 快速学习 rust。
 
@@ -204,9 +204,9 @@
 
 
 
-## Data Structure and Algorithm 
+## Data Structure and Algorithm
 
-  - [krahets/hello-algo](https://github.com/krahets/hello-algo) <img src="https://img.shields.io/github/stars/krahets/hello-algo?style=social"/> : 《Hello 算法》是一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Zig 等语言。 前往阅读 > [hello-algo.com](https://www.hello-algo.com/). 
+  - [krahets/hello-algo](https://github.com/krahets/hello-algo) <img src="https://img.shields.io/github/stars/krahets/hello-algo?style=social"/> : 《Hello 算法》是一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Zig 等语言。 前往阅读 > [hello-algo.com](https://www.hello-algo.com/).
 
   - [sjinzh/hello-algo-rust](https://github.com/sjinzh/hello-algo-rust) <img src="https://img.shields.io/github/stars/sjinzh/hello-algo-rust-zig?style=social"/> : Rust codes for the famous public project [《Hello, Algorithm》|《 Hello，算法 》](https://github.com/krahets/hello-algo) about data structures and algorithms.
 
@@ -220,9 +220,9 @@
 
   - [QMHTMY/RustBook](https://github.com/QMHTMY/RustBook) <img src="https://img.shields.io/github/stars/QMHTMY/RustBook?style=social"/> : A book about Rust Data Structures and Algorithms.
 
-  - [matey-jack/dl-list-mini.fs](https://gist.github.com/matey-jack/3e19b6370c6f7036a9119b79a82098ca) : Simple doubly-linked list in safe Rust.  
+  - [matey-jack/dl-list-mini.fs](https://gist.github.com/matey-jack/3e19b6370c6f7036a9119b79a82098ca) : Simple doubly-linked list in safe Rust.
 
-  - [Bonsai](https://github.com/Sollimann/bonsai) <img src="https://img.shields.io/github/stars/Sollimann/bonsai?style=social"/> : Rust implementation of behavior trees. 
+  - [Bonsai](https://github.com/Sollimann/bonsai) <img src="https://img.shields.io/github/stars/Sollimann/bonsai?style=social"/> : Rust implementation of behavior trees.
 
   - [msakuta/rusty-behavior-tree-lite](https://github.com/msakuta/rusty-behavior-tree-lite) <img src="https://img.shields.io/github/stars/msakuta/rusty-behavior-tree-lite?style=social"/> : Lightweight behavior tree implementation in Rust.
 
@@ -262,7 +262,7 @@
 
 ## Static Variables
 
-  - [typed-arena](https://github.com/rust-lang-nursery/lazy-static.rs) <img src="https://img.shields.io/github/stars/rust-lang-nursery/lazy-static.rs?style=social"/> : A small macro for defining lazy evaluated static variables in Rust. 
+  - [typed-arena](https://github.com/rust-lang-nursery/lazy-static.rs) <img src="https://img.shields.io/github/stars/rust-lang-nursery/lazy-static.rs?style=social"/> : A small macro for defining lazy evaluated static variables in Rust.
 
 
 
@@ -299,7 +299,7 @@
 
   - [Embassy](https://github.com/embassy-rs/embassy) <img src="https://img.shields.io/github/stars/embassy-rs/embassy?style=social"/> : Modern embedded framework, using Rust and async. [embassy.dev](https://embassy.dev/)
 
-  - [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) <img src="https://img.shields.io/github/stars/rust-embedded/rust-raspberrypi-OS-tutorials?style=social"/> :  📚 Learn to write an embedded OS in Rust 🦀 
+  - [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) <img src="https://img.shields.io/github/stars/rust-embedded/rust-raspberrypi-OS-tutorials?style=social"/> :  📚 Learn to write an embedded OS in Rust 🦀
 
   - [Tock](https://github.com/tock/tock) <img src="https://img.shields.io/github/stars/tock/tock?style=social"/> : A secure embedded operating system for microcontrollers. [www.tockos.org](https://www.tockos.org/)
 
@@ -317,11 +317,11 @@
 
   - [rCore-Tutorial-v3](https://github.com/chyyuu/os_kernel_lab) <img src="https://img.shields.io/github/stars/chyyuu/os_kernel_lab?style=social"/> : OS kernel labs based on Rust/C Lang & RISC-V 64/X86-32.
 
-  - [rCore](https://github.com/rcore-os/rCore) <img src="https://img.shields.io/github/stars/rcore-os/rCore?style=social"/> : Rust version of THU uCore OS. Linux compatible. 
+  - [rCore](https://github.com/rcore-os/rCore) <img src="https://img.shields.io/github/stars/rcore-os/rCore?style=social"/> : Rust version of THU uCore OS. Linux compatible.
 
-  - [zCore](https://github.com/rcore-os/zCore) <img src="https://img.shields.io/github/stars/rcore-os/zCore?style=social"/> : Reimplement Zircon microkernel in Rust. 
+  - [zCore](https://github.com/rcore-os/zCore) <img src="https://img.shields.io/github/stars/rcore-os/zCore?style=social"/> : Reimplement Zircon microkernel in Rust.
 
-  - [RustSBI](https://github.com/rustsbi/rustsbi) <img src="https://img.shields.io/github/stars/rustsbi/rustsbi?style=social"/> : RISC-V Supervisor Binary Interface (RISC-V SBI) implementation library in Rust; runs on M or HS mode; good support for embedded Rust ecosystem. 
+  - [RustSBI](https://github.com/rustsbi/rustsbi) <img src="https://img.shields.io/github/stars/rustsbi/rustsbi?style=social"/> : RISC-V Supervisor Binary Interface (RISC-V SBI) implementation library in Rust; runs on M or HS mode; good support for embedded Rust ecosystem.
 
   - [writing-an-os-in-rust](https://github.com/rustcc/writing-an-os-in-rust) <img src="https://img.shields.io/github/stars/rustcc/writing-an-os-in-rust?style=social"/> : 《使用Rust编写操作系统》
 
@@ -341,7 +341,7 @@
 
   - [Felix OS](https://github.com/mrgian/felix) <img src="https://img.shields.io/github/stars/mrgian/felix?style=social"/> : 🐱 x86 operating system. Felix is my attempt at writing an x86 operating system. It's written completely from scratch in Rust and doesn't use any external dependencies.
 
-  - [jdreaver/rust-os](https://github.com/jdreaver/rust-os) <img src="https://img.shields.io/github/stars/jdreaver/rust-os?style=social"/> : Creating a bare metal OS in Rust. 
+  - [jdreaver/rust-os](https://github.com/jdreaver/rust-os) <img src="https://img.shields.io/github/stars/jdreaver/rust-os?style=social"/> : Creating a bare metal OS in Rust.
 
   - [r9os/r9](https://github.com/r9os/r9) <img src="https://img.shields.io/github/stars/r9os/r9?style=social"/> : The R9 operating system.
 
@@ -350,7 +350,7 @@
 
 ## Robot Operating System
 
-  - [micro-ROS for Arduino](https://github.com/micro-ROS/micro_ros_arduino) <img src="https://img.shields.io/github/stars/micro-ROS/micro_ros_arduino?style=social"/> : micro-ROS library for Arduino. 
+  - [micro-ROS for Arduino](https://github.com/micro-ROS/micro_ros_arduino) <img src="https://img.shields.io/github/stars/micro-ROS/micro_ros_arduino?style=social"/> : micro-ROS library for Arduino.
 
   - [openrr](https://github.com/openrr/openrr) <img src="https://img.shields.io/github/stars/openrr/openrr?style=social"/> : Open Rust Robotics. OpenRR (pronounced like "opener") is Open Rust Robotics platform.
 
@@ -360,7 +360,7 @@
 
   - [r2r](https://github.com/sequenceplanner/r2r) <img src="https://img.shields.io/github/stars/sequenceplanner/r2r?style=social"/> : R2R - Easy to use, runtime-agnostic, async rust bindings for ROS2.
 
-  - [erdos](https://github.com/erdos-project/erdos) <img src="https://img.shields.io/github/stars/erdos-project/erdos?style=social"/> : Dataflow system for building self-driving car and robotics applications. 
+  - [erdos](https://github.com/erdos-project/erdos) <img src="https://img.shields.io/github/stars/erdos-project/erdos?style=social"/> : Dataflow system for building self-driving car and robotics applications.
 
   - [rclrust](https://github.com/rclrust/rclrust) <img src="https://img.shields.io/github/stars/rclrust/rclrust?style=social"/> : This is yet another ROS2 client library written in Rust.
 
@@ -380,7 +380,7 @@
 
   - [strawlab/opencv-ros-camera](https://github.com/strawlab/opencv-ros-camera) <img src="https://img.shields.io/github/stars/strawlab/opencv-ros-camera?style=social"/> : Geometric models of OpenCV/ROS cameras for photogrammetry.
 
-  - [luickk/MinimalRoboticsPlatform](https://github.com/luickk/MinimalRoboticsPlatform/tree/rust_code) <img src="https://img.shields.io/github/stars/luickk/MinimalRoboticsPlatform?style=social"/> : MRP is a minimal microkernel that supports the most fundamental robotic domains. It's thought for highly integrated robotics development. 
+  - [luickk/MinimalRoboticsPlatform](https://github.com/luickk/MinimalRoboticsPlatform/tree/rust_code) <img src="https://img.shields.io/github/stars/luickk/MinimalRoboticsPlatform?style=social"/> : MRP is a minimal microkernel that supports the most fundamental robotic domains. It's thought for highly integrated robotics development.
 
   - [newpavlov/rosbag-rs](https://github.com/newpavlov/rosbag-rs) <img src="https://img.shields.io/github/stars/newpavlov/rosbag-rs?style=social"/> : A pure Rust crate for reading ROS bag files.
 
@@ -416,23 +416,23 @@
 
 ## Logic Programming
 
-  - [Scryer Prolog](https://github.com/mthom/scryer-prolog) <img src="https://img.shields.io/github/stars/mthom/scryer-prolog?style=social"/> : A modern Prolog implementation written mostly in Rust. 
+  - [Scryer Prolog](https://github.com/mthom/scryer-prolog) <img src="https://img.shields.io/github/stars/mthom/scryer-prolog?style=social"/> : A modern Prolog implementation written mostly in Rust.
 
 
 
 
 
-## FFI Bindings 
+## FFI Bindings
 
   - [PyO3](https://github.com/PyO3/pyo3) <img src="https://img.shields.io/github/stars/PyO3/pyo3?style=social"/> : Rust bindings for the Python interpreter.
 
-  - [bindgen](https://github.com/rust-lang/rust-bindgen) <img src="https://img.shields.io/github/stars/rust-lang/rust-bindgen?style=social"/> : Automatically generates Rust FFI bindings to C (and some C++) libraries. 
+  - [bindgen](https://github.com/rust-lang/rust-bindgen) <img src="https://img.shields.io/github/stars/rust-lang/rust-bindgen?style=social"/> : Automatically generates Rust FFI bindings to C (and some C++) libraries.
 
   - [C2Rust](https://github.com/immunant/c2rust) <img src="https://img.shields.io/github/stars/immunant/c2rust?style=social"/> : C2Rust helps you migrate C99-compliant code to Rust. [c2rust.com/](https://c2rust.com/)
 
   - [embed-c](https://github.com/zdimension/embed-c) <img src="https://img.shields.io/github/stars/zdimension/embed-c?style=social"/> : Embed C code at compile time inside Rust using C2Rust.
 
-  - [rust-cpp](https://github.com/mystor/rust-cpp) <img src="https://img.shields.io/github/stars/mystor/rust-cpp?style=social"/> : rust-cpp - Embed C++ code directly in Rust. 
+  - [rust-cpp](https://github.com/mystor/rust-cpp) <img src="https://img.shields.io/github/stars/mystor/rust-cpp?style=social"/> : rust-cpp - Embed C++ code directly in Rust.
 
   - [cxx](https://github.com/dtolnay/cxx) <img src="https://img.shields.io/github/stars/dtolnay/cxx?style=social"/> : Safe interop between Rust and C++. [cxx.rs](https://cxx.rs/)
 
@@ -446,7 +446,7 @@
 
   - [jlrs](https://github.com/Taaitaaiger/jlrs) <img src="https://img.shields.io/github/stars/Taaitaaiger/jlrs?style=social"/> : Julia bindings for Rust.
 
-  - [Rutie](https://github.com/danielpclark/rutie) <img src="https://img.shields.io/github/stars/danielpclark/rutie?style=social"/> : “The Tie Between Ruby and Rust.” 
+  - [Rutie](https://github.com/danielpclark/rutie) <img src="https://img.shields.io/github/stars/danielpclark/rutie?style=social"/> : “The Tie Between Ruby and Rust.”
 
   - [suirad/zig-header-gen](https://github.com/suirad/zig-header-gen) <img src="https://img.shields.io/github/stars/suirad/zig-header-gen?style=social"/> : Automatically generate headers/bindings for other languages from Zig code.
 
@@ -461,7 +461,7 @@
   - [DutchGhost/zigiffy](https://github.com/DutchGhost/zigiffy) <img src="https://img.shields.io/github/stars/DutchGhost/zigiffy?style=social"/> : Rust FFI with Zig.
 
   - [DutchGhost/rustiffy](https://github.com/DutchGhost/rustiffy) <img src="https://img.shields.io/github/stars/DutchGhost/rustiffy?style=social"/> : Zig FFI with Rust.
-  
+
   - [natanalt/zig2rs](https://github.com/natanalt/zig2rs) <img src="https://img.shields.io/github/stars/natanalt/zig2rs?style=social"/> : use zig code in rust - a medium effort shitpost.
 
   - [ogxd/ffidji](https://github.com/ogxd/ffidji) <img src="https://img.shields.io/github/stars/ogxd/ffidji?style=social"/> : 🐶 FFIDJI is a tool to automatically generate bindings between languages, like calling Rust code from C# for instance.
@@ -472,39 +472,39 @@
 
   - [Cysharp/csbindgen](https://github.com/Cysharp/csbindgen) <img src="https://img.shields.io/github/stars/Cysharp/csbindgen?style=social"/> : Generate C# FFI from Rust for automatically brings native code and C native library to .NET and Unity.
 
-  - [nikomatsakis/duchess](https://github.com/nikomatsakis/duchess) <img src="https://img.shields.io/github/stars/nikomatsakis/duchess?style=social"/> : Experiments with Java-Rust interop. 
+  - [nikomatsakis/duchess](https://github.com/nikomatsakis/duchess) <img src="https://img.shields.io/github/stars/nikomatsakis/duchess?style=social"/> : Experiments with Java-Rust interop.
 
   - [antoniusnaumann/cargo-swift](https://github.com/antoniusnaumann/cargo-swift) <img src="https://img.shields.io/github/stars/antoniusnaumann/cargo-swift?style=social"/> : A cargo plugin to easily build Swift packages from Rust code. [crates.io/crates/cargo-swift](https://crates.io/crates/cargo-swift)
 
-  - [tomleavy/safer-ffi-gen](https://github.com/tomleavy/safer-ffi-gen) <img src="https://img.shields.io/github/stars/tomleavy/safer-ffi-gen?style=social"/> : Attribute macro to help automate Rust FFI bindings. 
+  - [tomleavy/safer-ffi-gen](https://github.com/tomleavy/safer-ffi-gen) <img src="https://img.shields.io/github/stars/tomleavy/safer-ffi-gen?style=social"/> : Attribute macro to help automate Rust FFI bindings.
 
 
 
 
 
-## GPU Computing 
+## GPU Computing
 
   - [Vulkano](https://github.com/vulkano-rs/vulkano) <img src="https://img.shields.io/github/stars/vulkano-rs/vulkano?style=social"/> : Safe and rich Rust wrapper around the Vulkan API. Vulkano is a Rust wrapper around [the Vulkan graphics API](https://www.vulkan.org/). It follows the Rust philosophy, which is that as long as you don't use unsafe code you shouldn't be able to trigger any undefined behavior. In the case of Vulkan, this means that non-unsafe code should always conform to valid API usage.
 
   - [cudarc](https://github.com/coreylowman/cudarc) <img src="https://img.shields.io/github/stars/coreylowman/cudarc?style=social"/> : cudarc: minimal and safe api over the cuda toolkit.
 
-  - [rust-gpu](https://github.com/EmbarkStudios/rust-gpu) <img src="https://img.shields.io/github/stars/EmbarkStudios/rust-gpu?style=social"/> : 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧 [shader.rs](https://shader.rs/)  
+  - [rust-gpu](https://github.com/EmbarkStudios/rust-gpu) <img src="https://img.shields.io/github/stars/EmbarkStudios/rust-gpu?style=social"/> : 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧 [shader.rs](https://shader.rs/)
 
   - [wgpu](https://github.com/gfx-rs/wgpu) <img src="https://img.shields.io/github/stars/gfx-rs/wgpu?style=social"/> : Safe and portable GPU abstraction in Rust, implementing WebGPU API. [wgpu.rs](https://wgpu.rs/)
 
-  - [custos](https://github.com/elftausend/custos) <img src="https://img.shields.io/github/stars/elftausend/custos?style=social"/> : A minimal OpenCL, CUDA, WGPU and host CPU array manipulation engine / framework. 
+  - [custos](https://github.com/elftausend/custos) <img src="https://img.shields.io/github/stars/elftausend/custos?style=social"/> : A minimal OpenCL, CUDA, WGPU and host CPU array manipulation engine / framework.
 
   - [Ash](https://github.com/ash-rs/ash) <img src="https://img.shields.io/github/stars/ash-rs/ash?style=social"/> : Vulkan bindings for Rust.
 
-  - [Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) <img src="https://img.shields.io/github/stars/Rust-GPU/Rust-CUDA?style=social"/> : Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust. 
+  - [Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) <img src="https://img.shields.io/github/stars/Rust-GPU/Rust-CUDA?style=social"/> : Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.
 
   - [ocl](https://github.com/cogciprocate/ocl) <img src="https://img.shields.io/github/stars/cogciprocate/ocl?style=social"/> : OpenCL for Rust.
 
-  - [opencl3](https://github.com/kenba/opencl3) <img src="https://img.shields.io/github/stars/kenba/opencl3?style=social"/> : A Rust implementation of the Khronos [OpenCL 3.0](https://registry.khronos.org/OpenCL/) API. 
+  - [opencl3](https://github.com/kenba/opencl3) <img src="https://img.shields.io/github/stars/kenba/opencl3?style=social"/> : A Rust implementation of the Khronos [OpenCL 3.0](https://registry.khronos.org/OpenCL/) API.
 
   - [Jafagervik/cruda](https://github.com/Jafagervik/cruda) <img src="https://img.shields.io/github/stars/Jafagervik/cruda?style=social"/> : CRUDA - Writing rust with cuda.
 
-  - [oddity-ai/async-cuda](https://github.com/oddity-ai/async-cuda) <img src="https://img.shields.io/github/stars/oddity-ai/async-cuda?style=social"/> : Asynchronous CUDA, NPP and TensorRT for Rust. 
+  - [oddity-ai/async-cuda](https://github.com/oddity-ai/async-cuda) <img src="https://img.shields.io/github/stars/oddity-ai/async-cuda?style=social"/> : Asynchronous CUDA, NPP and TensorRT for Rust.
 
   - [lennyerik/cutransform](https://github.com/lennyerik/cutransform) <img src="https://img.shields.io/github/stars/lennyerik/cutransform?style=social"/> : CUDA kernels in any language supported by LLVM.
 
@@ -529,7 +529,7 @@
 
 
   - ### Linear Algebra
-  
+
     - [mathbench](https://github.com/bitshifter/mathbench-rs) <img src="https://img.shields.io/github/stars/bitshifter/mathbench-rs?style=social"/> : mathbench is a suite of unit tests and benchmarks comparing the output and performance of a number of different Rust linear algebra libraries for common game and graphics development tasks.
 
     - [ndarray](https://github.com/rust-ndarray/ndarray) <img src="https://img.shields.io/github/stars/rust-ndarray/ndarray?style=social"/> : The ndarray crate provides an n-dimensional container for general elements and for numerics.
@@ -540,7 +540,7 @@
 
     - [glam](https://github.com/bitshifter/glam-rs) <img src="https://img.shields.io/github/stars/bitshifter/glam-rs?style=social"/> : A simple and fast 3D math library for games and graphics.
 
-    - [faer](https://github.com/sarah-ek/faer-rs) <img src="https://img.shields.io/github/stars/sarah-ek/faer-rs?style=social"/> : Linear algebra foundation for the Rust programming language. [faer-rs.github.io](https://faer-rs.github.io/). faer is a collection of crates that implement low level linear algebra routines in pure Rust. The aim is to eventually provide a fully featured library for linear algebra with focus on portability, correctness, and performance. 
+    - [faer](https://github.com/sarah-ek/faer-rs) <img src="https://img.shields.io/github/stars/sarah-ek/faer-rs?style=social"/> : Linear algebra foundation for the Rust programming language. [faer-rs.github.io](https://faer-rs.github.io/). faer is a collection of crates that implement low level linear algebra routines in pure Rust. The aim is to eventually provide a fully featured library for linear algebra with focus on portability, correctness, and performance.
 
     - [rust-numpy](https://github.com/PyO3/rust-numpy) <img src="https://img.shields.io/github/stars/PyO3/rust-numpy?style=social"/> : PyO3-based Rust bindings of the NumPy C-API.
 
@@ -548,7 +548,7 @@
 
     - [ultraviolet](https://github.com/fu5ha/ultraviolet) <img src="https://img.shields.io/github/stars/fu5ha/ultraviolet?style=social"/> : A wide linear algebra crate for games and graphics.
 
-    - [vek](https://github.com/yoanlcq/vek) <img src="https://img.shields.io/github/stars/yoanlcq/vek?style=social"/> : Generic 2D-3D math swiss army knife for game engines, with SIMD support and focus on convenience. 
+    - [vek](https://github.com/yoanlcq/vek) <img src="https://img.shields.io/github/stars/yoanlcq/vek?style=social"/> : Generic 2D-3D math swiss army knife for game engines, with SIMD support and focus on convenience.
 
     - [static-math](https://github.com/elsuizo/static-math) <img src="https://img.shields.io/github/stars/elsuizo/static-math?style=social"/> : Safe and fast mathematical operations with static arrays in the Rust programming language.
 
@@ -565,7 +565,7 @@
 
 
 
-  - ### Optimization Engine 
+  - ### Optimization Engine
 
     - [OpEn](https://github.com/alphaville/optimization-engine) <img src="https://img.shields.io/github/stars/alphaville/optimization-engine?style=social"/> : Optimization Engine (OpEn) is a solver for Fast & Accurate Embedded Optimization for next-generation Robotics and Autonomous Systems. Nonconvex embedded optimization: code generation for fast real-time optimization. [alphaville.github.io/optimization-engine/](https://alphaville.github.io/optimization-engine/)
 
@@ -614,10 +614,10 @@
     - [Safetensors](https://github.com/huggingface/safetensors) <img src="https://img.shields.io/github/stars/huggingface/safetensors?style=social"/> : Simple, safe way to store and distribute tensors. [huggingface.co/docs/safetensors](https://huggingface.co/docs/safetensors/index)
 
     - [Burn](https://github.com/burn-rs/burn) <img src="https://img.shields.io/github/stars/burn-rs/burn?style=social"/> : Burn - A Flexible and Comprehensive Deep Learning Framework in Rust. [burn-rs.github.io/](https://burn-rs.github.io/)
-    
+
     - [TensorFlow Rust](https://github.com/tensorflow/rust) <img src="https://img.shields.io/github/stars/tensorflow/rust?style=social"/> : Rust language bindings for TensorFlow.
 
-    - [tch-rs](https://github.com/LaurentMazare/tch-rs) <img src="https://img.shields.io/github/stars/LaurentMazare/tch-rs?style=social"/> : Rust bindings for the C++ api of PyTorch. 
+    - [tch-rs](https://github.com/LaurentMazare/tch-rs) <img src="https://img.shields.io/github/stars/LaurentMazare/tch-rs?style=social"/> : Rust bindings for the C++ api of PyTorch.
 
 
     - [dfdx](https://github.com/coreylowman/dfdx) <img src="https://img.shields.io/github/stars/coreylowman/dfdx?style=social"/> : Deep learning in Rust, with shape checked tensors and neural networks.
@@ -625,10 +625,10 @@
     - [tract](https://github.com/sonos/tract) <img src="https://img.shields.io/github/stars/sonos/tract?style=social"/> : Sonos' Neural Network inference engine. Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference
 
     - [ort](https://github.com/pykeio/ort) <img src="https://img.shields.io/github/stars/pykeio/ort?style=social"/> : A Rust wrapper for ONNX Runtime. [docs.rs/ort](https://docs.rs/ort/latest/ort/)
-    
+
     - [arrayfire-rust](https://github.com/arrayfire/arrayfire-rust) <img src="https://img.shields.io/github/stars/arrayfire/arrayfire-rust?style=social"/> : Rust wrapper for [ArrayFire](https://github.com/arrayfire/arrayfire). [ArrayFire](https://github.com/arrayfire/arrayfire) is a high performance library for parallel computing with an easy-to-use API. It enables users to write scientific computing code that is portable across CUDA, OpenCL and CPU devices.
 
-    - [Linfa](https://github.com/rust-ml/linfa) <img src="https://img.shields.io/github/stars/rust-ml/linfa?style=social"/> : A Rust machine learning framework. Linfa aims to provide a comprehensive toolkit to build Machine Learning applications with Rust. 
+    - [Linfa](https://github.com/rust-ml/linfa) <img src="https://img.shields.io/github/stars/rust-ml/linfa?style=social"/> : A Rust machine learning framework. Linfa aims to provide a comprehensive toolkit to build Machine Learning applications with Rust.
 
     - [Juice](https://github.com/spearow/juice) <img src="https://img.shields.io/github/stars/spearow/juice?style=social"/> : The Hacker's Machine Learning Engine.
 
@@ -644,7 +644,7 @@
 
     - [goldstraw/RustCNN](https://github.com/goldstraw/RustCNN) <img src="https://img.shields.io/github/stars/goldstraw/RustCNN?style=social"/> : Rust convolutional neural network from scratch.
 
-    - [goldstraw/RustTransformer](https://github.com/goldstraw/RustTransformer) <img src="https://img.shields.io/github/stars/goldstraw/RustTransformer?style=social"/> : A transformer built from scratch in Rust. 
+    - [goldstraw/RustTransformer](https://github.com/goldstraw/RustTransformer) <img src="https://img.shields.io/github/stars/goldstraw/RustTransformer?style=social"/> : A transformer built from scratch in Rust.
 
     - [elftausend/gradients](https://github.com/elftausend/gradients) <img src="https://img.shields.io/github/stars/elftausend/gradients?style=social"/> : Deep Learning library using [custos](https://github.com/elftausend/custos) and [custos-math](https://github.com/elftausend/custos-math).
 
@@ -676,12 +676,12 @@
 
 
 
-​    
+​
   - ### Large Language Model
 
-    - [phodal/aigc](https://github.com/phodal/aigc) <img src="https://img.shields.io/github/stars/phodal/aigc?style=social"/> : 《构筑大语言模型应用：应用开发与架构设计》一本关于 LLM 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括Prompt的编写、开发和管理，探索最好的大语言模型能带来什么，以及LLM应用开发的模式和架构设计。 
+    - [phodal/aigc](https://github.com/phodal/aigc) <img src="https://img.shields.io/github/stars/phodal/aigc?style=social"/> : 《构筑大语言模型应用：应用开发与架构设计》一本关于 LLM 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括Prompt的编写、开发和管理，探索最好的大语言模型能带来什么，以及LLM应用开发的模式和架构设计。
 
-    - [llama2.rs](https://github.com/gaxler/llama2.rs) <img src="https://img.shields.io/github/stars/gaxler/llama2.rs?style=social"/> : Inference Llama 2 in one file of pure Rust 🦀 
+    - [llama2.rs](https://github.com/gaxler/llama2.rs) <img src="https://img.shields.io/github/stars/gaxler/llama2.rs?style=social"/> : Inference Llama 2 in one file of pure Rust 🦀
 
     - [Llama2-burn](https://github.com/Gadersd/llama2-burn) <img src="https://img.shields.io/github/stars/Gadersd/llama2-burn?style=social"/> : Llama2 LLM ported to Rust burn.
 
@@ -689,7 +689,7 @@
 
     - [stable-diffusion-burn](https://github.com/Gadersd/stable-diffusion-burn) <img src="https://img.shields.io/github/stars/Gadersd/stable-diffusion-burn?style=social"/> : Stable Diffusion v1.4 ported to Rust's burn framework.
 
-    - [coreylowman/llama-dfdx](https://github.com/coreylowman/llama-dfdx) <img src="https://img.shields.io/github/stars/coreylowman/llama-dfdx?style=social"/> : [LLaMa 7b](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) with CUDA acceleration implemented in rust. Minimal GPU memory needed! 
+    - [coreylowman/llama-dfdx](https://github.com/coreylowman/llama-dfdx) <img src="https://img.shields.io/github/stars/coreylowman/llama-dfdx?style=social"/> : [LLaMa 7b](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) with CUDA acceleration implemented in rust. Minimal GPU memory needed!
 
     - [tazz4843/whisper-rs](https://github.com/tazz4843/whisper-rs) <img src="https://img.shields.io/github/stars/tazz4843/whisper-rs?style=social"/> : Rust bindings to [whisper.cpp](https://github.com/ggerganov/whisper.cpp).
 
@@ -717,13 +717,13 @@
 
     - [m1guelpf/browser-agent](https://github.com/m1guelpf/browser-agent) <img src="https://img.shields.io/github/stars/m1guelpf/browser-agent?style=social"/> : A browser AI agent, using GPT-4. [docs.rs/browser-agent](https://docs.rs/browser-agent/latest/browser_agent/)
 
-    - [sigoden/aichat](https://github.com/sigoden/aichat) <img src="https://img.shields.io/github/stars/sigoden/aichat?style=social"/> : Using ChatGPT/GPT-3.5/GPT-4 in the terminal. 
+    - [sigoden/aichat](https://github.com/sigoden/aichat) <img src="https://img.shields.io/github/stars/sigoden/aichat?style=social"/> : Using ChatGPT/GPT-3.5/GPT-4 in the terminal.
 
-    - [uiuifree/rust-openai-chatgpt-api](https://github.com/uiuifree/rust-openai-chatgpt-api) <img src="https://img.shields.io/github/stars/uiuifree/rust-openai-chatgpt-api?style=social"/> : "rust-openai-chatgpt-api" is a Rust library for accessing the ChatGPT API, a powerful NLP platform by OpenAI. The library provides a simple and efficient interface for sending requests and receiving responses, including chat. It uses reqwest and serde for HTTP requests and JSON serialization. 
+    - [uiuifree/rust-openai-chatgpt-api](https://github.com/uiuifree/rust-openai-chatgpt-api) <img src="https://img.shields.io/github/stars/uiuifree/rust-openai-chatgpt-api?style=social"/> : "rust-openai-chatgpt-api" is a Rust library for accessing the ChatGPT API, a powerful NLP platform by OpenAI. The library provides a simple and efficient interface for sending requests and receiving responses, including chat. It uses reqwest and serde for HTTP requests and JSON serialization.
 
     - [1595901624/gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition) <img src="https://img.shields.io/github/stars/1595901624/gpt-aggregated-edition?style=social"/> : 聚合ChatGPT官方版、ChatGPT免费版、文心一言、Poe、chatchat等多平台，支持自定义导入平台。
 
-    - [Cormanz/smartgpt](https://github.com/Cormanz/smartgpt) <img src="https://img.shields.io/github/stars/Cormanz/smartgpt?style=social"/> : A program that provides LLMs with the ability to complete complex tasks using plugins. 
+    - [Cormanz/smartgpt](https://github.com/Cormanz/smartgpt) <img src="https://img.shields.io/github/stars/Cormanz/smartgpt?style=social"/> : A program that provides LLMs with the ability to complete complex tasks using plugins.
 
     - [femtoGPT](https://github.com/keyvank/femtoGPT) <img src="https://img.shields.io/github/stars/keyvank/femtoGPT?style=social"/> : femtoGPT is a pure Rust implementation of a minimal Generative Pretrained Transformer. [discord.gg/wTJFaDVn45](https://github.com/keyvank/femtoGPT)
 
@@ -746,7 +746,7 @@
 
     - [bencevans/rust-opencv-yolov5](https://github.com/bencevans/rust-opencv-yolov5) <img src="https://img.shields.io/github/stars/bencevans/rust-opencv-yolov5?style=social"/> : YOLOv5 Inference with ONNX & OpenCV in Rust.
 
-    - [masc-it/yolov5-api-rust](https://github.com/masc-it/yolov5-api-rust) <img src="https://img.shields.io/github/stars/masc-it/yolov5-api-rust?style=social"/> : Rust API to run predictions with YoloV5 models. 
+    - [masc-it/yolov5-api-rust](https://github.com/masc-it/yolov5-api-rust) <img src="https://img.shields.io/github/stars/masc-it/yolov5-api-rust?style=social"/> : Rust API to run predictions with YoloV5 models.
 
     - [AndreyGermanov/yolov8_onnx_rust](https://github.com/AndreyGermanov/yolov8_onnx_rust) <img src="https://img.shields.io/github/stars/AndreyGermanov/yolov8_onnx_rust?style=social"/> : YOLOv8 inference using Rust.
 
@@ -771,7 +771,7 @@
 
 
 
-## Shared Memory 
+## Shared Memory
 
   - [elast0ny/shared_memory](https://github.com/elast0ny/shared_memory) <img src="https://img.shields.io/github/stars/elast0ny/shared_memory?style=social"/> : A Rust wrapper around native shared memory for Linux and Windows.
 
@@ -797,7 +797,7 @@
 
 ## Database
 
-  - [SQLx](https://github.com/launchbadge/sqlx) <img src="https://img.shields.io/github/stars/launchbadge/sqlx?style=social"/> : 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL. 
+  - [SQLx](https://github.com/launchbadge/sqlx) <img src="https://img.shields.io/github/stars/launchbadge/sqlx?style=social"/> : 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
 
   - [Qdrant](https://github.com/qdrant/qdrant) <img src="https://img.shields.io/github/stars/qdrant/qdrant?style=social"/> : Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud [https://cloud.qdrant.io/](https://cloud.qdrant.io/). [qdrant.tech](https://qdrant.tech/)
 
@@ -817,17 +817,17 @@
 
 ## Sensor and Communication Interface
 
-  - [serialport-rs](https://github.com/serialport/serialport-rs) <img src="https://img.shields.io/github/stars/serialport/serialport-rs?style=social"/> : A cross-platform serial port library in Rust. Provides a blocking I/O interface and port enumeration including USB device information. 
+  - [serialport-rs](https://github.com/serialport/serialport-rs) <img src="https://img.shields.io/github/stars/serialport/serialport-rs?style=social"/> : A cross-platform serial port library in Rust. Provides a blocking I/O interface and port enumeration including USB device information.
 
   - [scottlamb/moonfire-nvr](https://github.com/scottlamb/moonfire-nvr) <img src="https://img.shields.io/github/stars/scottlamb/moonfire-nvr?style=social"/> : Moonfire NVR, a security camera network video recorder.
 
   - [l1npengtul/nokhwa](https://github.com/l1npengtul/nokhwa) <img src="https://img.shields.io/github/stars/l1npengtul/nokhwa?style=social"/> : Cross Platform Rust Library for Powerful Webcam/Camera Capture.
 
-  - [shirok1/livox-rs](https://github.com/shirok1/livox-rs) <img src="https://img.shields.io/github/stars/shirok1/livox-rs?style=social"/> : Alternative Livox LiDAR library. 
+  - [shirok1/livox-rs](https://github.com/shirok1/livox-rs) <img src="https://img.shields.io/github/stars/shirok1/livox-rs?style=social"/> : Alternative Livox LiDAR library.
 
   - [jerry73204/rust-lidar-utils](https://github.com/jerry73204/rust-lidar-utils) <img src="https://img.shields.io/github/stars/jerry73204/rust-lidar-utils?style=social"/> : Encode and decode Velodyne and Ouster lidar packets in Rust.
 
-  - [hacknus/serial-monitor-rust](https://github.com/hacknus/serial-monitor-rust) <img src="https://img.shields.io/github/stars/hacknus/serial-monitor-rust?style=social"/> : A cross-plattform serial monitor/plotter written entirely in rust. 
+  - [hacknus/serial-monitor-rust](https://github.com/hacknus/serial-monitor-rust) <img src="https://img.shields.io/github/stars/hacknus/serial-monitor-rust?style=social"/> : A cross-plattform serial monitor/plotter written entirely in rust.
 
   - [apertus-open-source-cinema/axiom-recorder](https://github.com/apertus-open-source-cinema/axiom-recorder) <img src="https://img.shields.io/github/stars/apertus-open-source-cinema/axiom-recorder?style=social"/> : Software to record moving images from Apertus° AXIOM cameras via USB3 or ethernet.
 
@@ -846,7 +846,7 @@
 
   - [hortovanyi/Unscented-Kalman-Filter-Rust](https://github.com/hortovanyi/Unscented-Kalman-Filter-Rust) <img src="https://img.shields.io/github/stars/hortovanyi/Unscented-Kalman-Filter-Rust?style=social"/> : UKF written in Rust based on the C++ UKF from the Udacity SD Car Nanodegree.
 
-  - [wangxiaochuTHU/yakf](https://github.com/wangxiaochuTHU/yakf) <img src="https://img.shields.io/github/stars/wangxiaochuTHU/yakf?style=social"/> : Yet Another Kalman Filter Implementation. As well as Lie Theory (Lie group and algebra) on SE(3). [no_std] is supported by default. 
+  - [wangxiaochuTHU/yakf](https://github.com/wangxiaochuTHU/yakf) <img src="https://img.shields.io/github/stars/wangxiaochuTHU/yakf?style=social"/> : Yet Another Kalman Filter Implementation. As well as Lie Theory (Lie group and algebra) on SE(3). [no_std] is supported by default.
 
   - [MichaelMauderer/filter-rs](https://github.com/MichaelMauderer/filter-rs) <img src="https://img.shields.io/github/stars/MichaelMauderer/filter-rs?style=social"/> : Kalman filters and other optimal and non-optimal estimation filters in Rust.
 
@@ -872,23 +872,23 @@
 
 ## Image and Video Processing
 
-  - [opencv-rust](https://github.com/twistedfall/opencv-rust) <img src="https://img.shields.io/github/stars/twistedfall/opencv-rust?style=social"/> : Rust bindings for OpenCV 3 & 4. 
+  - [opencv-rust](https://github.com/twistedfall/opencv-rust) <img src="https://img.shields.io/github/stars/twistedfall/opencv-rust?style=social"/> : Rust bindings for OpenCV 3 & 4.
 
-  - [rust-cv/cv](https://github.com/rust-cv/cv) <img src="https://img.shields.io/github/stars/rust-cv/cv?style=social"/> : Rust CV mono-repo. Contains pure-Rust dependencies which attempt to encapsulate the capability of OpenCV, OpenMVG, and vSLAM frameworks in a cohesive set of APIs. 
+  - [rust-cv/cv](https://github.com/rust-cv/cv) <img src="https://img.shields.io/github/stars/rust-cv/cv?style=social"/> : Rust CV mono-repo. Contains pure-Rust dependencies which attempt to encapsulate the capability of OpenCV, OpenMVG, and vSLAM frameworks in a cohesive set of APIs.
 
-  - [photon](https://github.com/silvia-odwyer/photon) <img src="https://img.shields.io/github/stars/silvia-odwyer/photon?style=social"/> : ⚡ Rust/WebAssembly image processing library. [silvia-odwyer.github.io/photon](https://silvia-odwyer.github.io/photon/). Photon is a high-performance Rust image processing library, which compiles to WebAssembly, allowing for safe, blazing-fast image processing both natively and on the web. 
+  - [photon](https://github.com/silvia-odwyer/photon) <img src="https://img.shields.io/github/stars/silvia-odwyer/photon?style=social"/> : ⚡ Rust/WebAssembly image processing library. [silvia-odwyer.github.io/photon](https://silvia-odwyer.github.io/photon/). Photon is a high-performance Rust image processing library, which compiles to WebAssembly, allowing for safe, blazing-fast image processing both natively and on the web.
 
   - [image-rs/image](https://github.com/image-rs/image) <img src="https://img.shields.io/github/stars/image-rs/image?style=social"/> : Encoding and decoding images in Rust.
 
-  - [image-rs/imageproc](https://github.com/image-rs/imageproc) <img src="https://img.shields.io/github/stars/image-rs/imageproc?style=social"/> : An image processing library, based on the [image](https://github.com/image-rs/image) library. 
+  - [image-rs/imageproc](https://github.com/image-rs/imageproc) <img src="https://img.shields.io/github/stars/image-rs/imageproc?style=social"/> : An image processing library, based on the [image](https://github.com/image-rs/image) library.
 
   - [zshipko/image2-rs](https://github.com/zshipko/image2-rs) <img src="https://img.shields.io/github/stars/zshipko/image2-rs?style=social"/> : A Rust crate focused on generic image processing for a wide range of image formats and data types.
 
   - [zmwangx/rust-ffmpeg](https://github.com/zmwangx/rust-ffmpeg) <img src="https://img.shields.io/github/stars/zmwangx/rust-ffmpeg?style=social"/> : Safe FFmpeg wrapper.
 
-  - [meh/rust-ffmpeg](https://github.com/meh/rust-ffmpeg) <img src="https://img.shields.io/github/stars/meh/rust-ffmpeg?style=social"/> : Safe FFmpeg wrapper. 
+  - [meh/rust-ffmpeg](https://github.com/meh/rust-ffmpeg) <img src="https://img.shields.io/github/stars/meh/rust-ffmpeg?style=social"/> : Safe FFmpeg wrapper.
 
-  - [Simp](https://github.com/Kl4rry/simp) <img src="https://img.shields.io/github/stars/Kl4rry/simp?style=social"/> : 🖼️ Simp is a fast and simple GPU-accelerated image manipulation program. 
+  - [Simp](https://github.com/Kl4rry/simp) <img src="https://img.shields.io/github/stars/Kl4rry/simp?style=social"/> : 🖼️ Simp is a fast and simple GPU-accelerated image manipulation program.
 
   - [jay3332/ril](https://github.com/jay3332/ril) <img src="https://img.shields.io/github/stars/jay3332/ril?style=social"/> : Rust Imaging Library: A high-level imaging crate for Rust. [crates.io/crates/ril](https://crates.io/crates/ril)
 
@@ -898,9 +898,9 @@
 
   - [iamdb/stream-cv](https://github.com/iamdb/stream-cv) <img src="https://img.shields.io/github/stars/iamdb/stream-cv?style=social"/> : Playing around with Rust, libav (ffmpeg), opencv and multithreading.
 
-  - [BinciLuo/Rust-opencv-Application](https://github.com/BinciLuo/Rust-opencv-Application) <img src="https://img.shields.io/github/stars/BinciLuo/Rust-opencv-Application?style=social"/> : Implementation of an application based on OpenCV written in Rust. 
+  - [BinciLuo/Rust-opencv-Application](https://github.com/BinciLuo/Rust-opencv-Application) <img src="https://img.shields.io/github/stars/BinciLuo/Rust-opencv-Application?style=social"/> : Implementation of an application based on OpenCV written in Rust.
 
-  - [koukemo/rust_cv_sample](https://github.com/koukemo/rust_cv_sample) <img src="https://img.shields.io/github/stars/koukemo/rust_cv_sample?style=social"/> : Sample of Rust using opencv to load images. 
+  - [koukemo/rust_cv_sample](https://github.com/koukemo/rust_cv_sample) <img src="https://img.shields.io/github/stars/koukemo/rust_cv_sample?style=social"/> : Sample of Rust using opencv to load images.
 
 
 
@@ -914,7 +914,7 @@
 
   - [ndbaker1/SLAMR](https://github.com/ndbaker1/SLAMR) <img src="https://img.shields.io/github/stars/ndbaker1/SLAMR?style=social"/> : modules for visual odometry and IMU integration written in Rust.
 
-  - [geoeo/Vision](https://github.com/geoeo/Vision) <img src="https://img.shields.io/github/stars/geoeo/Vision?style=social"/> : Computer Vision stuff in Rust. 
+  - [geoeo/Vision](https://github.com/geoeo/Vision) <img src="https://img.shields.io/github/stars/geoeo/Vision?style=social"/> : Computer Vision stuff in Rust.
 
   - [geoeo/visual_odometry](https://github.com/geoeo/visual_odometry) <img src="https://img.shields.io/github/stars/geoeo/visual_odometry?style=social"/> : A rust port of [https://github.com/geoeo/Dense_VO](https://github.com/geoeo/Dense_VO).
 
@@ -939,7 +939,7 @@
 
   - [marcbone/s_curve](https://github.com/marcbone/s_curve) <img src="https://img.shields.io/github/stars/marcbone/s_curve?style=social"/> : S-Curve trajectory generator written in rust.
 
-  - [Sollimann/bonsai](https://github.com/Sollimann/bonsai) <img src="https://img.shields.io/github/stars/Sollimann/bonsai?style=social"/> : Rust implementation of behavior trees. 
+  - [Sollimann/bonsai](https://github.com/Sollimann/bonsai) <img src="https://img.shields.io/github/stars/Sollimann/bonsai?style=social"/> : Rust implementation of behavior trees.
 
 
 
@@ -948,15 +948,15 @@
 
   - [k](https://github.com/openrr/k) <img src="https://img.shields.io/github/stars/openrr/k?style=social"/> : k: Kinematics library for rust-lang.
 
-  - [rsasaki0109/RustRobotics](https://github.com/rsasaki0109/RustRobotics) <img src="https://img.shields.io/github/stars/rsasaki0109/RustRobotics?style=social"/> : This package is a rust implementation of [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics). Rust implementation of PythonRobotics such as EKF, DWA, Pure Pursuit, LQR. 
+  - [rsasaki0109/RustRobotics](https://github.com/rsasaki0109/RustRobotics) <img src="https://img.shields.io/github/stars/rsasaki0109/RustRobotics?style=social"/> : This package is a rust implementation of [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics). Rust implementation of PythonRobotics such as EKF, DWA, Pure Pursuit, LQR.
 
-  - [braincore/pid-rs](https://github.com/braincore/pid-rs) <img src="https://img.shields.io/github/stars/braincore/pid-rs?style=social"/> : A PID controller for Rust projects. 
+  - [braincore/pid-rs](https://github.com/braincore/pid-rs) <img src="https://img.shields.io/github/stars/braincore/pid-rs?style=social"/> : A PID controller for Rust projects.
 
   - [yoshuawuyts/pid-lite](https://github.com/yoshuawuyts/pid-lite) <img src="https://img.shields.io/github/stars/yoshuawuyts/pid-lite?style=social"/> : A small PID controller library.
 
-  - [bohonghuang/rov-host](https://github.com/bohonghuang/rov-host) <img src="https://img.shields.io/github/stars/bohonghuang/rov-host?style=social"/> : A cross-platform, high-performance underwater robot controll program written in Rust. 
+  - [bohonghuang/rov-host](https://github.com/bohonghuang/rov-host) <img src="https://img.shields.io/github/stars/bohonghuang/rov-host?style=social"/> : A cross-platform, high-performance underwater robot controll program written in Rust.
 
-  - [zaiic/pid_rs](https://github.com/zaiic/pid_rs) <img src="https://img.shields.io/github/stars/zaiic/pid_rs?style=social"/> : A fairly minimal PID controller implementation in Rust.  
+  - [zaiic/pid_rs](https://github.com/zaiic/pid_rs) <img src="https://img.shields.io/github/stars/zaiic/pid_rs?style=social"/> : A fairly minimal PID controller implementation in Rust.
 
   - [josh-tracey/PIDController](https://github.com/josh-tracey/PIDController) <img src="https://img.shields.io/github/stars/josh-tracey/PIDController?style=social"/> : Rust PID Controller library. Rust Crate: [https://crates.io/crates/adriftdev_pid](https://crates.io/crates/adriftdev_pid)
 
@@ -991,7 +991,7 @@
 
   - [Rapier](https://github.com/dimforge/rapier) <img src="https://img.shields.io/github/stars/dimforge/rapier?style=social"/> : Rapier is a set of 2D and 3D physics engines for games, animation, and robotics. [rapier.rs](https://rapier.rs/)
 
-  - [bevy_rapier](https://github.com/dimforge/bevy_rapier) <img src="https://img.shields.io/github/stars/dimforge/bevy_rapier?style=social"/> : Official Rapier plugin for the Bevy game engine. 
+  - [bevy_rapier](https://github.com/dimforge/bevy_rapier) <img src="https://img.shields.io/github/stars/dimforge/bevy_rapier?style=social"/> : Official Rapier plugin for the Bevy game engine.
 
   - [Parry](https://github.com/dimforge/parry) <img src="https://img.shields.io/github/stars/dimforge/parry?style=social"/> : 2D and 3D collision-detection library for Rust. [parry.rs](https://parry.rs/)
 
@@ -1015,11 +1015,11 @@
 
   - [a11ywatch/crawler](https://github.com/a11ywatch/crawler) <img src="https://img.shields.io/github/stars/a11ywatch/crawler?style=social"/> : A [gRPC](https://grpc.io/) web indexer turbo charged for performance.
 
-  - [Antosser/web-crawler](https://github.com/Antosser/web-crawler) <img src="https://img.shields.io/github/stars/Antosser/web-crawler?style=social"/> : Rust Web Crawler that finds every page, image, and script on a website (and downloads it) 
+  - [Antosser/web-crawler](https://github.com/Antosser/web-crawler) <img src="https://img.shields.io/github/stars/Antosser/web-crawler?style=social"/> : Rust Web Crawler that finds every page, image, and script on a website (and downloads it)
 
   - [ravenxd0/crawler](https://github.com/ravenxd0/crawler) <img src="https://img.shields.io/github/stars/ravenxd0/crawler?style=social"/> : Web Crawler in Rust.
 
-  - [lonexw/rust-crawler](https://github.com/lonexw/rust-crawler) <img src="https://img.shields.io/github/stars/lonexw/rust-crawler?style=social"/> : A simple crawler, built with Rust lang. 
+  - [lonexw/rust-crawler](https://github.com/lonexw/rust-crawler) <img src="https://img.shields.io/github/stars/lonexw/rust-crawler?style=social"/> : A simple crawler, built with Rust lang.
 
   - [tawilkinson/rust_web_crawler](https://github.com/tawilkinson/rust_web_crawler) <img src="https://img.shields.io/github/stars/tawilkinson/rust_web_crawler?style=social"/> : A simple web crawler in rust.
 
@@ -1036,14 +1036,14 @@
   - [Actix](https://github.com/actix/actix-web) <img src="https://img.shields.io/github/stars/actix/actix-web?style=social"/> : Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust. [actix.rs](https://actix.rs/)
 
   - [Rocket](https://github.com/SergioBenitez/Rocket) <img src="https://img.shields.io/github/stars/SergioBenitez/Rocket?style=social"/> : A web framework for Rust. [rocket.rs](https://rocket.rs/)
-  
-  - [Poem](https://github.com/poem-web/poem) <img src="https://img.shields.io/github/stars/poem-web/poem?style=social"/> : A full-featured and easy-to-use web framework with the Rust programming language. 
+
+  - [Poem](https://github.com/poem-web/poem) <img src="https://img.shields.io/github/stars/poem-web/poem?style=social"/> : A full-featured and easy-to-use web framework with the Rust programming language.
 
   - [Salvo](https://github.com/salvo-rs/salvo) <img src="https://img.shields.io/github/stars/salvo-rs/salvo?style=social"/> : [Salvo](https://salvo.rs/) is a powerful and simplest web server framework in Rust world. [salvo.rs](https://salvo.rs/)
 
   - [Rouille](https://github.com/tomaka/rouille) <img src="https://img.shields.io/github/stars/tomaka/rouille?style=social"/> : Rouille, a Rust web micro-framework.
 
-  - [Leptos](https://github.com/leptos-rs/leptos) <img src="https://img.shields.io/github/stars/leptos-rs/leptos?style=social"/> : Build fast web applications with Rust. 
+  - [Leptos](https://github.com/leptos-rs/leptos) <img src="https://img.shields.io/github/stars/leptos-rs/leptos?style=social"/> : Build fast web applications with Rust.
 
   - [Farm](https://github.com/farm-fe/farm) <img src="https://img.shields.io/github/stars/farm-fe/farm?style=social"/> : Super fast web build tool written in Rust - 基于 Rust 的极速 web 构建引擎。 [farm-fe.github.io](https://farm-fe.github.io/)
 
@@ -1077,9 +1077,9 @@
 
   - [Sway](https://github.com/FuelLabs/sway) <img src="https://img.shields.io/github/stars/FuelLabs/sway?style=social"/> : 🌴 Empowering everyone to build reliable and efficient smart contracts. [ fuellabs.github.io/sway](https://fuellabs.github.io/sway)
 
-  - [FuelLabs/fuel-core](https://github.com/FuelLabs/fuel-core) <img src="https://img.shields.io/github/stars/FuelLabs/fuel-core?style=social"/> : Rust full node implementation of the Fuel v2 protocol. 
+  - [FuelLabs/fuel-core](https://github.com/FuelLabs/fuel-core) <img src="https://img.shields.io/github/stars/FuelLabs/fuel-core?style=social"/> : Rust full node implementation of the Fuel v2 protocol.
 
-  - [FuelLabs/fuel-rs](https://github.com/FuelLabs/fuels-rs) <img src="https://img.shields.io/github/stars/FuelLabs/fuel-rs?style=social"/> : Fuel Network Rust SDK. [fuellabs.github.io/fuels-rs](https://fuellabs.github.io/fuels-rs) 
+  - [FuelLabs/fuel-rs](https://github.com/FuelLabs/fuels-rs) <img src="https://img.shields.io/github/stars/FuelLabs/fuel-rs?style=social"/> : Fuel Network Rust SDK. [fuellabs.github.io/fuels-rs](https://fuellabs.github.io/fuels-rs)
 
   - [solana](https://github.com/solana-labs/solana) <img src="https://img.shields.io/github/stars/solana-labs/solana?style=social"/> : Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces. [solanalabs.com](https://solanalabs.com/)
 
@@ -1089,7 +1089,7 @@
 
   - [CreatorsDAO/all-in-one-solana](https://github.com/CreatorsDAO/all-in-one-solana) <img src="https://img.shields.io/github/stars/CreatorsDAO/all-in-one-solana?style=social"/> : All in One Solana.
 
-  - [MartinKavik/voting-solana-moonzoon](https://github.com/MartinKavik/voting-solana-moonzoon) <img src="https://img.shields.io/github/stars/MartinKavik/voting-solana-moonzoon?style=social"/> : The Voting example based on MoonZoon and Solana. 
+  - [MartinKavik/voting-solana-moonzoon](https://github.com/MartinKavik/voting-solana-moonzoon) <img src="https://img.shields.io/github/stars/MartinKavik/voting-solana-moonzoon?style=social"/> : The Voting example based on MoonZoon and Solana.
 
   - [NEAR Docs](https://docs.near.org/) : Welcome! This is the starting point for all the documentation in NEAR.
 
@@ -1113,9 +1113,9 @@
 
   - [rickhysis/vote-coffe-near](https://github.com/rickhysis/vote-coffe-near) <img src="https://img.shields.io/github/stars/rickhysis/vote-coffe-near?style=social"/> : This is smart contract example for vote the best coffe using NEAR Protocol ("NEAR" hereafter).
 
-  - [Dispa1r/Disp41r-Super-Voting-System](https://github.com/Dispa1r/Disp41r-Super-Voting-System) <img src="https://img.shields.io/github/stars/Dispa1r/Disp41r-Super-Voting-System?style=social"/> : a super super super voting system on near block chain :) 
+  - [Dispa1r/Disp41r-Super-Voting-System](https://github.com/Dispa1r/Disp41r-Super-Voting-System) <img src="https://img.shields.io/github/stars/Dispa1r/Disp41r-Super-Voting-System?style=social"/> : a super super super voting system on near block chain :)
 
-  - [flexabyte/near-vote](https://github.com/flexabyte/near-vote) <img src="https://img.shields.io/github/stars/flexabyte/near-vote?style=social"/> : A decentralized voting contract for NEAR protocol. 
+  - [flexabyte/near-vote](https://github.com/flexabyte/near-vote) <img src="https://img.shields.io/github/stars/flexabyte/near-vote?style=social"/> : A decentralized voting contract for NEAR protocol.
 
   - [YellingOilbird/choice](https://github.com/YellingOilbird/choice) <img src="https://img.shields.io/github/stars/YellingOilbird/choice?style=social"/> : NEAR smart contract for non-binary vote.
 
@@ -1126,7 +1126,7 @@
   - [Cairo](https://github.com/starkware-libs/cairo) <img src="https://img.shields.io/github/stars/starkware-libs/cairo?style=social"/> : Cairo is the first Turing-complete language for creating provable programs for general computation. ⚡ Blazing ⚡ fast ⚡ compiler for Cairo, written in 🦀 Rust 🦀
 
   - [cairo-book/cairo-book.github.io](https://github.com/cairo-book/cairo-book.github.io/) <img src="https://img.shields.io/github/stars/cairo-book/cairo-book.github.io/?style=social"/> : The Cairo Programming Language Book, a comprehensive documentation of the Cairo 1 programming language. [The Cairo Programming Language Book](https://book.cairo-lang.org/)
-  
+
   - [Orion](https://github.com/gizatechxyz/orion) <img src="https://img.shields.io/github/stars/gizatechxyz/orion?style=social"/> : Orion: An Open-source Framework for Validity and ZK ML ✨. ONNX Runtime in Cairo 1.0 for verifiable ML inference using STARK. [orion.gizatech.xyz](https://orion.gizatech.xyz/)
 
   - [franalgaba/neural-network-cairo](https://github.com/franalgaba/neural-network-cairo) <img src="https://img.shields.io/github/stars/franalgaba/neural-network-cairo?style=social"/> : Neural Network implementation from scratch for MNIST using Cairo 1.0.
@@ -1141,13 +1141,13 @@
 
   - [0xSpaceShard/starknet-devnet-rs](https://github.com/0xSpaceShard/starknet-devnet-rs) <img src="https://img.shields.io/github/stars/0xSpaceShard/starknet-devnet-rs?style=social"/> : A local testnet for Starknet... in Rust.
 
-  - [0xAsten/Starknet-Tech-Stacks-Mindmap](https://github.com/0xAsten/Starknet-Tech-Stacks-Mindmap) <img src="https://img.shields.io/github/stars/0xAsten/Starknet-Tech-Stacks-Mindmap?style=social"/> : This open collaboration project aims to explore and document the various technology stacks associated with Starknet. 
+  - [0xAsten/Starknet-Tech-Stacks-Mindmap](https://github.com/0xAsten/Starknet-Tech-Stacks-Mindmap) <img src="https://img.shields.io/github/stars/0xAsten/Starknet-Tech-Stacks-Mindmap?style=social"/> : This open collaboration project aims to explore and document the various technology stacks associated with Starknet.
 
   - [gakonst/ethers-rs](https://github.com/gakonst/ethers-rs) <img src="https://img.shields.io/github/stars/gakonst/ethers-rs?style=social"/> :  Complete Ethereum & Celo library and wallet implementation in Rust. [https://docs.rs/ethers](https://docs.rs/ethers/latest/ethers/)
 
-  - [move](https://github.com/move-language/move) <img src="https://img.shields.io/github/stars/move-language/move?style=social"/> : Move is a programming language for writing safe smart contracts originally developed at Facebook to power the Diem blockchain. 
+  - [move](https://github.com/move-language/move) <img src="https://img.shields.io/github/stars/move-language/move?style=social"/> : Move is a programming language for writing safe smart contracts originally developed at Facebook to power the Diem blockchain.
 
-  - [Sui](https://github.com/MystenLabs/sui) <img src="https://img.shields.io/github/stars/MystenLabs/sui?style=social"/> : Sui is a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the [Move programming language](https://github.com/MystenLabs/awesome-move). [sui.io](https://sui.io/) 
+  - [Sui](https://github.com/MystenLabs/sui) <img src="https://img.shields.io/github/stars/MystenLabs/sui?style=social"/> : Sui is a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the [Move programming language](https://github.com/MystenLabs/awesome-move). [sui.io](https://sui.io/)
 
   - [Rooch](https://github.com/rooch-network/rooch) <img src="https://img.shields.io/github/stars/rooch-network/rooch?style=social"/> : Rooch is a modular DApp container with the [Move language](https://github.com/move-language/move). [rooch.network](https://rooch.network/zh-CN)
 
@@ -1155,15 +1155,15 @@
 
   - [Galactic-Hub/cosmos-sdk-rs](https://github.com/Galactic-Hub/cosmos-sdk-rs) <img src="https://img.shields.io/github/stars/Galactic-Hub/cosmos-sdk-rs?style=social"/> : Cosmos SDK implement by Rust.
 
-  - [cosmos/ibc-rs](https://github.com/cosmos/ibc-rs) <img src="https://img.shields.io/github/stars/cosmos/ibc-rs?style=social"/> : Rust implementation of the Inter-Blockchain Communication (IBC) protocol. 
+  - [cosmos/ibc-rs](https://github.com/cosmos/ibc-rs) <img src="https://img.shields.io/github/stars/cosmos/ibc-rs?style=social"/> : Rust implementation of the Inter-Blockchain Communication (IBC) protocol.
 
-  - [Sovereign-Labs/sovereign-sdk](https://github.com/Sovereign-Labs/sovereign-sdk) <img src="https://img.shields.io/github/stars/Sovereign-Labs/sovereign-sdk?style=social"/> : A framework for building seamlessly scalable and interoperable rollups that can run on any blockchain. [sovereign.xyz](https://www.sovereign.xyz/) 
+  - [Sovereign-Labs/sovereign-sdk](https://github.com/Sovereign-Labs/sovereign-sdk) <img src="https://img.shields.io/github/stars/Sovereign-Labs/sovereign-sdk?style=social"/> : A framework for building seamlessly scalable and interoperable rollups that can run on any blockchain. [sovereign.xyz](https://www.sovereign.xyz/)
 
   - [octopus-network/near-ibc](https://github.com/octopus-network/near-ibc) <img src="https://img.shields.io/github/stars/octopus-network/near-ibc?style=social"/> : near smart contract implement ibc protocol.
 
   - [talent-verse/Jobs](https://github.com/talent-verse/Jobs) <img src="https://img.shields.io/github/stars/talent-verse/Jobs?style=social"/> : Web3, Blockchain, AI jobs.
 
-  - [wildonion/smarties](https://github.com/wildonion/smarties) <img src="https://img.shields.io/github/stars/wildonion/smarties?style=social"/> :  🍬 NEAR and Ethereum NFT Marketplace Smart Contracts 🍫 
+  - [wildonion/smarties](https://github.com/wildonion/smarties) <img src="https://img.shields.io/github/stars/wildonion/smarties?style=social"/> :  🍬 NEAR and Ethereum NFT Marketplace Smart Contracts 🍫
 
 
 
@@ -1196,7 +1196,7 @@
 ## GUI
 
   - ### GUI Framework
-    
+
     - [Tauri](https://github.com/tauri-apps/tauri) <img src="https://img.shields.io/github/stars/tauri-apps/tauri?style=social"/> : Build smaller, faster, and more secure desktop applications with a web frontend. [tauri.app](https://tauri.app/). Tauri is a framework for building tiny, blazingly fast binaries for all major desktop platforms. Developers can integrate any front-end framework that compiles to HTML, JS and CSS for building their user interface. The backend of the application is a rust-sourced binary with an API that the front-end can interact with.
 
     - [Pake](https://github.com/tw93/Pake) <img src="https://img.shields.io/github/stars/tw93/Pake?style=social"/> : 🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App.
@@ -1207,9 +1207,9 @@
 
     - [Dioxus](https://github.com/DioxusLabs/dioxus) <img src="https://img.shields.io/github/stars/DioxusLabs/dioxus?style=social"/> : Fullstack GUI library for desktop, web, mobile, and more. [dioxuslabs.com](https://dioxuslabs.com/)
 
-    - [Crux](https://github.com/redbadger/crux) <img src="https://img.shields.io/github/stars/redbadger/crux?style=social"/> : Cross-platform app development in Rust. [redbadger.github.io/crux/](https://redbadger.github.io/crux/)   
+    - [Crux](https://github.com/redbadger/crux) <img src="https://img.shields.io/github/stars/redbadger/crux?style=social"/> : Cross-platform app development in Rust. [redbadger.github.io/crux/](https://redbadger.github.io/crux/)
 
-    - [Makepad](https://github.com/makepad/makepad) <img src="https://img.shields.io/github/stars/makepad/makepad?style=social"/> : Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl. [makepad.dev/](https://makepad.dev/)   
+    - [Makepad](https://github.com/makepad/makepad) <img src="https://img.shields.io/github/stars/makepad/makepad?style=social"/> : Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl. [makepad.dev/](https://makepad.dev/)
 
     - [egui](https://github.com/emilk/egui) <img src="https://img.shields.io/github/stars/emilk/egui?style=social"/> : egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native.
 
@@ -1227,7 +1227,7 @@
 
     - [KDE/rust-qt-binding-generator](https://github.com/KDE/rust-qt-binding-generator) <img src="https://img.shields.io/github/stars/KDE/rust-qt-binding-generator?style=social"/> : Generate bindings to use Rust code in Qt and QML.
 
-    - [apertus-open-source-cinema/narui](https://github.com/apertus-open-source-cinema/narui) <img src="https://img.shields.io/github/stars/apertus-open-source-cinema/narui?style=social"/> : A react-inspired UI library for building multimedia desktop apps with rust and vulkan. 
+    - [apertus-open-source-cinema/narui](https://github.com/apertus-open-source-cinema/narui) <img src="https://img.shields.io/github/stars/apertus-open-source-cinema/narui?style=social"/> : A react-inspired UI library for building multimedia desktop apps with rust and vulkan.
 
     - [marc2332/freya](https://github.com/marc2332/freya) <img src="https://img.shields.io/github/stars/marc2332/freya?style=social"/> : Native GUI library for 🦀 Rust powered by 🧬 Dioxus and 🎨 Skia. [freyaui.dev/](https://freyaui.dev/)
 
@@ -1241,13 +1241,13 @@
 
       - [sandunwira/SupTube](https://github.com/sandunwira/SupTube) <img src="https://img.shields.io/github/stars/sandunwira/SupTube?style=social"/> : An open-source Windows client for YouTube. [suptube.repl.co](https://suptube.repl.co/)
 
-      - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) <img src="https://img.shields.io/github/stars/spieglt/FlyingCarpet?style=social"/> : File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range. 
+      - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) <img src="https://img.shields.io/github/stars/spieglt/FlyingCarpet?style=social"/> : File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
 
-      - [Minori-ty/mp4To4K-rust](https://github.com/Minori-ty/mp4To4K-rust) <img src="https://img.shields.io/github/stars/Minori-ty/mp4To4K-rust?style=social"/> : 使用Tauri做的一个将动漫视频转4K视频的软件。 
+      - [Minori-ty/mp4To4K-rust](https://github.com/Minori-ty/mp4To4K-rust) <img src="https://img.shields.io/github/stars/Minori-ty/mp4To4K-rust?style=social"/> : 使用Tauri做的一个将动漫视频转4K视频的软件。
 
       - [seiKiMo-Inc/Laudiolin](https://github.com/seiKiMo-Inc/Laudiolin) <img src="https://img.shields.io/github/stars/seiKiMo-Inc/Laudiolin?style=social"/> : A "high quality" music player written in TypeScript using Tauri and React.
 
-      - [kingwingfly/bilibili-downloader-rs](https://github.com/kingwingfly/bilibili-downloader-rs) <img src="https://img.shields.io/github/stars/kingwingfly/bilibili-downloader-rs?style=social"/> : Bilibili Downloader. A bilibili video downloader app built by Tauri, Vue and Rust! 
+      - [kingwingfly/bilibili-downloader-rs](https://github.com/kingwingfly/bilibili-downloader-rs) <img src="https://img.shields.io/github/stars/kingwingfly/bilibili-downloader-rs?style=social"/> : Bilibili Downloader. A bilibili video downloader app built by Tauri, Vue and Rust!
 
       - [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) <img src="https://img.shields.io/github/stars/pacholoamit/pachtop?style=social"/> : Cross-platform (Linux, WIndows, MacOS) Desktop GUI system monitor, built with Rust & Tauri.
 
@@ -1257,7 +1257,7 @@
 
       - [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) <img src="https://img.shields.io/github/stars/pot-app/pot-desktop?style=social"/> : 🌈一个跨平台的划词翻译软件 | A cross-platform translation software. [pot.pylogmon.com](https://pot.pylogmon.com/)
 
-      - [conaticus/FileExplorer](https://github.com/conaticus/FileExplorer) <img src="https://img.shields.io/github/stars/conaticus/FileExplorer?style=social"/> : Fast file explorer written with Tauri and React. 
+      - [conaticus/FileExplorer](https://github.com/conaticus/FileExplorer) <img src="https://img.shields.io/github/stars/conaticus/FileExplorer?style=social"/> : Fast file explorer written with Tauri and React.
 
       - [mxismean/image-tiny-tauri](https://github.com/mxismean/image-tiny-tauri) <img src="https://img.shields.io/github/starsmxismean/image-tiny-tauri?style=social"/> : Tauri 项目：图片压缩应用。一款小而美的图片压缩工具， 支持 png、jpg、gif 三种图片格式压缩。 该工具不依赖服务端，只需在客户端就可以完成压缩工作。您只需拖拽你的图片文件到该应用窗口即可。
 
@@ -1275,9 +1275,9 @@
 
       - [GaspardCulis/slint-tetris](https://github.com/GaspardCulis/slint-tetris) <img src="https://img.shields.io/github/stars/GaspardCulis/slint-tetris?style=social"/> : Tetris game made with Slint. [gaspardculis.github.io/slint-tetris/](https://gaspardculis.github.io/slint-tetris/)
 
-      - [MohaBeacon/slint-opencv](https://github.com/MohaBeacon/slint-opencv) <img src="https://img.shields.io/github/stars/MohaBeacon/slint-opencv?style=social"/> : slint-opencv. 
+      - [MohaBeacon/slint-opencv](https://github.com/MohaBeacon/slint-opencv) <img src="https://img.shields.io/github/stars/MohaBeacon/slint-opencv?style=social"/> : slint-opencv.
 
-      - [colelawrence/here-now](https://github.com/colelawrence/here-now) <img src="https://img.shields.io/github/stars/colelawrence/here-now?style=social"/> : A low-resource native app for sharing space with co-workers and friends. 
+      - [colelawrence/here-now](https://github.com/colelawrence/here-now) <img src="https://img.shields.io/github/stars/colelawrence/here-now?style=social"/> : A low-resource native app for sharing space with co-workers and friends.
 
       - [Ouam74/RUST_Real-time_plots_using_SLINT_and_PLOTTERS.rs](https://github.com/Ouam74/RUST_Real-time_plots_using_SLINT_and_PLOTTERS.rs) <img src="https://img.shields.io/github/stars/Ouam74/RUST_Real-time_plots_using_SLINT_and_PLOTTERS.rs?style=social"/> : RUST_Real-time_plots_using_SLINT_and_PLOTTERS.rs
 
