@@ -5,10 +5,8 @@
 
 ## Contents
 - [Awesome-Rust-List](#awesome-rust-list)
+  - [Contents](#contents)
   - [Summary](#summary)
-    - [Official Rust](#official-rust)
-    - [Awesome List](#awesome-list)
-    - [Learning Resources](#learning-resources)
   - [Data Structure and Algorithm](#data-structure-and-algorithm)
   - [Parallelism Library](#parallelism-library)
   - [Asynchronous Runtime](#asynchronous-runtime)
@@ -23,17 +21,7 @@
   - [FFI Bindings](#ffi-bindings)
   - [GPU Computing](#gpu-computing)
   - [Scientific Computation](#scientific-computation)
-    - [Numerical Calculation](#numerical-calculation)
-    - [Linear Algebra](#linear-algebra)
-    - [Lie Groups](#lie-groups)
-    - [Optimization Engine](#optimization-engine)
-    - [Finite Element Analysis](#finite-element-analysis)
-    - [Data Analysis and Visualization](#data-analysis-and-visualization)
   - [Machine Learning](#machine-learning)
-    - [Machine Learning Framework](#machine-learning-framework)
-    - [Large Language Model](#large-language-model)
-    - [Stable Diffusion](#stable-diffusion)
-    - [Object Detection](#object-detection)
   - [Shared Memory](#shared-memory)
   - [Remote Desktop](#remote-desktop)
   - [Date and Time](#date-and-time)
@@ -53,13 +41,9 @@
   - [Web Framework](#web-framework)
   - [RPC Framework](#rpc-framework)
   - [Web3 Framework](#web3-framework)
-  - [WebAssembly](#webAssembly)
+  - [WebAssembly](#webassembly)
   - [Graphics Library](#graphics-library)
   - [GUI](#gui)
-    - [GUI Framework](#gui-framework)
-    - [GUI Software](#gui-software)
-      - [Tauri-Related](#tauri-related)
-      - [Slint-Related](#slint-related)
   - [Blogs](#blogs)
 
 
@@ -1074,6 +1058,18 @@
 
 
 ## Web3 Framework
+
+  - [nostr](https://github.com/nostr-protocol/nostr) <img src="https://img.shields.io/github/stars/nostr-protocol/nostr?style=social"/> : a truly censorship-resistant alternative to Twitter that has a chance of working. The simplest open protocol that is able to create a censorship-resistant global "social" network once and for all.
+
+  - [awesome-nostr](https://github.com/aljazceru/awesome-nostr) <img src="https://img.shields.io/github/stars/aljazceru/awesome-nostr?style=social"/> : A curated list of nostr projects and resources. [www.nostr.net](https://www.nostr.net/)
+
+  - [Damus](https://github.com/damus-io/damus) <img src="https://img.shields.io/github/stars/damus-io/damus?style=social"/> : A twitter-like nostr client for iPhone, iPad and MacOS.
+
+  - [Amethyst](https://github.com/vitorpamplona/amethyst) <img src="https://img.shields.io/github/stars/vitorpamplona/amethyst?style=social"/> : Amethyst brings the best social network to your Android phone. Just insert your Nostr private key and start posting.
+
+  - [rust-nostr/nostr](https://github.com/rust-nostr/nostr) <img src="https://img.shields.io/github/stars/rust-nostr/nostr?style=social"/> : Nostr protocol implementation, SDK and FFI.
+
+  - [mikedilger/gossip](https://github.com/mikedilger/gossip) <img src="https://img.shields.io/github/stars/mikedilger/gossip?style=social"/> : Gossip is a desktop client for nostr.
 
   - [Sway](https://github.com/FuelLabs/sway) <img src="https://img.shields.io/github/stars/FuelLabs/sway?style=social"/> : 🌴 Empowering everyone to build reliable and efficient smart contracts. [ fuellabs.github.io/sway](https://fuellabs.github.io/sway)
 
