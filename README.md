@@ -1075,7 +1075,7 @@
 
   - [FuelLabs/fuel-core](https://github.com/FuelLabs/fuel-core) <img src="https://img.shields.io/github/stars/FuelLabs/fuel-core?style=social"/> : Rust full node implementation of the Fuel v2 protocol.
 
-  - [FuelLabs/fuel-rs](https://github.com/FuelLabs/fuels-rs) <img src="https://img.shields.io/github/stars/FuelLabs/fuel-rs?style=social"/> : Fuel Network Rust SDK. [fuellabs.github.io/fuels-rs](https://fuellabs.github.io/fuels-rs)
+  - [FuelLabs/fuels-rs](https://github.com/FuelLabs/fuels-rs) <img src="https://img.shields.io/github/stars/FuelLabs/fuels-rs?style=social"/> : Fuel Network Rust SDK. [fuellabs.github.io/fuels-rs](https://fuellabs.github.io/fuels-rs)
 
   - [solana](https://github.com/solana-labs/solana) <img src="https://img.shields.io/github/stars/solana-labs/solana?style=social"/> : Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces. [solanalabs.com](https://solanalabs.com/)
 
@@ -1084,6 +1084,8 @@
   - [CreatorsDAO/awesome-learn-solana](https://github.com/CreatorsDAO/awesome-learn-solana) <img src="https://img.shields.io/github/stars/CreatorsDAO/awesome-learn-solana?style=social"/> : awesome-learn-solana.
 
   - [CreatorsDAO/all-in-one-solana](https://github.com/CreatorsDAO/all-in-one-solana) <img src="https://img.shields.io/github/stars/CreatorsDAO/all-in-one-solana?style=social"/> : All in One Solana.
+
+  - [CleverProgrammers/facebook-solana-blockchain](https://github.com/CleverProgrammers/facebook-solana-blockchain) <img src="https://img.shields.io/github/stars/CleverProgrammers/facebook-solana-blockchain?style=social"/> : Build Facebook 3.0 on Blockchain with Solana | Next.js | Netlify | Sanity.io.
 
   - [MartinKavik/voting-solana-moonzoon](https://github.com/MartinKavik/voting-solana-moonzoon) <img src="https://img.shields.io/github/stars/MartinKavik/voting-solana-moonzoon?style=social"/> : The Voting example based on MoonZoon and Solana.
 
