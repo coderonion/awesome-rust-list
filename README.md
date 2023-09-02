@@ -7,6 +7,7 @@
 - [Awesome-Rust-List](#awesome-rust-list)
   - [Contents](#contents)
   - [Summary](#summary)
+    - [Official Rust](#official-rust)
   - [Data Structure and Algorithm](#data-structure-and-algorithm)
   - [Parallelism Library](#parallelism-library)
   - [Asynchronous Runtime](#asynchronous-runtime)
@@ -713,6 +714,9 @@
 
     - [shafishlabs/llmchain-rs](https://github.com/shafishlabs/llmchain-rs) <img src="https://img.shields.io/github/stars/shafishlabs/llmchain-rs?style=social"/> : 🦀Rust + Large Language Models - Make AI Services Freely and Easily. Inspired by LangChain.
 
+    - [flaneur2020/llama2.rs](https://github.com/flaneur2020/llama2.rs) <img src="https://img.shields.io/github/stars/flaneur2020/llama2.rs?style=social"/> : An rust reimplementatin of [https://github.com/karpathy/llama2.c](https://github.com/karpathy/llama2.c).
+
+
 
 
 
@@ -867,6 +871,8 @@
   - [image-rs/imageproc](https://github.com/image-rs/imageproc) <img src="https://img.shields.io/github/stars/image-rs/imageproc?style=social"/> : An image processing library, based on the [image](https://github.com/image-rs/image) library.
 
   - [zshipko/image2-rs](https://github.com/zshipko/image2-rs) <img src="https://img.shields.io/github/stars/zshipko/image2-rs?style=social"/> : A Rust crate focused on generic image processing for a wide range of image formats and data types.
+
+  - [WebRTC.rs](https://github.com/webrtc-rs/webrtc) <img src="https://img.shields.io/github/stars/webrtc-rs/webrtc?style=social"/> : A pure Rust implementation of WebRTC. [webrtc.rs](https://webrtc.rs/)
 
   - [zmwangx/rust-ffmpeg](https://github.com/zmwangx/rust-ffmpeg) <img src="https://img.shields.io/github/stars/zmwangx/rust-ffmpeg?style=social"/> : Safe FFmpeg wrapper.
 
@@ -1316,6 +1322,46 @@
     - [2023-06-22，[Rust招聘] 国家智能网联汽车创新中心Rust工程师招聘（车载操作系统）](https://mp.weixin.qq.com/s/dB45f4ty-Ag-XkmggJ6RNQ)
     - [2023-07-14，邀请您参加有偿的Unsafe Rust调研](https://mp.weixin.qq.com/s/6ZJu0vmlNabbyMGD7QCK9A)
     - [2023-08-10，【Rust招聘】【理想汽车】rust高级开发工程师（35K-50K）](https://mp.weixin.qq.com/s/n7RfhW5NyhAlwcD2xJjgFQ)
+  - 微信公众号「Rust学习日记」
+    - [2022-08-13，【Rust 中级教程】 01 泛型](https://mp.weixin.qq.com/s/jbrgdfLTWOFsh42-CHHuEw)
+    - [2022-08-20，【Rust 中级教程】 02 结构体与泛型](https://mp.weixin.qq.com/s/P_weMIXLaULXzlQRlWcRIw)
+    - [2022-09-04，【Rust 中级教程】 03 trait (1)](https://mp.weixin.qq.com/s/f05ygOwUzBlj5gFblB0rgw)
+    - [2022-09-10，【Rust 中级教程】 04 trait (2)](https://mp.weixin.qq.com/s/f05ygOwUzBlj5gFblB0rgw)
+    - [2022-09-18，【Rust 中级教程】 04 trait (3)](https://mp.weixin.qq.com/s/ucRjbLb4wwe5S-ilyGbQeg)
+    - [2022-09-24，【Rust 中级教程】 06 trait (4)](https://mp.weixin.qq.com/s/8HBKVwF2gkwYUndrBd49QA)
+    - [2022-10-01，【Rust 中级教程】 07 内存](https://mp.weixin.qq.com/s/4su0oZGHPmjHJbsuT4iJYg)
+    - [2022-10-16，【Rust 中级教程】 08 所有权（1）](https://mp.weixin.qq.com/s/RFIOCVDUBdmcBus3hktwqA)
+    - [2022-10-22，【Rust 中级教程】 09 所有权（2）](https://mp.weixin.qq.com/s/KMjMlOJ4zTHA7LY-3FEV-Q)
+    - [2022-10-29，【Rust 中级教程】 10 所有权（3）](https://mp.weixin.qq.com/s/h3oND4-ORGoYp_ipiw01Mg)
+    - [2022-11-05，【Rust 中级教程】 11 所有权与trait（4）](https://mp.weixin.qq.com/s/dOKhrmO0a3R1-ZRIm9ocnw)
+    - [2022-11-12，【Rust 中级教程】 12 共享所有权](https://mp.weixin.qq.com/s/ab6VJ9A6GKfTzueczLSpjw)
+    - [2022-11-19，【Rust 中级教程】 13 引用与借用（1）](https://mp.weixin.qq.com/s/qsI9cMBWKQD8SKl28ZwteQ)
+    - [2022-11-26，【Rust 中级教程】 14 引用与借用（2）](https://mp.weixin.qq.com/s/gbYnu1-_vgSluceI-6d50A)
+    - [2022-12-17，【Rust 中级教程】 15 引用与借用（3）](https://mp.weixin.qq.com/s/KMf-lRojjdCwzG2WH_exfw)
+    - [2022-12-24，Rust 中级教程 第16课——引用的 lifetime（1）](https://mp.weixin.qq.com/s/lWJzvHFbnxLfUoVEXV9new)
+    - [2023-01-07，Rust 中级教程 第17课——引用的 lifetime（2）](https://mp.weixin.qq.com/s/jjy0oIHgAwd_tQbJdugjqQ)
+    - [2023-01-14，Rust 中级教程 第18课——trait object （1）](https://mp.weixin.qq.com/s/gg4BgH09NcmB_Y46v4F5dA)
+    - [2023-02-04，Rust 中级教程 第19课——trait object （2）](https://mp.weixin.qq.com/s/84n4UugKD8a-uPkonaevIQ)
+    - [2023-02-18，Rust 中级教程 第20课——Box](https://mp.weixin.qq.com/s/-15jAC241ZaK85J-AOcJxw)
+    - [2023-02-25，Rust 中级教程 第21课——Drop trait](https://mp.weixin.qq.com/s/hQFrfnbuQADS0nS0pA9p9A)
+    - [2023-03-04，Rust 中级教程 第22课——内部可变性（1）](https://mp.weixin.qq.com/s/fDqac5K4UswoW3qe9r5Row)
+    - [2023-03-11，Rust 中级教程 第23课——内部可变性（2）](https://mp.weixin.qq.com/s/K952XivQ0_-EJLrlBIqT1Q)
+    - [2023-03-18，​Rust 中级教程 第24课——下划线（Underscore）](https://mp.weixin.qq.com/s/Iy_x_4j6oBeBUDEtx-XDwg)
+    - [2023-04-01，【Rust 进阶教程】 01 闭包与所有权](https://mp.weixin.qq.com/s/KiOD7my7CpT-jEcB8LGcqA)
+    - [2023-04-08，【Rust 进阶教程】 02 详解迭代器（1）](https://mp.weixin.qq.com/s/wQ0w_z1FpOujm9T7tLGfLQ)
+    - [2023-04-15，【Rust 进阶教程】 03 详解迭代器（2）](https://mp.weixin.qq.com/s/ajP-Kamwdd7vUjKyaVT8Hw)
+    - [2023-04-22，【Rust 进阶教程】 04 并发编程](https://mp.weixin.qq.com/s/7BMNmVmkhXkXKyii6wuoIQ)
+    - [2023-05-06，【Rust 进阶教程】 05 通道](https://mp.weixin.qq.com/s/HovHf5a5bp2mzyG0yN5Eow)
+    - [2023-05-13，Rust 进阶教程 第6课——线程安全](https://mp.weixin.qq.com/s/uLWFiUXjCY--SccpjD8KSg)
+    - [2023-05-21，【Rust 实战】Rust 与 Python 交互](https://mp.weixin.qq.com/s/X6fZiCuxAGxV0TC4o75yDw)
+    - [2023-06-04，【Rust 进阶教程】 07 Mutex](https://mp.weixin.qq.com/s/GGcx4BE-c2nn831mYwWZ8Q)
+    - [2023-07-30，Rust 进阶教程 第8课——读写锁](https://mp.weixin.qq.com/s/5ic6XOEjNREJlPJDjAIW5g)
+    - [2023-08-05，【Rust 进阶教程】 09 原子类型](https://mp.weixin.qq.com/s/6yEdjJHBISj1PxBJe7OAog)
+    - [2023-08-12，【Rust 进阶教程】10 操作符重载](https://mp.weixin.qq.com/s/b0B4PpJ7G-Wy2QifJVdLDA)
+    - [2023-08-19，【【Rust 进阶教程】 11 错误处理 - panic](https://mp.weixin.qq.com/s/v60Z_1MzvAGaKBOHySsFXA)
+    - [2023-08-26，【【Rust 进阶教程】12 错误处理 - Result](https://mp.weixin.qq.com/s/5-3BUVLb7MGLmhtCS1PaDQ)
+    - [2023-08-30，【Rust-SlintUI教程】01 Hello Slint UI](https://mp.weixin.qq.com/s/suz_zn3IL0f74DiTueQ2jA)
+    - [2023-09-02，【Rust-SlintUI教程】02 初识 Slint UI ](https://mp.weixin.qq.com/s/x91Zwx-Taue3xOZnDAjoyg)
   - 微信公众号「兔子写代码」
     - [2023-03-17，Rust 闲聊 | Rust 语言真的会是未来吗？](https://mp.weixin.qq.com/s/wYQYxpR2YA0Q9rI1WezJVw)
     - [2023-03-21，彻底搞懂 Rust 的宏（一）：简介](https://mp.weixin.qq.com/s/lEJaLsHgjdoF6IZmIspS-w)
@@ -1333,16 +1379,6 @@
     - [2023-08-11，Rust 笔记 | 迭代器的适配器：flatten](https://mp.weixin.qq.com/s/bHRK87RIOntu7iUNu0q8IQ)
     - [2023-08-16，Rust 笔记 | 迭代器的适配器：take 和 take_while](https://mp.weixin.qq.com/s/sXGdXR-btTUxb5Wx8pMBfQ)
     - [2023-08-18，Rust 笔记 | 迭代器的适配器：skip 和 skip_while](https://mp.weixin.qq.com/s/2swrychEVzGTt6UqvrdBgA)
-  - 微信公众号「Rust学习日记」
-    - [2023-04-01，【Rust 进阶教程】 01 闭包与所有权](https://mp.weixin.qq.com/s/KiOD7my7CpT-jEcB8LGcqA)
-    - [2023-04-08，【Rust 进阶教程】 02 详解迭代器（1）](https://mp.weixin.qq.com/s/wQ0w_z1FpOujm9T7tLGfLQ)
-    - [2023-04-15，【Rust 进阶教程】 03 详解迭代器（2）](https://mp.weixin.qq.com/s/ajP-Kamwdd7vUjKyaVT8Hw)
-    - [2023-04-22，【Rust 进阶教程】 04 并发编程](https://mp.weixin.qq.com/s/7BMNmVmkhXkXKyii6wuoIQ)
-    - [2023-05-06，【Rust 进阶教程】 05 通道](https://mp.weixin.qq.com/s/HovHf5a5bp2mzyG0yN5Eow)
-    - [2023-05-13，Rust 进阶教程 第6课——线程安全](https://mp.weixin.qq.com/s/uLWFiUXjCY--SccpjD8KSg)
-    - [2023-05-21，【Rust 实战】Rust 与 Python 交互](https://mp.weixin.qq.com/s/X6fZiCuxAGxV0TC4o75yDw)
-    - [2023-06-04，【Rust 进阶教程】 07 Mutex](https://mp.weixin.qq.com/s/GGcx4BE-c2nn831mYwWZ8Q)
-    - [2023-07-30，Rust 进阶教程 第8课——读写锁](https://mp.weixin.qq.com/s/5ic6XOEjNREJlPJDjAIW5g)
   - 微信公众号「706青年空间」
     - [2023-05-26，Rust 共学招募 | 跨越 Web2 与 Web3 深入底层重构世界](https://mp.weixin.qq.com/s/xVXDyYcfwH6UscoNt9uUPA)
     - [2023-07-27，Rust 共学第一期结束！七个项目参与最终 Demo Day 分享](https://mp.weixin.qq.com/s/hoJfHqWYod0uRJd9nkKmvA)
