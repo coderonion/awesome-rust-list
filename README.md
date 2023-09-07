@@ -578,6 +578,8 @@
 
   - ### Object Detection
 
+    - [sjinzh/yolov5-rs-app](https://github.com/sjinzh/yolov5-rs-app) <img src="https://img.shields.io/github/stars/sjinzh/yolov5-rs-app?style=social"/> : A inference framework with GUI for YOLOv5 written in Rust.
+
     - [pnn](https://github.com/ptaxom/pnn) <img src="https://img.shields.io/github/stars/ptaxom/pnn?style=social"/> : pnn is [Darknet](https://github.com/alexeyAB/darknet) compatible neural nets inference engine implemented in Rust. By optimizing was achieved significant performance increment(especially in FP16 mode). pnn provide CUDNN-based and TensorRT-based inference engines.
 
     - [bencevans/rust-opencv-yolov5](https://github.com/bencevans/rust-opencv-yolov5) <img src="https://img.shields.io/github/stars/bencevans/rust-opencv-yolov5?style=social"/> : YOLOv5 Inference with ONNX & OpenCV in Rust.
@@ -603,6 +605,8 @@
     - [laclouis5/globox-rs](https://github.com/laclouis5/globox-rs) <img src="https://img.shields.io/github/stars/laclouis5/globox-rs?style=social"/> : Object detection toolbox for parsing, converting and evaluating bounding box annotations.
 
     - [metobom/tchrs-opencv-webcam-inference](https://github.com/metobom/tchrs-opencv-webcam-inference) <img src="https://img.shields.io/github/stars/metobom/tchrs-opencv-webcam-inference?style=social"/> : This example shows steps for running a Python trained model on webcam feed with opencv and tch-rs. Model will run on GPU.
+
+
 
 
 
@@ -1047,13 +1051,13 @@
 
   - [Axum](https://github.com/tokio-rs/axum) <img src="https://img.shields.io/github/stars/tokio-rs/axum?style=social"/> : Ergonomic and modular web framework built with Tokio, Tower, and Hyper.
 
+  - [Salvo](https://github.com/salvo-rs/salvo) <img src="https://img.shields.io/github/stars/salvo-rs/salvo?style=social"/> : [Salvo](https://salvo.rs/) is a powerful and simplest web server framework in Rust world. [salvo.rs](https://salvo.rs/)
+  
   - [Actix](https://github.com/actix/actix-web) <img src="https://img.shields.io/github/stars/actix/actix-web?style=social"/> : Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust. [actix.rs](https://actix.rs/)
 
   - [Rocket](https://github.com/SergioBenitez/Rocket) <img src="https://img.shields.io/github/stars/SergioBenitez/Rocket?style=social"/> : A web framework for Rust. [rocket.rs](https://rocket.rs/)
 
   - [Poem](https://github.com/poem-web/poem) <img src="https://img.shields.io/github/stars/poem-web/poem?style=social"/> : A full-featured and easy-to-use web framework with the Rust programming language.
-
-  - [Salvo](https://github.com/salvo-rs/salvo) <img src="https://img.shields.io/github/stars/salvo-rs/salvo?style=social"/> : [Salvo](https://salvo.rs/) is a powerful and simplest web server framework in Rust world. [salvo.rs](https://salvo.rs/)
 
   - [Rouille](https://github.com/tomaka/rouille) <img src="https://img.shields.io/github/stars/tomaka/rouille?style=social"/> : Rouille, a Rust web micro-framework.
 
@@ -1401,7 +1405,8 @@
     - [2023-08-19，【【Rust 进阶教程】 11 错误处理 - panic](https://mp.weixin.qq.com/s/v60Z_1MzvAGaKBOHySsFXA)
     - [2023-08-26，【【Rust 进阶教程】12 错误处理 - Result](https://mp.weixin.qq.com/s/5-3BUVLb7MGLmhtCS1PaDQ)
     - [2023-08-30，【Rust-SlintUI教程】01 Hello Slint UI](https://mp.weixin.qq.com/s/suz_zn3IL0f74DiTueQ2jA)
-    - [2023-09-02，【Rust-SlintUI教程】02 初识 Slint UI ](https://mp.weixin.qq.com/s/x91Zwx-Taue3xOZnDAjoyg)
+    - [2023-09-02，【Rust-SlintUI教程】02 初识 Slint UI](https://mp.weixin.qq.com/s/x91Zwx-Taue3xOZnDAjoyg)
+    - [2023-09-06，【【Rust-SlintUI教程】03 元素与标识符](https://mp.weixin.qq.com/s/6QV6Fq9yMpiRHlV-GT6eLg)
   - 微信公众号「兔子写代码」
     - [2023-03-17，Rust 闲聊 | Rust 语言真的会是未来吗？](https://mp.weixin.qq.com/s/wYQYxpR2YA0Q9rI1WezJVw)
     - [2023-03-21，彻底搞懂 Rust 的宏（一）：简介](https://mp.weixin.qq.com/s/lEJaLsHgjdoF6IZmIspS-w)
@@ -1425,6 +1430,7 @@
     - [2023-08-15，Solana 共学招募 | 聚集 Rust 开发者，一起组队黑客松](https://mp.weixin.qq.com/s/Zxf5UfLTvd7S6OFXcXjL_g)
   - 微信公众号「总有一点知识你需要」
     - [2023-04-09，[翻译] 在2023年，每个学习Rust的人都应该知道的资源](https://mp.weixin.qq.com/s/9lLKBkn2qEOieFGrysWs5A)
+    - [2023-09-06，什么是Anchor](https://mp.weixin.qq.com/s/sQpoSi7saTs1uhr0Mbnw7w)
   - 微信公众号「CSDN」
     - [2021-03-24，底层I/O性能大PK：Python/Java被碾压，Rust有望取代C++](https://mp.weixin.qq.com/s/P3Wbw9diEg2xKryUG0KtTQ)
     - [2021-11-09，为什么 Rust 是编程的未来？](https://mp.weixin.qq.com/s/MVQkTjbAACYN6CjFKVjWPw)
