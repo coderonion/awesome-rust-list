@@ -64,6 +64,7 @@
     - [GUI Software](#gui-framework)
         - [Tauri-Related](#tauri-related)
         - [Slint-Related](#slint-related)
+        - [Makepad-Related](#makepad-related)
   - [Blogs](#blogs)
 
 
@@ -1052,7 +1053,7 @@
   - [Axum](https://github.com/tokio-rs/axum) <img src="https://img.shields.io/github/stars/tokio-rs/axum?style=social"/> : Ergonomic and modular web framework built with Tokio, Tower, and Hyper.
 
   - [Salvo](https://github.com/salvo-rs/salvo) <img src="https://img.shields.io/github/stars/salvo-rs/salvo?style=social"/> : [Salvo](https://salvo.rs/) is a powerful and simplest web server framework in Rust world. [salvo.rs](https://salvo.rs/)
-  
+
   - [Actix](https://github.com/actix/actix-web) <img src="https://img.shields.io/github/stars/actix/actix-web?style=social"/> : Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust. [actix.rs](https://actix.rs/)
 
   - [Rocket](https://github.com/SergioBenitez/Rocket) <img src="https://img.shields.io/github/stars/SergioBenitez/Rocket?style=social"/> : A web framework for Rust. [rocket.rs](https://rocket.rs/)
@@ -1244,9 +1245,9 @@
 
         - [slint-ui/slint-rust-template](https://github.com/slint-ui/slint-rust-template) <img src="https://img.shields.io/github/stars/slint-ui/slint?style=social"/> : A template for a Rust Application using Slint. This is meant to be used with cargo-generate. [slint.dev](https://slint.dev/)
 
-        - [Dioxus](https://github.com/DioxusLabs/dioxus) <img src="https://img.shields.io/github/stars/DioxusLabs/dioxus?style=social"/> : Fullstack GUI library for desktop, web, mobile, and more. [dioxuslabs.com](https://dioxuslabs.com/)
-
         - [Makepad](https://github.com/makepad/makepad) <img src="https://img.shields.io/github/stars/makepad/makepad?style=social"/> : Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl. [makepad.dev/](https://makepad.dev/)
+
+        - [Dioxus](https://github.com/DioxusLabs/dioxus) <img src="https://img.shields.io/github/stars/DioxusLabs/dioxus?style=social"/> : Fullstack GUI library for desktop, web, mobile, and more. [dioxuslabs.com](https://dioxuslabs.com/)
 
         - [egui](https://github.com/emilk/egui) <img src="https://img.shields.io/github/stars/emilk/egui?style=social"/> : egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native.
 
@@ -1340,10 +1341,15 @@
       - [Berrysoft/tunet-rust](https://github.com/Berrysoft/tunet-rust) <img src="https://img.shields.io/github/stars/Berrysoft/tunet-rust?style=social"/> : 清华大学校园网 Rust 库与客户端。
 
 
+    - #### Makepad-Related
 
+      - [mobilerust/makepad_wechat](https://github.com/mobilerust/makepad_wechat) <img src="https://img.shields.io/github/stars/mobilerust/makepad_wechat?style=social"/> : WeChat-like application implemented with Makepad.
 
+      - [mobilerust/makepad_taobao](https://github.com/mobilerust/makepad_taobao) <img src="https://img.shields.io/github/stars/mobilerust/makepad_taobao?style=social"/> : makepad_taobao.
 
+      - [mobilerust/makepad_social_media_feed](https://github.com/mobilerust/makepad_social_media_feed) <img src="https://img.shields.io/github/stars/mobilerust/makepad_social_media_feed?style=social"/> : Example app of a social media feed for mobile applications, using makepad.
 
+      - [mobilerust/todo_makepad](https://github.com/mobilerust/todo_makepad) <img src="https://img.shields.io/github/stars/mobilerust/todo_makepad?style=social"/> : Example TODO app built with Makepad.
 
 
 
