@@ -1341,6 +1341,8 @@
       - [Berrysoft/tunet-rust](https://github.com/Berrysoft/tunet-rust) <img src="https://img.shields.io/github/stars/Berrysoft/tunet-rust?style=social"/> : 清华大学校园网 Rust 库与客户端。
 
 
+
+
     - #### Makepad-Related
 
       - [mobilerust/makepad_wechat](https://github.com/mobilerust/makepad_wechat) <img src="https://img.shields.io/github/stars/mobilerust/makepad_wechat?style=social"/> : WeChat-like application implemented with Makepad.
@@ -1350,11 +1352,6 @@
       - [mobilerust/makepad_social_media_feed](https://github.com/mobilerust/makepad_social_media_feed) <img src="https://img.shields.io/github/stars/mobilerust/makepad_social_media_feed?style=social"/> : Example app of a social media feed for mobile applications, using makepad.
 
       - [mobilerust/todo_makepad](https://github.com/mobilerust/todo_makepad) <img src="https://img.shields.io/github/stars/mobilerust/todo_makepad?style=social"/> : Example TODO app built with Makepad.
-
-
-
-
-
 
 
 
