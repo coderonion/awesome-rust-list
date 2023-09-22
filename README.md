@@ -62,8 +62,9 @@
         - [Desktop APP Development](#desktop-app-development)
         - [Mobile APP Development](#mobile-app-development)
     - [GUI Software](#gui-framework)
-        - [Tauri-Related](#tauri-related)
+        - [Dioxus-Related](#dioxus-related)
         - [Slint-Related](#slint-related)
+        - [Tauri-Related](#tauri-related)
         - [Makepad-Related](#makepad-related)
   - [Blogs](#blogs)
 
@@ -712,6 +713,8 @@
 
   - [micro-ROS for Arduino](https://github.com/micro-ROS/micro_ros_arduino) <img src="https://img.shields.io/github/stars/micro-ROS/micro_ros_arduino?style=social"/> : micro-ROS library for Arduino.
 
+  - [dora-rs](https://github.com/dora-rs/dora) <img src="https://img.shields.io/github/stars/dora-rs/dora?style=social"/> : In 2023, AI is booming! Robotic framework however hasn't changed much in years... This is why we create dora-rs! dora-rs is a new robotic framework that brings modernity into robotic application. dora goal is to be a low latency, composable, and distributed data flow. [dora.carsmos.ai](https://dora.carsmos.ai/)
+
   - [openrr](https://github.com/openrr/openrr) <img src="https://img.shields.io/github/stars/openrr/openrr?style=social"/> : Open Rust Robotics. OpenRR (pronounced like "opener") is Open Rust Robotics platform.
 
   - [rosrust](https://github.com/adnanademovic/rosrust) <img src="https://img.shields.io/github/stars/adnanademovic/rosrust?style=social"/> : rosrust is a pure Rust implementation of a [ROS](https://www.ros.org/) client library.
@@ -1237,17 +1240,19 @@
 
     - #### Desktop APP Development
 
-        - [Tauri](https://github.com/tauri-apps/tauri) <img src="https://img.shields.io/github/stars/tauri-apps/tauri?style=social"/> : Build smaller, faster, and more secure desktop applications with a web frontend. [tauri.app](https://tauri.app/). Tauri is a framework for building tiny, blazingly fast binaries for all major desktop platforms. Developers can integrate any front-end framework that compiles to HTML, JS and CSS for building their user interface. The backend of the application is a rust-sourced binary with an API that the front-end can interact with.
+        - [Dioxus](https://github.com/DioxusLabs/dioxus) <img src="https://img.shields.io/github/stars/DioxusLabs/dioxus?style=social"/> : Fullstack GUI library for desktop, web, mobile, and more. [dioxuslabs.com](https://dioxuslabs.com/)
 
-        - [Pake](https://github.com/tw93/Pake) <img src="https://img.shields.io/github/stars/tw93/Pake?style=social"/> : 🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App.
+        - [marc2332/freya](https://github.com/marc2332/freya) <img src="https://img.shields.io/github/stars/marc2332/freya?style=social"/> : Native GUI library for 🦀 Rust powered by 🧬 Dioxus and 🎨 Skia. [freyaui.dev/](https://freyaui.dev/)
 
         - [Slint](https://github.com/slint-ui/slint) <img src="https://img.shields.io/github/stars/slint-ui/slint?style=social"/> : Slint is a declarative GUI toolkit to build native user interfaces for applications that are written in Rust, C++, or JavaScript. [slint.dev](https://slint.dev/)
 
         - [slint-ui/slint-rust-template](https://github.com/slint-ui/slint-rust-template) <img src="https://img.shields.io/github/stars/slint-ui/slint?style=social"/> : A template for a Rust Application using Slint. This is meant to be used with cargo-generate. [slint.dev](https://slint.dev/)
 
-        - [Makepad](https://github.com/makepad/makepad) <img src="https://img.shields.io/github/stars/makepad/makepad?style=social"/> : Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl. [makepad.dev/](https://makepad.dev/)
+        - [Tauri](https://github.com/tauri-apps/tauri) <img src="https://img.shields.io/github/stars/tauri-apps/tauri?style=social"/> : Build smaller, faster, and more secure desktop applications with a web frontend. [tauri.app](https://tauri.app/). Tauri is a framework for building tiny, blazingly fast binaries for all major desktop platforms. Developers can integrate any front-end framework that compiles to HTML, JS and CSS for building their user interface. The backend of the application is a rust-sourced binary with an API that the front-end can interact with.
 
-        - [Dioxus](https://github.com/DioxusLabs/dioxus) <img src="https://img.shields.io/github/stars/DioxusLabs/dioxus?style=social"/> : Fullstack GUI library for desktop, web, mobile, and more. [dioxuslabs.com](https://dioxuslabs.com/)
+        - [Pake](https://github.com/tw93/Pake) <img src="https://img.shields.io/github/stars/tw93/Pake?style=social"/> : 🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App.
+
+        - [Makepad](https://github.com/makepad/makepad) <img src="https://img.shields.io/github/stars/makepad/makepad?style=social"/> : Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl. [makepad.dev/](https://makepad.dev/)
 
         - [egui](https://github.com/emilk/egui) <img src="https://img.shields.io/github/stars/emilk/egui?style=social"/> : egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native.
 
@@ -1267,15 +1272,14 @@
 
         - [apertus-open-source-cinema/narui](https://github.com/apertus-open-source-cinema/narui) <img src="https://img.shields.io/github/stars/apertus-open-source-cinema/narui?style=social"/> : A react-inspired UI library for building multimedia desktop apps with rust and vulkan.
 
-        - [marc2332/freya](https://github.com/marc2332/freya) <img src="https://img.shields.io/github/stars/marc2332/freya?style=social"/> : Native GUI library for 🦀 Rust powered by 🧬 Dioxus and 🎨 Skia. [freyaui.dev/](https://freyaui.dev/)
 
 
 
     - #### Mobile APP Development
 
-        - [flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge) <img src="https://img.shields.io/github/stars/fzyzcjy/flutter_rust_bridge?style=social"/> : High-level memory-safe binding generator for Flutter/Dart <-> Rust. [fzyzcjy.github.io/flutter_rust_bridge/](https://cjycode.com/flutter_rust_bridge/)
-
         - [Rust-In-Flutter](https://github.com/cunarist/rust-in-flutter) <img src="https://img.shields.io/github/stars/cunarist/rust-in-flutter?style=social"/> : Rust as your Flutter backend, Flutter as your Rust frontend.
+
+        - [flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge) <img src="https://img.shields.io/github/stars/fzyzcjy/flutter_rust_bridge?style=social"/> : High-level memory-safe binding generator for Flutter/Dart <-> Rust. [fzyzcjy.github.io/flutter_rust_bridge/](https://cjycode.com/flutter_rust_bridge/)
 
         - [Crux](https://github.com/redbadger/crux) <img src="https://img.shields.io/github/stars/redbadger/crux?style=social"/> : Cross-platform app development in Rust. [redbadger.github.io/crux/](https://redbadger.github.io/crux/)
 
@@ -1286,33 +1290,25 @@
 
   - ### GUI Software
 
-    - #### Tauri-Related
+    - #### Dioxus-Related
 
-      - [sandunwira/SupTube](https://github.com/sandunwira/SupTube) <img src="https://img.shields.io/github/stars/sandunwira/SupTube?style=social"/> : An open-source Windows client for YouTube. [suptube.repl.co](https://suptube.repl.co/)
+      - [Dioxus 中文网](https://www.dioxus.cn/) : 帮助您快速构建可靠的用户界面程序。
 
-      - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) <img src="https://img.shields.io/github/stars/spieglt/FlyingCarpet?style=social"/> : File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
+      - [DioxusLabs/awesome-dioxus](https://github.com/DioxusLabs/awesome-dioxus) <img src="https://img.shields.io/github/stars/DioxusLabs/awesome-dioxus?style=social"/> : An awesome list of Dioxus-related content and resources.
 
-      - [Minori-ty/mp4To4K-rust](https://github.com/Minori-ty/mp4To4K-rust) <img src="https://img.shields.io/github/stars/Minori-ty/mp4To4K-rust?style=social"/> : 使用Tauri做的一个将动漫视频转4K视频的软件。
+      - [DioxusLabs/example-projects](https://github.com/DioxusLabs/example-projects) <img src="https://img.shields.io/github/stars/DioxusLabs/example-projects?style=social"/> : Featured Dioxus projects on how to build clean user interfaces in Rust.
 
-      - [seiKiMo-Inc/Laudiolin](https://github.com/seiKiMo-Inc/Laudiolin) <img src="https://img.shields.io/github/stars/seiKiMo-Inc/Laudiolin?style=social"/> : A "high quality" music player written in TypeScript using Tauri and React.
+      - [mrxiaozhuox/dioxus-starter](https://github.com/mrxiaozhuox/dioxus-starter) <img src="https://img.shields.io/github/stars/mrxiaozhuox/dioxus-starter?style=social"/> : Starter template for Dioxus framework. [http://dioxus-starter.mrxzx.info/](http://dioxus-starter.mrxzx.info/)
 
-      - [kingwingfly/bilibili-downloader-rs](https://github.com/kingwingfly/bilibili-downloader-rs) <img src="https://img.shields.io/github/stars/kingwingfly/bilibili-downloader-rs?style=social"/> : Bilibili Downloader. A bilibili video downloader app built by Tauri, Vue and Rust!
+      - [Ebou](https://github.com/terhechte/Ebou) <img src="https://img.shields.io/github/stars/terhechte/Ebou?style=social"/> : TEbou is a cross platform Mastodon (and Pleroma, untested) client written in Rust using the [Dioxus](https://dioxuslabs.com/) UI library. [terhech.de/ebou/](https://terhech.de/ebou/)
 
-      - [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) <img src="https://img.shields.io/github/stars/pacholoamit/pachtop?style=social"/> : Cross-platform (Linux, WIndows, MacOS) Desktop GUI system monitor, built with Rust & Tauri.
+      - [dxps/fullstack-rust-axum-dioxus-rwa](https://github.com/dxps/fullstack-rust-axum-dioxus-rwa) <img src="https://img.shields.io/github/stars/dxps/fullstack-rust-axum-dioxus-rwa?style=social"/> : An example of a RealWorld app implementation as a Fullstack Rust project using Axum (be) and Dioxus (fe).
 
-      - [lecepin/douyin-downloader](https://github.com/lecepin/douyin-downloader) <img src="https://img.shields.io/github/stars/lecepin/douyin-downloader?style=social"/> : 使用非常简单的抖音视频无水印下载工具。支持下单个视频，以及下载某个人的所有视频。（采用rust+tauri编写，安装包非常小）。
+      - [hiltonm/dioxus-charts](https://github.com/hiltonm/dioxus-charts) <img src="https://img.shields.io/github/stars/hiltonm/dioxus-charts?style=social"/> : A simple chart components library for Dioxus.
 
-      - [lecepin/desktop-webcam](https://github.com/lecepin/desktop-webcam) <img src="https://img.shields.io/github/stars/lecepin/desktop-webcam?style=social"/> : 使用 webassembly 通过 tauri 封装的桌面摄相头。
+      - [lucianopinochet/chat-app](https://github.com/lucianopinochet/chat-app) <img src="https://img.shields.io/github/stars/lucianopinochet/chat-app?style=social"/> : chat app made in rust with the library dioxus.
 
-      - [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) <img src="https://img.shields.io/github/stars/pot-app/pot-desktop?style=social"/> : 🌈一个跨平台的划词翻译软件 | A cross-platform translation software. [pot.pylogmon.com](https://pot.pylogmon.com/)
-
-      - [conaticus/FileExplorer](https://github.com/conaticus/FileExplorer) <img src="https://img.shields.io/github/stars/conaticus/FileExplorer?style=social"/> : Fast file explorer written with Tauri and React.
-
-      - [mxismean/image-tiny-tauri](https://github.com/mxismean/image-tiny-tauri) <img src="https://img.shields.io/github/starsmxismean/image-tiny-tauri?style=social"/> : Tauri 项目：图片压缩应用。一款小而美的图片压缩工具， 支持 png、jpg、gif 三种图片格式压缩。 该工具不依赖服务端，只需在客户端就可以完成压缩工作。您只需拖拽你的图片文件到该应用窗口即可。
-
-      - [BD777/imageview](https://github.com/BD777/imageview) <img src="https://img.shields.io/github/stars/BD777/imageview?style=social"/> : Image viewer by tauri. A image viewer by tauri. 用来看图的软件，当然，看漫画也是很方便的。
-
-
+      - [lucianopinochet/group_chat](https://github.com/lucianopinochet/group_chat) <img src="https://img.shields.io/github/stars/lucianopinochet/group_chat?style=social"/> : Group Chat App of rust, that use the dioxus framework for the GUI and tokio for asynchronous tcpstream run time, with integrated server.
 
 
 
@@ -1341,6 +1337,31 @@
       - [Berrysoft/tunet-rust](https://github.com/Berrysoft/tunet-rust) <img src="https://img.shields.io/github/stars/Berrysoft/tunet-rust?style=social"/> : 清华大学校园网 Rust 库与客户端。
 
 
+- #### Tauri-Related
+
+      - [sandunwira/SupTube](https://github.com/sandunwira/SupTube) <img src="https://img.shields.io/github/stars/sandunwira/SupTube?style=social"/> : An open-source Windows client for YouTube. [suptube.repl.co](https://suptube.repl.co/)
+
+      - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) <img src="https://img.shields.io/github/stars/spieglt/FlyingCarpet?style=social"/> : File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
+
+      - [Minori-ty/mp4To4K-rust](https://github.com/Minori-ty/mp4To4K-rust) <img src="https://img.shields.io/github/stars/Minori-ty/mp4To4K-rust?style=social"/> : 使用Tauri做的一个将动漫视频转4K视频的软件。
+
+      - [seiKiMo-Inc/Laudiolin](https://github.com/seiKiMo-Inc/Laudiolin) <img src="https://img.shields.io/github/stars/seiKiMo-Inc/Laudiolin?style=social"/> : A "high quality" music player written in TypeScript using Tauri and React.
+
+      - [kingwingfly/bilibili-downloader-rs](https://github.com/kingwingfly/bilibili-downloader-rs) <img src="https://img.shields.io/github/stars/kingwingfly/bilibili-downloader-rs?style=social"/> : Bilibili Downloader. A bilibili video downloader app built by Tauri, Vue and Rust!
+
+      - [pacholoamit/pachtop](https://github.com/pacholoamit/pachtop) <img src="https://img.shields.io/github/stars/pacholoamit/pachtop?style=social"/> : Cross-platform (Linux, WIndows, MacOS) Desktop GUI system monitor, built with Rust & Tauri.
+
+      - [lecepin/douyin-downloader](https://github.com/lecepin/douyin-downloader) <img src="https://img.shields.io/github/stars/lecepin/douyin-downloader?style=social"/> : 使用非常简单的抖音视频无水印下载工具。支持下单个视频，以及下载某个人的所有视频。（采用rust+tauri编写，安装包非常小）。
+
+      - [lecepin/desktop-webcam](https://github.com/lecepin/desktop-webcam) <img src="https://img.shields.io/github/stars/lecepin/desktop-webcam?style=social"/> : 使用 webassembly 通过 tauri 封装的桌面摄相头。
+
+      - [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) <img src="https://img.shields.io/github/stars/pot-app/pot-desktop?style=social"/> : 🌈一个跨平台的划词翻译软件 | A cross-platform translation software. [pot.pylogmon.com](https://pot.pylogmon.com/)
+
+      - [conaticus/FileExplorer](https://github.com/conaticus/FileExplorer) <img src="https://img.shields.io/github/stars/conaticus/FileExplorer?style=social"/> : Fast file explorer written with Tauri and React.
+
+      - [mxismean/image-tiny-tauri](https://github.com/mxismean/image-tiny-tauri) <img src="https://img.shields.io/github/starsmxismean/image-tiny-tauri?style=social"/> : Tauri 项目：图片压缩应用。一款小而美的图片压缩工具， 支持 png、jpg、gif 三种图片格式压缩。 该工具不依赖服务端，只需在客户端就可以完成压缩工作。您只需拖拽你的图片文件到该应用窗口即可。
+
+      - [BD777/imageview](https://github.com/BD777/imageview) <img src="https://img.shields.io/github/stars/BD777/imageview?style=social"/> : Image viewer by tauri. A image viewer by tauri. 用来看图的软件，当然，看漫画也是很方便的。
 
 
     - #### Makepad-Related
@@ -1431,6 +1452,8 @@
     - [2023-05-26，Rust 共学招募 | 跨越 Web2 与 Web3 深入底层重构世界](https://mp.weixin.qq.com/s/xVXDyYcfwH6UscoNt9uUPA)
     - [2023-07-27，Rust 共学第一期结束！七个项目参与最终 Demo Day 分享](https://mp.weixin.qq.com/s/hoJfHqWYod0uRJd9nkKmvA)
     - [2023-08-15，Solana 共学招募 | 聚集 Rust 开发者，一起组队黑客松](https://mp.weixin.qq.com/s/Zxf5UfLTvd7S6OFXcXjL_g)
+  - 微信公众号「TinTinLand」
+    - [2023-09-22，Rust课程挑战赛获奖项目公布，点击查收精彩回顾！](https://mp.weixin.qq.com/s/bIueYqYMt__3H3uWWknYVA)
   - 微信公众号「总有一点知识你需要」
     - [2023-04-09，[翻译] 在2023年，每个学习Rust的人都应该知道的资源](https://mp.weixin.qq.com/s/9lLKBkn2qEOieFGrysWs5A)
     - [2023-09-06，什么是Anchor](https://mp.weixin.qq.com/s/sQpoSi7saTs1uhr0Mbnw7w)
