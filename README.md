@@ -45,6 +45,7 @@
   - [Signal Processing](#signal-processing)
   - [Text Processing](#text-processing)
   - [Image and Video Processing](#image-and-video-processing)
+  - [Live Media Server](#live-media-server)
   - [Localization and Mapping](#localization-and-mapping)
   - [Path Planning](#path-planning)
   - [Motion Control](#motion-control)
@@ -52,8 +53,8 @@
   - [Game Field](#game-field)
   - [Search Engine](#search-engine)
   - [Web Crawler](#web-crawler)
-  - [Web Framework](#web-framework)
   - [RPC Framework](#rpc-framework)
+  - [Web Framework](#web-framework)
   - [Web3 Framework](#web3-framework)
   - [WebAssembly](#webassembly)
   - [Graphics Library](#graphics-library)
@@ -261,21 +262,24 @@
 
   - [PyO3](https://github.com/PyO3/pyo3) <img src="https://img.shields.io/github/stars/PyO3/pyo3?style=social"/> : Rust bindings for the Python interpreter.
 
+  - [UniFFI](https://github.com/mozilla/uniffi-rs) <img src="https://img.shields.io/github/stars/mozilla/uniffi-rs?style=social"/> : UniFFI - a multi-language bindings generator for Rust. [mozilla.github.io/uniffi-rs/](https://mozilla.github.io/uniffi-rs/)
+  
+  - [cxx](https://github.com/dtolnay/cxx) <img src="https://img.shields.io/github/stars/dtolnay/cxx?style=social"/> : Safe interop between Rust and C++. [cxx.rs](https://cxx.rs/)
+
+  - [Autocxx](https://github.com/google/autocxx) <img src="https://img.shields.io/github/stars/google/autocxx?style=social"/> : Tool for safe ergonomic Rust/C++ interop driven from existing C++ headers. [docs.rs/autocxx](https://docs.rs/autocxx/latest/autocxx/)
+
   - [bindgen](https://github.com/rust-lang/rust-bindgen) <img src="https://img.shields.io/github/stars/rust-lang/rust-bindgen?style=social"/> : Automatically generates Rust FFI bindings to C (and some C++) libraries.
 
   - [C2Rust](https://github.com/immunant/c2rust) <img src="https://img.shields.io/github/stars/immunant/c2rust?style=social"/> : C2Rust helps you migrate C99-compliant code to Rust. [c2rust.com/](https://c2rust.com/)
+
+
 
   - [embed-c](https://github.com/zdimension/embed-c) <img src="https://img.shields.io/github/stars/zdimension/embed-c?style=social"/> : Embed C code at compile time inside Rust using C2Rust.
 
   - [rust-cpp](https://github.com/mystor/rust-cpp) <img src="https://img.shields.io/github/stars/mystor/rust-cpp?style=social"/> : rust-cpp - Embed C++ code directly in Rust.
 
-  - [cxx](https://github.com/dtolnay/cxx) <img src="https://img.shields.io/github/stars/dtolnay/cxx?style=social"/> : Safe interop between Rust and C++. [cxx.rs](https://cxx.rs/)
-
-  - [Autocxx](https://github.com/google/autocxx) <img src="https://img.shields.io/github/stars/google/autocxx?style=social"/> : Tool for safe ergonomic Rust/C++ interop driven from existing C++ headers. [docs.rs/autocxx](https://docs.rs/autocxx/latest/autocxx/)
-
   - [safer_ffi](https://github.com/getditto/safer_ffi) <img src="https://img.shields.io/github/stars/getditto/safer_ffi?style=social"/> : Write safer FFI code in Rust without polluting it with unsafe code. [getditto.github.io/safer_ffi](https://getditto.github.io/safer_ffi/)
 
-  - [UniFFI](https://github.com/mozilla/uniffi-rs) <img src="https://img.shields.io/github/stars/mozilla/uniffi-rs?style=social"/> : UniFFI - a multi-language bindings generator for Rust. [mozilla.github.io/uniffi-rs/](https://mozilla.github.io/uniffi-rs/)
 
   - [Diplomat](https://github.com/rust-diplomat/diplomat) <img src="https://img.shields.io/github/stars/rust-diplomat/diplomat?style=social"/> : Experimental Rust tool for generating FFI definitions allowing many other languages to call Rust code.
 
@@ -452,7 +456,6 @@
 
     - [tch-rs](https://github.com/LaurentMazare/tch-rs) <img src="https://img.shields.io/github/stars/LaurentMazare/tch-rs?style=social"/> : Rust bindings for the C++ api of PyTorch.
 
-
     - [dfdx](https://github.com/coreylowman/dfdx) <img src="https://img.shields.io/github/stars/coreylowman/dfdx?style=social"/> : Deep learning in Rust, with shape checked tensors and neural networks.
 
     - [tract](https://github.com/sonos/tract) <img src="https://img.shields.io/github/stars/sonos/tract?style=social"/> : Sonos' Neural Network inference engine. Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference
@@ -580,9 +583,9 @@
 
   - ### Object Detection
 
-    - [sjinzh/yolov5-rs-app](https://github.com/sjinzh/yolov5-rs-app) <img src="https://img.shields.io/github/stars/sjinzh/yolov5-rs-app?style=social"/> : A inference framework with GUI for YOLOv5 written in Rust.
+    - [sjinzh/yolov5-gui-slint](https://github.com/sjinzh/yolov5-gui-slint) <img src="https://img.shields.io/github/stars/sjinzh/yolov5-gui-slint?style=social"/> : YOLOv5 GUI inference framework built with Slint.
 
-    - [pnn](https://github.com/ptaxom/pnn) <img src="https://img.shields.io/github/stars/ptaxom/pnn?style=social"/> : pnn is [Darknet](https://github.com/alexeyAB/darknet) compatible neural nets inference engine implemented in Rust. By optimizing was achieved significant performance increment(especially in FP16 mode). pnn provide CUDNN-based and TensorRT-based inference engines.
+    - [ptaxom/pnn](https://github.com/ptaxom/pnn) <img src="https://img.shields.io/github/stars/ptaxom/pnn?style=social"/> : pnn is [Darknet](https://github.com/alexeyAB/darknet) compatible neural nets inference engine implemented in Rust. By optimizing was achieved significant performance increment(especially in FP16 mode). pnn provide CUDNN-based and TensorRT-based inference engines.
 
     - [bencevans/rust-opencv-yolov5](https://github.com/bencevans/rust-opencv-yolov5) <img src="https://img.shields.io/github/stars/bencevans/rust-opencv-yolov5?style=social"/> : YOLOv5 Inference with ONNX & OpenCV in Rust.
 
@@ -815,15 +818,17 @@
 
 ## Database
 
-  - [SQLx](https://github.com/launchbadge/sqlx) <img src="https://img.shields.io/github/stars/launchbadge/sqlx?style=social"/> : 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
-
   - [Qdrant](https://github.com/qdrant/qdrant) <img src="https://img.shields.io/github/stars/qdrant/qdrant?style=social"/> : Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud [https://cloud.qdrant.io/](https://cloud.qdrant.io/). [qdrant.tech](https://qdrant.tech/)
+
+  - [SQLx](https://github.com/launchbadge/sqlx) <img src="https://img.shields.io/github/stars/launchbadge/sqlx?style=social"/> : 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
 
   - [Rusqlite](https://github.com/rusqlite/rusqlite) <img src="https://img.shields.io/github/stars/rusqlite/rusqlite?style=social"/> : Rusqlite is an ergonomic wrapper for using SQLite from Rust.
 
   - [CeresDB](https://github.com/CeresDB/ceresdb) <img src="https://img.shields.io/github/stars/CeresDB/ceresdb?style=social"/> : CeresDB is a high-performance, distributed, cloud native time-series database. [docs.ceresdb.io](https://docs.ceresdb.io/)
 
   - [redb](https://github.com/cberner/redb) <img src="https://img.shields.io/github/stars/cberner/redb?style=social"/> : An embedded key-value database in pure Rust. [www.redb.org](https://www.redb.org/)
+
+  - [mysql_async](https://github.com/blackbeam/mysql_async) <img src="https://img.shields.io/github/stars/blackbeam/mysql_async?style=social"/> : Asyncronous Rust Mysql driver based on Tokio.
 
   - [Rustbase](https://github.com/rustbase/rustbase) <img src="https://img.shields.io/github/stars/rustbase/rustbase?style=social"/> : Rustbase is open source, lightweight, modern and fast NoSQL database. [rustbase.app/](https://www.rustbase.app/)
 
@@ -923,6 +928,12 @@
   - [BinciLuo/Rust-opencv-Application](https://github.com/BinciLuo/Rust-opencv-Application) <img src="https://img.shields.io/github/stars/BinciLuo/Rust-opencv-Application?style=social"/> : Implementation of an application based on OpenCV written in Rust.
 
   - [koukemo/rust_cv_sample](https://github.com/koukemo/rust_cv_sample) <img src="https://img.shields.io/github/stars/koukemo/rust_cv_sample?style=social"/> : Sample of Rust using opencv to load images.
+
+
+
+## Live Media Server
+
+  - [Xiu](https://github.com/harlanc/xiu) <img src="https://img.shields.io/github/stars/harlanc/xiu?style=social"/> : A simple, high performance and secure live media server in pure Rust (RTMP[cluster]/RTSP/HTTP-FLV/HLS).🦀
 
 
 
@@ -1047,6 +1058,12 @@
 
 
 
+## RPC Framework
+
+  - [Volo](https://github.com/cloudwego/volo) <img src="https://img.shields.io/github/stars/cloudwego/volo?style=social"/> : Volo is a high-performance and strong-extensibility Rust RPC framework that helps developers build microservices. [crates.io/crates/volo](https://crates.io/crates/volo)
+
+
+
 ## Web Framework
 
   - [reqwest](https://github.com/seanmonstar/reqwest) <img src="https://img.shields.io/github/stars/seanmonstar/reqwest?style=social"/> : An easy and powerful Rust HTTP Client. [docs.rs/reqwest](https://docs.rs/reqwest/latest/reqwest/)
@@ -1088,15 +1105,6 @@
 
 
 
-## RPC Framework
-
-  - [Volo](https://github.com/cloudwego/volo) <img src="https://img.shields.io/github/stars/cloudwego/volo?style=social"/> : Volo is a high-performance and strong-extensibility Rust RPC framework that helps developers build microservices. [crates.io/crates/volo](https://crates.io/crates/volo)
-
-
-
-
-
-
 ## Web3 Framework
 
   - [nostr](https://github.com/nostr-protocol/nostr) <img src="https://img.shields.io/github/stars/nostr-protocol/nostr?style=social"/> : a truly censorship-resistant alternative to Twitter that has a chance of working. The simplest open protocol that is able to create a censorship-resistant global "social" network once and for all.
@@ -1119,11 +1127,13 @@
 
   - [solana](https://github.com/solana-labs/solana) <img src="https://img.shields.io/github/stars/solana-labs/solana?style=social"/> : Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces. [solanalabs.com](https://solanalabs.com/)
 
+  - [solana-playground](https://github.com/solana-playground/solana-playground) <img src="https://img.shields.io/github/stars/solana-playground/solana-playground?style=social"/> : Quickly develop, deploy and test Solana programs from browsers. [beta.solpg.io](https://beta.solpg.io/)
+
   - [Anchor](https://github.com/coral-xyz/anchor) <img src="https://img.shields.io/github/stars/coral-xyz/anchor?style=social"/> : ⚓ Solana Sealevel Framework. [anchor-lang.com](https://www.anchor-lang.com/)
 
   - [CreatorsDAO/awesome-learn-solana](https://github.com/CreatorsDAO/awesome-learn-solana) <img src="https://img.shields.io/github/stars/CreatorsDAO/awesome-learn-solana?style=social"/> : awesome-learn-solana.
 
-  - [CreatorsDAO/all-in-one-solana](https://github.com/CreatorsDAO/all-in-one-solana) <img src="https://img.shields.io/github/stars/CreatorsDAO/all-in-one-solana?style=social"/> : All in One Solana.
+  - [CreatorsDAO/creatorsdao.github.io](https://github.com/CreatorsDAO/creatorsdao.github.io) <img src="https://img.shields.io/github/stars/CreatorsDAO/creatorsdao.github.io?style=social"/> : Creators Dao all about source. [creatorsdao.github.io/](https://creatorsdao.github.io/)
 
   - [CleverProgrammers/facebook-solana-blockchain](https://github.com/CleverProgrammers/facebook-solana-blockchain) <img src="https://img.shields.io/github/stars/CleverProgrammers/facebook-solana-blockchain?style=social"/> : Build Facebook 3.0 on Blockchain with Solana | Next.js | Netlify | Sanity.io.
 
@@ -1309,6 +1319,9 @@
       - [lucianopinochet/chat-app](https://github.com/lucianopinochet/chat-app) <img src="https://img.shields.io/github/stars/lucianopinochet/chat-app?style=social"/> : chat app made in rust with the library dioxus.
 
       - [lucianopinochet/group_chat](https://github.com/lucianopinochet/group_chat) <img src="https://img.shields.io/github/stars/lucianopinochet/group_chat?style=social"/> : Group Chat App of rust, that use the dioxus framework for the GUI and tokio for asynchronous tcpstream run time, with integrated server.
+
+      - [mrxiaozhuox/dioxus-hackernews](https://github.com/mrxiaozhuox/dioxus-hackernews) <img src="https://img.shields.io/github/stars/mrxiaozhuox/dioxus-hackernews?style=social"/> : Hacker News clone with Dioxus.
+
 
 
 
