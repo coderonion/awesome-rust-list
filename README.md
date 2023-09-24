@@ -263,7 +263,7 @@
   - [PyO3](https://github.com/PyO3/pyo3) <img src="https://img.shields.io/github/stars/PyO3/pyo3?style=social"/> : Rust bindings for the Python interpreter.
 
   - [UniFFI](https://github.com/mozilla/uniffi-rs) <img src="https://img.shields.io/github/stars/mozilla/uniffi-rs?style=social"/> : UniFFI - a multi-language bindings generator for Rust. [mozilla.github.io/uniffi-rs/](https://mozilla.github.io/uniffi-rs/)
-  
+
   - [cxx](https://github.com/dtolnay/cxx) <img src="https://img.shields.io/github/stars/dtolnay/cxx?style=social"/> : Safe interop between Rust and C++. [cxx.rs](https://cxx.rs/)
 
   - [Autocxx](https://github.com/google/autocxx) <img src="https://img.shields.io/github/stars/google/autocxx?style=social"/> : Tool for safe ergonomic Rust/C++ interop driven from existing C++ headers. [docs.rs/autocxx](https://docs.rs/autocxx/latest/autocxx/)
@@ -569,8 +569,9 @@
 
     - [flaneur2020/llama2.rs](https://github.com/flaneur2020/llama2.rs) <img src="https://img.shields.io/github/stars/flaneur2020/llama2.rs?style=social"/> : An rust reimplementatin of [https://github.com/karpathy/llama2.c](https://github.com/karpathy/llama2.c).
 
+    - [Heng30/chatbox](https://github.com/Heng30/chatbox) <img src="https://img.shields.io/github/stars/Heng30/chatbox?style=social"/> : A Chatbot for OpenAI ChatGPT. Based on Slint-ui and Rust.
 
-
+    - [fairjm/dioxus-openai-qa-gui](https://github.com/fairjm/dioxus-openai-qa-gui) <img src="https://img.shields.io/github/stars/fairjm/dioxus-openai-qa-gui?style=social"/> : a simple openai qa desktop app built with dioxus.
 
 
   - ### Stable Diffusion
@@ -1244,6 +1245,10 @@
 
 
 
+
+
+
+
 ## GUI
 
   - ### GUI Framework
@@ -1304,6 +1309,10 @@
 
       - [Dioxus 中文网](https://www.dioxus.cn/) : 帮助您快速构建可靠的用户界面程序。
 
+      - [DioxusLabs/dioxus-std](https://github.com/DioxusLabs/dioxus-std) <img src="https://img.shields.io/github/stars/DioxusLabs/dioxus-std?style=social"/> : A library to provide abstractions to access common utilities when developing Dioxus applications.
+
+      - [DioxusLabs/dioxus-html-macro](https://github.com/DioxusLabs/dioxus-html-macro) <img src="https://img.shields.io/github/stars/DioxusLabs/dioxus-html-macro?style=social"/> : An html macro for dioxus applications.
+
       - [DioxusLabs/awesome-dioxus](https://github.com/DioxusLabs/awesome-dioxus) <img src="https://img.shields.io/github/stars/DioxusLabs/awesome-dioxus?style=social"/> : An awesome list of Dioxus-related content and resources.
 
       - [DioxusLabs/example-projects](https://github.com/DioxusLabs/example-projects) <img src="https://img.shields.io/github/stars/DioxusLabs/example-projects?style=social"/> : Featured Dioxus projects on how to build clean user interfaces in Rust.
@@ -1314,6 +1323,8 @@
 
       - [dxps/fullstack-rust-axum-dioxus-rwa](https://github.com/dxps/fullstack-rust-axum-dioxus-rwa) <img src="https://img.shields.io/github/stars/dxps/fullstack-rust-axum-dioxus-rwa?style=social"/> : An example of a RealWorld app implementation as a Fullstack Rust project using Axum (be) and Dioxus (fe).
 
+      - [fairjm/dioxus-openai-qa-gui](https://github.com/fairjm/dioxus-openai-qa-gui) <img src="https://img.shields.io/github/stars/fairjm/dioxus-openai-qa-gui?style=social"/> : a simple openai qa desktop app built with dioxus.
+
       - [hiltonm/dioxus-charts](https://github.com/hiltonm/dioxus-charts) <img src="https://img.shields.io/github/stars/hiltonm/dioxus-charts?style=social"/> : A simple chart components library for Dioxus.
 
       - [lucianopinochet/chat-app](https://github.com/lucianopinochet/chat-app) <img src="https://img.shields.io/github/stars/lucianopinochet/chat-app?style=social"/> : chat app made in rust with the library dioxus.
@@ -1321,6 +1332,22 @@
       - [lucianopinochet/group_chat](https://github.com/lucianopinochet/group_chat) <img src="https://img.shields.io/github/stars/lucianopinochet/group_chat?style=social"/> : Group Chat App of rust, that use the dioxus framework for the GUI and tokio for asynchronous tcpstream run time, with integrated server.
 
       - [mrxiaozhuox/dioxus-hackernews](https://github.com/mrxiaozhuox/dioxus-hackernews) <img src="https://img.shields.io/github/stars/mrxiaozhuox/dioxus-hackernews?style=social"/> : Hacker News clone with Dioxus.
+
+      - [matheusb432/rust-uchat](https://github.com/matheusb432/rust-uchat) <img src="https://img.shields.io/github/stars/matheusb432/rust-uchat?style=social"/> : 'Build a Full-Stack Twitter Clone with Rust' course code and notes.
+
+      - [dallasrust/website-dioxus](https://github.com/dallasrust/website-dioxus) <img src="https://img.shields.io/github/stars/dallasrust/website-dioxus?style=social"/> : Dallas Rust User Meetup website using Dioxus. [www.dallasrust.org/](https://www.dallasrust.org/)
+
+      - [coal-rock/site](https://github.com/coal-rock/site) <img src="https://img.shields.io/github/stars/coal-rock/site?style=social"/> : the source for my personal site, built using axum and dioxus.
+
+      - [nissy-dev/dioxus-free-icons](https://github.com/nissy-dev/dioxus-free-icons) <img src="https://img.shields.io/github/stars/nissy-dev/dioxus-free-icons?style=social"/> : 'Use free svg icons in your Dioxus projects easily with dioxus-free-icons.
+
+      - [arqalite/rummy-nights](https://github.com/arqalite/rummy-nights) <img src="https://img.shields.io/github/stars/arqalite/rummy-nights?style=social"/> : A rummy score counter web app written with Rust/Dioxus and Tailwind CSS. [rummy-nights.vercel.app](https://github.com/arqalite/rummy-nights)
+
+      - [LIU9293/rust-2048](https://github.com/LIU9293/rust-2048) <img src="https://img.shields.io/github/stars/LIU9293/rust-2048?style=social"/> : Learn rust by coding a 2048 game use dioxus.
+
+      - [swanandx/html-to-rsx](https://github.com/swanandx/html-to-rsx) <img src="https://img.shields.io/github/stars/swanandx/html-to-rsx?style=social"/> : Convert HTML to RSX, a meta language used by dioxus.
+
+      - [justdimaa/cloud-rs](https://github.com/justdimaa/cloud-rs) <img src="https://img.shields.io/github/stars/justdimaa/cloud-rs?style=social"/> : A file storage service using Rust, gRPC, and MongoDB.
 
 
 
@@ -1335,7 +1362,7 @@
 
       - [MohaBeacon/slint-opencv](https://github.com/MohaBeacon/slint-opencv) <img src="https://img.shields.io/github/stars/MohaBeacon/slint-opencv?style=social"/> : slint-opencv.
 
-      - [colelawrence/here-now](https://github.com/colelawrence/here-now) <img src="https://img.shields.io/github/stars/colelawrence/here-now?style=social"/> : A low-resource native app for sharing space with co-workers and friends.
+      - [Heng30/chatbox](https://github.com/Heng30/chatbox) <img src="https://img.shields.io/github/stars/Heng30/chatbox?style=social"/> : A Chatbot for OpenAI ChatGPT. Based on Slint-ui and Rust.
 
       - [Ouam74/RUST_Real-time_plots_using_SLINT_and_PLOTTERS.rs](https://github.com/Ouam74/RUST_Real-time_plots_using_SLINT_and_PLOTTERS.rs) <img src="https://img.shields.io/github/stars/Ouam74/RUST_Real-time_plots_using_SLINT_and_PLOTTERS.rs?style=social"/> : RUST_Real-time_plots_using_SLINT_and_PLOTTERS.rs
 
@@ -1348,6 +1375,21 @@
       - [vgarleanu/lumiere](https://github.com/vgarleanu/lumiere) <img src="https://img.shields.io/github/stars/vgarleanu/lumiere?style=social"/> : Example video player built with MPV and Slint-UI.
 
       - [Berrysoft/tunet-rust](https://github.com/Berrysoft/tunet-rust) <img src="https://img.shields.io/github/stars/Berrysoft/tunet-rust?style=social"/> : 清华大学校园网 Rust 库与客户端。
+
+      - [jturcotte/chiptrack](https://github.com/jturcotte/chiptrack) <img src="https://img.shields.io/github/stars/jturcotte/chiptrack?style=social"/> : A cross-platform sequencer and synthesizer based on the emulation of the Game Boy sound chip. [jturcotte.github.io/chiptrack/](https://jturcotte.github.io/chiptrack/)
+
+      - [syf20020816/SurrealismUI](https://github.com/syf20020816/SurrealismUI) <img src="https://img.shields.io/github/stars/syf20020816/SurrealismUI?style=social"/> : A third-party UI library using Slint, I think it will give you an extraordinary experience.
+
+      - [colelawrence/here-now](https://github.com/colelawrence/here-now) <img src="https://img.shields.io/github/stars/colelawrence/here-now?style=social"/> : A low-resource native app for sharing space with co-workers and friends.
+
+      - [planet0104/slint-noframe-window](https://github.com/planet0104/slint-noframe-window) <img src="https://img.shields.io/github/stars/planet0104/slint-noframe-window?style=social"/> : slint no-frame window.
+
+      - [zhangzqs/esp-clock-rs](https://github.com/zhangzqs/esp-clock-rs) <img src="https://img.shields.io/github/stars/zhangzqs/esp-clock-rs?style=social"/> : 使用Rust语言编写的个人时钟，基于Slint GUI框架，计划支持PC端模拟器，可移植性。
+
+
+
+
+
 
 
 - #### Tauri-Related
