@@ -1321,6 +1321,8 @@
 
       - [Ebou](https://github.com/terhechte/Ebou) <img src="https://img.shields.io/github/stars/terhechte/Ebou?style=social"/> : TEbou is a cross platform Mastodon (and Pleroma, untested) client written in Rust using the [Dioxus](https://dioxuslabs.com/) UI library. [terhech.de/ebou/](https://terhech.de/ebou/)
 
+      - [Uplink](https://github.com/Satellite-im/Uplink) <img src="https://img.shields.io/github/stars/Satellite-im/Uplink?style=social"/> : (Pre-Release Software) Secure, Encrypted, P2P chat written atop Warp, IPFS, LibP2P, Dioxus and many more awesome projects and protocols.
+
       - [dxps/fullstack-rust-axum-dioxus-rwa](https://github.com/dxps/fullstack-rust-axum-dioxus-rwa) <img src="https://img.shields.io/github/stars/dxps/fullstack-rust-axum-dioxus-rwa?style=social"/> : An example of a RealWorld app implementation as a Fullstack Rust project using Axum (be) and Dioxus (fe).
 
       - [fairjm/dioxus-openai-qa-gui](https://github.com/fairjm/dioxus-openai-qa-gui) <img src="https://img.shields.io/github/stars/fairjm/dioxus-openai-qa-gui?style=social"/> : a simple openai qa desktop app built with dioxus.
