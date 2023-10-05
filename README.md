@@ -60,8 +60,6 @@
   - [Graphics Library](#graphics-library)
   - [GUI](#gui)
     - [GUI Framework](#gui-framework)
-        - [Desktop APP Development](#desktop-app-development)
-        - [Mobile APP Development](#mobile-app-development)
     - [GUI Software](#gui-framework)
         - [Dioxus-Related](#dioxus-related)
         - [Slint-Related](#slint-related)
@@ -572,6 +570,9 @@
     - [Heng30/chatbox](https://github.com/Heng30/chatbox) <img src="https://img.shields.io/github/stars/Heng30/chatbox?style=social"/> : A Chatbot for OpenAI ChatGPT. Based on Slint-ui and Rust.
 
     - [fairjm/dioxus-openai-qa-gui](https://github.com/fairjm/dioxus-openai-qa-gui) <img src="https://img.shields.io/github/stars/fairjm/dioxus-openai-qa-gui?style=social"/> : a simple openai qa desktop app built with dioxus.
+
+    - [purton-tech/bionicgpt](https://github.com/purton-tech/bionicgpt) <img src="https://img.shields.io/github/stars/purton-tech/bionicgpt?style=social"/> : Accelerate LLM adoption in your organisation. Chat with your confidential data safely and securely. [bionic-gpt.com](https://bionic-gpt.com/)
+
 
 
   - ### Stable Diffusion
@@ -1253,52 +1254,45 @@
 
   - ### GUI Framework
 
-    - #### Desktop APP Development
+    - [Dioxus](https://github.com/DioxusLabs/dioxus) <img src="https://img.shields.io/github/stars/DioxusLabs/dioxus?style=social"/> : Fullstack GUI library for desktop, web, mobile, and more. [dioxuslabs.com](https://dioxuslabs.com/)
 
-        - [Dioxus](https://github.com/DioxusLabs/dioxus) <img src="https://img.shields.io/github/stars/DioxusLabs/dioxus?style=social"/> : Fullstack GUI library for desktop, web, mobile, and more. [dioxuslabs.com](https://dioxuslabs.com/)
+    - [marc2332/freya](https://github.com/marc2332/freya) <img src="https://img.shields.io/github/stars/marc2332/freya?style=social"/> : Native GUI library for 🦀 Rust powered by 🧬 Dioxus and 🎨 Skia. [freyaui.dev/](https://freyaui.dev/)
 
-        - [marc2332/freya](https://github.com/marc2332/freya) <img src="https://img.shields.io/github/stars/marc2332/freya?style=social"/> : Native GUI library for 🦀 Rust powered by 🧬 Dioxus and 🎨 Skia. [freyaui.dev/](https://freyaui.dev/)
+    - [Slint](https://github.com/slint-ui/slint) <img src="https://img.shields.io/github/stars/slint-ui/slint?style=social"/> : Slint is a declarative GUI toolkit to build native user interfaces for applications that are written in Rust, C++, or JavaScript. [slint.dev](https://slint.dev/)
 
-        - [Slint](https://github.com/slint-ui/slint) <img src="https://img.shields.io/github/stars/slint-ui/slint?style=social"/> : Slint is a declarative GUI toolkit to build native user interfaces for applications that are written in Rust, C++, or JavaScript. [slint.dev](https://slint.dev/)
+    - [slint-ui/slint-rust-template](https://github.com/slint-ui/slint-rust-template) <img src="https://img.shields.io/github/stars/slint-ui/slint?style=social"/> : A template for a Rust Application using Slint. This is meant to be used with cargo-generate. [slint.dev](https://slint.dev/)
 
-        - [slint-ui/slint-rust-template](https://github.com/slint-ui/slint-rust-template) <img src="https://img.shields.io/github/stars/slint-ui/slint?style=social"/> : A template for a Rust Application using Slint. This is meant to be used with cargo-generate. [slint.dev](https://slint.dev/)
+    - [syf20020816/SurrealismUI](https://github.com/syf20020816/SurrealismUI) <img src="https://img.shields.io/github/stars/syf20020816/SurrealismUI?style=social"/> : SurrealismUI是一个完全使用Slint进行构建的Slint第三方组件库。 SurrealismUI is a third-party component library built entirely using Slint.
 
-        - [Tauri](https://github.com/tauri-apps/tauri) <img src="https://img.shields.io/github/stars/tauri-apps/tauri?style=social"/> : Build smaller, faster, and more secure desktop applications with a web frontend. [tauri.app](https://tauri.app/). Tauri is a framework for building tiny, blazingly fast binaries for all major desktop platforms. Developers can integrate any front-end framework that compiles to HTML, JS and CSS for building their user interface. The backend of the application is a rust-sourced binary with an API that the front-end can interact with.
+    - [Tauri](https://github.com/tauri-apps/tauri) <img src="https://img.shields.io/github/stars/tauri-apps/tauri?style=social"/> : Build smaller, faster, and more secure desktop applications with a web frontend. [tauri.app](https://tauri.app/). Tauri is a framework for building tiny, blazingly fast binaries for all major desktop platforms. Developers can integrate any front-end framework that compiles to HTML, JS and CSS for building their user interface. The backend of the application is a rust-sourced binary with an API that the front-end can interact with.
 
-        - [Pake](https://github.com/tw93/Pake) <img src="https://img.shields.io/github/stars/tw93/Pake?style=social"/> : 🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App.
+    - [Pake](https://github.com/tw93/Pake) <img src="https://img.shields.io/github/stars/tw93/Pake?style=social"/> : 🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App.
 
-        - [Makepad](https://github.com/makepad/makepad) <img src="https://img.shields.io/github/stars/makepad/makepad?style=social"/> : Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl. [makepad.dev/](https://makepad.dev/)
+    - [Makepad](https://github.com/makepad/makepad) <img src="https://img.shields.io/github/stars/makepad/makepad?style=social"/> : Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl. [makepad.dev/](https://makepad.dev/)
 
-        - [egui](https://github.com/emilk/egui) <img src="https://img.shields.io/github/stars/emilk/egui?style=social"/> : egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native.
+    - [KDAB/cxx-qt](https://github.com/KDAB/cxx-qt) <img src="https://img.shields.io/github/stars/KDAB/cxx-qt?style=social"/> : Safe interop between Rust and Qt.
 
-        - [Iced](https://github.com/iced-rs/iced) <img src="https://img.shields.io/github/stars/iced-rs/iced?style=social"/> : A cross-platform GUI library for Rust focused on simplicity and type-safety. Inspired by [Elm](https://elm-lang.org/).
+    - [Rust-In-Flutter](https://github.com/cunarist/rust-in-flutter) <img src="https://img.shields.io/github/stars/cunarist/rust-in-flutter?style=social"/> : Rust as your Flutter backend, Flutter as your Rust frontend.
 
-        - [Xilem](https://github.com/linebender/xilem) <img src="https://img.shields.io/github/stars/linebender/xilem?style=social"/> : An experimental Rust architecture for reactive UI.
+    - [egui](https://github.com/emilk/egui) <img src="https://img.shields.io/github/stars/emilk/egui?style=social"/> : egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native.
 
-        - [Druid](https://github.com/linebender/druid) <img src="https://img.shields.io/github/stars/linebender/druid?style=social"/> : A data-first Rust-native UI toolkit.
+    - [Iced](https://github.com/iced-rs/iced) <img src="https://img.shields.io/github/stars/iced-rs/iced?style=social"/> : A cross-platform GUI library for Rust focused on simplicity and type-safety. Inspired by [Elm](https://elm-lang.org/).
 
-        - [Floem](https://github.com/lapce/floem) <img src="https://img.shields.io/github/stars/lapce/floem?style=social"/> : A native Rust UI library with fine-grained reactivity.
+    - [Xilem](https://github.com/linebender/xilem) <img src="https://img.shields.io/github/stars/linebender/xilem?style=social"/> : An experimental Rust architecture for reactive UI.
 
-        - [marek-g/rust-fui](https://github.com/marek-g/rust-fui) <img src="https://img.shields.io/github/stars/marek-g/rust-fui?style=social"/> : MVVM Rust UI Framework Library.
+    - [Druid](https://github.com/linebender/druid) <img src="https://img.shields.io/github/stars/linebender/druid?style=social"/> : A data-first Rust-native UI toolkit.
 
-        - [KDAB/cxx-qt](https://github.com/KDAB/cxx-qt) <img src="https://img.shields.io/github/stars/KDAB/cxx-qt?style=social"/> : Safe interop between Rust and Qt.
+    - [Floem](https://github.com/lapce/floem) <img src="https://img.shields.io/github/stars/lapce/floem?style=social"/> : A native Rust UI library with fine-grained reactivity.
 
-        - [KDE/rust-qt-binding-generator](https://github.com/KDE/rust-qt-binding-generator) <img src="https://img.shields.io/github/stars/KDE/rust-qt-binding-generator?style=social"/> : Generate bindings to use Rust code in Qt and QML.
+    - [Crux](https://github.com/redbadger/crux) <img src="https://img.shields.io/github/stars/redbadger/crux?style=social"/> : Cross-platform app development in Rust. [redbadger.github.io/crux/](https://redbadger.github.io/crux/)
 
-        - [apertus-open-source-cinema/narui](https://github.com/apertus-open-source-cinema/narui) <img src="https://img.shields.io/github/stars/apertus-open-source-cinema/narui?style=social"/> : A react-inspired UI library for building multimedia desktop apps with rust and vulkan.
+    - [flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge) <img src="https://img.shields.io/github/stars/fzyzcjy/flutter_rust_bridge?style=social"/> : High-level memory-safe binding generator for Flutter/Dart <-> Rust. [fzyzcjy.github.io/flutter_rust_bridge/](https://cjycode.com/flutter_rust_bridge/)
 
+    - [KDE/rust-qt-binding-generator](https://github.com/KDE/rust-qt-binding-generator) <img src="https://img.shields.io/github/stars/KDE/rust-qt-binding-generator?style=social"/> : Generate bindings to use Rust code in Qt and QML.
 
+    - [marek-g/rust-fui](https://github.com/marek-g/rust-fui) <img src="https://img.shields.io/github/stars/marek-g/rust-fui?style=social"/> : MVVM Rust UI Framework Library.
 
-
-    - #### Mobile APP Development
-
-        - [Rust-In-Flutter](https://github.com/cunarist/rust-in-flutter) <img src="https://img.shields.io/github/stars/cunarist/rust-in-flutter?style=social"/> : Rust as your Flutter backend, Flutter as your Rust frontend.
-
-        - [flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge) <img src="https://img.shields.io/github/stars/fzyzcjy/flutter_rust_bridge?style=social"/> : High-level memory-safe binding generator for Flutter/Dart <-> Rust. [fzyzcjy.github.io/flutter_rust_bridge/](https://cjycode.com/flutter_rust_bridge/)
-
-        - [Crux](https://github.com/redbadger/crux) <img src="https://img.shields.io/github/stars/redbadger/crux?style=social"/> : Cross-platform app development in Rust. [redbadger.github.io/crux/](https://redbadger.github.io/crux/)
-
-
+    - [apertus-open-source-cinema/narui](https://github.com/apertus-open-source-cinema/narui) <img src="https://img.shields.io/github/stars/apertus-open-source-cinema/narui?style=social"/> : A react-inspired UI library for building multimedia desktop apps with rust and vulkan.
 
 
 
@@ -1380,13 +1374,15 @@
 
       - [jturcotte/chiptrack](https://github.com/jturcotte/chiptrack) <img src="https://img.shields.io/github/stars/jturcotte/chiptrack?style=social"/> : A cross-platform sequencer and synthesizer based on the emulation of the Game Boy sound chip. [jturcotte.github.io/chiptrack/](https://jturcotte.github.io/chiptrack/)
 
-      - [syf20020816/SurrealismUI](https://github.com/syf20020816/SurrealismUI) <img src="https://img.shields.io/github/stars/syf20020816/SurrealismUI?style=social"/> : A third-party UI library using Slint, I think it will give you an extraordinary experience.
-
       - [colelawrence/here-now](https://github.com/colelawrence/here-now) <img src="https://img.shields.io/github/stars/colelawrence/here-now?style=social"/> : A low-resource native app for sharing space with co-workers and friends.
 
       - [planet0104/slint-noframe-window](https://github.com/planet0104/slint-noframe-window) <img src="https://img.shields.io/github/stars/planet0104/slint-noframe-window?style=social"/> : slint no-frame window.
 
       - [zhangzqs/esp-clock-rs](https://github.com/zhangzqs/esp-clock-rs) <img src="https://img.shields.io/github/stars/zhangzqs/esp-clock-rs?style=social"/> : 使用Rust语言编写的个人时钟，基于Slint GUI框架，计划支持PC端模拟器，可移植性。
+
+
+
+
 
 
 
