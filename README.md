@@ -10,7 +10,7 @@
     - [Official Rust](#official-rust)
     - [Awesome List](#awesome-list)
     - [Learning Resources](#learning-resources)
-    - [Learning Resources](#learning-resources)
+  - [Performance Benchmark](#performance-benchmark)
   - [Data Structure and Algorithm](#data-structure-and-algorithm)
   - [Parallelism Library](#parallelism-library)
   - [Asynchronous Runtime](#asynchronous-runtime)
@@ -120,6 +120,7 @@
 
 
 
+
   - ### Learning Resources
 
     - [Rust std](https://doc.rust-lang.org/std/index.html) : The Rust Standard Library.
@@ -128,11 +129,21 @@
 
     - [Cheats.rs](https://github.com/ralfbiedert/cheats.rs/) <img src="https://img.shields.io/github/stars/ralfbiedert/cheats.rs?style=social"/> : Rust Language Cheat Sheet. [cheats.rs](https://cheats.rs/)
 
-    - [kingfree/cheats.rs](https://github.com/kingfree/cheats.rs/) <img src="https://img.shields.io/github/stars/kingfree/cheats.rs?style=social"/> : Rust 语言备忘清单 (简体中文). [https://cheats.rs.kingfree.moe/](https://cheats.rs.kingfree.moe/)
+    - [kingfree/cheats.rs](https://github.com/kingfree/cheats.rs/) <img src="https://img.shields.io/github/stars/kingfree/cheats.rs?style=social"/> : Rust 语言备忘清单 (简体中文). [Rust 语言备忘清单](https://cheats.rs.kingfree.moe/)
 
     - [rust-lang/book](https://github.com/rust-lang/book) <img src="https://img.shields.io/github/stars/rust-lang/book?style=social"/> : The Rust Programming Language. [doc.rust-lang.org/book/](https://doc.rust-lang.org/book/)
 
-    - [rust-lang/reference](https://github.com/rust-lang/reference) <img src="https://img.shields.io/github/stars/rust-lang/reference?style=social"/> : The Rust Reference. [doc.rust-lang.org/nightly/reference/](https://doc.rust-lang.org/reference/)
+    - [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) <img src="https://img.shields.io/github/stars/rust-lang/rust-by-example?style=social"/> : Learn Rust with examples (Live code editor included). [doc.rust-lang.org/stable/rust-by-example/](https://doc.rust-lang.org/stable/rust-by-example/)
+
+    - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) <img src="https://img.shields.io/github/stars/rust-lang/rustlings?style=social"/> : rustlings 🦀❤️. 🦀 Small exercises to get you used to reading and writing Rust code!
+
+    - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) <img src="https://img.shields.io/github/stars/google/comprehensive-rust?style=social"/> : This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust. [google.github.io/comprehensive-rust/](https://google.github.io/comprehensive-rust/). [欢迎来到 Comprehensive Rust 🦀](https://google.github.io/comprehensive-rust/zh-CN/index.html)
+
+    - [sunface/rust-course](https://github.com/sunface/rust-course) <img src="https://img.shields.io/github/stars/sunface/rust-course?style=social"/> : Rust语言圣经(Rust Course)。“连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试Rust吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程。[course.rs](https://course.rs/about-book.html)
+
+    - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) <img src="https://img.shields.io/github/stars/sunface/rust-by-practice?style=social"/> : Learning Rust By Practice, narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects. [Rust By Practice(Rust语言实战)](https://zh.practice.rs/why-exercise.html)
+
+    - [tyrchen/geektime-rust](https://github.com/tyrchen/geektime-rust) <img src="https://img.shields.io/github/stars/tyrchen/geektime-rust?style=social"/> : geektime-rust：我的极客时间 Rust 课程的代码仓库，随课程更新。
 
     - [pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog) <img src="https://img.shields.io/github/stars/pretzelhammer/rust-blog?style=social"/> : pretzelhammer's Rust blog 🦀. Educational blog posts for Rust beginners.
 
@@ -143,10 +154,6 @@
     - [instrumentisto/rust-incubator](https://github.com/instrumentisto/rust-incubator) <img src="https://img.shields.io/github/stars/instrumentisto/rust-incubator?style=social"/> :  Learning Rust step-by-step. This project represents a hard-way step-by-step Rust learning course from language basics to a capability of web backend development.
 
     - [1595901624/StudyRust](https://github.com/1595901624/StudyRust) <img src="https://img.shields.io/github/stars/1595901624/StudyRust?style=social"/> :  公众号：《Rust学习日记》Rust 学习日记 源码 ，让你的Rust从0基础小白到大牛。
-
-    - [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) <img src="https://img.shields.io/github/stars/rust-lang/rust-by-example?style=social"/> : Learn Rust with examples (Live code editor included). [doc.rust-lang.org/stable/rust-by-example/](https://doc.rust-lang.org/stable/rust-by-example/)
-
-    - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) <img src="https://img.shields.io/github/stars/rust-lang/rustlings?style=social"/> : rustlings 🦀❤️. 🦀 Small exercises to get you used to reading and writing Rust code!
 
     - [MacroKata](https://tfpk.github.io/macrokata/) : Welcome to MacroKata, a set of exercises which you can use to learn how to write macros in Rust.
 
@@ -162,21 +169,15 @@
 
     - [Rust文档网](https://rustwiki.org/) : Rust 官方文档中文教程。
 
-    - [rust-boom/rust-boom](https://github.com/rust-boom/rust-boom) <img src="https://img.shields.io/github/stars/rust-boom/rust-boom?style=social"/> : rust awesome（资源）. 💥 [rust-boom.github.io/rust-boom/](https://rust-boom.github.io/rust-boom/). Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难点的解决方法以及一些 Rust 开源的好玩的库、书籍、文章的整理，希望可以帮助更多的 Rust 初学者来翻过 Rust 这座大山。
-
     - [Rust程序设计语言](https://kaisery.github.io/trpl-zh-cn/) : Rust 程序设计语言 简体中文版。
+
+    - [rust-boom/rust-boom](https://github.com/rust-boom/rust-boom) <img src="https://img.shields.io/github/stars/rust-boom/rust-boom?style=social"/> : rust awesome（资源）. 💥 [rust-boom.github.io/rust-boom/](https://rust-boom.github.io/rust-boom/). Rust Boom 是一个仓主在学习使用 Rust 的时候，对 Rust 的一些难点的解决方法以及一些 Rust 开源的好玩的库、书籍、文章的整理，希望可以帮助更多的 Rust 初学者来翻过 Rust 这座大山。
 
     - [rust-lang-cn/reference-cn](https://github.com/rust-lang-cn/reference-cn) <img src="https://img.shields.io/github/stars/rust-lang-cn/reference-cn?style=social"/> : Rust 参考手册 中文版——Chinese translation of The Rust Reference. [rustwiki.org/zh-CN/reference](https://rustwiki.org/zh-CN/reference/)
 
-    - [sunface/rust-course](https://github.com/sunface/rust-course) <img src="https://img.shields.io/github/stars/sunface/rust-course?style=social"/> : Rust语言圣经(Rust Course)。“连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试Rust吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程。[course.rs](https://course.rs/about-book.html)
-
     - [rust-lang-cn/rust-by-example-cn](https://github.com/rust-lang-cn/rust-by-example-cn) <img src="https://img.shields.io/github/stars/rust-lang-cn/rust-by-example-cn?style=social"/> : Rust By Example 中文版(包含在线代码编辑器)。[通过例子学 Rust 中文版](https://rustwiki.org/zh-CN/rust-by-example/)
 
-    - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) <img src="https://img.shields.io/github/stars/sunface/rust-by-practice?style=social"/> : Learning Rust By Practice, narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects. [Rust By Practice(Rust语言实战)](https://zh.practice.rs/why-exercise.html)
-
     - [rust-lang-cn/nomicon-zh-Hans](https://github.com/rust-lang-cn/nomicon-zh-Hans) <img src="https://img.shields.io/github/stars/rust-lang-cn/nomicon-zh-Hans?style=social"/> : Rust 秘典（死灵书）。[nomicon.purewhite.io/](https://nomicon.purewhite.io/)
-
-    - [tyrchen/geektime-rust](https://github.com/tyrchen/geektime-rust) <img src="https://img.shields.io/github/stars/tyrchen/geektime-rust?style=social"/> : geektime-rust：我的极客时间 Rust 课程的代码仓库，随课程更新。
 
     - [Warrenren/inside-rust-std-library](https://github.com/Warrenren/inside-rust-std-library) <img src="https://img.shields.io/github/stars/Warrenren/inside-rust-std-library?style=social"/> : 本书主要对RUST的标准库代码进行分析，并试图给出RUST标准库代码的分析脉络。This project try to give a venation of how reading the RUST standard library source code.
 
@@ -204,8 +205,22 @@
 
     - [night-cruise/async-rust](https://github.com/night-cruise/async-rust) <img src="https://img.shields.io/github/stars/night-cruise/async-rust?style=social"/> : 这是一本电子书，旨在介绍 Rust 中 async/await 语法和异步运行时的原理和工作机制。[night-cruise.github.io/async-rust/](https://night-cruise.github.io/async-rust/)
 
+    - [LearningOS/rust-based-os-comp2023](https://github.com/LearningOS/rust-based-os-comp2023) <img src="https://img.shields.io/github/stars/LearningOS/rust-based-os-comp2023?style=social"/> : 2023秋冬季开源操作系统训练营。
 
 
+
+
+## Performance Benchmark
+
+  - [jinyus/related_post_gen](https://github.com/jinyus/related_post_gen) <img src="https://img.shields.io/github/stars/jinyus/related_post_gen?style=social"/> : Data Processing benchmark featuring Rust, Go, Swift, Zig etc.
+
+  - [kostya/benchmarks](hhttps://github.com/kostya/benchmarks) <img src="https://img.shields.io/github/stars/kostya/benchmarks?style=social"/> : Some benchmarks of different languages.
+
+  - [zackradisic/rust-vs-zig](https://github.com/zackradisic/rust-vs-zig) <img src="https://img.shields.io/github/stars/zackradisic/rust-vs-zig?style=social"/> : This is an experiment to evaluate Rust vs. Zig by writing a bytecode interpreter with GC in both languages and comparing them.
+
+  - [lucascompython/zigXrustXc](https://github.com/lucascompython/zigXrustXc) <img src="https://img.shields.io/github/stars/lucascompython/zigXrustXc?style=social"/> : Performance of Zig vs Rust vs C.
+
+  - [CoalNova/BasicCompare](https://github.com/CoalNova/BasicCompare) <img src="https://img.shields.io/github/stars/CoalNova/BasicCompare?style=social"/> : A basic comparitive analysis of C, C++, Rust, and Zig.
 
 
 
