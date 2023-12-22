@@ -143,6 +143,8 @@
 
     - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) <img src="https://img.shields.io/github/stars/sunface/rust-by-practice?style=social"/> : Learning Rust By Practice, narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects. [Rust By Practice(Rust语言实战)](https://zh.practice.rs/why-exercise.html)
 
+    - [RustyCab/LearnRustEasy](https://github.com/RustyCab/LearnRustEasy) <img src="https://img.shields.io/github/stars/RustyCab/LearnRustEasy?style=social"/> : 本书的定位是做一本方便入门的Rust书籍，所以本书主要讲解Rust的基础知识，对于一些高阶的知识本书中尽量少提及或者不提及，希望本书能让您的Rust入门之路不再崎岖！本书在线阅读地址[LearnRustEasy](https://rustycab.github.io/LearnRustEasy/).
+
     - [tyrchen/geektime-rust](https://github.com/tyrchen/geektime-rust) <img src="https://img.shields.io/github/stars/tyrchen/geektime-rust?style=social"/> : geektime-rust：我的极客时间 Rust 课程的代码仓库，随课程更新。
 
     - [smallnest/concurrency-programming-via-rust](https://github.com/smallnest/concurrency-programming-via-rust) <img src="https://img.shields.io/github/stars/smallnest/concurrency-programming-via-rust?style=social"/> : concurrency programming via rust. Rust并发编程实战。
