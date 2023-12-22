@@ -444,13 +444,13 @@
 
     - [Polars](https://github.com/pola-rs/polars) <img src="https://img.shields.io/github/stars/pola-rs/polars?style=social"/> : [Polars](https://www.pola.rs/). Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js.
 
-    - [Lance](https://github.com/eto-ai/lance) <img src="https://img.shields.io/github/stars/eto-ai/lance?style=social"/> : Lance: modern columnar data format for ML. Convert from parquet in 2-lines of code for 100x faster random access, a vector index, data versioning, and more. Compatible with pandas, duckdb, polars, pyarrow, with more integrations on the way. [eto-ai.github.io/lance/](https://eto-ai.github.io/lance/)
-
     - [Plotters](https://github.com/plotters-rs/plotters) <img src="https://img.shields.io/github/stars/plotters-rs/plotters?style=social"/> : A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
 
-    - [Typst](https://github.com/typst/typst) <img src="https://img.shields.io/github/stars/typst/typst?style=social"/> : A new markup-based typesetting system that is powerful and easy to learn. Typst is a new markup-based typesetting system that is designed to be as powerful as LaTeX while being much easier to learn and use.  [typst.app](https://typst.app/).
-
     - [Rerun](https://github.com/rerun-io/rerun) <img src="https://img.shields.io/github/stars/rerun-io/rerun?style=social"/> : Rerun: Visualization infrastructure for computer vision. Log images, point clouds, etc, and visualize them effortlessly. Built in Rust using egui. [rerun.io](https://www.rerun.io/)
+
+    - [Lance](https://github.com/eto-ai/lance) <img src="https://img.shields.io/github/stars/eto-ai/lance?style=social"/> : Lance: modern columnar data format for ML. Convert from parquet in 2-lines of code for 100x faster random access, a vector index, data versioning, and more. Compatible with pandas, duckdb, polars, pyarrow, with more integrations on the way. [eto-ai.github.io/lance/](https://eto-ai.github.io/lance/)
+
+    - [Typst](https://github.com/typst/typst) <img src="https://img.shields.io/github/stars/typst/typst?style=social"/> : A new markup-based typesetting system that is powerful and easy to learn. Typst is a new markup-based typesetting system that is designed to be as powerful as LaTeX while being much easier to learn and use.  [typst.app](https://typst.app/).
 
     - [Charming](https://github.com/yuankunzhang/charming) <img src="https://img.shields.io/github/stars/yuankunzhang/charming?style=social"/> : A visualization library for Rust.
 
@@ -983,7 +983,7 @@
 
   - [mpizenberg/visual-odometry-rs](https://github.com/mpizenberg/visual-odometry-rs) <img src="https://img.shields.io/github/stars/mpizenberg/visual-odometry-rs?style=social"/> : Visual Odometry in Rust (vors).
 
-
+  - [code-cp/direct_method_simple](https://github.com/code-cp/direct_method_simple) <img src="https://img.shields.io/github/stars/code-cp/direct_method_simple?style=social"/> : This repo implements a simple direct method using the TUM RGBD dataset.
 
 
 
