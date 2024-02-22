@@ -232,7 +232,7 @@
 
   - [krahets/hello-algo](https://github.com/krahets/hello-algo) <img src="https://img.shields.io/github/stars/krahets/hello-algo?style=social"/> : 《Hello 算法》是一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Zig 等语言。 前往阅读 > [hello-algo.com](https://www.hello-algo.com/).
 
-  - [sjinzh/hello-algo-rust](https://github.com/sjinzh/hello-algo-rust) <img src="https://img.shields.io/github/stars/sjinzh/hello-algo-rust-zig?style=social"/> : Rust codes for the famous public project [《Hello, Algorithm》|《 Hello，算法 》](https://github.com/krahets/hello-algo) about data structures and algorithms.
+  - [codingonion/hello-algo-rust](https://github.com/codingonion/hello-algo-rust) <img src="https://img.shields.io/github/stars/codingonion/hello-algo-rust-zig?style=social"/> : Rust codes for the famous public project [《Hello, Algorithm》|《 Hello，算法 》](https://github.com/krahets/hello-algo) about data structures and algorithms.
 
   - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) <img src="https://img.shields.io/github/stars/TheAlgorithms/Rust?style=social"/> : All Algorithms implemented in Rust.
 
@@ -345,6 +345,8 @@
 
   - [cudarc](https://github.com/coreylowman/cudarc) <img src="https://img.shields.io/github/stars/coreylowman/cudarc?style=social"/> : cudarc: minimal and safe api over the cuda toolkit.
 
+  - [ZLUDA](https://github.com/vosen/ZLUDA) <img src="https://img.shields.io/github/stars/vosen/ZLUDA?style=social"/> : CUDA on AMD GPUs.
+
   - [async-cuda](https://github.com/oddity-ai/async-cuda) <img src="https://img.shields.io/github/stars/oddity-ai/async-cuda?style=social"/> : Asynchronous CUDA for Rust.
 
   - [async-tensorrt](https://github.com/oddity-ai/async-tensorrt) <img src="https://img.shields.io/github/stars/oddity-ai/async-tensorrt?style=social"/> : Asynchronous TensorRT for Rust.
@@ -396,19 +398,23 @@
 
     - [nalgebra](https://github.com/dimforge/nalgebra) <img src="https://img.shields.io/github/stars/dimforge/nalgebra?style=social"/> : Linear algebra library for the Rust programming language.
 
-    - [glam](https://github.com/bitshifter/glam-rs) <img src="https://img.shields.io/github/stars/bitshifter/glam-rs?style=social"/> : A simple and fast 3D math library for games and graphics.
-
     - [faer](https://github.com/sarah-ek/faer-rs) <img src="https://img.shields.io/github/stars/sarah-ek/faer-rs?style=social"/> : Linear algebra foundation for the Rust programming language. [faer-rs.github.io](https://faer-rs.github.io/). faer is a collection of crates that implement low level linear algebra routines in pure Rust. The aim is to eventually provide a fully featured library for linear algebra with focus on portability, correctness, and performance.
 
-    - [rust-numpy](https://github.com/PyO3/rust-numpy) <img src="https://img.shields.io/github/stars/PyO3/rust-numpy?style=social"/> : PyO3-based Rust bindings of the NumPy C-API.
+    - [glam](https://github.com/bitshifter/glam-rs) <img src="https://img.shields.io/github/stars/bitshifter/glam-rs?style=social"/> : A simple and fast 3D math library for games and graphics.
 
-    - [cgmath](https://github.com/rustgd/cgmath) <img src="https://img.shields.io/github/stars/rustgd/cgmath?style=social"/> : A linear algebra and mathematics library for computer graphics.
+    - [russell](https://github.com/cpmech/russell) <img src="https://img.shields.io/github/stars/cpmech/russell?style=social"/> : Rust Scientific Libary. Matrix-vector laboratory, OpenBLAS, sparse direct solvers.
 
     - [ultraviolet](https://github.com/fu5ha/ultraviolet) <img src="https://img.shields.io/github/stars/fu5ha/ultraviolet?style=social"/> : A wide linear algebra crate for games and graphics.
+
+    - [hasty](https://github.com/Pencilcaseman/hasty) <img src="https://img.shields.io/github/stars/Pencilcaseman/hasty?style=social"/> : High-performance BLAS and LAPACK within Rust.
+
+    - [cgmath](https://github.com/rustgd/cgmath) <img src="https://img.shields.io/github/stars/rustgd/cgmath?style=social"/> : A linear algebra and mathematics library for computer graphics.
 
     - [vek](https://github.com/yoanlcq/vek) <img src="https://img.shields.io/github/stars/yoanlcq/vek?style=social"/> : Generic 2D-3D math swiss army knife for game engines, with SIMD support and focus on convenience.
 
     - [static-math](https://github.com/elsuizo/static-math) <img src="https://img.shields.io/github/stars/elsuizo/static-math?style=social"/> : Safe and fast mathematical operations with static arrays in the Rust programming language.
+
+    - [rust-numpy](https://github.com/PyO3/rust-numpy) <img src="https://img.shields.io/github/stars/PyO3/rust-numpy?style=social"/> : PyO3-based Rust bindings of the NumPy C-API.
 
     - [custos-math](https://github.com/elftausend/custos-math) <img src="https://img.shields.io/github/stars/elftausend/custos-math?style=social"/> : This crate provides CUDA, OpenCL, CPU (and Stack) based matrix operations using [custos](https://github.com/elftausend/custos).
 
@@ -473,17 +479,14 @@
 
     - [ToluClassics/candle-tutorial](https://github.com/ToluClassics/candle-tutorial) <img src="https://img.shields.io/github/stars/ToluClassics/candle-tutorial?style=social"/> : Tutorial for Porting PyTorch Transformer Models to Candle (Rust).
 
-
-
-
-
     - [Burn](https://github.com/burn-rs/burn) <img src="https://img.shields.io/github/stars/burn-rs/burn?style=social"/> : Burn - A Flexible and Comprehensive Deep Learning Framework in Rust. [burn-rs.github.io/](https://burn-rs.github.io/)
+
+    - [dfdx](https://github.com/coreylowman/dfdx) <img src="https://img.shields.io/github/stars/coreylowman/dfdx?style=social"/> : Deep learning in Rust, with shape checked tensors and neural networks.
 
     - [TensorFlow Rust](https://github.com/tensorflow/rust) <img src="https://img.shields.io/github/stars/tensorflow/rust?style=social"/> : Rust language bindings for TensorFlow.
 
     - [tch-rs](https://github.com/LaurentMazare/tch-rs) <img src="https://img.shields.io/github/stars/LaurentMazare/tch-rs?style=social"/> : Rust bindings for the C++ api of PyTorch.
 
-    - [dfdx](https://github.com/coreylowman/dfdx) <img src="https://img.shields.io/github/stars/coreylowman/dfdx?style=social"/> : Deep learning in Rust, with shape checked tensors and neural networks.
 
     - [tract](https://github.com/sonos/tract) <img src="https://img.shields.io/github/stars/sonos/tract?style=social"/> : Sonos' Neural Network inference engine. Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference
 
@@ -617,7 +620,7 @@
 
   - ### Object Detection
 
-    - [sjinzh/yolov5-gui-slint](https://github.com/sjinzh/yolov5-gui-slint) <img src="https://img.shields.io/github/stars/sjinzh/yolov5-gui-slint?style=social"/> : YOLOv5 GUI inference framework built with Slint.
+    - [codingonion/yolov5-gui-slint](https://github.com/codingonion/yolov5-gui-slint) <img src="https://img.shields.io/github/stars/codingonion/yolov5-gui-slint?style=social"/> : YOLOv5 GUI inference framework built with Slint.
 
     - [ptaxom/pnn](https://github.com/ptaxom/pnn) <img src="https://img.shields.io/github/stars/ptaxom/pnn?style=social"/> : pnn is [Darknet](https://github.com/alexeyAB/darknet) compatible neural nets inference engine implemented in Rust. By optimizing was achieved significant performance increment(especially in FP16 mode). pnn provide CUDNN-based and TensorRT-based inference engines.
 
@@ -1140,6 +1143,8 @@
 
 
 ## Web3 Framework
+
+  - [Tachyon](https://github.com/kroma-network/tachyon) <img src="https://img.shields.io/github/stars/kroma-network/tachyon?style=social"/> : Modular ZK(Zero Knowledge) backend accelerated by GPU.
 
   - [nostr](https://github.com/nostr-protocol/nostr) <img src="https://img.shields.io/github/stars/nostr-protocol/nostr?style=social"/> : a truly censorship-resistant alternative to Twitter that has a chance of working. The simplest open protocol that is able to create a censorship-resistant global "social" network once and for all.
 
