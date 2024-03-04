@@ -15,7 +15,7 @@
   - [Parallelism Library](#parallelism-library)
   - [Asynchronous Runtime](#asynchronous-runtime)
   - [FFI Bindings](#ffi-bindings)
-  - [GPU Computing](#gpu-computing)
+  - [GPU Programming](#gpu-programming)
   - [Scientific Computation](#scientific-computation)
     - [Numerical Calculation](#numerical-calculation)
     - [Linear Algebra](#linear-algebra)
@@ -43,7 +43,7 @@
   - [Database](#database)
   - [Sensor and Communication Protocol](#sensor-and-communication-protocol)
   - [Signal Processing](#signal-processing)
-  - [Text Processing](#text-processing)
+  - [File Processing](#file-processing)
   - [Image and Video Processing](#image-and-video-processing)
   - [Live Media Server](#live-media-server)
   - [Localization and Mapping](#localization-and-mapping)
@@ -344,7 +344,7 @@
 
 
 
-## GPU Computing
+## GPU Programming
 
   - [cudarc](https://github.com/coreylowman/cudarc) <img src="https://img.shields.io/github/stars/coreylowman/cudarc?style=social"/> : cudarc: minimal and safe api over the cuda toolkit.
 
@@ -486,10 +486,13 @@
 
     - [dfdx](https://github.com/coreylowman/dfdx) <img src="https://img.shields.io/github/stars/coreylowman/dfdx?style=social"/> : Deep learning in Rust, with shape checked tensors and neural networks.
 
+    - [luminal](https://github.com/jafioti/luminal) <img src="https://img.shields.io/github/stars/jafioti/luminal?style=social"/> : Deep learning at the speed of light. [www.luminalai.com/](https://www.luminalai.com/)
+
+    - [crabml](https://github.com/crabml/crabml) <img src="https://img.shields.io/github/stars/crabml/crabml?style=social"/> : crabml is focusing on the reimplementation of GGML using the Rust programming language.
+
     - [TensorFlow Rust](https://github.com/tensorflow/rust) <img src="https://img.shields.io/github/stars/tensorflow/rust?style=social"/> : Rust language bindings for TensorFlow.
 
     - [tch-rs](https://github.com/LaurentMazare/tch-rs) <img src="https://img.shields.io/github/stars/LaurentMazare/tch-rs?style=social"/> : Rust bindings for the C++ api of PyTorch.
-
 
     - [tract](https://github.com/sonos/tract) <img src="https://img.shields.io/github/stars/sonos/tract?style=social"/> : Sonos' Neural Network inference engine. Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference
 
@@ -549,7 +552,7 @@
   - ### Large Language Model
 
 
-    - [miketang84/candle_demo_openchat_35](https://github.com/miketang84/candle_demo_openchat_35) <img src="https://img.shields.io/github/stars/miketang84/candle_demo_openchat_35?style=social"/> : candle_demo_openchat_35.
+    - [rustai-solutions/candle_demo_openchat_35](https://github.com/rustai-solutions/candle_demo_openchat_35) <img src="https://img.shields.io/github/stars/rustai-solutions/candle_demo_openchat_35?style=social"/> : candle_demo_openchat_35.
 
     - [phodal/aigc](https://github.com/phodal/aigc) <img src="https://img.shields.io/github/stars/phodal/aigc?style=social"/> : 《构筑大语言模型应用：应用开发与架构设计》一本关于 LLM 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括Prompt的编写、开发和管理，探索最好的大语言模型能带来什么，以及LLM应用开发的模式和架构设计。
 
@@ -919,7 +922,7 @@
 
 
 
-## Text Processing
+## File Processing
 
   - [Serde](https://github.com/serde-rs/serde) <img src="https://img.shields.io/github/stars/serde-rs/serde?style=social"/> : Serde is a framework for serializing and deserializing Rust data structures efficiently and generically. [serde.rs/](https://serde.rs/)
 
@@ -1487,6 +1490,7 @@
     - [2023-06-22，[Rust招聘] 国家智能网联汽车创新中心Rust工程师招聘（车载操作系统）](https://mp.weixin.qq.com/s/dB45f4ty-Ag-XkmggJ6RNQ)
     - [2023-07-14，邀请您参加有偿的Unsafe Rust调研](https://mp.weixin.qq.com/s/6ZJu0vmlNabbyMGD7QCK9A)
     - [2023-08-10，【Rust招聘】【理想汽车】rust高级开发工程师（35K-50K）](https://mp.weixin.qq.com/s/n7RfhW5NyhAlwcD2xJjgFQ)
+    - [2024-03-04，【Rust 日报】2024-03-03 高性能深度学习库luminal](https://mp.weixin.qq.com/s/kud1q96SqJ6__-1ApFQfyg)
   - 微信公众号「Rust学习日记」
     - [2022-08-13，【Rust 中级教程】 01 泛型](https://mp.weixin.qq.com/s/jbrgdfLTWOFsh42-CHHuEw)
     - [2022-08-20，【Rust 中级教程】 02 结构体与泛型](https://mp.weixin.qq.com/s/P_weMIXLaULXzlQRlWcRIw)
