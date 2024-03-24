@@ -26,7 +26,7 @@
   - [Machine Learning](#machine-learning)
     - [Machine Learning Framework](#machine-learning-framework)
     - [Large Language Model](#large-language-model)
-    - [Stable Diffusion](#stable-diffusion)
+    - [AI Generated Content](#ai-generated-content)
     - [Object Detection](#object-detection)
   - [Design Pattern](#design-pattern)
   - [Static Variables](#static-variables)
@@ -80,11 +80,13 @@
 
     - [Docs.rs](https://docs.rs/) : Docs.rs documentation.
 
-    - [Cheats.rs](https://github.com/ralfbiedert/cheats.rs/) <img src="https://img.shields.io/github/stars/ralfbiedert/cheats.rs?style=social"/> : Rust Language Cheat Sheet. [cheats.rs](https://cheats.rs/)
-
     - [crates.io](https://crates.io/) : The Rust community’s crate registry.
 
     - [Lib.rs](https://lib.rs/) : Fast, lightweight, opinionated, unofficial alternative to crates.io.
+
+    - [Cheats.rs](https://github.com/ralfbiedert/cheats.rs/) <img src="https://img.shields.io/github/stars/ralfbiedert/cheats.rs?style=social"/> : Rust Language Cheat Sheet. [cheats.rs](https://cheats.rs/)
+
+    - [Explaine.rs](https://jrvidal.github.io/explaine.rs/) : The explaine.rs
 
     - [Rust Playground](https://play.rust-lang.org/) : The Rust Playground. [rust-lang/rust-playground](https://github.com/rust-lang/rust-playground) <img src="https://img.shields.io/github/stars/rust-lang/rust-playground?style=social"/>.
 
@@ -132,6 +134,8 @@
 
     - [kingfree/cheats.rs](https://github.com/kingfree/cheats.rs/) <img src="https://img.shields.io/github/stars/kingfree/cheats.rs?style=social"/> : Rust 语言备忘清单 (简体中文). [Rust 语言备忘清单](https://cheats.rs.kingfree.moe/)
 
+    - [Explaine.rs](https://jrvidal.github.io/explaine.rs/) : The explaine.rs
+
     - [rust-lang/book](https://github.com/rust-lang/book) <img src="https://img.shields.io/github/stars/rust-lang/book?style=social"/> : The Rust Programming Language. [doc.rust-lang.org/book/](https://doc.rust-lang.org/book/)
 
     - [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) <img src="https://img.shields.io/github/stars/rust-lang/rust-by-example?style=social"/> : Learn Rust with examples (Live code editor included). [doc.rust-lang.org/stable/rust-by-example/](https://doc.rust-lang.org/stable/rust-by-example/)
@@ -142,15 +146,17 @@
 
     - [ehsanmok/create-your-own-lang-with-rust](https://github.com/ehsanmok/create-your-own-lang-with-rust) <img src="https://img.shields.io/github/stars/ehsanmok/create-your-own-lang-with-rust?style=social"/> : Create your own programming language with Rust. [createlang.rs](https://createlang.rs/).
 
-    - [sunface/rust-course](https://github.com/sunface/rust-course) <img src="https://img.shields.io/github/stars/sunface/rust-course?style=social"/> : Rust语言圣经(Rust Course)。“连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试Rust吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程。[course.rs](https://course.rs/about-book.html)
+    - [sunface/rust-course](https://github.com/sunface/rust-course) <img src="https://img.shields.io/github/stars/sunface/rust-course?style=social"/> : Rust语言圣经(Rust Course)。“连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book。[course.rs](https://course.rs/about-book.html)
 
     - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) <img src="https://img.shields.io/github/stars/sunface/rust-by-practice?style=social"/> : Learning Rust By Practice, narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects. [Rust By Practice(Rust语言实战)](https://zh.practice.rs/why-exercise.html)
+
+    - [sunface/new-rusty-book](https://github.com/sunface/new-rusty-book) <img src="https://img.shields.io/github/stars/sunface/new-rusty-book?style=social"/> : A curated list of recipes and repos that can be used to build your rusty projects. Rusty Book = Cookbook + Awesome Rust！[rusty.course.rs](https://rusty.course.rs/)
+
+    - [smallnest/concurrency-programming-via-rust](https://github.com/smallnest/concurrency-programming-via-rust) <img src="https://img.shields.io/github/stars/smallnest/concurrency-programming-via-rust?style=social"/> : concurrency programming via rust. 深入理解Rust并发编程。
 
     - [RustyCab/LearnRustEasy](https://github.com/RustyCab/LearnRustEasy) <img src="https://img.shields.io/github/stars/RustyCab/LearnRustEasy?style=social"/> : 本书的定位是做一本方便入门的Rust书籍，所以本书主要讲解Rust的基础知识，对于一些高阶的知识本书中尽量少提及或者不提及，希望本书能让您的Rust入门之路不再崎岖！本书在线阅读地址[LearnRustEasy](https://rustycab.github.io/LearnRustEasy/).
 
     - [tyrchen/geektime-rust](https://github.com/tyrchen/geektime-rust) <img src="https://img.shields.io/github/stars/tyrchen/geektime-rust?style=social"/> : geektime-rust：我的极客时间 Rust 课程的代码仓库，随课程更新。
-
-    - [smallnest/concurrency-programming-via-rust](https://github.com/smallnest/concurrency-programming-via-rust) <img src="https://img.shields.io/github/stars/smallnest/concurrency-programming-via-rust?style=social"/> : concurrency programming via rust. Rust并发编程实战。
 
     - [pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog) <img src="https://img.shields.io/github/stars/pretzelhammer/rust-blog?style=social"/> : pretzelhammer's Rust blog 🦀. Educational blog posts for Rust beginners.
 
@@ -474,11 +480,11 @@
 
   - ### Machine Learning Framework
 
-    - [Candle](https://github.com/huggingface/candle) <img src="https://img.shields.io/github/stars/huggingface/candle?style=social"/> : Minimalist ML framework for Rust.
-
     - [Safetensors](https://github.com/huggingface/safetensors) <img src="https://img.shields.io/github/stars/huggingface/safetensors?style=social"/> : Simple, safe way to store and distribute tensors. [huggingface.co/docs/safetensors](https://huggingface.co/docs/safetensors/index)
 
     - [Tokenizers](https://github.com/huggingface/tokenizers) <img src="https://img.shields.io/github/stars/huggingface/tokenizers?style=social"/> : 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production. [huggingface.co/docs/tokenizers](https://huggingface.co/docs/tokenizers/index)
+
+    - [Candle](https://github.com/huggingface/candle) <img src="https://img.shields.io/github/stars/huggingface/candle?style=social"/> : Minimalist ML framework for Rust.
 
     - [ToluClassics/candle-tutorial](https://github.com/ToluClassics/candle-tutorial) <img src="https://img.shields.io/github/stars/ToluClassics/candle-tutorial?style=social"/> : Tutorial for Porting PyTorch Transformer Models to Candle (Rust).
 
@@ -551,30 +557,33 @@
 ​
   - ### Large Language Model
 
+    - [phodal/aigc](https://github.com/phodal/aigc) <img src="https://img.shields.io/github/stars/phodal/aigc?style=social"/> : 《构筑大语言模型应用：应用开发与架构设计》一本关于 LLM 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括Prompt的编写、开发和管理，探索最好的大语言模型能带来什么，以及LLM应用开发的模式和架构设计。[aigc.phodal.com/](https://aigc.phodal.com/)
 
-    - [rustai-solutions/candle_demo_openchat_35](https://github.com/rustai-solutions/candle_demo_openchat_35) <img src="https://img.shields.io/github/stars/rustai-solutions/candle_demo_openchat_35?style=social"/> : candle_demo_openchat_35.
+    - [sobelio/llm-chain](https://github.com/sobelio/llm-chain) <img src="https://img.shields.io/github/stars/sobelio/llm-chain?style=social"/> : llm-chain 🚀 is a collection of Rust crates designed to help you create advanced LLM applications such as chatbots, agents, and more. As a comprehensive LLM-Ops platform we have strong support for both cloud and locally-hosted LLMs. [llm-chain.xyz](https://llm-chain.xyz/)
 
-    - [phodal/aigc](https://github.com/phodal/aigc) <img src="https://img.shields.io/github/stars/phodal/aigc?style=social"/> : 《构筑大语言模型应用：应用开发与架构设计》一本关于 LLM 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括Prompt的编写、开发和管理，探索最好的大语言模型能带来什么，以及LLM应用开发的模式和架构设计。
+    - [edgenai/edgen](https://github.com/edgenai/edgen) <img src="https://img.shields.io/github/stars/edgenai/edgen?style=social"/> : ⚡ Edgen: Local, private GenAI server alternative to OpenAI. No GPU required. Run AI models locally: LLMs (Llama2, Mistral, Mixtral...), Speech-to-text (whisper) and many others. [docs.edgen.co/](https://docs.edgen.co/)
 
-    - [llama2.rs](https://github.com/srush/llama2.rs) <img src="https://img.shields.io/github/stars/srush/llama2.rs?style=social"/> : A fast llama2 decoder in pure Rust.
+    - [edgenai/llama_cpp-rs](https://github.com/edgenai/llama_cpp-rs) <img src="https://img.shields.io/github/stars/edgenai/llama_cpp-rs?style=social"/> : High-level, optionally asynchronous Rust bindings to llama.cpp.
 
-    - [Llama2-burn](https://github.com/Gadersd/llama2-burn) <img src="https://img.shields.io/github/stars/Gadersd/llama2-burn?style=social"/> : Llama2 LLM ported to Rust burn.
+    - [coreylowman/llama-dfdx](https://github.com/coreylowman/llama-dfdx) <img src="https://img.shields.io/github/stars/coreylowman/llama-dfdx?style=social"/> : [LLaMa 7b](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) with CUDA acceleration implemented in rust. Minimal GPU memory needed!
+
+    - [edgenai/llama_cpp-rs](https://github.com/edgenai/llama_cpp-rs) <img src="https://img.shields.io/github/stars/edgenai/llama_cpp-rs?style=social"/> : High-level, optionally asynchronous Rust bindings to llama.cpp.
+
+    - [srush/llama2.rs](https://github.com/srush/llama2.rs) <img src="https://img.shields.io/github/stars/srush/llama2.rs?style=social"/> : A fast llama2 decoder in pure Rust.
 
     - [gaxler/llama2.rs](https://github.com/gaxler/llama2.rs) <img src="https://img.shields.io/github/stars/gaxler/llama2.rs?style=social"/> : Inference Llama 2 in one file of pure Rust 🦀
+
+    - [Llama2-burn](https://github.com/Gadersd/llama2-burn) <img src="https://img.shields.io/github/stars/Gadersd/llama2-burn?style=social"/> : Llama2 LLM ported to Rust burn.
 
     - [whisper-burn](https://github.com/Gadersd/whisper-burn) <img src="https://img.shields.io/github/stars/Gadersd/whisper-burn?style=social"/> : A Rust implementation of OpenAI's Whisper model using the burn framework.
 
     - [stable-diffusion-burn](https://github.com/Gadersd/stable-diffusion-burn) <img src="https://img.shields.io/github/stars/Gadersd/stable-diffusion-burn?style=social"/> : Stable Diffusion v1.4 ported to Rust's burn framework.
-
-    - [coreylowman/llama-dfdx](https://github.com/coreylowman/llama-dfdx) <img src="https://img.shields.io/github/stars/coreylowman/llama-dfdx?style=social"/> : [LLaMa 7b](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) with CUDA acceleration implemented in rust. Minimal GPU memory needed!
 
     - [tazz4843/whisper-rs](https://github.com/tazz4843/whisper-rs) <img src="https://img.shields.io/github/stars/tazz4843/whisper-rs?style=social"/> : Rust bindings to [whisper.cpp](https://github.com/ggerganov/whisper.cpp).
 
     - [rustformers/llm](https://github.com/rustformers/llm) <img src="https://img.shields.io/github/stars/rustformers/llm?style=social"/> : Run inference for Large Language Models on CPU, with Rust 🦀🚀🦙.
 
     - [Chidori](https://github.com/ThousandBirdsInc/chidori) <img src="https://img.shields.io/github/stars/ThousandBirdsInc/chidori?style=social"/> : A reactive runtime for building durable AI agents. [docs.thousandbirds.ai](https://docs.thousandbirds.ai/).
-
-    - [llm-chain](https://github.com/sobelio/llm-chain) <img src="https://img.shields.io/github/stars/sobelio/llm-chain?style=social"/> : llm-chain is a collection of Rust crates designed to help you work with Large Language Models (LLMs) more effectively. [llm-chain.xyz](https://llm-chain.xyz/)
 
     - [Atome-FE/llama-node](https://github.com/Atome-FE/llama-node) <img src="https://img.shields.io/github/stars/Atome-FE/llama-node?style=social"/> : Believe in AI democratization. llama for nodejs backed by llama-rs and llama.cpp, work locally on your laptop CPU. support llama/alpaca/gpt4all/vicuna model. [www.npmjs.com/package/llama-node](https://www.npmjs.com/package/llama-node)
 
@@ -614,9 +623,11 @@
 
     - [purton-tech/bionicgpt](https://github.com/purton-tech/bionicgpt) <img src="https://img.shields.io/github/stars/purton-tech/bionicgpt?style=social"/> : Accelerate LLM adoption in your organisation. Chat with your confidential data safely and securely. [bionic-gpt.com](https://bionic-gpt.com/)
 
+    - [rustai-solutions/candle_demo_openchat_35](https://github.com/rustai-solutions/candle_demo_openchat_35) <img src="https://img.shields.io/github/stars/rustai-solutions/candle_demo_openchat_35?style=social"/> : candle_demo_openchat_35.
 
 
-  - ### Stable Diffusion
+
+  - ### AI Generated Content
 
     - [pykeio/diffusers](https://github.com/pykeio/diffusers) <img src="https://img.shields.io/github/stars/pykeio/diffusers?style=social"/> : modular Rust library for optimized Stable Diffusion inference 🔮 [docs.rs/pyke-diffusers](https://docs.rs/pyke-diffusers/latest/pyke_diffusers/)
 
@@ -1086,6 +1097,7 @@
 ## Network Service
 
   - [Pingora](https://github.com/cloudflare/pingora) <img src="https://img.shields.io/github/stars/cloudflare/pingora?style=social"/> : Pingora is a Rust framework to build fast, reliable and programmable networked systems. [Open sourcing Pingora: our Rust framework for building programmable network services](https://blog.cloudflare.com/pingora-open-source)
+
 
 
 
