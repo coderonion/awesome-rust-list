@@ -12,8 +12,7 @@
     - [Learning Resources](#learning-resources)
   - [Performance Benchmark](#performance-benchmark)
   - [Data Structure and Algorithm](#data-structure-and-algorithm)
-  - [Parallelism Library](#parallelism-library)
-  - [Asynchronous Runtime](#asynchronous-runtime)
+  - [Parallel and Async Library](#parallel-and-async-library)
   - [FFI Bindings](#ffi-bindings)
   - [GPU Programming](#gpu-programming)
   - [Scientific Computation](#scientific-computation)
@@ -21,6 +20,7 @@
     - [Linear Algebra](#linear-algebra)
     - [Lie Groups](#lie-groups)
     - [Optimization Engine](#optimization-engine)
+    - [Evolutionary Computation](#evolutionary-computation)
     - [Finite Element Analysis](#finite-element-analysis)
     - [Data Analysis and Visualization](#data-analysis-and-visualization)
   - [Machine Learning](#machine-learning)
@@ -265,21 +265,20 @@
 
 
 
-## Parallelism Library
+## Parallel and Async Library
 
   - [Rayon](https://github.com/rayon-rs/rayon) <img src="https://img.shields.io/github/stars/rayon-rs/rayon?style=social"/> : Rayon: A data parallelism library for Rust.
 
   - [Flume](https://github.com/zesterer/flume) <img src="https://img.shields.io/github/stars/zesterer/flume?style=social"/> : A safe and fast multi-producer, multi-consumer channel. [crates.io/crates/flume](https://crates.io/crates/flume)
 
-
-
-
-
-## Asynchronous Runtime
-
   - [Tokio](https://github.com/tokio-rs/tokio) <img src="https://img.shields.io/github/stars/tokio-rs/tokio?style=social"/> : A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.
 
   - [May](https://github.com/Xudong-Huang/may) <img src="https://img.shields.io/github/stars/Xudong-Huang/may?style=social"/> : May is a high-performance library for programming stackful coroutines with which you can easily develop and maintain massive concurrent programs. It can be thought as the Rust version of the popular [Goroutine](https://tour.golang.org/concurrency/1).
+
+  - [event-listener](https://github.com/smol-rs/event-listener) <img src="https://img.shields.io/github/stars/smol-rs/event-listener?style=social"/> : Notify async tasks or threads.
+
+  - [async-process](https://github.com/smol-rs/async-process) <img src="https://img.shields.io/github/stars/smol-rs/async-process?style=social"/> : Async interface for working with processes.
+
 
 
 
@@ -447,6 +446,19 @@
     - [pranayspeed/g2o-rust-bindings](https://github.com/pranayspeed/g2o-rust-bindings) <img src="https://img.shields.io/github/stars/pranayspeed/g2o-rust-bindings?style=social"/> :  g2o-rust-bindings.
 
     - [mithi/rusty-genes](https://github.com/mithi/rusty-genes) <img src="https://img.shields.io/github/stars/mithi/rusty-genes?style=social"/> : Genetic algorithm implementation in Rust with animated visualizations in Python.
+
+
+
+
+  - ### Evolutionary computation
+
+    - [EvoTorch](https://github.com/nnaisense/evotorch) <img src="https://img.shields.io/github/stars/nnaisense/evotorch?style=social"/> : Advanced evolutionary computation library built directly on top of PyTorch, created at NNAISENSE. [evotorch.ai](https://evotorch.ai/)
+
+    - [ecrs-org/ecrs](https://github.com/ecrs-org/ecrs) <img src="https://img.shields.io/github/stars/ecrs-org/ecrs?style=social"/> : ecrs - Evolutionary computation algorithms & tools for Rust.
+
+    - [unhindered-ec/unhindered-ec](https://github.com/unhindered-ec/unhindered-ec) <img src="https://img.shields.io/github/stars/unhindered-ec/unhindered-ec?style=social"/> : A Rust framework supporting a variaty of evolutionary computation (EC) tools.
+
+
 
 
 
@@ -1168,6 +1180,24 @@
 
   - [Tachyon](https://github.com/kroma-network/tachyon) <img src="https://img.shields.io/github/stars/kroma-network/tachyon?style=social"/> : Modular ZK(Zero Knowledge) backend accelerated by GPU.
 
+  - [ICICLE](https://github.com/ingonyama-zk/icicle) <img src="https://img.shields.io/github/stars/ingonyama-zk/icicle?style=social"/> : ICICLE is a library for ZK acceleration using CUDA-enabled GPUs.
+
+  - [BLAZE](https://github.com/ingonyama-zk/blaze) <img src="https://img.shields.io/github/stars/ingonyama-zk/blaze?style=social"/> : blaze is a Rust library for ZK acceleration on Xilinx FPGAs.
+
+  - [Polkadot SDK](https://github.com/paritytech/polkadot-sdk) <img src="https://img.shields.io/github/stars/paritytech/polkadot-sdk?style=social"/> : The Parity Polkadot Blockchain SDK. The Polkadot SDK repository provides all the resources needed to start building on the Polkadot network, a multi-chain blockchain platform that enables different blockchains to interoperate and share information in a secure and scalable way. [polkadot.network/](https://polkadot.network/)
+
+  - [Substrate](https://github.com/paritytech/substrate) <img src="https://img.shields.io/github/stars/paritytech/substrate?style=social"/> : Substrate: The platform for blockchain innovators.
+
+  - [Polkadot](https://github.com/paritytech/polkadot) <img src="https://img.shields.io/github/stars/paritytech/polkadot?style=social"/> : Polkadot Node Implementation.
+
+  - [move](https://github.com/move-language/move) <img src="https://img.shields.io/github/stars/move-language/move?style=social"/> : Move is a programming language for writing safe smart contracts originally developed at Facebook to power the Diem blockchain.
+
+  - [Sui](https://github.com/MystenLabs/sui) <img src="https://img.shields.io/github/stars/MystenLabs/sui?style=social"/> : Sui is a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the [Move programming language](https://github.com/MystenLabs/awesome-move). [sui.io](https://sui.io/)
+
+  - [Rooch](https://github.com/rooch-network/rooch) <img src="https://img.shields.io/github/stars/rooch-network/rooch?style=social"/> : Rooch is a modular DApp container with the [Move language](https://github.com/move-language/move). [rooch.network](https://rooch.network/zh-CN)
+
+  - [Bifrost](https://github.com/bifrost-finance/bifrost) <img src="https://img.shields.io/github/stars/bifrost-finance/bifrost?style=social"/> : Bifrost is a Web3 derivatives protocol that provides decentralized cross-chain liquidity for staked assets.
+
   - [nostr](https://github.com/nostr-protocol/nostr) <img src="https://img.shields.io/github/stars/nostr-protocol/nostr?style=social"/> : a truly censorship-resistant alternative to Twitter that has a chance of working. The simplest open protocol that is able to create a censorship-resistant global "social" network once and for all.
 
   - [awesome-nostr](https://github.com/aljazceru/awesome-nostr) <img src="https://img.shields.io/github/stars/aljazceru/awesome-nostr?style=social"/> : A curated list of nostr projects and resources. [www.nostr.net](https://www.nostr.net/)
@@ -1253,14 +1283,6 @@
   - [0xAsten/Starknet-Tech-Stacks-Mindmap](https://github.com/0xAsten/Starknet-Tech-Stacks-Mindmap) <img src="https://img.shields.io/github/stars/0xAsten/Starknet-Tech-Stacks-Mindmap?style=social"/> : This open collaboration project aims to explore and document the various technology stacks associated with Starknet.
 
   - [gakonst/ethers-rs](https://github.com/gakonst/ethers-rs) <img src="https://img.shields.io/github/stars/gakonst/ethers-rs?style=social"/> :  Complete Ethereum & Celo library and wallet implementation in Rust. [https://docs.rs/ethers](https://docs.rs/ethers/latest/ethers/)
-
-  - [move](https://github.com/move-language/move) <img src="https://img.shields.io/github/stars/move-language/move?style=social"/> : Move is a programming language for writing safe smart contracts originally developed at Facebook to power the Diem blockchain.
-
-  - [Sui](https://github.com/MystenLabs/sui) <img src="https://img.shields.io/github/stars/MystenLabs/sui?style=social"/> : Sui is a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the [Move programming language](https://github.com/MystenLabs/awesome-move). [sui.io](https://sui.io/)
-
-  - [Rooch](https://github.com/rooch-network/rooch) <img src="https://img.shields.io/github/stars/rooch-network/rooch?style=social"/> : Rooch is a modular DApp container with the [Move language](https://github.com/move-language/move). [rooch.network](https://rooch.network/zh-CN)
-
-  - [Substrate](https://github.com/paritytech/substrate) <img src="https://img.shields.io/github/stars/paritytech/substrate?style=social"/> : Substrate is a next-generation framework for blockchain innovation 🚀.
 
   - [Galactic-Hub/cosmos-sdk-rs](https://github.com/Galactic-Hub/cosmos-sdk-rs) <img src="https://img.shields.io/github/stars/Galactic-Hub/cosmos-sdk-rs?style=social"/> : Cosmos SDK implement by Rust.
 
@@ -1606,6 +1628,9 @@
     - [2023-08-11，Python 失宠！Hugging Face 用 Rust 新写了一个 ML框架，现已低调开源](https://mp.weixin.qq.com/s/YMmYnODJObYplDolnhtJZw)
   - 微信公众号「AI工程化」
     - [2023-08-11，Hugging Face偷偷放大招了，Rust版本的ML框架Candle曝光](https://mp.weixin.qq.com/s/iwrV35oq_j8-SqUIMk-m0A)
+  - 微信公众号「技术源泉」
+    - [2024-04-19，Rust 无锁算法库](https://mp.weixin.qq.com/s/yz1EHWDjhhk3nEOxhmdlyg)
+
   - 「[MIT Technology Review](https://www.technologyreview.com/)」
     - [2023-02-14，How Rust went from a side project to the world’s most-loved programming language](https://www.technologyreview.com/2023/02/14/1067869/rust-worlds-fastest-growing-programming-language)
   - 「[Piotr Kołaczkowski](https://pkolaczk.github.io/)」
