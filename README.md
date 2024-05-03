@@ -936,6 +936,8 @@
 
   - [Rusqlite](https://github.com/rusqlite/rusqlite) <img src="https://img.shields.io/github/stars/rusqlite/rusqlite?style=social"/> : Rusqlite is an ergonomic wrapper for using SQLite from Rust.
 
+  - [Njord](https://github.com/njord-rs/njord) <img src="https://img.shields.io/github/stars/njord-rs/njord?style=social"/> : ⛵ A lightweight ORM library for Rust.
+
   - [CeresDB](https://github.com/CeresDB/ceresdb) <img src="https://img.shields.io/github/stars/CeresDB/ceresdb?style=social"/> : CeresDB is a high-performance, distributed, cloud native time-series database. [docs.ceresdb.io](https://docs.ceresdb.io/)
 
   - [redb](https://github.com/cberner/redb) <img src="https://img.shields.io/github/stars/cberner/redb?style=social"/> : An embedded key-value database in pure Rust. [www.redb.org](https://www.redb.org/)
