@@ -15,7 +15,7 @@ This repository lists some awesome public Rust projects, Videos, Blogs and Jobs.
   - [Parallel and Async Library](#parallel-and-async-library)
   - [FFI Bindings](#ffi-bindings)
   - [GPU Programming](#gpu-programming)
-  - [ZKP and Web3 Framework](#zkp-and-web3-framework)
+  - [Web3 and ZKP Framework](#web3-and-zkp-framework)
   - [Scientific Computation](#scientific-computation)
     - [Numerical Calculation](#numerical-calculation)
     - [Linear Algebra](#linear-algebra)
@@ -305,14 +305,13 @@ This repository lists some awesome public Rust projects, Videos, Blogs and Jobs.
 
   - [C2Rust](https://github.com/immunant/c2rust) <img src="https://img.shields.io/github/stars/immunant/c2rust?style=social"/> : C2Rust helps you migrate C99-compliant code to Rust. [c2rust.com/](https://c2rust.com/)
 
-
-
   - [embed-c](https://github.com/zdimension/embed-c) <img src="https://img.shields.io/github/stars/zdimension/embed-c?style=social"/> : Embed C code at compile time inside Rust using C2Rust.
 
   - [rust-cpp](https://github.com/mystor/rust-cpp) <img src="https://img.shields.io/github/stars/mystor/rust-cpp?style=social"/> : rust-cpp - Embed C++ code directly in Rust.
 
-  - [safer_ffi](https://github.com/getditto/safer_ffi) <img src="https://img.shields.io/github/stars/getditto/safer_ffi?style=social"/> : Write safer FFI code in Rust without polluting it with unsafe code. [getditto.github.io/safer_ffi](https://getditto.github.io/safer_ffi/)
+  - [zngur](https://github.com/HKalbasi/zngur) <img src="https://img.shields.io/github/stars/HKalbasi/zngur?style=social"/> : A C++/Rust interop tool. [hkalbasi.github.io/zngur](https://hkalbasi.github.io/zngur)
 
+  - [safer_ffi](https://github.com/getditto/safer_ffi) <img src="https://img.shields.io/github/stars/getditto/safer_ffi?style=social"/> : Write safer FFI code in Rust without polluting it with unsafe code. [getditto.github.io/safer_ffi](https://getditto.github.io/safer_ffi/)
 
   - [Diplomat](https://github.com/rust-diplomat/diplomat) <img src="https://img.shields.io/github/stars/rust-diplomat/diplomat?style=social"/> : Experimental Rust tool for generating FFI definitions allowing many other languages to call Rust code.
 
@@ -440,7 +439,7 @@ This repository lists some awesome public Rust projects, Videos, Blogs and Jobs.
 
 
 
-## ZKP and Web3 Framework
+## Web3 and ZKP Framework
 
   - [Tachyon](https://github.com/kroma-network/tachyon) <img src="https://img.shields.io/github/stars/kroma-network/tachyon?style=social"/> : Modular ZK(Zero Knowledge) backend accelerated by GPU.
 
@@ -1418,6 +1417,10 @@ This repository lists some awesome public Rust projects, Videos, Blogs and Jobs.
 
   - ### GUI Framework
 
+    - [flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge) <img src="https://img.shields.io/github/stars/fzyzcjy/flutter_rust_bridge?style=social"/> : Flutter/Dart <-> Rust binding generator, feature-rich, but seamless and simple. [ fzyzcjy.github.io/flutter_rust_bridge/](https://fzyzcjy.github.io/flutter_rust_bridge/)
+
+    - [Rinf](https://github.com/cunarist/rinf) <img src="https://img.shields.io/github/stars/cunarist/rinf?style=social"/> : Rust for native business logic, Flutter for flexible and beautiful GUI.
+
     - [Dioxus](https://github.com/DioxusLabs/dioxus) <img src="https://img.shields.io/github/stars/DioxusLabs/dioxus?style=social"/> : Fullstack GUI library for desktop, web, mobile, and more. [dioxuslabs.com](https://dioxuslabs.com/)
 
     - [marc2332/freya](https://github.com/marc2332/freya) <img src="https://img.shields.io/github/stars/marc2332/freya?style=social"/> : Native GUI library for 🦀 Rust powered by 🧬 Dioxus and 🎨 Skia. [freyaui.dev/](https://freyaui.dev/)
@@ -1439,7 +1442,6 @@ This repository lists some awesome public Rust projects, Videos, Blogs and Jobs.
 
     - [KDAB/cxx-qt](https://github.com/KDAB/cxx-qt) <img src="https://img.shields.io/github/stars/KDAB/cxx-qt?style=social"/> : Safe interop between Rust and Qt.
 
-    - [Rust-In-Flutter](https://github.com/cunarist/rust-in-flutter) <img src="https://img.shields.io/github/stars/cunarist/rust-in-flutter?style=social"/> : Rust as your Flutter backend, Flutter as your Rust frontend.
 
     - [egui](https://github.com/emilk/egui) <img src="https://img.shields.io/github/stars/emilk/egui?style=social"/> : egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native.
 
@@ -1453,7 +1455,7 @@ This repository lists some awesome public Rust projects, Videos, Blogs and Jobs.
 
     - [Crux](https://github.com/redbadger/crux) <img src="https://img.shields.io/github/stars/redbadger/crux?style=social"/> : Cross-platform app development in Rust. [redbadger.github.io/crux/](https://redbadger.github.io/crux/)
 
-    - [flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge) <img src="https://img.shields.io/github/stars/fzyzcjy/flutter_rust_bridge?style=social"/> : High-level memory-safe binding generator for Flutter/Dart <-> Rust. [fzyzcjy.github.io/flutter_rust_bridge/](https://cjycode.com/flutter_rust_bridge/)
+
 
     - [KDE/rust-qt-binding-generator](https://github.com/KDE/rust-qt-binding-generator) <img src="https://img.shields.io/github/stars/KDE/rust-qt-binding-generator?style=social"/> : Generate bindings to use Rust code in Qt and QML.
 
