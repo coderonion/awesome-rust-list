@@ -277,6 +277,8 @@ This repository lists some awesome public Rust projects, Videos, Blogs and Jobs.
 
   - [Rayon](https://github.com/rayon-rs/rayon) <img src="https://img.shields.io/github/stars/rayon-rs/rayon?style=social"/> : Rayon: A data parallelism library for Rust.
 
+  - [mpi](https://github.com/rsmpi/rsmpi) <img src="https://img.shields.io/github/stars/rsmpi/rsmpi?style=social"/> : MPI bindings for Rust. [docs.rs/mpi](https://docs.rs/mpi/latest/mpi/).
+
   - [Flume](https://github.com/zesterer/flume) <img src="https://img.shields.io/github/stars/zesterer/flume?style=social"/> : A safe and fast multi-producer, multi-consumer channel. [crates.io/crates/flume](https://crates.io/crates/flume)
 
   - [Tokio](https://github.com/tokio-rs/tokio) <img src="https://img.shields.io/github/stars/tokio-rs/tokio?style=social"/> : A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.
@@ -440,6 +442,8 @@ This repository lists some awesome public Rust projects, Videos, Blogs and Jobs.
 
 
 ## Web3 and ZKP Framework
+
+  - [Web3-Recruitment-Platform](https://github.com/Web3-Club/Web3-Recruitment-Platform) <img src="https://img.shields.io/github/stars/Web3-Club/Web3-Recruitment-Platform?style=social"/> : Web3及远程工作招聘平台、频道汇总｜@Web3-Club。
 
   - [Tachyon](https://github.com/kroma-network/tachyon) <img src="https://img.shields.io/github/stars/kroma-network/tachyon?style=social"/> : Modular ZK(Zero Knowledge) backend accelerated by GPU.
 
@@ -605,13 +609,15 @@ This repository lists some awesome public Rust projects, Videos, Blogs and Jobs.
 
     - [glam](https://github.com/bitshifter/glam-rs) <img src="https://img.shields.io/github/stars/bitshifter/glam-rs?style=social"/> : A simple and fast 3D math library for games and graphics.
 
-    - [russell](https://github.com/cpmech/russell) <img src="https://img.shields.io/github/stars/cpmech/russell?style=social"/> : Rust Scientific Libary. Matrix-vector laboratory, OpenBLAS, sparse direct solvers.
-
-    - [ultraviolet](https://github.com/fu5ha/ultraviolet) <img src="https://img.shields.io/github/stars/fu5ha/ultraviolet?style=social"/> : A wide linear algebra crate for games and graphics.
+    - [russell](https://github.com/cpmech/russell) <img src="https://img.shields.io/github/stars/cpmech/russell?style=social"/> : Rust Scientific Libary. Special functions (Bessel, Elliptic, Beta, Gamma, Erf). Linear algebra. Sparse solvers. ODE and DAE solvers. Probability distributions. Tensor calculus.
 
     - [hasty](https://github.com/Pencilcaseman/hasty) <img src="https://img.shields.io/github/stars/Pencilcaseman/hasty?style=social"/> : High-performance BLAS and LAPACK within Rust.
 
+    - [tensr](https://github.com/Pencilcaseman/tensr) <img src="https://img.shields.io/github/stars/Pencilcaseman/tensr?style=social"/> : A high-performance, cross-platform, multi-backend tensor/array library for Rust.
+
     - [cgmath](https://github.com/rustgd/cgmath) <img src="https://img.shields.io/github/stars/rustgd/cgmath?style=social"/> : A linear algebra and mathematics library for computer graphics.
+
+    - [ultraviolet](https://github.com/fu5ha/ultraviolet) <img src="https://img.shields.io/github/stars/fu5ha/ultraviolet?style=social"/> : A wide linear algebra crate for games and graphics.
 
     - [vek](https://github.com/yoanlcq/vek) <img src="https://img.shields.io/github/stars/yoanlcq/vek?style=social"/> : Generic 2D-3D math swiss army knife for game engines, with SIMD support and focus on convenience.
 
