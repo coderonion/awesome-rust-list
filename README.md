@@ -857,6 +857,8 @@ This repository lists some awesome public Rust projects, Videos, Blogs and Jobs.
 
   - ### Object Detection
 
+    - [usls](https://github.com/jamjamjon/usls) <img src="https://img.shields.io/github/stars/jamjamjon/usls?style=social"/> : A Rust library integrated with ONNXRuntime, providing a collection of Computer Vison and Vision-Language models.
+    
     - [ptaxom/pnn](https://github.com/ptaxom/pnn) <img src="https://img.shields.io/github/stars/ptaxom/pnn?style=social"/> : pnn is [Darknet](https://github.com/alexeyAB/darknet) compatible neural nets inference engine implemented in Rust. By optimizing was achieved significant performance increment(especially in FP16 mode). pnn provide CUDNN-based and TensorRT-based inference engines.
 
     - [bencevans/rust-opencv-yolov5](https://github.com/bencevans/rust-opencv-yolov5) <img src="https://img.shields.io/github/stars/bencevans/rust-opencv-yolov5?style=social"/> : YOLOv5 Inference with ONNX & OpenCV in Rust.
